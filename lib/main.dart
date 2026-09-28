@@ -18,7 +18,70 @@ class LanguageGate extends StatelessWidget{
 }
 class HomeScreen extends StatelessWidget{
   const HomeScreen({super.key,required this.locale,required this.changeLanguage}); final Locale locale; final VoidCallback changeLanguage;
-  @override Widget build(BuildContext context){final ar=locale.languageCode=='ar';return Directionality(textDirection:ar?TextDirection.rtl:TextDirection.ltr,child:Scaffold(appBar:AppBar(backgroundColor:Colors.transparent,title:Text(ar?'جاهز للتحدي؟':'Ready to challenge?'),actions:[IconButton(onPressed:changeLanguage,icon:const Icon(Icons.language_rounded))]),body:ListView(padding:const EdgeInsets.all(20),children:[Container(padding:const EdgeInsets.all(22),decoration:BoxDecoration(borderRadius:BorderRadius.circular(28),gradient:const LinearGradient(colors:[Color(0xFF6C4DFF),Color(0xFF241B60)])),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(ar?'أول لعبة علينا 🎁':'Your first game is on us 🎁',style:const TextStyle(fontSize:25,fontWeight:FontWeight.w900)),const SizedBox(height:8),Text(ar?'اختاروا الفئات وبعدها اختاروا السؤال والنقاط بأنفسكم.':'Choose categories, then choose the category and points yourselves.'),const SizedBox(height:20),FilledButton.icon(onPressed:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>CategoryScreen(ar:ar))),icon:const Icon(Icons.play_arrow_rounded),label:Text(ar?'كوّن لعبتك':'Build your game'))])),const SizedBox(height:28),Text(ar?'كل سؤال يغيّر المواجهة.':'Every question can change the game.',style:const TextStyle(fontSize:24,fontWeight:FontWeight.w900)),const SizedBox(height:7),Text(ar?'اختاروا بذكاء، اجمعوا النقاط، ولا تعطون خصمكم فرصة يسرقها.':'Choose wisely, collect points, and don’t give your rivals a chance to steal them.',style:const TextStyle(fontSize:15,height:1.5,color:Colors.white70)),const SizedBox(height:18),Row(children:[Expanded(child:_HomeFeature(icon:Icons.timer_outlined,title:ar?'60 ثانية':'60 seconds',subtitle:ar?'جاوب قبل انتهاء الوقت':'Answer before time runs out')),const SizedBox(width:10),Expanded(child:_HomeFeature(icon:Icons.bolt_rounded,title:ar?'سرقة النقاط':'Steal points',subtitle:ar?'15 ثانية تقلب النتيجة':'15 seconds can flip the score'))]),const SizedBox(height:10),Container(padding:const EdgeInsets.symmetric(horizontal:18,vertical:17),decoration:BoxDecoration(color:const Color(0xFF151721),borderRadius:BorderRadius.circular(20),border:Border.all(color:Colors.white12)),child:Row(children:[const Icon(Icons.groups_2_rounded,size:31,color:Color(0xFFD3A52F)),const SizedBox(width:14),Expanded(child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(ar?'فريق ضد فريق':'Team vs Team',style:const TextStyle(fontSize:17,fontWeight:FontWeight.w900)),const SizedBox(height:3),Text(ar?'200 • 400 • 600 — أنتم تختارون طريق الفوز.':'200 • 400 • 600 — you choose your path to victory.',style:const TextStyle(fontSize:13,color:Colors.white60))]))]))]))));}
+  @override
+  Widget build(BuildContext context) {
+    final ar = locale.languageCode == 'ar';
+    return Directionality(
+      textDirection: ar ? TextDirection.rtl : TextDirection.ltr,
+      child: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Colors.transparent,
+          title: Text(ar ? 'جاهز للتحدي؟' : 'Ready to challenge?'),
+          actions: [IconButton(onPressed: changeLanguage, icon: const Icon(Icons.language_rounded))],
+        ),
+        body: ListView(
+          padding: const EdgeInsets.all(20),
+          children: [
+            Container(
+              padding: const EdgeInsets.all(22),
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(28),
+                gradient: const LinearGradient(colors: [Color(0xFF6C4DFF), Color(0xFF241B60)]),
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(ar ? 'أول لعبة علينا 🎁' : 'Your first game is on us 🎁', style: const TextStyle(fontSize:25,fontWeight:FontWeight.w900)),
+                  const SizedBox(height:8),
+                  Text(ar ? 'اختاروا الفئات وبعدها اختاروا السؤال والنقاط بأنفسكم.' : 'Choose categories, then choose the category and points yourselves.'),
+                  const SizedBox(height:20),
+                  FilledButton.icon(
+                    onPressed:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>CategoryScreen(ar:ar))),
+                    icon:const Icon(Icons.play_arrow_rounded),
+                    label:Text(ar?'كوّن لعبتك':'Build your game'),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height:28),
+            Text(ar?'كل سؤال يغيّر المواجهة.':'Every question can change the game.',style:const TextStyle(fontSize:24,fontWeight:FontWeight.w900)),
+            const SizedBox(height:7),
+            Text(ar?'اختاروا بذكاء، اجمعوا النقاط، ولا تعطون خصمكم فرصة يسرقها.':'Choose wisely, collect points, and don’t give your rivals a chance to steal them.',style:const TextStyle(fontSize:15,height:1.5,color:Colors.white70)),
+            const SizedBox(height:18),
+            Row(children:[
+              Expanded(child:_HomeFeature(icon:Icons.timer_outlined,title:ar?'60 ثانية':'60 seconds',subtitle:ar?'جاوب قبل انتهاء الوقت':'Answer before time runs out')),
+              const SizedBox(width:10),
+              Expanded(child:_HomeFeature(icon:Icons.bolt_rounded,title:ar?'سرقة النقاط':'Steal points',subtitle:ar?'15 ثانية تقلب النتيجة':'15 seconds can flip the score')),
+            ]),
+            const SizedBox(height:10),
+            Container(
+              padding:const EdgeInsets.symmetric(horizontal:18,vertical:17),
+              decoration:BoxDecoration(color:const Color(0xFF151721),borderRadius:BorderRadius.circular(20),border:Border.all(color:Colors.white12)),
+              child:Row(children:[
+                const Icon(Icons.groups_2_rounded,size:31,color:Color(0xFFD3A52F)),
+                const SizedBox(width:14),
+                Expanded(child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[
+                  Text(ar?'فريق ضد فريق':'Team vs Team',style:const TextStyle(fontSize:17,fontWeight:FontWeight.w900)),
+                  const SizedBox(height:3),
+                  Text(ar?'200 • 400 • 600 — أنتم تختارون طريق الفوز.':'200 • 400 • 600 — you choose your path to victory.',style:const TextStyle(fontSize:13,color:Colors.white60)),
+                ])),
+              ]),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
 }
 class _HomeFeature extends StatelessWidget{const _HomeFeature({required this.icon,required this.title,required this.subtitle});final IconData icon;final String title,subtitle;@override Widget build(BuildContext context)=>Container(height:142,padding:const EdgeInsets.all(16),decoration:BoxDecoration(color:const Color(0xFF151721),borderRadius:BorderRadius.circular(22),border:Border.all(color:Colors.white12)),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Icon(icon,color:const Color(0xFFD3A52F),size:27),const Spacer(),Text(title,style:const TextStyle(fontSize:16,fontWeight:FontWeight.w900)),const SizedBox(height:4),Text(subtitle,maxLines:2,style:const TextStyle(fontSize:12,height:1.25,color:Colors.white54))]));}
 class CategoryScreen extends StatefulWidget{const CategoryScreen({super.key,required this.ar});final bool ar;@override State<CategoryScreen> createState()=>_CategoryScreenState();}
