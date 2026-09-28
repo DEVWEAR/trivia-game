@@ -1,0 +1,11 @@
+{
+  "name": "Trivia Game",
+  "short_name": "Trivia",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080A14",
+  "theme_color": "#080A14",
+  "description": "Original Arabic and English social trivia game",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
