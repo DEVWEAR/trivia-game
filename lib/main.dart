@@ -4,231 +4,105 @@ void main() => runApp(const TriviaGameApp());
 
 class TriviaGameApp extends StatefulWidget {
   const TriviaGameApp({super.key});
-
-  @override
-  State<TriviaGameApp> createState() => _TriviaGameAppState();
+  @override State<TriviaGameApp> createState() => _TriviaGameAppState();
 }
 
 class _TriviaGameAppState extends State<TriviaGameApp> {
-  Locale? _locale;
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Trivia Game',
-      theme: ThemeData(
-        useMaterial3: true,
-        brightness: Brightness.dark,
-        scaffoldBackgroundColor: const Color(0xFF090B16),
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF7C5CFF),
-          brightness: Brightness.dark,
-        ),
-      ),
-      home: _locale == null
-          ? LanguageGate(onSelected: (locale) => setState(() => _locale = locale))
-          : HomeScreen(
-              locale: _locale!,
-              onChangeLanguage: () => setState(() => _locale = null),
-            ),
-    );
-  }
+  Locale? locale;
+  @override Widget build(BuildContext context) => MaterialApp(
+    debugShowCheckedModeBanner: false,
+    theme: ThemeData(useMaterial3: true, brightness: Brightness.dark, scaffoldBackgroundColor: const Color(0xFF080A14), colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF775BFF), brightness: Brightness.dark)),
+    home: locale == null ? LanguageGate(onSelected: (v) => setState(() => locale = v)) : HomeScreen(locale: locale!, changeLanguage: () => setState(() => locale = null)),
+  );
 }
 
 class LanguageGate extends StatelessWidget {
   const LanguageGate({super.key, required this.onSelected});
   final ValueChanged<Locale> onSelected;
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: SafeArea(
-        child: Padding(
-          padding: const EdgeInsets.all(24),
-          child: Column(
-            children: [
-              const Spacer(),
-              Container(
-                width: 92,
-                height: 92,
-                decoration: BoxDecoration(
-                  borderRadius: BorderRadius.circular(28),
-                  gradient: const LinearGradient(
-                    colors: [Color(0xFF7C5CFF), Color(0xFF25D9D0)],
-                  ),
-                ),
-                child: const Icon(Icons.bolt_rounded, size: 54, color: Colors.white),
-              ),
-              const SizedBox(height: 28),
-              const Text(
-                'اختر لغتك  •  Choose your language',
-                textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 25, fontWeight: FontWeight.w800),
-              ),
-              const SizedBox(height: 10),
-              Text(
-                'يمكنك تغييرها لاحقاً  •  You can change it later',
-                textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.white.withValues(alpha: .6)),
-              ),
-              const SizedBox(height: 38),
-              _LanguageCard(
-                flag: '🇦🇪',
-                title: 'العربية',
-                subtitle: 'ابدأ اللعب بالعربي',
-                onTap: () => onSelected(const Locale('ar')),
-              ),
-              const SizedBox(height: 14),
-              _LanguageCard(
-                flag: '🇬🇧',
-                title: 'English',
-                subtitle: 'Play in English',
-                onTap: () => onSelected(const Locale('en')),
-              ),
-              const Spacer(),
-              const Text('Original social trivia • 200 / 400 / 600'),
-              const SizedBox(height: 12),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
+  @override Widget build(BuildContext context) => Scaffold(body: SafeArea(child: Padding(padding: const EdgeInsets.all(24), child: Column(children: [
+    const Spacer(),
+    Container(width: 92, height: 92, decoration: BoxDecoration(borderRadius: BorderRadius.circular(28), gradient: const LinearGradient(colors: [Color(0xFF775BFF), Color(0xFF23D7CF)])), child: const Icon(Icons.bolt_rounded, size: 54)),
+    const SizedBox(height: 28),
+    const Text('اختر لغتك  •  Choose your language', textAlign: TextAlign.center, style: TextStyle(fontSize: 25, fontWeight: FontWeight.w900)),
+    const SizedBox(height: 36),
+    LanguageCard(flag: '🇦🇪', title: 'العربية', subtitle: 'ابدأ اللعب بالعربي', tap: () => onSelected(const Locale('ar'))),
+    const SizedBox(height: 14),
+    LanguageCard(flag: '🇬🇧', title: 'English', subtitle: 'Play in English', tap: () => onSelected(const Locale('en'))),
+    const Spacer(), const Text('200  •  400  •  600'), const SizedBox(height: 12)
+  ]))));
 }
 
-class _LanguageCard extends StatelessWidget {
-  const _LanguageCard({required this.flag, required this.title, required this.subtitle, required this.onTap});
-  final String flag;
-  final String title;
-  final String subtitle;
-  final VoidCallback onTap;
-
-  @override
-  Widget build(BuildContext context) {
-    return InkWell(
-      borderRadius: BorderRadius.circular(22),
-      onTap: onTap,
-      child: Ink(
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 18),
-        decoration: BoxDecoration(
-          color: Colors.white.withValues(alpha: .06),
-          borderRadius: BorderRadius.circular(22),
-          border: Border.all(color: Colors.white.withValues(alpha: .10)),
-        ),
-        child: Row(
-          children: [
-            Text(flag, style: const TextStyle(fontSize: 34)),
-            const SizedBox(width: 16),
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(title, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800)),
-                  const SizedBox(height: 3),
-                  Text(subtitle, style: TextStyle(color: Colors.white.withValues(alpha: .55))),
-                ],
-              ),
-            ),
-            const Icon(Icons.arrow_forward_ios_rounded, size: 17),
-          ],
-        ),
-      ),
-    );
-  }
+class LanguageCard extends StatelessWidget {
+  const LanguageCard({super.key, required this.flag, required this.title, required this.subtitle, required this.tap});
+  final String flag, title, subtitle; final VoidCallback tap;
+  @override Widget build(BuildContext context) => InkWell(onTap: tap, borderRadius: BorderRadius.circular(22), child: Ink(padding: const EdgeInsets.all(18), decoration: card(), child: Row(children: [Text(flag, style: const TextStyle(fontSize: 34)), const SizedBox(width: 16), Expanded(child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [Text(title, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800)), Text(subtitle, style: const TextStyle(color: Colors.white54))])), const Icon(Icons.arrow_forward_ios_rounded, size: 16)])));
 }
 
 class HomeScreen extends StatelessWidget {
-  const HomeScreen({super.key, required this.locale, required this.onChangeLanguage});
-  final Locale locale;
-  final VoidCallback onChangeLanguage;
-
-  @override
-  Widget build(BuildContext context) {
+  const HomeScreen({super.key, required this.locale, required this.changeLanguage});
+  final Locale locale; final VoidCallback changeLanguage;
+  @override Widget build(BuildContext context) {
     final ar = locale.languageCode == 'ar';
-    return Directionality(
-      textDirection: ar ? TextDirection.rtl : TextDirection.ltr,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Colors.transparent,
-          title: Text(ar ? 'جاهز للتحدي؟' : 'Ready to challenge?'),
-          actions: [
-            IconButton(onPressed: onChangeLanguage, icon: const Icon(Icons.language_rounded)),
-          ],
-        ),
-        body: ListView(
-          padding: const EdgeInsets.all(20),
-          children: [
-            Container(
-              padding: const EdgeInsets.all(22),
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(28),
-                gradient: const LinearGradient(colors: [Color(0xFF6B4EFF), Color(0xFF2A1E68)]),
-              ),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(ar ? 'أول لعبة علينا 🎁' : 'Your first game is on us 🎁',
-                      style: const TextStyle(fontSize: 24, fontWeight: FontWeight.w900)),
-                  const SizedBox(height: 8),
-                  Text(ar ? 'اختر فئاتك، كوّن فريقين وابدأ.' : 'Pick categories, make two teams, and play.'),
-                  const SizedBox(height: 22),
-                  FilledButton.icon(
-                    onPressed: () {},
-                    icon: const Icon(Icons.play_arrow_rounded),
-                    label: Text(ar ? 'ابدأ لعبة' : 'Start game'),
-                  ),
-                ],
-              ),
-            ),
-            const SizedBox(height: 24),
-            Text(ar ? 'فئات مقترحة' : 'Featured categories', style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800)),
-            const SizedBox(height: 12),
-            const Wrap(
-              spacing: 10,
-              runSpacing: 10,
-              children: [
-                _CategoryChip('🇦🇪', 'UAE', '100/100'),
-                _CategoryChip('⚽', 'Football', '100/100'),
-                _CategoryChip('🐆', 'Animals', '100/100'),
-                _CategoryChip('🌍', 'World', '100/100'),
-                _CategoryChip('🎮', 'Gaming', '100/100'),
-                _CategoryChip('🧠', 'Brain', '100/100'),
-              ],
-            ),
-          ],
-        ),
-      ),
-    );
+    return Directionality(textDirection: ar ? TextDirection.rtl : TextDirection.ltr, child: Scaffold(
+      appBar: AppBar(backgroundColor: Colors.transparent, title: Text(ar ? 'جاهز للتحدي؟' : 'Ready to challenge?'), actions: [IconButton(onPressed: changeLanguage, icon: const Icon(Icons.language_rounded))]),
+      body: ListView(padding: const EdgeInsets.all(20), children: [
+        Container(padding: const EdgeInsets.all(22), decoration: BoxDecoration(borderRadius: BorderRadius.circular(28), gradient: const LinearGradient(colors: [Color(0xFF6C4DFF), Color(0xFF241B60)])), child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Text(ar ? 'أول لعبة علينا 🎁' : 'Your first game is on us 🎁', style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w900)),
+          const SizedBox(height: 8), Text(ar ? 'كل سؤال تشوفه ينحذف من رصيد فئتك للأبد.' : 'Every question you see is retired from your account forever.'),
+          const SizedBox(height: 20), FilledButton.icon(onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (_) => CategoryScreen(ar: ar))), icon: const Icon(Icons.play_arrow_rounded), label: Text(ar ? 'كوّن لعبتك' : 'Build your game'))
+        ])),
+        const SizedBox(height: 22),
+        Row(children: [Expanded(child: Stat(title: ar ? 'اللعبة الواحدة' : 'Single game', value: '9.99 AED')), const SizedBox(width: 10), Expanded(child: Stat(title: ar ? 'باقة 7 ألعاب' : '7-game pack', value: '49.99 AED'))]),
+        const SizedBox(height: 25), Text(ar ? 'اكتشف الفئات' : 'Discover categories', style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800)),
+        const SizedBox(height: 12), const Wrap(spacing: 10, runSpacing: 10, children: [CategoryMini('🇦🇪','UAE'), CategoryMini('⚽','Football'), CategoryMini('🐆','Animals'), CategoryMini('🌍','World'), CategoryMini('🎮','Gaming'), CategoryMini('🎬','Cinema')])
+      ])));
   }
 }
 
-class _CategoryChip extends StatelessWidget {
-  const _CategoryChip(this.emoji, this.title, this.remaining);
-  final String emoji;
-  final String title;
-  final String remaining;
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 160,
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        color: Colors.white.withValues(alpha: .055),
-        borderRadius: BorderRadius.circular(20),
-        border: Border.all(color: Colors.white.withValues(alpha: .08)),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text(emoji, style: const TextStyle(fontSize: 28)),
-          const SizedBox(height: 12),
-          Text(title, style: const TextStyle(fontWeight: FontWeight.w800)),
-          const SizedBox(height: 4),
-          Text(remaining, style: const TextStyle(color: Color(0xFF8FE8DF))),
-        ],
-      ),
-    );
+class CategoryScreen extends StatefulWidget {
+  const CategoryScreen({super.key, required this.ar}); final bool ar;
+  @override State<CategoryScreen> createState() => _CategoryScreenState();
+}
+class _CategoryScreenState extends State<CategoryScreen> {
+  final selected = <int>{};
+  final cats = const [
+    ['🇦🇪','الإمارات','UAE'], ['⚽','كرة القدم','Football'], ['🐆','الحيوانات','Animals'], ['🌍','حول العالم','Around the World'], ['🎮','الألعاب','Gaming'], ['🎬','السينما','Cinema'], ['🏎️','السيارات','Cars'], ['🧠','ألغاز','Brain'], ['🚀','الفضاء','Space'], ['🍜','الأكل','Food'], ['🏛️','التاريخ','History'], ['🎵','الموسيقى','Music']
+  ];
+  @override Widget build(BuildContext context) {
+    final ar = widget.ar;
+    return Directionality(textDirection: ar ? TextDirection.rtl : TextDirection.ltr, child: Scaffold(
+      appBar: AppBar(backgroundColor: Colors.transparent, title: Text(ar ? 'اصنع المواجهة' : 'Build the showdown')),
+      body: Column(children: [
+        Padding(padding: const EdgeInsets.fromLTRB(20, 4, 20, 14), child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Text(ar ? 'اختر 6 فئات' : 'Choose 6 categories', style: const TextStyle(fontSize: 27, fontWeight: FontWeight.w900)),
+          const SizedBox(height: 5), Text(ar ? '${selected.length}/6 مختارة • كل فئة تسحب 6 أسئلة جديدة' : '${selected.length}/6 selected • each category uses 6 fresh questions', style: const TextStyle(color: Colors.white60)),
+          const SizedBox(height: 12), LinearProgressIndicator(value: selected.length / 6, minHeight: 7, borderRadius: BorderRadius.circular(20))
+        ])),
+        Expanded(child: GridView.builder(padding: const EdgeInsets.symmetric(horizontal: 20), gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, childAspectRatio: 1.12, crossAxisSpacing: 12, mainAxisSpacing: 12), itemCount: cats.length, itemBuilder: (_, i) {
+          final on = selected.contains(i); final c = cats[i];
+          return InkWell(onTap: () => setState(() { if (on) selected.remove(i); else if (selected.length < 6) selected.add(i); }), borderRadius: BorderRadius.circular(24), child: AnimatedContainer(duration: const Duration(milliseconds: 180), padding: const EdgeInsets.all(16), decoration: BoxDecoration(color: on ? const Color(0xFF6D52E8).withValues(alpha:.30) : Colors.white.withValues(alpha:.05), borderRadius: BorderRadius.circular(24), border: Border.all(color: on ? const Color(0xFF8E7AFF) : Colors.white10, width: on ? 2 : 1)), child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [Text(c[0], style: const TextStyle(fontSize: 30)), if(on) const Icon(Icons.check_circle_rounded, color: Color(0xFF8FE8DF))]),
+            const Spacer(), Text(ar ? c[1] : c[2], style: const TextStyle(fontSize: 17, fontWeight: FontWeight.w800)), const SizedBox(height: 4), const Text('100 / 100', style: TextStyle(color: Color(0xFF8FE8DF), fontWeight: FontWeight.w700)),
+            const SizedBox(height: 8), Row(children: [for(final p in ['200','400','600']) Expanded(child: Container(margin: const EdgeInsetsDirectional.only(end: 4), padding: const EdgeInsets.symmetric(vertical: 4), alignment: Alignment.center, decoration: BoxDecoration(color: Colors.white.withValues(alpha:.06), borderRadius: BorderRadius.circular(8)), child: Text(p, style: const TextStyle(fontSize: 10))))])
+          ])));
+        })),
+        SafeArea(top:false, child: Padding(padding: const EdgeInsets.all(20), child: SizedBox(width: double.infinity, height: 56, child: FilledButton(onPressed: selected.length == 6 ? () => Navigator.push(context, MaterialPageRoute(builder: (_) => TeamSetup(ar: ar))) : null, child: Text(ar ? 'التالي • جهّز الفريقين' : 'Next • Set up teams', style: const TextStyle(fontWeight: FontWeight.w800))))))
+      ])));
   }
 }
+
+class TeamSetup extends StatefulWidget { const TeamSetup({super.key, required this.ar}); final bool ar; @override State<TeamSetup> createState()=>_TeamSetupState(); }
+class _TeamSetupState extends State<TeamSetup> {
+  final a = TextEditingController(), b = TextEditingController();
+  @override Widget build(BuildContext context) { final ar=widget.ar; return Directionality(textDirection: ar?TextDirection.rtl:TextDirection.ltr, child: Scaffold(appBar: AppBar(backgroundColor:Colors.transparent), body:Padding(padding:const EdgeInsets.all(22), child:Column(crossAxisAlignment:CrossAxisAlignment.start, children:[
+    Text(ar?'سمّوا الفريقين':'Name your teams', style:const TextStyle(fontSize:29,fontWeight:FontWeight.w900)), const SizedBox(height:8), Text(ar?'المواجهة جاهزة. عطوا كل فريق اسم يليق فيه.':'The showdown is ready. Give each team a name.', style:const TextStyle(color:Colors.white60)), const SizedBox(height:30),
+    TeamField(controller:a, icon:'⚡', label:ar?'الفريق الأول':'Team One'), const SizedBox(height:14), TeamField(controller:b, icon:'🔥', label:ar?'الفريق الثاني':'Team Two'), const Spacer(),
+    Container(padding:const EdgeInsets.all(16), decoration:card(), child:Row(children:[const Icon(Icons.auto_awesome_rounded,color:Color(0xFF8FE8DF)), const SizedBox(width:12), Expanded(child:Text(ar?'36 سؤال جديد • 6 فئات • مستويات 200 / 400 / 600':'36 fresh questions • 6 categories • 200 / 400 / 600'))])), const SizedBox(height:16),
+    SizedBox(width:double.infinity,height:58,child:FilledButton(onPressed:(){},child:Text(ar?'ابدأ المواجهة':'Start the showdown',style:const TextStyle(fontSize:17,fontWeight:FontWeight.w900))))
+  ])))); }
+}
+
+class TeamField extends StatelessWidget { const TeamField({super.key,required this.controller,required this.icon,required this.label}); final TextEditingController controller; final String icon,label; @override Widget build(BuildContext context)=>TextField(controller:controller, decoration:InputDecoration(prefixIcon:Center(widthFactor:1.5,child:Text(icon,style:const TextStyle(fontSize:25))), labelText:label, filled:true, fillColor:Colors.white.withValues(alpha:.05), border:OutlineInputBorder(borderRadius:BorderRadius.circular(20),borderSide:BorderSide.none))); }
+class Stat extends StatelessWidget { const Stat({super.key,required this.title,required this.value}); final String title,value; @override Widget build(BuildContext context)=>Container(padding:const EdgeInsets.all(15),decoration:card(),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(title,style:const TextStyle(color:Colors.white60)),const SizedBox(height:5),Text(value,style:const TextStyle(fontWeight:FontWeight.w900,fontSize:17))])); }
+class CategoryMini extends StatelessWidget { const CategoryMini(this.e,this.t,{super.key}); final String e,t; @override Widget build(BuildContext context)=>Container(width:155,padding:const EdgeInsets.all(15),decoration:card(),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(e,style:const TextStyle(fontSize:27)),const SizedBox(height:8),Text(t,style:const TextStyle(fontWeight:FontWeight.w800)),const SizedBox(height:3),const Text('100/100',style:TextStyle(color:Color(0xFF8FE8DF))) ])); }
+BoxDecoration card()=>BoxDecoration(color:Colors.white.withValues(alpha:.055),borderRadius:BorderRadius.circular(20),border:Border.all(color:Colors.white.withValues(alpha:.09)));
