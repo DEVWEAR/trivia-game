@@ -30,8 +30,7 @@ class _TriviaBoardScreenState extends State<TriviaBoardScreen>{
   @override Widget build(BuildContext context){final ar=widget.ar;return Directionality(textDirection:ar?TextDirection.rtl:TextDirection.ltr,child:Scaffold(appBar:AppBar(toolbarHeight:44,backgroundColor:Colors.transparent,title:Text(ar?'لوحة المواجهة':'Showdown Board',style:const TextStyle(fontWeight:FontWeight.w900))),body:SafeArea(child:LayoutBuilder(builder:(context,box){final wide=box.maxWidth>box.maxHeight;return Padding(padding:const EdgeInsets.fromLTRB(14,2,14,12),child:Column(children:[Row(children:[Expanded(child:_score(widget.teamA,scoreA,turn==0)),const SizedBox(width:8),Expanded(flex:2,child:Text(ar?'الدور على ${turn==0?widget.teamA:widget.teamB} • اختاروا الفئة والنقاط':'${turn==0?widget.teamA:widget.teamB} turn • choose category and points',textAlign:TextAlign.center,maxLines:2,style:const TextStyle(fontSize:14,fontWeight:FontWeight.w800))),const SizedBox(width:8),Expanded(child:_score(widget.teamB,scoreB,turn==1))]),const SizedBox(height:10),Expanded(child:wide?_wideBoard():_portraitBoard())]));}))));}
   Widget _wideBoard()=>Row(crossAxisAlignment:CrossAxisAlignment.stretch,children:[for(int i=0;i<cats.length;i++)...[if(i>0)const SizedBox(width:12),Expanded(child:_categoryCard(cats[i],compact:false))]]);
   Widget _portraitBoard()=>ListView.separated(itemCount:cats.length,separatorBuilder:(_,__)=>const SizedBox(height:10),itemBuilder:(_,i)=>SizedBox(height:210,child:_categoryCard(cats[i],compact:true)));
-  Widget _score(String name,int score,bool active)=>AnimatedContainer(duration:const Duration(milliseconds:180),padding:const EdgeInsets.symmetric(horizontal:10,vertical:7),decoration:BoxDecoration(gradient:active?const LinearGradient(colors:[Color(0xFF6D52E8),Color(0xFF4330A7)]):null,color:active?null:const Color(0xFF171923),borderRadius:BorderRadius.circular(14),border:Border.all(color:active?const Color(0xFF9C8CFF):Colors.white12)),child:Row(mainAxisAlignment:MainAxisAlignment.center,children:[Flexible(child:Text(name,maxLines:1,overflow:TextOverflow.ellipsis,style:const TextStyle(fontSize:13,fontWeight:FontWeight.w800))),const SizedBox(width:7),Text('$score',style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900))]));
-  Color _pointColor(int p)=>p==200?const Color(0xFF159C93):p==400?const Color(0xFF5C4ED8):const Color(0xFFB86B24);
+  Widget _score(String name,int score,bool active)=>AnimatedContainer(duration:const Duration(milliseconds:180),padding:const EdgeInsets.symmetric(horizontal:10,vertical:7),decoration:BoxDecoration(color:const Color(0xFFD3A52F),borderRadius:BorderRadius.circular(14),border:Border.all(color:active?const Color(0xFFFFD866):const Color(0xFFB88A20),width:active?2:1)),child:Row(mainAxisAlignment:MainAxisAlignment.center,children:[Flexible(child:Text(name,maxLines:1,overflow:TextOverflow.ellipsis,style:const TextStyle(fontSize:13,fontWeight:FontWeight.w900,color:Colors.white))),const SizedBox(width:7),Text('$score',style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900,color:Colors.white))]));
   Widget _categoryCard(BoardCategory c,{required bool compact}){
     final list=slots[c.id]!;
     return Container(
@@ -42,7 +41,7 @@ class _TriviaBoardScreenState extends State<TriviaBoardScreen>{
         border:Border.all(color:Colors.white12),
       ),
       child:Column(children:[
-        Text(widget.ar?c.ar:c.en,textAlign:TextAlign.center,maxLines:1,overflow:TextOverflow.ellipsis,style:TextStyle(fontSize:compact?18:20,fontWeight:FontWeight.w900)),
+        Text(widget.ar?c.ar:c.en,textAlign:TextAlign.center,maxLines:1,overflow:TextOverflow.ellipsis,style:TextStyle(fontSize:compact?18:20,fontWeight:FontWeight.w900,color:Colors.white)),
         const SizedBox(height:10),
         Expanded(
           child:GridView.builder(
@@ -58,13 +57,13 @@ class _TriviaBoardScreenState extends State<TriviaBoardScreen>{
                   borderRadius:BorderRadius.circular(13),
                   child:Ink(
                     decoration:BoxDecoration(
-                      color:s.used?const Color(0xFF252733):_pointColor(s.points),
+                      color:s.used?const Color(0xFF1D1F26):const Color(0xFF353840),
                       borderRadius:BorderRadius.circular(13),
-                      boxShadow:s.used?null:[BoxShadow(color:_pointColor(s.points).withValues(alpha:.20),blurRadius:10,offset:const Offset(0,4))],
+                      border:Border.all(color:s.used?Colors.white10:const Color(0xFF50535D)),
                     ),
                     child:Center(
                       child:s.used
-                        ?const Icon(Icons.check_rounded,size:22,color:Colors.white38)
+                        ?const Icon(Icons.check_rounded,size:22,color:Colors.white30)
                         :FittedBox(fit:BoxFit.scaleDown,child:Padding(padding:const EdgeInsets.symmetric(horizontal:6),child:Text('${s.points}',maxLines:1,style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900,color:Colors.white)))),
                     ),
                   ),
