@@ -28,7 +28,7 @@ class _TriviaBoardScreenState extends State<TriviaBoardScreen>{
   Widget _categoryCard(BoardCategory c,{required bool compact}){
     final list=slots[c.id]!;
     BoardSlot? slot(int p,int occurrence){final matches=list.where((s)=>s.points==p).toList();return occurrence<matches.length?matches[occurrence]:null;}
-    Widget point(BoardSlot? s){if(s==null)return const SizedBox();return Material(color:Colors.transparent,child:InkWell(onTap:s.used?null:()=>_open(s),borderRadius:BorderRadius.circular(13),child:Ink(decoration:BoxDecoration(color:s.used?const Color(0xFF1D1F26):const Color(0xFF353840),borderRadius:BorderRadius.circular(13),border:Border.all(color:s.used?Colors.white10:const Color(0xFF50535D))),child:Center(child:s.used?const Icon(Icons.check_rounded,size:22,color:Colors.white30):Text('${s.points}',style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900,color:Colors.white))))));}
+    Widget point(BoardSlot? s){if(s==null)return const SizedBox();return Material(color:Colors.transparent,child:InkWell(onTap:s.used?null:()=>_open(s),borderRadius:BorderRadius.circular(13),child:Ink(decoration:BoxDecoration(color:s.used?const Color(0xFF1D1F26):const Color(0xFF6C4DFF),borderRadius:BorderRadius.circular(13),border:Border.all(color:s.used?Colors.white10:const Color(0xFF8B78FF))),child:Center(child:s.used?const Icon(Icons.check_rounded,size:22,color:Colors.white30):Text('${s.points}',style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900,color:Colors.white))))));}
     Widget pointColumn(int p)=>Expanded(child:Column(children:[Expanded(child:point(slot(p,0))),const SizedBox(height:8),Expanded(child:point(slot(p,1)))]));
     return Container(
       padding:const EdgeInsets.all(13),
