@@ -32,7 +32,50 @@ class _TriviaBoardScreenState extends State<TriviaBoardScreen>{
   Widget _portraitBoard()=>ListView.separated(itemCount:cats.length,separatorBuilder:(_,__)=>const SizedBox(height:10),itemBuilder:(_,i)=>SizedBox(height:210,child:_categoryCard(cats[i],compact:true)));
   Widget _score(String name,int score,bool active)=>AnimatedContainer(duration:const Duration(milliseconds:180),padding:const EdgeInsets.symmetric(horizontal:10,vertical:7),decoration:BoxDecoration(gradient:active?const LinearGradient(colors:[Color(0xFF6D52E8),Color(0xFF4330A7)]):null,color:active?null:const Color(0xFF171923),borderRadius:BorderRadius.circular(14),border:Border.all(color:active?const Color(0xFF9C8CFF):Colors.white12)),child:Row(mainAxisAlignment:MainAxisAlignment.center,children:[Flexible(child:Text(name,maxLines:1,overflow:TextOverflow.ellipsis,style:const TextStyle(fontSize:13,fontWeight:FontWeight.w800))),const SizedBox(width:7),Text('$score',style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900))]));
   Color _pointColor(int p)=>p==200?const Color(0xFF159C93):p==400?const Color(0xFF5C4ED8):const Color(0xFFB86B24);
-  Widget _categoryCard(BoardCategory c,{required bool compact}){final list=slots[c.id]!;return Container(padding:const EdgeInsets.all(13),decoration:BoxDecoration(gradient:const LinearGradient(begin:Alignment.topLeft,end:Alignment.bottomRight,colors:[Color(0xFF171925),Color(0xFF10121B)]),borderRadius:BorderRadius.circular(20),border:Border.all(color:Colors.white12)),child:Column(children:[Text(widget.ar?c.ar:c.en,textAlign:TextAlign.center,maxLines:1,overflow:TextOverflow.ellipsis,style:TextStyle(fontSize:compact?18:20,fontWeight:FontWeight.w900)),const SizedBox(height:10),Expanded(child:GridView.builder(physics:const NeverScrollableScrollPhysics(),itemCount:list.length,gridDelegate:SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount:3,childAspectRatio:compact?2.15:2.3,crossAxisSpacing:8,mainAxisSpacing:8),itemBuilder:(_,i){final s=list[i];return Material(color:Colors.transparent,child:InkWell(onTap:s.used?null:()=>_open(s),borderRadius:BorderRadius.circular(13),child:Ink(decoration:BoxDecoration(color:s.used?const Color(0xFF252733):_pointColor(s.points),borderRadius:BorderRadius.circular(13),boxShadow:s.used?null:[BoxShadow(color:_pointColor(s.points).withValues(alpha:.20),blurRadius:10,offset:const Offset(0,4))]),child:Center(child:s.used?const Icon(Icons.check_rounded,size:22,color:Colors.white38):FittedBox(fit:BoxFit.scaleDown,child:Padding(padding:const EdgeInsets.symmetric(horizontal:6),child:Text('${s.points}',maxLines:1,style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900,color:Colors.white))))))))})),]));}
+  Widget _categoryCard(BoardCategory c,{required bool compact}){
+    final list=slots[c.id]!;
+    return Container(
+      padding:const EdgeInsets.all(13),
+      decoration:BoxDecoration(
+        gradient:const LinearGradient(begin:Alignment.topLeft,end:Alignment.bottomRight,colors:[Color(0xFF171925),Color(0xFF10121B)]),
+        borderRadius:BorderRadius.circular(20),
+        border:Border.all(color:Colors.white12),
+      ),
+      child:Column(children:[
+        Text(widget.ar?c.ar:c.en,textAlign:TextAlign.center,maxLines:1,overflow:TextOverflow.ellipsis,style:TextStyle(fontSize:compact?18:20,fontWeight:FontWeight.w900)),
+        const SizedBox(height:10),
+        Expanded(
+          child:GridView.builder(
+            physics:const NeverScrollableScrollPhysics(),
+            itemCount:list.length,
+            gridDelegate:SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount:3,childAspectRatio:compact?2.15:2.3,crossAxisSpacing:8,mainAxisSpacing:8),
+            itemBuilder:(_,i){
+              final s=list[i];
+              return Material(
+                color:Colors.transparent,
+                child:InkWell(
+                  onTap:s.used?null:()=>_open(s),
+                  borderRadius:BorderRadius.circular(13),
+                  child:Ink(
+                    decoration:BoxDecoration(
+                      color:s.used?const Color(0xFF252733):_pointColor(s.points),
+                      borderRadius:BorderRadius.circular(13),
+                      boxShadow:s.used?null:[BoxShadow(color:_pointColor(s.points).withValues(alpha:.20),blurRadius:10,offset:const Offset(0,4))],
+                    ),
+                    child:Center(
+                      child:s.used
+                        ?const Icon(Icons.check_rounded,size:22,color:Colors.white38)
+                        :FittedBox(fit:BoxFit.scaleDown,child:Padding(padding:const EdgeInsets.symmetric(horizontal:6),child:Text('${s.points}',maxLines:1,style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900,color:Colors.white)))),
+                    ),
+                  ),
+                ),
+              );
+            },
+          ),
+        ),
+      ]),
+    );
+  }
   Future<void> _open(BoardSlot slot)async{final awarded=await Navigator.push<int?>(context,MaterialPageRoute(builder:(_)=>TimedQuestionScreen(ar:widget.ar,slot:slot,primaryTeam:turn,teamA:widget.teamA,teamB:widget.teamB)));if(!mounted||awarded==null)return;setState((){slot.used=true;if(awarded==0)scoreA+=slot.points;if(awarded==1)scoreB+=slot.points;turn=1-turn;});if(finished&&mounted){await showDialog(context:context,barrierDismissible:false,builder:(ctx)=>AlertDialog(title:Text(widget.ar?'انتهت المواجهة 🏆':'Showdown complete 🏆'),content:Text('${widget.teamA}: $scoreA\n${widget.teamB}: $scoreB'),actions:[FilledButton(onPressed:()=>Navigator.pop(ctx),child:Text(widget.ar?'تمام':'Done'))]));if(mounted){await SystemChrome.setPreferredOrientations(const[DeviceOrientation.portraitUp,DeviceOrientation.portraitDown]);if(mounted)Navigator.popUntil(context,(r)=>r.isFirst);}}}
 }
 
