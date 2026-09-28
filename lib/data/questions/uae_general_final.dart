@@ -2,7 +2,7 @@ import '../question_model.dart';
 import 'uae_general_questions.dart';
 import 'uae_general_questions_031_100.dart';
 
-// FINAL production UAE General bank — exactly 100 questions.
+// FINAL production UAE General bank — exactly 102 questions (17 full 6-question games).
 // QA 2026-09-28: repetitive fixed-line-code questions and duplicate/overly similar
 // Grand Mosque questions are excluded and replaced with verified heritage/culture questions.
 const _excludedIds = <String>{
@@ -30,4 +30,7 @@ final uaeGeneralFinalQuestions = <TriviaQuestion>[
   TriviaQuestion(id:'uae_general_084',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'قبل بناء أول جسر فوق خور دبي عام 1963، ما الوسيلة المستخدمة لعبور الخور؟',questionEn:'Before the first bridge over Dubai Creek was built in 1963, how was the creek crossed?',answerAr:'بالقوارب، ومنها العبرة',answerEn:'By boat, including abras',sourceName:'Visit Dubai – Dubai Creek facts',sourceUrl:'https://www.visitdubai.com/en/articles/things-you-didnt-know-about-dubai-creek',lastVerified:DateTime(2026,9,28)),
   TriviaQuestion(id:'uae_general_088',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'من صمم مبنى اللوفر أبوظبي؟',questionEn:'Who designed the Louvre Abu Dhabi building?',answerAr:'جان نوفيل',answerEn:'Jean Nouvel',sourceName:'Experience Abu Dhabi – Louvre Abu Dhabi',sourceUrl:'https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi',lastVerified:DateTime(2026,9,28)),
   TriviaQuestion(id:'uae_general_089',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'كم يبلغ قطر قبة اللوفر أبوظبي؟',questionEn:'What is the diameter of Louvre Abu Dhabi’s dome?',answerAr:'180 متراً',answerEn:'180 metres',sourceName:'Experience Abu Dhabi – Louvre Abu Dhabi',sourceUrl:'https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi',lastVerified:DateTime(2026,9,28)),
+
+  TriviaQuestion(id:'uae_general_101',categoryId:'uae_general',difficulty:QuestionDifficulty.easy200,questionAr:'في أي إمارة يقع متحف اللوفر أبوظبي؟',questionEn:'In which emirate is Louvre Abu Dhabi located?',answerAr:'أبوظبي',answerEn:'Abu Dhabi',sourceName:'Experience Abu Dhabi – Louvre Abu Dhabi',sourceUrl:'https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_102',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'ما اسم المهندس المعماري الفرنسي الحائز جائزة بريتزكر الذي صمم اللوفر أبوظبي؟',questionEn:'Which Pritzker Prize-winning French architect designed Louvre Abu Dhabi?',answerAr:'جان نوفيل',answerEn:'Jean Nouvel',sourceName:'Experience Abu Dhabi – Louvre Abu Dhabi',sourceUrl:'https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/louvre-abu-dhabi',lastVerified:DateTime(2026,9,28)),
 ];
