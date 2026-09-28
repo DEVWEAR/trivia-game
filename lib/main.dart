@@ -19,8 +19,38 @@ class LanguageGate extends StatelessWidget{
 }
 
 class HomeScreen extends StatelessWidget{
-  const HomeScreen({super.key,required this.locale,required this.changeLanguage}); final Locale locale; final VoidCallback changeLanguage;
-  @override Widget build(BuildContext context){final ar=locale.languageCode=='ar';return Directionality(textDirection:ar?TextDirection.rtl:TextDirection.ltr,child:Scaffold(appBar:AppBar(backgroundColor:Colors.transparent,title:Text(ar?'جاهز للتحدي؟':'Ready to challenge?'),actions:[IconButton(onPressed:changeLanguage,icon:const Icon(Icons.language_rounded))]),body:ListView(padding:const EdgeInsets.all(20),children:[Container(padding:const EdgeInsets.all(22),decoration:BoxDecoration(borderRadius:BorderRadius.circular(28),gradient:const LinearGradient(colors:[Color(0xFF6C4DFF),Color(0xFF241B60)])),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(ar?'أول لعبة علينا 🎁':'Your first game is on us 🎁',style:const TextStyle(fontSize:25,fontWeight:FontWeight.w900)),const SizedBox(height:8),Text(ar?'اختاروا الفئات وبعدها اختاروا السؤال والنقاط بأنفسكم.':'Choose categories, then choose the category and points yourselves.'),const SizedBox(height:20),FilledButton.icon(onPressed:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>CategoryScreen(ar:ar))),icon:const Icon(Icons.play_arrow_rounded),label:Text(ar?'كوّن لعبتك':'Build your game'))])),const SizedBox(height:25),Text(ar?'الفئات الجاهزة':'Ready categories',style:const TextStyle(fontSize:20,fontWeight:FontWeight.w800)),const SizedBox(height:12),Wrap(spacing:10,runSpacing:10,children:[CategoryMini('🇦🇪',ar?'الإمارات':'UAE'),CategoryMini('⚽',ar?'كرة القدم الإماراتية':'UAE Football')])]))));}
+  const HomeScreen({super.key,required this.locale,required this.changeLanguage});
+  final Locale locale;
+  final VoidCallback changeLanguage;
+  @override Widget build(BuildContext context){
+    final ar=locale.languageCode=='ar';
+    return Directionality(
+      textDirection:ar?TextDirection.rtl:TextDirection.ltr,
+      child:Scaffold(
+        appBar:AppBar(backgroundColor:Colors.transparent,title:Text(ar?'جاهز للتحدي؟':'Ready to challenge?'),actions:[IconButton(onPressed:changeLanguage,icon:const Icon(Icons.language_rounded))]),
+        body:ListView(
+          padding:const EdgeInsets.all(20),
+          children:[
+            Container(
+              padding:const EdgeInsets.all(22),
+              decoration:BoxDecoration(borderRadius:BorderRadius.circular(28),gradient:const LinearGradient(colors:[Color(0xFF6C4DFF),Color(0xFF241B60)])),
+              child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[
+                Text(ar?'أول لعبة علينا 🎁':'Your first game is on us 🎁',style:const TextStyle(fontSize:25,fontWeight:FontWeight.w900)),
+                const SizedBox(height:8),
+                Text(ar?'اختاروا الفئات وبعدها اختاروا السؤال والنقاط بأنفسكم.':'Choose categories, then choose the category and points yourselves.'),
+                const SizedBox(height:20),
+                FilledButton.icon(onPressed:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>CategoryScreen(ar:ar))),icon:const Icon(Icons.play_arrow_rounded),label:Text(ar?'كوّن لعبتك':'Build your game')),
+              ]),
+            ),
+            const SizedBox(height:25),
+            Text(ar?'الفئات الجاهزة':'Ready categories',style:const TextStyle(fontSize:20,fontWeight:FontWeight.w800)),
+            const SizedBox(height:12),
+            Wrap(spacing:10,runSpacing:10,children:[CategoryMini('🇦🇪',ar?'الإمارات':'UAE'),CategoryMini('⚽',ar?'كرة القدم الإماراتية':'UAE Football')]),
+          ],
+        ),
+      ),
+    );
+  }
 }
 
 class CategoryScreen extends StatefulWidget{
