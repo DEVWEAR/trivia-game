@@ -54,8 +54,8 @@ class HomeScreen extends StatelessWidget {
         ])),
         const SizedBox(height: 22),
         Row(children: [Expanded(child: Stat(title: ar ? 'اللعبة الواحدة' : 'Single game', value: '9.99 AED')), const SizedBox(width: 10), Expanded(child: Stat(title: ar ? 'باقة 7 ألعاب' : '7-game pack', value: '49.99 AED'))]),
-        const SizedBox(height: 25), Text(ar ? 'اكتشف الفئات' : 'Discover categories', style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800)),
-        const SizedBox(height: 12), const Wrap(spacing: 10, runSpacing: 10, children: [CategoryMini('🇦🇪','UAE'), CategoryMini('⚽','Football'), CategoryMini('🐆','Animals'), CategoryMini('🌍','World'), CategoryMini('🎮','Gaming'), CategoryMini('🎬','Cinema')])
+        const SizedBox(height: 25), Text(ar ? 'الفئات الجاهزة' : 'Ready categories', style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800)),
+        const SizedBox(height: 12), Wrap(spacing: 10, runSpacing: 10, children: [CategoryMini('🇦🇪', ar ? 'الإمارات' : 'UAE'), CategoryMini('⚽', ar ? 'كرة القدم الإماراتية' : 'UAE Football')])
       ])));
   }
 }
@@ -67,7 +67,8 @@ class CategoryScreen extends StatefulWidget {
 class _CategoryScreenState extends State<CategoryScreen> {
   final selected = <int>{};
   final cats = const [
-    ['🇦🇪','الإمارات','UAE'], ['⚽','كرة القدم','Football'], ['🐆','الحيوانات','Animals'], ['🌍','حول العالم','Around the World'], ['🎮','الألعاب','Gaming'], ['🎬','السينما','Cinema'], ['🏎️','السيارات','Cars'], ['🧠','ألغاز','Brain'], ['🚀','الفضاء','Space'], ['🍜','الأكل','Food'], ['🏛️','التاريخ','History'], ['🎵','الموسيقى','Music']
+    ['🇦🇪','الإمارات','UAE'],
+    ['⚽','كرة القدم الإماراتية','UAE Football'],
   ];
   @override Widget build(BuildContext context) {
     final ar = widget.ar;
@@ -83,7 +84,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
           final on = selected.contains(i); final c = cats[i];
           return InkWell(onTap: () => setState(() { if (on) selected.remove(i); else if (selected.length < 6) selected.add(i); }), borderRadius: BorderRadius.circular(24), child: AnimatedContainer(duration: const Duration(milliseconds: 180), padding: const EdgeInsets.all(16), decoration: BoxDecoration(color: on ? const Color(0xFF6D52E8).withValues(alpha:.30) : Colors.white.withValues(alpha:.05), borderRadius: BorderRadius.circular(24), border: Border.all(color: on ? const Color(0xFF8E7AFF) : Colors.white10, width: on ? 2 : 1)), child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
             Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [Text(c[0], style: const TextStyle(fontSize: 30)), if(on) const Icon(Icons.check_circle_rounded, color: Color(0xFF8FE8DF))]),
-            const Spacer(), Text(ar ? c[1] : c[2], style: const TextStyle(fontSize: 17, fontWeight: FontWeight.w800)), const SizedBox(height: 4), const Text('102 questions', style: TextStyle(color: Color(0xFF8FE8DF), fontWeight: FontWeight.w700)),
+            const Spacer(), Text(ar ? c[1] : c[2], style: const TextStyle(fontSize: 17, fontWeight: FontWeight.w800)), const SizedBox(height: 4), Text(ar ? '102 سؤال' : '102 questions', style: const TextStyle(color: Color(0xFF8FE8DF), fontWeight: FontWeight.w700)),
             const SizedBox(height: 8), Row(children: [for(final p in ['200','400','600']) Expanded(child: Container(margin: const EdgeInsetsDirectional.only(end: 4), padding: const EdgeInsets.symmetric(vertical: 4), alignment: Alignment.center, decoration: BoxDecoration(color: Colors.white.withValues(alpha:.06), borderRadius: BorderRadius.circular(8)), child: Text(p, style: const TextStyle(fontSize: 10))))])
           ])));
         })),
@@ -111,10 +112,6 @@ class _TeamSetupState extends State<TeamSetup> {
   ])))); }
 }
 
-/// Returns a fresh random draw from a category pool.
-/// Call this every time a new game/session is created. We intentionally do not
-/// seed by account/user, so two different accounts do not receive the same
-/// deterministic "question #1" ordering.
 List<T> drawRandomQuestions<T>(List<T> pool, int count) {
   final copy = List<T>.of(pool)..shuffle(Random.secure());
   return copy.take(min(count, copy.length)).toList(growable: false);
@@ -122,5 +119,5 @@ List<T> drawRandomQuestions<T>(List<T> pool, int count) {
 
 class TeamField extends StatelessWidget { const TeamField({super.key,required this.controller,required this.icon,required this.label}); final TextEditingController controller; final String icon,label; @override Widget build(BuildContext context)=>TextField(controller:controller, decoration:InputDecoration(prefixIcon:Center(widthFactor:1.5,child:Text(icon,style:const TextStyle(fontSize:25))), labelText:label, filled:true, fillColor:Colors.white.withValues(alpha:.05), border:OutlineInputBorder(borderRadius:BorderRadius.circular(20),borderSide:BorderSide.none))); }
 class Stat extends StatelessWidget { const Stat({super.key,required this.title,required this.value}); final String title,value; @override Widget build(BuildContext context)=>Container(padding:const EdgeInsets.all(15),decoration:card(),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(title,style:const TextStyle(color:Colors.white60)),const SizedBox(height:5),Text(value,style:const TextStyle(fontWeight:FontWeight.w900,fontSize:17))])); }
-class CategoryMini extends StatelessWidget { const CategoryMini(this.e,this.t,{super.key}); final String e,t; @override Widget build(BuildContext context)=>Container(width:155,padding:const EdgeInsets.all(15),decoration:card(),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(e,style:const TextStyle(fontSize:27)),const SizedBox(height:8),Text(t,style:const TextStyle(fontWeight:FontWeight.w800)),const SizedBox(height:3),const Text('102 questions',style:TextStyle(color:Color(0xFF8FE8DF))) ])); }
+class CategoryMini extends StatelessWidget { const CategoryMini(this.e,this.t,{super.key}); final String e,t; @override Widget build(BuildContext context)=>Container(width:155,padding:const EdgeInsets.all(15),decoration:card(),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(e,style:const TextStyle(fontSize:27)),const SizedBox(height:8),Text(t,style:const TextStyle(fontWeight:FontWeight.w800)),const SizedBox(height:3),const Text('102',style:TextStyle(color:Color(0xFF8FE8DF))) ])); }
 BoxDecoration card()=>BoxDecoration(color:Colors.white.withValues(alpha:.055),borderRadius:BorderRadius.circular(20),border:Border.all(color:Colors.white.withValues(alpha:.09)));
