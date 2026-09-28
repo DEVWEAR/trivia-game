@@ -1,29 +1,29 @@
 import '../question_model.dart';
 
-// UAE Football 101–102 — verified 2026-09-28 from UAE Pro League.
+// UAE Football 101–102 — verified 2026-09-28 from official UAE Pro League sources.
 final uaeFootballQuestions101To102 = <TriviaQuestion>[
   TriviaQuestion(
     id:'uae_football_101',
     categoryId:'uae_football',
     difficulty:QuestionDifficulty.medium400,
-    questionAr:'أي نادٍ إماراتي فاز بالدوري في عصر الاحتراف مواسم 2010-2011 و2016-2017 و2020-2021؟',
-    questionEn:'Which UAE club won the professional-era league in 2010-11, 2016-17 and 2020-21?',
-    answerAr:'الجزيرة',
-    answerEn:'Al Jazira',
-    sourceName:'UAE Pro League – Champions of the Professional Era',
-    sourceUrl:'https://uaeproleague.ae/en/news-and-gallery/champions-of-the-professional-era-a-legacy-of-adnoc-pro-league-excellence',
+    questionAr:'أي نادٍ سجل 73 هدفاً في موسم الدوري الإماراتي للمحترفين 2023-2024، ليأتي ثانياً في قائمة أعلى حصيلة تهديفية لموسم واحد حتى أغسطس 2026؟',
+    questionEn:'Which club scored 73 goals in the 2023-24 UAE Pro League season, ranking second for the highest single-season team total through August 2026?',
+    answerAr:'شباب الأهلي',
+    answerEn:'Shabab Al Ahli',
+    sourceName:'UAE Pro League – Historic Single-Season Scoring Charts',
+    sourceUrl:'https://www.uaeproleague.ae/en/news-and-gallery/al-ain-lead-historic-single-season-scoring-charts-with-74-goals',
     lastVerified:DateTime(2026,9,28),
   ),
   TriviaQuestion(
     id:'uae_football_102',
     categoryId:'uae_football',
     difficulty:QuestionDifficulty.hard600,
-    questionAr:'أي نادٍ يتصدر قائمة الانتصارات التاريخية في الدوري الإماراتي للمحترفين بـ258 فوزاً حتى أغسطس 2026؟',
-    questionEn:'Which club led the UAE Pro League all-time wins list with 258 victories as of August 2026?',
-    answerAr:'العين',
-    answerEn:'Al Ain',
-    sourceName:'UAE Pro League – All-Time Wins List',
-    sourceUrl:'https://uaeproleague.ae/en/news-and-gallery/al-ain-lead-uae-pro-leagues-all-time-wins-list',
+    questionAr:'كم هدفاً سجل الجزيرة في موسم الدوري الإماراتي للمحترفين 2016-2017 ليحتل المركز الثالث تاريخياً في حصيلة الأهداف لموسم واحد حتى أغسطس 2026؟',
+    questionEn:'How many goals did Al Jazira score in the 2016-17 UAE Pro League season to rank third historically for a single-season team total through August 2026?',
+    answerAr:'72 هدفاً',
+    answerEn:'72 goals',
+    sourceName:'UAE Pro League – Historic Single-Season Scoring Charts',
+    sourceUrl:'https://www.uaeproleague.ae/en/news-and-gallery/al-ain-lead-historic-single-season-scoring-charts-with-74-goals',
     lastVerified:DateTime(2026,9,28),
   ),
 ];
