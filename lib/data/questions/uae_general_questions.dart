@@ -1,66 +1,27 @@
 import '../question_model.dart';
 
-// Verified starter batch for UAE General.
-// Sources are official UAE Government sources and Visit Dubai.
+// Verified UAE General question bank.
+// Every item has a source and verification date before production use.
 final uaeGeneralQuestions = <TriviaQuestion>[
-  TriviaQuestion(
-    id: 'uae_general_001', categoryId: 'uae_general', difficulty: QuestionDifficulty.easy200,
-    questionAr: 'ما عاصمة دولة الإمارات العربية المتحدة؟', questionEn: 'What is the capital of the United Arab Emirates?',
-    answerAr: 'أبوظبي', answerEn: 'Abu Dhabi',
-    sourceName: 'UAE Government – Fact Sheet', sourceUrl: 'https://u.ae/en/about-the-uae/fact-sheet', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_002', categoryId: 'uae_general', difficulty: QuestionDifficulty.easy200,
-    questionAr: 'كم إمارة تتكون منها دولة الإمارات العربية المتحدة؟', questionEn: 'How many emirates make up the United Arab Emirates?',
-    answerAr: 'سبع إمارات', answerEn: 'Seven emirates',
-    sourceName: 'UAE Cabinet – UAE', sourceUrl: 'https://uaecabinet.ae/en/uae', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_003', categoryId: 'uae_general', difficulty: QuestionDifficulty.easy200,
-    questionAr: 'في أي تاريخ أُعلن رسمياً قيام دولة الإمارات العربية المتحدة؟', questionEn: 'On what date was the United Arab Emirates formally established?',
-    answerAr: '2 ديسمبر 1971', answerEn: '2 December 1971',
-    sourceName: 'UAE Government – History', sourceUrl: 'https://u.ae/en/about-the-uae/history', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_004', categoryId: 'uae_general', difficulty: QuestionDifficulty.medium400,
-    questionAr: 'أي إمارة انضمت إلى اتحاد دولة الإمارات في 10 فبراير 1972؟', questionEn: 'Which emirate joined the UAE federation on 10 February 1972?',
-    answerAr: 'رأس الخيمة', answerEn: 'Ras Al Khaimah',
-    sourceName: 'UAE Government – History', sourceUrl: 'https://u.ae/en/about-the-uae/history', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_005', categoryId: 'uae_general', difficulty: QuestionDifficulty.medium400,
-    questionAr: 'من كان أول رئيس لدولة الإمارات العربية المتحدة؟', questionEn: 'Who was the first President of the United Arab Emirates?',
-    answerAr: 'الشيخ زايد بن سلطان آل نهيان', answerEn: 'Sheikh Zayed bin Sultan Al Nahyan',
-    sourceName: 'UAE Government – Founders of the Union', sourceUrl: 'https://u.ae/en/about-uae/founders-of-the-union', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_006', categoryId: 'uae_general', difficulty: QuestionDifficulty.medium400,
-    questionAr: 'ما اللغة الرسمية لدولة الإمارات العربية المتحدة؟', questionEn: 'What is the official language of the United Arab Emirates?',
-    answerAr: 'اللغة العربية', answerEn: 'Arabic',
-    sourceName: 'UAE Constitution', sourceUrl: 'https://uaecabinet.ae/en/the-constitution', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_007', categoryId: 'uae_general', difficulty: QuestionDifficulty.hard600,
-    questionAr: 'في أي منطقة التقى الشيخ زايد بن سلطان والشيخ راشد بن سعيد في فبراير 1968 لبحث الاتحاد؟', questionEn: 'Where did Sheikh Zayed bin Sultan and Sheikh Rashid bin Saeed meet in February 1968 to discuss federation?',
-    answerAr: 'السمحة', answerEn: 'Al Samha',
-    sourceName: 'UAE Government – History', sourceUrl: 'https://u.ae/en/about-the-uae/history', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_008', categoryId: 'uae_general', difficulty: QuestionDifficulty.hard600,
-    questionAr: 'في أي تاريخ انضمت رأس الخيمة إلى اتحاد دولة الإمارات؟', questionEn: 'On what date did Ras Al Khaimah join the UAE federation?',
-    answerAr: '10 فبراير 1972', answerEn: '10 February 1972',
-    sourceName: 'UAE Government – History', sourceUrl: 'https://u.ae/en/about-the-uae/history', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_009', categoryId: 'uae_general', difficulty: QuestionDifficulty.medium400,
-    questionAr: 'كم يبلغ ارتفاع برج خليفة؟', questionEn: 'How tall is Burj Khalifa?',
-    answerAr: '828 متراً', answerEn: '828 metres',
-    sourceName: 'Visit Dubai – Burj Khalifa', sourceUrl: 'https://www.visitdubai.com/places-to-visit/burj-khalifa', lastVerified: DateTime(2026, 9, 28),
-  ),
-  TriviaQuestion(
-    id: 'uae_general_010', categoryId: 'uae_general', difficulty: QuestionDifficulty.hard600,
-    questionAr: 'متى عُقدت أول جلسة للمجلس الوطني الاتحادي؟', questionEn: 'When was the first session of the Federal National Council held?',
-    answerAr: '13 فبراير 1972', answerEn: '13 February 1972',
-    sourceName: 'UAE Government – Federal National Council', sourceUrl: 'https://u.ae/en/about-the-uae/the-uae-government/the-federal-national-council-', lastVerified: DateTime(2026, 9, 28),
-  ),
+  TriviaQuestion(id:'uae_general_001',categoryId:'uae_general',difficulty:QuestionDifficulty.easy200,questionAr:'ما عاصمة دولة الإمارات العربية المتحدة؟',questionEn:'What is the capital of the United Arab Emirates?',answerAr:'أبوظبي',answerEn:'Abu Dhabi',sourceName:'UAE Government – Fact Sheet',sourceUrl:'https://u.ae/en/about-the-uae/fact-sheet',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_002',categoryId:'uae_general',difficulty:QuestionDifficulty.easy200,questionAr:'كم إمارة تتكون منها دولة الإمارات العربية المتحدة؟',questionEn:'How many emirates make up the United Arab Emirates?',answerAr:'سبع إمارات',answerEn:'Seven emirates',sourceName:'UAE Government – Fact Sheet',sourceUrl:'https://u.ae/en/about-the-uae/fact-sheet',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_003',categoryId:'uae_general',difficulty:QuestionDifficulty.easy200,questionAr:'في أي تاريخ أُعلن رسمياً قيام دولة الإمارات العربية المتحدة؟',questionEn:'On what date was the United Arab Emirates formally established?',answerAr:'2 ديسمبر 1971',answerEn:'2 December 1971',sourceName:'UAE Government – History',sourceUrl:'https://u.ae/en/about-the-uae/history',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_004',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'أي إمارة انضمت إلى اتحاد دولة الإمارات في 10 فبراير 1972؟',questionEn:'Which emirate joined the UAE federation on 10 February 1972?',answerAr:'رأس الخيمة',answerEn:'Ras Al Khaimah',sourceName:'UAE Government – History',sourceUrl:'https://u.ae/en/about-the-uae/history',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_005',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'من كان أول رئيس لدولة الإمارات العربية المتحدة؟',questionEn:'Who was the first President of the United Arab Emirates?',answerAr:'الشيخ زايد بن سلطان آل نهيان',answerEn:'Sheikh Zayed bin Sultan Al Nahyan',sourceName:'UAE Government – Founders of the Union',sourceUrl:'https://u.ae/en/about-uae/founders-of-the-union',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_006',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'ما اللغة الرسمية لدولة الإمارات العربية المتحدة؟',questionEn:'What is the official language of the United Arab Emirates?',answerAr:'اللغة العربية',answerEn:'Arabic',sourceName:'UAE Government – Fact Sheet',sourceUrl:'https://u.ae/en/about-the-uae/fact-sheet',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_007',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'في أي منطقة التقى الشيخ زايد بن سلطان والشيخ راشد بن سعيد في فبراير 1968 لبحث الاتحاد؟',questionEn:'Where did Sheikh Zayed bin Sultan and Sheikh Rashid bin Saeed meet in February 1968 to discuss federation?',answerAr:'السمحة',answerEn:'Al Samha',sourceName:'UAE Government – History',sourceUrl:'https://u.ae/en/about-the-uae/history',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_008',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'في أي تاريخ انضمت رأس الخيمة إلى اتحاد دولة الإمارات؟',questionEn:'On what date did Ras Al Khaimah join the UAE federation?',answerAr:'10 فبراير 1972',answerEn:'10 February 1972',sourceName:'UAE Government – History',sourceUrl:'https://u.ae/en/about-the-uae/history',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_009',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'كم يبلغ ارتفاع برج خليفة؟',questionEn:'How tall is Burj Khalifa?',answerAr:'828 متراً',answerEn:'828 metres',sourceName:'Visit Dubai – Burj Khalifa',sourceUrl:'https://www.visitdubai.com/places-to-visit/burj-khalifa',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_010',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'متى عُقدت أول جلسة للمجلس الوطني الاتحادي؟',questionEn:'When was the first session of the Federal National Council held?',answerAr:'13 فبراير 1972',answerEn:'13 February 1972',sourceName:'UAE Government – Federal National Council',sourceUrl:'https://u.ae/en/about-the-uae/the-uae-government/the-federal-national-council-',lastVerified:DateTime(2026,9,28)),
+
+  TriviaQuestion(id:'uae_general_011',categoryId:'uae_general',difficulty:QuestionDifficulty.easy200,questionAr:'ما العملة الرسمية لدولة الإمارات؟',questionEn:'What is the official currency of the UAE?',answerAr:'الدرهم الإماراتي',answerEn:'UAE dirham',sourceName:'UAE Government – Fact Sheet',sourceUrl:'https://u.ae/en/about-the-uae/fact-sheet',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_012',categoryId:'uae_general',difficulty:QuestionDifficulty.easy200,questionAr:'أي إمارة هي الأكبر في دولة الإمارات من حيث المساحة؟',questionEn:'Which emirate is the largest in the UAE by area?',answerAr:'أبوظبي',answerEn:'Abu Dhabi',sourceName:'UAE Government – Abu Dhabi',sourceUrl:'https://u.ae/en/about-uae/the-seven-emirates/abu-dhabi',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_013',categoryId:'uae_general',difficulty:QuestionDifficulty.easy200,questionAr:'ما أعلى قمة جبلية في دولة الإمارات؟',questionEn:'What is the highest mountain peak in the UAE?',answerAr:'جبل جيس',answerEn:'Jebel Jais',sourceName:'UAE Government – Ras Al Khaimah',sourceUrl:'https://u.ae/en/about-the-uae/the-seven-emirates/ras-al-khaimah',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_014',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'في أي إمارة يقع جبل جيس، أعلى قمة في الدولة؟',questionEn:'In which emirate is Jebel Jais, the UAE’s highest peak?',answerAr:'رأس الخيمة',answerEn:'Ras Al Khaimah',sourceName:'UAE Government – Ras Al Khaimah',sourceUrl:'https://u.ae/en/about-the-uae/the-seven-emirates/ras-al-khaimah',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_015',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'أي إمارة هي الوحيدة التي تطل بسواحلها على الخليج العربي وخليج عُمان معاً؟',questionEn:'Which emirate is the only one with coastlines on both the Arabian Gulf and Gulf of Oman?',answerAr:'الشارقة',answerEn:'Sharjah',sourceName:'UAE Government – Sharjah',sourceUrl:'https://u.ae/ar/about-the-uae/the-seven-emirates/sharjah',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_016',categoryId:'uae_general',difficulty:QuestionDifficulty.medium400,questionAr:'أي إمارة هي الوحيدة التي تقع بالكامل على الساحل الشرقي لدولة الإمارات؟',questionEn:'Which emirate is the only one located entirely on the UAE’s eastern coast?',answerAr:'الفجيرة',answerEn:'Fujairah',sourceName:'UAE Government – Fujairah',sourceUrl:'https://u.ae/ar/about-the-uae/the-seven-emirates/Fujairah',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_017',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'كم يبلغ ارتفاع جبل جيس بحسب المنصة الرسمية لحكومة الإمارات؟',questionEn:'According to the UAE Government portal, how high is Jebel Jais?',answerAr:'1,934 متراً',answerEn:'1,934 metres',sourceName:'UAE Government – Ras Al Khaimah',sourceUrl:'https://u.ae/en/about-the-uae/the-seven-emirates/ras-al-khaimah',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_018',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'في أي سنة أصبح دستور دولة الإمارات المؤقت دستوراً دائماً؟',questionEn:'In what year did the UAE’s provisional Constitution become permanent?',answerAr:'1996',answerEn:'1996',sourceName:'UAE Government – Constitution',sourceUrl:'https://u.ae/en/about-the-uae/the-constitution',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_019',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'كم مادة يتضمن دستور دولة الإمارات؟',questionEn:'How many articles does the UAE Constitution contain?',answerAr:'152 مادة',answerEn:'152 articles',sourceName:'UAE Government – Constitution',sourceUrl:'https://u.ae/en/about-the-uae/the-constitution',lastVerified:DateTime(2026,9,28)),
+  TriviaQuestion(id:'uae_general_020',categoryId:'uae_general',difficulty:QuestionDifficulty.hard600,questionAr:'في أي سنة اعتُمد الشعار الرسمي الجديد لدولة الإمارات الذي يحيط فيه سبع نجوم بعلم الدولة؟',questionEn:'In what year was the UAE’s new official coat of arms, featuring seven stars around the flag, adopted?',answerAr:'2008',answerEn:'2008',sourceName:'UAE Government – Fact Sheet',sourceUrl:'https://u.ae/ar/about-the-uae/fact-sheet',lastVerified:DateTime(2026,9,28)),
 ];
