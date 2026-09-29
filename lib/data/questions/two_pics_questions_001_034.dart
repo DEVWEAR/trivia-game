@@ -2,9 +2,11 @@ import '../question_model.dart';
 
 TriviaQuestion _p200(String id,String ar,String en,String photo1,String photo2){
   final n=int.parse(id.split('_').last);
-  String realPhoto(String brief,int side)=>
-      'https://loremflickr.com/960/720/${Uri.encodeComponent(brief)}?lock=${n*2+side}';
-  return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.easy200,questionAr:'صورتان، كلمة أو عبارة واحدة',questionEn:'Two pictures, one word or phrase',answerAr:ar,answerEn:en,sourceName:'Real photographic clue feed',sourceUrl:'https://loremflickr.com/',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:realPhoto(photo1,0),mediaAsset2:realPhoto(photo2,1));
+  String realPhoto(String brief,int side){
+    final origin='https://loremflickr.com/960/720/${Uri.encodeComponent(brief)}?lock=${n*2+side}';
+    return 'https://images.weserv.nl/?url=${Uri.encodeComponent(origin)}&w=960&h=720&fit=cover&output=jpg';
+  }
+  return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.easy200,questionAr:'صورتان، كلمة أو عبارة واحدة',questionEn:'Two pictures, one word or phrase',answerAr:ar,answerEn:en,sourceName:'Real photographic clue feed via web-safe image proxy',sourceUrl:'https://images.weserv.nl/',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:realPhoto(photo1,0),mediaAsset2:realPhoto(photo2,1));
 }
 final twoPicsQuestions001To034=<TriviaQuestion>[
 _p200('two_pics_001','نظارة شمسية','Sunglasses','bright sun sky','eyeglasses sunglasses'),
