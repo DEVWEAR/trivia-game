@@ -92,7 +92,7 @@ _spaceQ('space_072',QuestionDifficulty.medium400,'ما اسم الطبقة ال�
 _spaceQ('space_073',QuestionDifficulty.hard600,'كم تبلغ إمالة محور عطارد تقريباً؟','About how much is Mercury’s rotational axis tilted?','نحو درجتين','About 2 degrees',_mercury),
 _spaceQ('space_074',QuestionDifficulty.hard600,'كم يستغرق ضوء الشمس للوصول إلى عطارد تقريباً؟','About how long does sunlight take to reach Mercury?','3.2 دقائق','About 3.2 minutes',_mercury),
 _spaceQ('space_075',QuestionDifficulty.hard600,'ما متوسط بُعد عطارد عن الشمس بالوحدات الفلكية؟','What is Mercury’s average distance from the Sun in AU?','0.4 وحدة فلكية','0.4 AU',_mercury),
-_spaceQ('space_076',QuestionDifficulty.hard600,'كم تبلغ إمالة محور الزهرة تقريباً وفق وصف NASA لاتجاه دورانه؟','What is Venus’ effective axial tilt associated with its retrograde rotation?','نحو 177 درجة','About 177 degrees',_venus),
+_spaceQ('space_076',QuestionDifficulty.hard600,'كم يستغرق من شروق الشمس إلى غروبها على الزهرة تقريباً؟','About how long does it take from sunrise to sunset on Venus?','117 يوماً أرضياً','117 Earth days',_venus),
 _spaceQ('space_077',QuestionDifficulty.hard600,'كم تستغرق دورة أطوار الزهرة من جديد إلى كامل تقريباً؟','About how long does the full cycle of Venus phases take?','584 يوماً','584 days',_venus),
 _spaceQ('space_078',QuestionDifficulty.hard600,'أي مركبة تابعة لناسا رسمت سطح الزهرة بالرادار وانتهت مهمتها عام 1994؟','Which NASA spacecraft mapped Venus by radar and ended its mission in 1994?','ماجلان','Magellan',_venus),
 _spaceQ('space_079',QuestionDifficulty.hard600,'كم تبلغ إمالة محور دوران المريخ تقريباً؟','About how much is Mars’ rotational axis tilted?','25 درجة','25 degrees',_mars),
