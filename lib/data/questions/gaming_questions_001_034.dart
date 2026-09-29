@@ -34,5 +34,5 @@ _g200('gaming_030','ما اسم بطل سلسلة Hitman؟','Who is the protagon
 _g200('gaming_031','ما اسم سلسلة Rockstar التي تدور حول الجريمة في عالم مفتوح وتحمل اختصار GTA؟','What Rockstar open-world crime series is abbreviated GTA?','Grand Theft Auto','Grand Theft Auto','https://www.rockstargames.com/gta-v'),
 _g200('gaming_032','ما اسم سلسلة الغرب الأمريكي من Rockstar؟','What is Rockstar’s Western game series called?','Red Dead Redemption','Red Dead Redemption','https://www.rockstargames.com/reddeadredemption2/'),
 _g200('gaming_033','ما اسم سلسلة الرعب التي تضم مدينة Raccoon City؟','Which horror series features Raccoon City?','Resident Evil','Resident Evil','https://www.residentevil.com/'),
-_g200('gaming_034','ما اسم لعبة Valve التنافسية المعروفة اختصاراً CS2؟','What Valve competitive game is abbreviated CS2?','Counter-Strike 2','Counter-Strike 2','https://www.counter-strike.net/cs2');
+_g200('gaming_034','ما اسم لعبة Valve التنافسية المعروفة اختصاراً CS2؟','What Valve competitive game is abbreviated CS2?','Counter-Strike 2','Counter-Strike 2','https://www.counter-strike.net/cs2'),
 ];
