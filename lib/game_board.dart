@@ -30,7 +30,36 @@ class TimedQuestionScreen extends StatefulWidget{const TimedQuestionScreen({supe
 class _QuestionState extends State<TimedQuestionScreen>{Timer?timer;int seconds=60;bool steal=false,revealed=false;int?award;int get active=>steal?1-widget.primaryTeam:widget.primaryTeam;String name(int i)=>i==0?widget.teamA:widget.teamB;@override void initState(){super.initState();_start(60);}@override void dispose(){timer?.cancel();super.dispose();}void _start(int v){timer?.cancel();seconds=v;timer=Timer.periodic(const Duration(seconds:1),(t){if(!mounted){t.cancel();return;}if(seconds<=1){t.cancel();if(!steal){setState((){steal=true;seconds=15;});_start(15);}else{setState((){seconds=0;revealed=true;});}}else{setState(()=>seconds--);}});}void _reveal(){timer?.cancel();setState(()=>revealed=true);}
 bool _isMath(String s)=>RegExp(r'\d\s*[+\-×÷*/=]|[+\-×÷*/=]\s*\d|\d\s*[سصxyXY]').hasMatch(s)||s.contains('ناتج')||s.contains('قيمة س')||s.contains('قيمة ص');
 String _arabicMath(String s){if(!widget.ar||!_isMath(s))return s;const western='0123456789';const eastern='٠١٢٣٤٥٦٧٨٩';var out=s.replaceAll('س','X').replaceAll('ص','Y');for(var i=0;i<10;i++){out=out.replaceAll(western[i],eastern[i]);}return out;}
-@override Widget build(BuildContext context){final q=widget.slot.question;final isPics=q.categoryId=='two_pics';return Directionality(textDirection:widget.ar?TextDirection.rtl:TextDirection.ltr,child:Scaffold(appBar:AppBar(toolbarHeight:46,backgroundColor:Colors.transparent,title:Text('${widget.ar?widget.slot.category.ar:widget.slot.category.en} • ${widget.slot.points}')),body:SafeArea(child:LayoutBuilder(builder:(_,box)=>Stack(children:[PositionedDirectional(start:12,top:8,width:125,height:118,child:_clock()),Positioned.fill(child:Padding(padding:EdgeInsetsDirectional.fromSTEB(box.maxWidth>650?150:14,8,14,12),child:Center(child:ConstrainedBox(constraints:const BoxConstraints(maxWidth:720),child:SingleChildScrollView(child:_content(q,isPics))))))]))));}
+@override Widget build(BuildContext context){
+ final q=widget.slot.question;
+ final isPics=q.categoryId=='two_pics';
+ return Directionality(
+  textDirection:widget.ar?TextDirection.rtl:TextDirection.ltr,
+  child:Scaffold(
+   appBar:AppBar(toolbarHeight:46,backgroundColor:Colors.transparent,title:Text('${widget.ar?widget.slot.category.ar:widget.slot.category.en} • ${widget.slot.points}')),
+   body:SafeArea(
+    child:LayoutBuilder(
+     builder:(_,box)=>Stack(
+      children:[
+       PositionedDirectional(start:12,top:8,width:125,height:118,child:_clock()),
+       Positioned.fill(
+        child:Padding(
+         padding:EdgeInsetsDirectional.fromSTEB(box.maxWidth>650?150:14,8,14,12),
+         child:Center(
+          child:ConstrainedBox(
+           constraints:const BoxConstraints(maxWidth:720),
+           child:SingleChildScrollView(child:_content(q,isPics)),
+          ),
+         ),
+        ),
+       ),
+      ],
+     ),
+    ),
+   ),
+  ),
+ );
+}
 Widget _clock()=>Column(children:[Container(width:78,height:78,alignment:Alignment.center,decoration:BoxDecoration(shape:BoxShape.circle,color:const Color(0xFF151721),border:Border.all(color:steal?const Color(0xFFFFA34D):const Color(0xFF43D5C7),width:4)),child:Text('$seconds',style:const TextStyle(fontSize:27,fontWeight:FontWeight.w900))),const SizedBox(height:4),Text('${steal?(widget.ar?'سرقة':'STEAL'):(widget.ar?'وقت':'TIME')} • ${name(active)}',textAlign:TextAlign.center,maxLines:2,style:const TextStyle(fontSize:10,fontWeight:FontWeight.w900))]);
 Widget _photo(String asset){return ClipRRect(borderRadius:BorderRadius.circular(20),child:AspectRatio(aspectRatio:4/3,child:Image.asset(asset,fit:BoxFit.cover,errorBuilder:(_,__,___)=>Container(color:const Color(0xFF171923),alignment:Alignment.center,child:const Icon(Icons.image_not_supported_outlined,size:38,color:Colors.white38)))));}
 Widget _twoPics(TriviaQuestion q){final a=q.mediaAsset,b=q.mediaAsset2;if(a==null||b==null)return Container(width:double.infinity,padding:const EdgeInsets.all(22),decoration:BoxDecoration(color:const Color(0xFF171923),borderRadius:BorderRadius.circular(22),border:Border.all(color:Colors.white12)),child:Text(widget.ar?'يتم تجهيز الصور الواقعية لهذا اللغز':'Real photos are being prepared for this puzzle',textAlign:TextAlign.center,style:const TextStyle(fontSize:16,fontWeight:FontWeight.w800)));return Row(children:[Expanded(child:_photo(a)),const SizedBox(width:12),Expanded(child:_photo(b))]);}
