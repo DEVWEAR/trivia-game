@@ -8,6 +8,7 @@ import 'data/questions/uae_football_final.dart';
 import 'data/questions/general_knowledge_final.dart';
 import 'data/questions/brain_final.dart';
 import 'data/questions/gaming_final.dart';
+import 'data/questions/no_words_final.dart';
 
 class BoardCategory {
   BoardCategory({required this.id,required this.ar,required this.en,required this.icon,required this.questions});
@@ -21,6 +22,7 @@ BoardCategory categoryForIndex(int i){
     case 2:return BoardCategory(id:2,ar:'معلومات عامة',en:'General Knowledge',icon:'💡',questions:generalKnowledgeFinalQuestions);
     case 3:return BoardCategory(id:3,ar:'ألغاز وذكاء',en:'Brain & Riddles',icon:'🧠',questions:brainFinalQuestions);
     case 4:return BoardCategory(id:4,ar:'ألعاب الفيديو',en:'Gaming',icon:'🎮',questions:gamingFinalQuestions);
+    case 5:return BoardCategory(id:5,ar:'ولا كلمة',en:'No Words',icon:'🎯',questions:noWordsFinalQuestions);
     default:throw ArgumentError('Unknown category index: $i');
   }
 }
