@@ -6,6 +6,7 @@ import 'data/question_model.dart';
 import 'data/questions/uae_general_final.dart';
 import 'data/questions/uae_football_final.dart';
 import 'data/questions/general_knowledge_final.dart';
+import 'data/questions/brain_final.dart';
 
 class BoardCategory {
   BoardCategory({required this.id,required this.ar,required this.en,required this.icon,required this.questions});
@@ -17,6 +18,7 @@ BoardCategory categoryForIndex(int i){
     case 0:return BoardCategory(id:0,ar:'الإمارات',en:'UAE',icon:'🇦🇪',questions:uaeGeneralFinalQuestions);
     case 1:return BoardCategory(id:1,ar:'كرة القدم الإماراتية',en:'UAE Football',icon:'⚽',questions:uaeFootballFinalQuestions);
     case 2:return BoardCategory(id:2,ar:'معلومات عامة',en:'General Knowledge',icon:'💡',questions:generalKnowledgeFinalQuestions);
+    case 3:return BoardCategory(id:3,ar:'ألغاز وذكاء',en:'Brain & Riddles',icon:'🧠',questions:brainFinalQuestions);
     default:throw ArgumentError('Unknown category index: $i');
   }
 }
