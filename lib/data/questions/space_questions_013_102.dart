@@ -109,7 +109,7 @@ _spaceQ('space_089',QuestionDifficulty.hard600,'كم تبلغ إمالة محو�
 _spaceQ('space_090',QuestionDifficulty.hard600,'أي قمر أكبر من كوكب عطارد؟','Which moon is larger than the planet Mercury?','غانيميد','Ganymede',_jupiter),
 _spaceQ('space_091',QuestionDifficulty.hard600,'ما اسم المهمة التي أطلقتها ناسا في 14 أكتوبر 2024 لدراسة أوروبا؟','Which NASA mission launched on Oct. 14, 2024 to study Europa?','أوروبا كليبر','Europa Clipper',_jupiter),
 _spaceQ('space_092',QuestionDifficulty.hard600,'إلى أي عمق تقريباً قد تمتد البقعة الحمراء العظيمة تحت قمم سحب المشتري وفق بيانات جونو؟','About how deep below Jupiter’s cloud tops may the Great Red Spot extend according to Juno gravity data?','نحو 500 كيلومتر','About 500 km',_jupiter),
-_spaceQ('space_093',QuestionDifficulty.hard600,'في أي سنة اكتُشفت حلقات المشتري؟','In what year were Jupiter’s rings discovered?','1979','1979',_jupiter),
+_spaceQ('space_093',QuestionDifficulty.hard600,'ما النسبة التقريبية من كتلة النظام الشمسي الموجودة في الشمس؟','Approximately what percentage of the solar system’s mass is contained in the Sun?','99.8٪ تقريباً','About 99.8%',_sun),
 _spaceQ('space_094',QuestionDifficulty.hard600,'ما اسم أكبر أقمار بلوتو؟','What is Pluto’s largest moon called?','شارون','Charon',_pluto),
 _spaceQ('space_095',QuestionDifficulty.hard600,'في أي منطقة من النظام الشمسي يقع بلوتو؟','In which region of the solar system is Pluto located?','حزام كايبر','The Kuiper Belt',_pluto),
 _spaceQ('space_096',QuestionDifficulty.hard600,'ما أول كوكب قزم زارته مركبة فضائية؟','What was the first dwarf planet visited by a spacecraft?','سيريس','Ceres',_ceres),
