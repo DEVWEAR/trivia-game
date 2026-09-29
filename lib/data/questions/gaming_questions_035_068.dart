@@ -34,5 +34,5 @@ _g400('gaming_064','ما اسم بطلة Metroid؟','Who is the protagonist of M
 _g400('gaming_065','ما اسم بطل سلسلة DOOM الذي يُعرف شعبياً بـ Doom Slayer؟','What is the DOOM protagonist popularly known as?','Doom Slayer','Doom Slayer','https://doom.bethesda.net/'),
 _g400('gaming_066','ما اسم مدينة BioShock الأولى تحت الماء؟','What is the underwater city in the first BioShock called?','Rapture','Rapture','https://2k.com/games/bioshock/'),
 _g400('gaming_067','ما اسم شركة Aperture في سلسلة Portal بالكامل؟','What is the company in Portal called?','Aperture Science','Aperture Science','https://www.thinkwithportals.com/'),
-_g400('gaming_068','ما اسم الذكاء الاصطناعي الخصم الشهير في Portal؟','What is the famous antagonist AI in Portal called?','GLaDOS','GLaDOS','https://www.thinkwithportals.com/');
+_g400('gaming_068','ما اسم الذكاء الاصطناعي الخصم الشهير في Portal؟','What is the famous antagonist AI in Portal called?','GLaDOS','GLaDOS','https://www.thinkwithportals.com/'),
 ];
