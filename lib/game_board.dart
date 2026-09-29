@@ -41,7 +41,17 @@ Widget build(BuildContext context){
      builder:(_,box){
       return Stack(children:[
        PositionedDirectional(start:12,top:8,width:125,height:118,child:_clock()),
-       Positioned.fill(child:Padding(padding:EdgeInsetsDirectional.fromSTEB(box.maxWidth>650?150:14,8,14,12),child:Center(child:ConstrainedBox(constraints:const BoxConstraints(maxWidth:720),child:SingleChildScrollView(child:_content(q,isPics))))))),
+       Positioned.fill(
+        child:Padding(
+         padding:EdgeInsetsDirectional.fromSTEB(box.maxWidth>650?150:14,8,14,12),
+         child:Center(
+          child:ConstrainedBox(
+           constraints:const BoxConstraints(maxWidth:720),
+           child:SingleChildScrollView(child:_content(q,isPics)),
+          ),
+         ),
+        ),
+       ),
       ]);
      },
     ),
@@ -51,7 +61,7 @@ Widget build(BuildContext context){
 }
 Widget _clock()=>Column(children:[Container(width:78,height:78,alignment:Alignment.center,decoration:BoxDecoration(shape:BoxShape.circle,color:const Color(0xFF151721),border:Border.all(color:steal?const Color(0xFFFFA34D):const Color(0xFF43D5C7),width:4)),child:Text('$seconds',style:const TextStyle(fontSize:27,fontWeight:FontWeight.w900))),const SizedBox(height:4),Text('${steal?(widget.ar?'سرقة':'STEAL'):(widget.ar?'وقت':'TIME')} • ${name(active)}',textAlign:TextAlign.center,maxLines:2,style:const TextStyle(fontSize:10,fontWeight:FontWeight.w900))]);
 Widget _photoFallback()=>Container(color:const Color(0xFF171923),alignment:Alignment.center,child:const Icon(Icons.image_not_supported_outlined,size:38,color:Colors.white38));
-Widget _photo(String source){final network=source.startsWith('http://')||source.startsWith('https://');final image=network?Image.network(source,fit:BoxFit.cover,width:double.infinity,height:double.infinity,filterQuality:FilterQuality.medium,webHtmlElementStrategy:WebHtmlElementStrategy.fallback,loadingBuilder:(context,child,progress)=>progress==null?child:Container(color:const Color(0xFF171923),alignment:Alignment.center,child:const CircularProgressIndicator(strokeWidth:2)),errorBuilder:(_,__,___)=>_photoFallback()):Image.asset(source,fit:BoxFit.cover,width:double.infinity,height:double.infinity,filterQuality:FilterQuality.medium,errorBuilder:(_,__,___)=>_photoFallback());return ClipRRect(borderRadius:BorderRadius.circular(20),child:AspectRatio(aspectRatio:4/3,child:image));}
+Widget _photo(String source){final network=source.startsWith('http://')||source.startsWith('https://');final image=network?Image.network(source,fit:BoxFit.cover,width:double.infinity,height:double.infinity,filterQuality:FilterQuality.medium,loadingBuilder:(context,child,progress)=>progress==null?child:Container(color:const Color(0xFF171923),alignment:Alignment.center,child:const CircularProgressIndicator(strokeWidth:2)),errorBuilder:(_,__,___)=>_photoFallback()):Image.asset(source,fit:BoxFit.cover,width:double.infinity,height:double.infinity,filterQuality:FilterQuality.medium,errorBuilder:(_,__,___)=>_photoFallback());return ClipRRect(borderRadius:BorderRadius.circular(20),child:AspectRatio(aspectRatio:4/3,child:image));}
 Widget _twoPics(TriviaQuestion q){final a=q.mediaAsset,b=q.mediaAsset2;if(a==null||b==null)return Container(width:double.infinity,padding:const EdgeInsets.all(22),decoration:BoxDecoration(color:const Color(0xFF171923),borderRadius:BorderRadius.circular(22),border:Border.all(color:Colors.white12)),child:Text(widget.ar?'يتم تجهيز الصور الواقعية لهذا اللغز':'Real photos are being prepared for this puzzle',textAlign:TextAlign.center,style:const TextStyle(fontSize:16,fontWeight:FontWeight.w800)));return Row(children:[Expanded(child:_photo(a)),const SizedBox(width:12),Expanded(child:_photo(b))]);}
 Widget _content(TriviaQuestion q,bool isPics){final rawQ=widget.ar?q.questionAr:q.questionEn,rawA=widget.ar?q.answerAr:q.answerEn;final shownQ=_arabicMath(rawQ),shownA=_arabicMath(rawA);return Column(mainAxisSize:MainAxisSize.min,children:[if(isPics)...[_twoPics(q),const SizedBox(height:15)]else...[QuestionVisual(question:q,ar:widget.ar),const SizedBox(height:14),Text(shownQ,textAlign:TextAlign.center,style:const TextStyle(fontSize:22,fontWeight:FontWeight.w900,height:1.25)),const SizedBox(height:15)],if(revealed)Container(width:double.infinity,padding:const EdgeInsets.all(13),decoration:BoxDecoration(color:const Color(0xFF211C48),borderRadius:BorderRadius.circular(16),border:Border.all(color:const Color(0xFF6D5CE7))),child:Text(shownA,textAlign:TextAlign.center,style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900))),const SizedBox(height:12),if(!revealed)SizedBox(width:220,height:45,child:FilledButton(onPressed:_reveal,child:Text(widget.ar?'إظهار الإجابة':'Show answer'))),if(revealed)...[Text(widget.ar?'من يستحق ${widget.slot.points} نقطة؟':'Who gets ${widget.slot.points} points?'),const SizedBox(height:7),Row(children:[Expanded(child:_award(0,widget.teamA)),const SizedBox(width:6),Expanded(child:_award(1,widget.teamB)),const SizedBox(width:6),Expanded(child:_award(-1,widget.ar?'لا أحد':'Nobody'))]),const SizedBox(height:8),FilledButton(onPressed:award==null?null:()=>Navigator.pop(context,award),child:Text(widget.ar?'تأكيد':'Confirm'))]]);}
 Widget _award(int v,String label)=>OutlinedButton(onPressed:()=>setState(()=>award=v),style:OutlinedButton.styleFrom(backgroundColor:award==v?const Color(0xFF5C4ED8):const Color(0xFF171923)),child:Text(label,maxLines:1,overflow:TextOverflow.ellipsis));}
