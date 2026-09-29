@@ -10,7 +10,7 @@ _g200('gaming_006','ما اسم الأميرة التي تحمل سلسلة The 
 _g200('gaming_007','أي شركة تصنع أجهزة PlayStation؟','Which company makes PlayStation consoles?','سوني','Sony','https://www.playstation.com/'),
 _g200('gaming_008','أي شركة تصنع أجهزة Xbox؟','Which company makes Xbox consoles?','مايكروسوفت','Microsoft','https://www.xbox.com/'),
 _g200('gaming_009','أي شركة تصنع Nintendo Switch؟','Which company makes the Nintendo Switch?','نينتندو','Nintendo','https://www.nintendo.com/'),
-_g200('gaming_010','في Minecraft، ما المادة الخضراء المتفجرة التي تمثلها شخصية Creeper؟','In Minecraft, what is the name of the green exploding hostile mob?','كريبر','Creeper','https://www.minecraft.net/'),
+_g200('gaming_010','في Minecraft، ما اسم المخلوق الأخضر العدائي الذي ينفجر قرب اللاعب؟','In Minecraft, what is the name of the green exploding hostile mob?','كريبر','Creeper','https://www.minecraft.net/'),
 _g200('gaming_011','ما اسم لعبة البناء والبقاء الشهيرة ذات العالم المكوّن من مكعبات؟','What famous building and survival game has a block-based world?','Minecraft','Minecraft','https://www.minecraft.net/'),
 _g200('gaming_012','ما اسم سلسلة ألعاب كرة القدم التي خلفت FIFA لدى EA؟','What football game series replaced FIFA at EA?','EA SPORTS FC','EA SPORTS FC','https://www.ea.com/games/ea-sports-fc'),
 _g200('gaming_013','أي رياضة تحاكيها سلسلة NBA 2K؟','Which sport does the NBA 2K series simulate?','كرة السلة','Basketball','https://nba.2k.com/'),
@@ -31,7 +31,7 @@ _g200('gaming_027','ما اسم بطل God of War؟','Who is the protagonist of 
 _g200('gaming_028','ما اسم بطل Halo الرئيسي؟','Who is the main hero of Halo?','Master Chief','Master Chief','https://www.xbox.com/games/halo'),
 _g200('gaming_029','ما اسم بطلة سلسلة Tomb Raider؟','Who is the heroine of Tomb Raider?','Lara Croft','Lara Croft','https://www.tombraider.com/'),
 _g200('gaming_030','ما اسم بطل سلسلة Hitman؟','Who is the protagonist of Hitman?','Agent 47','Agent 47','https://ioi.dk/hitman'),
-_g200('gaming_031','ما اسم لعبة Rockstar التي تدور حول الجريمة في عالم مفتوح وتحمل اختصار GTA؟','What Rockstar open-world crime series is abbreviated GTA?','Grand Theft Auto','Grand Theft Auto','https://www.rockstargames.com/gta-v'),
+_g200('gaming_031','ما اسم سلسلة Rockstar التي تدور حول الجريمة في عالم مفتوح وتحمل اختصار GTA؟','What Rockstar open-world crime series is abbreviated GTA?','Grand Theft Auto','Grand Theft Auto','https://www.rockstargames.com/gta-v'),
 _g200('gaming_032','ما اسم سلسلة الغرب الأمريكي من Rockstar؟','What is Rockstar’s Western game series called?','Red Dead Redemption','Red Dead Redemption','https://www.rockstargames.com/reddeadredemption2/'),
 _g200('gaming_033','ما اسم سلسلة الرعب التي تضم مدينة Raccoon City؟','Which horror series features Raccoon City?','Resident Evil','Resident Evil','https://www.residentevil.com/'),
 _g200('gaming_034','ما اسم لعبة Valve التنافسية المعروفة اختصاراً CS2؟','What Valve competitive game is abbreviated CS2?','Counter-Strike 2','Counter-Strike 2','https://www.counter-strike.net/cs2');
