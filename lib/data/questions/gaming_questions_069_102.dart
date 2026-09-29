@@ -34,5 +34,5 @@ _g600('gaming_098','ما اسم السيف الضخم الشهير الذي يس
 _g600('gaming_099','ما اسم المنظمة التي ينتمي إليها Cloud في بداية Final Fantasy VII كمرتزق متعاون؟','What anti-Shinra group does Cloud work with near the start of Final Fantasy VII?','AVALANCHE','AVALANCHE','https://ffvii.square-enix-games.com/'),
 _g600('gaming_100','ما اسم بطل Devil May Cry الأساسي ذي الشعر الأبيض؟','Who is the primary white-haired hero of Devil May Cry?','Dante','Dante','https://www.devilmaycry.com/'),
 _g600('gaming_101','ما اسم شقيق Dante التوأم في Devil May Cry؟','What is Dante’s twin brother called in Devil May Cry?','Vergil','Vergil','https://www.devilmaycry.com/'),
-_g600('gaming_102','ما اسم بطلة Bayonetta الحقيقي المستخدم في قصتها؟','What is Bayonetta’s birth name used in her story?','Cereza','Cereza','https://www.nintendo.com/us/store/products/bayonetta-3-switch/');
+_g600('gaming_102','ما اسم بطلة Bayonetta الحقيقي المستخدم في قصتها؟','What is Bayonetta’s birth name used in her story?','Cereza','Cereza','https://www.nintendo.com/us/store/products/bayonetta-3-switch/'),
 ];
