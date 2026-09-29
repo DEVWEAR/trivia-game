@@ -23,6 +23,7 @@ class TriviaQuestion {
     required this.lastVerified,
     this.mediaType = QuestionMediaType.none,
     this.mediaAsset,
+    this.mediaAsset2,
   });
 
   final String id;
@@ -40,6 +41,10 @@ class TriviaQuestion {
 
   final QuestionMediaType mediaType;
   final String? mediaAsset;
+
+  /// Optional second image for visual puzzle formats such as Two Pics One Word.
+  /// Both assets must be real/licensed photographic images, not emoji stand-ins.
+  final String? mediaAsset2;
 }
 
 /// Production content rules:
@@ -53,3 +58,4 @@ class TriviaQuestion {
 /// 8. Time-sensitive facts must have a lastVerified date and be reviewed again.
 /// 9. A question never moves into a loosely related category just to fill quota.
 /// 10. Question count and remaining count are maintained independently per category.
+/// 11. Two Pics One Word uses two real photographic assets; the pair must lead fairly and logically to the answer.
