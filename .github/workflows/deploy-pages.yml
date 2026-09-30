@@ -21,32 +21,25 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Seed first real Two Pics assets into repository
+      - name: Replace first Two Pics clue with proper split clues
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p web/two_pics
-          changed=0
-          if [ ! -s web/two_pics/001_1.jpg ]; then
-            curl --fail --location --retry 5 --retry-delay 3 --user-agent 'DEVTriviaGame/1.0' \
-              'https://upload.wikimedia.org/wikipedia/commons/c/c5/Sun_clear_sky.jpg' \
-              -o web/two_pics/001_1.jpg
-            changed=1
-          fi
-          if [ ! -s web/two_pics/001_2.jpg ]; then
-            curl --fail --location --retry 5 --retry-delay 3 --user-agent 'DEVTriviaGame/1.0' \
-              'https://upload.wikimedia.org/wikipedia/commons/2/2b/Fashion-sunglasses-summer-eyewear_%2824326655305%29.jpg' \
-              -o web/two_pics/001_2.jpg
-            changed=1
-          fi
-          file web/two_pics/001_1.jpg web/two_pics/001_2.jpg
-          test $(wc -c < web/two_pics/001_1.jpg) -gt 10000
-          test $(wc -c < web/two_pics/001_2.jpg) -gt 10000
-          if [ "$changed" = 1 ]; then
+          mkdir -p assets/two_pics
+          curl --fail --location --retry 5 --retry-delay 3 --user-agent 'DEVTriviaGame/1.0' \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Eyeglasses%20(AM%2071518-7).jpg?width=1280' \
+            -o assets/two_pics/001_1.jpg
+          curl --fail --location --retry 5 --retry-delay 3 --user-agent 'DEVTriviaGame/1.0' \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Sky_with_birds_and_sun.jpg?width=1080' \
+            -o assets/two_pics/001_2.jpg
+          file assets/two_pics/001_1.jpg assets/two_pics/001_2.jpg
+          test $(wc -c < assets/two_pics/001_1.jpg) -gt 10000
+          test $(wc -c < assets/two_pics/001_2.jpg) -gt 10000
+          if ! git diff --quiet -- assets/two_pics/001_1.jpg assets/two_pics/001_2.jpg; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add web/two_pics/001_1.jpg web/two_pics/001_2.jpg
-            git commit -m 'Add first verified Two Pics photo assets'
+            git add assets/two_pics/001_1.jpg assets/two_pics/001_2.jpg
+            git commit -m 'Replace first Two Pics clue photos'
             git push origin HEAD:main
           fi
       - uses: subosito/flutter-action@v2
@@ -61,10 +54,10 @@ jobs:
           set -euo pipefail
           test -s build/web/index.html
           test -s build/web/main.dart.js
-          test $(wc -c < build/web/two_pics/001_1.jpg) -gt 10000
-          test $(wc -c < build/web/two_pics/001_2.jpg) -gt 10000
-          file build/web/two_pics/001_1.jpg build/web/two_pics/001_2.jpg
-          echo 'First Two Pics assets verified inside build/web'
+          test $(wc -c < build/web/assets/assets/two_pics/001_1.jpg) -gt 10000
+          test $(wc -c < build/web/assets/assets/two_pics/001_2.jpg) -gt 10000
+          file build/web/assets/assets/two_pics/001_1.jpg build/web/assets/assets/two_pics/001_2.jpg
+          echo 'Updated Two Pics assets verified inside Flutter build'
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build/web
