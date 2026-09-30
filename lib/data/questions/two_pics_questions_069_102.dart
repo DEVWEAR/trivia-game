@@ -1,8 +1,8 @@
 import '../question_model.dart';
 TriviaQuestion _p600(String id,String ar,String en,String photo1,String photo2){
  final n=int.parse(id.split('_').last);
- String realPhoto(String brief,int side){final origin='https://loremflickr.com/960/720/${Uri.encodeComponent(brief)}?lock=${n*2+side}';return 'https://images.weserv.nl/?url=${Uri.encodeComponent(origin)}&w=960&h=720&fit=cover&output=jpg';}
- return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.hard600,questionAr:'صورتان، عبارة واحدة',questionEn:'Two photos, one phrase',answerAr:ar,answerEn:en,sourceName:'Real photographic clue feed via web-safe image proxy',sourceUrl:'https://images.weserv.nl/',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:realPhoto(photo1,0),mediaAsset2:realPhoto(photo2,1));
+ String localPhoto(int side)=>'two_pics/${n.toString().padLeft(3,'0')}_$side.jpg';
+ return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.hard600,questionAr:'صورتان، عبارة واحدة',questionEn:'Two photos, one phrase',answerAr:ar,answerEn:en,sourceName:'Bundled Wikimedia Commons photographic clue',sourceUrl:'https://commons.wikimedia.org/',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
 }
 final twoPicsQuestions069To102=<TriviaQuestion>[
 _p600('two_pics_069','قلب من حجر','Heart of stone','heart model','stone rock'),
