@@ -1,7 +1,7 @@
 import '../question_model.dart';
 TriviaQuestion _p400(String id,String ar,String en,String photo1,String photo2){
  final n=int.parse(id.split('_').last);
- String localPhoto(int side)=>'two_pics/${n.toString().padLeft(3,'0')}_$side.jpg';
+ String localPhoto(int side)=>'assets/two_pics/${n.toString().padLeft(3,'0')}_$side.jpg';
  return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.medium400,questionAr:'صورتان، عبارة واحدة',questionEn:'Two photos, one phrase',answerAr:ar,answerEn:en,sourceName:'Bundled Wikimedia Commons photographic clue',sourceUrl:'https://commons.wikimedia.org/',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
 }
 final twoPicsQuestions035To068=<TriviaQuestion>[
