@@ -16,7 +16,7 @@ class BoardCategory{BoardCategory({required this.id,required this.ar,required th
 class BoardSlot{BoardSlot({required this.category,required this.points,required this.question});final BoardCategory category;final int points;final TriviaQuestion question;bool used=false;}
 BoardCategory categoryForIndex(int i)=>switch(i){0=>BoardCategory(id:0,ar:'الإمارات',en:'UAE',icon:'🇦🇪',questions:uaeGeneralFinalQuestions),1=>BoardCategory(id:1,ar:'كرة القدم الإماراتية',en:'UAE Football',icon:'⚽',questions:uaeFootballFinalQuestions),2=>BoardCategory(id:2,ar:'معلومات عامة',en:'General Knowledge',icon:'💡',questions:generalKnowledgeFinalQuestions),3=>BoardCategory(id:3,ar:'ألغاز وذكاء',en:'Brain & Riddles',icon:'🧠',questions:brainFinalQuestions),4=>BoardCategory(id:4,ar:'ألعاب الفيديو',en:'Gaming',icon:'🎮',questions:gamingFinalQuestions),5=>BoardCategory(id:5,ar:'ولا كلمة',en:'No Words',icon:'🎯',questions:noWordsFinalQuestions),6=>BoardCategory(id:6,ar:'صورتين كلمة واحدة',en:'Two Pics One Word',icon:'🖼️',questions:twoPicsFinalQuestions),_=>throw ArgumentError('Unknown category index: $i')};
 List<BoardCategory> categoriesForIndexes(List<int>x)=>x.map(categoryForIndex).toList();
-List<BoardSlot> makeSlots(BoardCategory c){final out=<BoardSlot>[];for(final d in QuestionDifficulty.values){final p=c.questions.where((q)=>q.difficulty==d).toList()..shuffle(Random.secure());out.addAll(p.take(2).map((q)=>BoardSlot(category:c,points:d.points,question:q)));}return out;}
+List<BoardSlot> makeSlots(BoardCategory c){final out=<BoardSlot>[];for(final d in QuestionDifficulty.values){final p=c.questions.where((q)=>q.difficulty==d).toList()..shuffle(Random.secure());if(c.id==6&&d==QuestionDifficulty.easy200){final test=p.where((q)=>q.id=='two_pics_001').toList();final rest=p.where((q)=>q.id!='two_pics_001').toList();final chosen=<TriviaQuestion>[...test,...rest].take(2);out.addAll(chosen.map((q)=>BoardSlot(category:c,points:d.points,question:q)));}else{out.addAll(p.take(2).map((q)=>BoardSlot(category:c,points:d.points,question:q)));}}return out;}
 class TriviaBoardScreen extends StatefulWidget{const TriviaBoardScreen({super.key,required this.ar,required this.categoryIndexes,required this.teamA,required this.teamB});final bool ar;final List<int>categoryIndexes;final String teamA,teamB;@override State<TriviaBoardScreen>createState()=>_BoardState();}
 class _BoardState extends State<TriviaBoardScreen>{late final List<BoardCategory>cats;late final Map<int,List<BoardSlot>>slots;int a=0,b=0,turn=0;@override void initState(){super.initState();cats=categoriesForIndexes(widget.categoryIndexes);slots={for(final c in cats)c.id:makeSlots(c)};SystemChrome.setPreferredOrientations(const[DeviceOrientation.landscapeLeft,DeviceOrientation.landscapeRight]);}@override void dispose(){SystemChrome.setPreferredOrientations(const[DeviceOrientation.portraitUp,DeviceOrientation.portraitDown]);super.dispose();}
 @override Widget build(BuildContext context)=>Directionality(textDirection:widget.ar?TextDirection.rtl:TextDirection.ltr,child:Scaffold(appBar:AppBar(toolbarHeight:44,backgroundColor:Colors.transparent,title:Text(widget.ar?'لوحة المواجهة':'Showdown Board')),body:SafeArea(child:Padding(padding:const EdgeInsets.all(12),child:Column(children:[Row(children:[Expanded(child:_score(widget.teamA,a,turn==0)),const SizedBox(width:8),Expanded(child:Text(widget.ar?'الدور على ${turn==0?widget.teamA:widget.teamB}':'${turn==0?widget.teamA:widget.teamB} turn',textAlign:TextAlign.center,style:const TextStyle(fontWeight:FontWeight.w800))),const SizedBox(width:8),Expanded(child:_score(widget.teamB,b,turn==1))]),const SizedBox(height:10),Expanded(child:LayoutBuilder(builder:(_,box)=>_board(box.maxWidth,box.maxHeight)))])))));
@@ -50,7 +50,6 @@ Widget build(BuildContext context){
            child:SingleChildScrollView(child:_content(q,isPics)),
           ),
          ),
-        ),
        ),
       ]);
      },
@@ -59,9 +58,41 @@ Widget build(BuildContext context){
   ),
  );
 }
-Widget _clock()=>Column(children:[Container(width:78,height:78,alignment:Alignment.center,decoration:BoxDecoration(shape:BoxShape.circle,color:const Color(0xFF151721),border:Border.all(color:steal?const Color(0xFFFFA34D):const Color(0xFF43D5C7),width:4)),child:Text('$seconds',style:const TextStyle(fontSize:27,fontWeight:FontWeight.w900))),const SizedBox(height:4),Text('${steal?(widget.ar?'سرقة':'STEAL'):(widget.ar?'وقت':'TIME')} • ${name(active)}',textAlign:TextAlign.center,maxLines:2,style:const TextStyle(fontSize:10,fontWeight:FontWeight.w900))]);
-Widget _photoFallback()=>Container(color:const Color(0xFF171923),alignment:Alignment.center,child:const Icon(Icons.image_not_supported_outlined,size:38,color:Colors.white38));
-Widget _photo(String source){final network=source.startsWith('http://')||source.startsWith('https://');final image=network?Image.network(source,fit:BoxFit.cover,width:double.infinity,height:double.infinity,filterQuality:FilterQuality.medium,loadingBuilder:(context,child,progress)=>progress==null?child:Container(color:const Color(0xFF171923),alignment:Alignment.center,child:const CircularProgressIndicator(strokeWidth:2)),errorBuilder:(_,__,___)=>_photoFallback()):Image.asset(source,fit:BoxFit.cover,width:double.infinity,height:double.infinity,filterQuality:FilterQuality.medium,errorBuilder:(_,__,___)=>_photoFallback());return ClipRRect(borderRadius:BorderRadius.circular(20),child:AspectRatio(aspectRatio:4/3,child:image));}
-Widget _twoPics(TriviaQuestion q){final a=q.mediaAsset,b=q.mediaAsset2;if(a==null||b==null)return Container(width:double.infinity,padding:const EdgeInsets.all(22),decoration:BoxDecoration(color:const Color(0xFF171923),borderRadius:BorderRadius.circular(22),border:Border.all(color:Colors.white12)),child:Text(widget.ar?'يتم تجهيز الصور الواقعية لهذا اللغز':'Real photos are being prepared for this puzzle',textAlign:TextAlign.center,style:const TextStyle(fontSize:16,fontWeight:FontWeight.w800)));return Row(children:[Expanded(child:_photo(a)),const SizedBox(width:12),Expanded(child:_photo(b))]);}
-Widget _content(TriviaQuestion q,bool isPics){final rawQ=widget.ar?q.questionAr:q.questionEn,rawA=widget.ar?q.answerAr:q.answerEn;final shownQ=_arabicMath(rawQ),shownA=_arabicMath(rawA);return Column(mainAxisSize:MainAxisSize.min,children:[if(isPics)...[_twoPics(q),const SizedBox(height:15)]else...[QuestionVisual(question:q,ar:widget.ar),const SizedBox(height:14),Text(shownQ,textAlign:TextAlign.center,style:const TextStyle(fontSize:22,fontWeight:FontWeight.w900,height:1.25)),const SizedBox(height:15)],if(revealed)Container(width:double.infinity,padding:const EdgeInsets.all(13),decoration:BoxDecoration(color:const Color(0xFF211C48),borderRadius:BorderRadius.circular(16),border:Border.all(color:const Color(0xFF6D5CE7))),child:Text(shownA,textAlign:TextAlign.center,style:const TextStyle(fontSize:19,fontWeight:FontWeight.w900))),const SizedBox(height:12),if(!revealed)SizedBox(width:220,height:45,child:FilledButton(onPressed:_reveal,child:Text(widget.ar?'إظهار الإجابة':'Show answer'))),if(revealed)...[Text(widget.ar?'من يستحق ${widget.slot.points} نقطة؟':'Who gets ${widget.slot.points} points?'),const SizedBox(height:7),Row(children:[Expanded(child:_award(0,widget.teamA)),const SizedBox(width:6),Expanded(child:_award(1,widget.teamB)),const SizedBox(width:6),Expanded(child:_award(-1,widget.ar?'لا أحد':'Nobody'))]),const SizedBox(height:8),FilledButton(onPressed:award==null?null:()=>Navigator.pop(context,award),child:Text(widget.ar?'تأكيد':'Confirm'))]]);}
-Widget _award(int v,String label)=>OutlinedButton(onPressed:()=>setState(()=>award=v),style:OutlinedButton.styleFrom(backgroundColor:award==v?const Color(0xFF5C4ED8):const Color(0xFF171923)),child:Text(label,maxLines:1,overflow:TextOverflow.ellipsis));}
+
+Widget _content(TriviaQuestion q,bool isPics){
+ final prompt=widget.ar?q.questionAr:q.questionEn;
+ final answer=widget.ar?q.answerAr:q.answerEn;
+ if(isPics){
+  final a=q.mediaAsset;
+  final b=q.mediaAsset2;
+  return Column(mainAxisSize:MainAxisSize.min,children:[
+   Row(children:[Expanded(child:_pic(a)),const SizedBox(width:12),Expanded(child:_pic(b))]),
+   const SizedBox(height:16),
+   if(revealed)Container(width:double.infinity,padding:const EdgeInsets.symmetric(horizontal:18,vertical:16),decoration:BoxDecoration(color:const Color(0xFF241E55),borderRadius:BorderRadius.circular(16),border:Border.all(color:const Color(0xFF765CFF))),child:Text(answer,textAlign:TextAlign.center,style:const TextStyle(fontSize:24,fontWeight:FontWeight.w900)))
+   else FilledButton(onPressed:_reveal,child:Text(widget.ar?'إظهار الإجابة':'Show answer')),
+   if(revealed)...[const SizedBox(height:14),_awardButtons()],
+  ]);
+ }
+ return Column(mainAxisSize:MainAxisSize.min,children:[
+  if(q.hasVisual)...[QuestionVisual(question:q,height:260),const SizedBox(height:14)],
+  Text(_arabicMath(prompt),textAlign:TextAlign.center,style:const TextStyle(fontSize:27,fontWeight:FontWeight.w900,height:1.25)),
+  const SizedBox(height:18),
+  if(!revealed)FilledButton(onPressed:_reveal,child:Text(widget.ar?'إظهار الإجابة':'Show answer'))
+  else...[
+   Container(width:double.infinity,padding:const EdgeInsets.symmetric(horizontal:18,vertical:16),decoration:BoxDecoration(color:const Color(0xFF241E55),borderRadius:BorderRadius.circular(16),border:Border.all(color:const Color(0xFF765CFF))),child:Text(_arabicMath(answer),textAlign:TextAlign.center,style:const TextStyle(fontSize:24,fontWeight:FontWeight.w900))),
+   const SizedBox(height:14),_awardButtons(),
+  ],
+ ]);
+}
+
+Widget _pic(String? source){
+ if(source==null||source.isEmpty)return _missingPic();
+ final image=source.startsWith('http')
+   ?Image.network(source,fit:BoxFit.cover,errorBuilder:(_,__,___)=>_missingPic())
+   :Image.asset(source,fit:BoxFit.cover,errorBuilder:(_,__,___)=>_missingPic());
+ return AspectRatio(aspectRatio:4/3,child:ClipRRect(borderRadius:BorderRadius.circular(18),child:ColoredBox(color:const Color(0xFF171924),child:image)));
+}
+Widget _missingPic()=>AspectRatio(aspectRatio:4/3,child:Container(decoration:BoxDecoration(color:const Color(0xFF171924),borderRadius:BorderRadius.circular(18)),alignment:Alignment.center,child:const Icon(Icons.hide_image_outlined,size:52,color:Colors.white38)));
+Widget _clock()=>Column(mainAxisSize:MainAxisSize.min,children:[SizedBox(width:92,height:92,child:Stack(alignment:Alignment.center,children:[CircularProgressIndicator(value:seconds/(steal?15:60),strokeWidth:5,color:steal?Colors.orangeAccent:const Color(0xFF68D6CE),backgroundColor:Colors.white12),Text('$seconds',style:const TextStyle(fontSize:28,fontWeight:FontWeight.w900))])),const SizedBox(height:5),Text('${widget.ar?'وقت':'Time'} • ${name(active)}',textAlign:TextAlign.center,maxLines:2,style:const TextStyle(fontSize:12,fontWeight:FontWeight.w800))]);
+Widget _awardButtons(){Widget b(String t,int? w)=>OutlinedButton(onPressed:()=>Navigator.pop(context,w),child:Text(t));return Column(children:[Text(widget.ar?'من يستحق ${widget.slot.points} نقطة؟':'Who gets ${widget.slot.points} points?'),const SizedBox(height:8),Wrap(spacing:8,runSpacing:8,alignment:WrapAlignment.center,children:[b(widget.teamA,0),b(widget.teamB,1),b(widget.ar?'لا أحد':'No one',null)]),const SizedBox(height:10),FilledButton(onPressed:award==null?null:()=>Navigator.pop(context,award),child:Text(widget.ar?'تأكيد':'Confirm'))]);}
+}
