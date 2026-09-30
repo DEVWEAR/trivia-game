@@ -2,7 +2,7 @@ import '../question_model.dart';
 TriviaQuestion _p400(String id,String ar,String en,String photo1,String photo2){
  final n=int.parse(id.split('_').last);
  String localPhoto(int side)=>'assets/two_pics/${n.toString().padLeft(3,'0')}_$side.jpg';
- return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.medium400,questionAr:'صورتان، عبارة واحدة',questionEn:'Two photos, one phrase',answerAr:ar,answerEn:en,sourceName:'Bundled Wikimedia Commons photographic clue',sourceUrl:'https://commons.wikimedia.org/',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
+ return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.medium400,questionAr:'صورتان، عبارة واحدة',questionEn:'Two photos, one phrase',answerAr:ar,answerEn:en,sourceName:'Bundled real photographic clue',sourceUrl:'local asset',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
 }
 final twoPicsQuestions035To068=<TriviaQuestion>[
 _p400('two_pics_035','عصف ذهني','Brainstorm','human brain','storm clouds'),
@@ -13,7 +13,7 @@ _p400('two_pics_039','بيت العنكبوت','Spider house','spider','house'),
 _p400('two_pics_040','ساعة رملية','Hourglass','clock','sand'),
 _p400('two_pics_041','موجة حر','Heat wave','ocean wave','hot sun'),
 _p400('two_pics_042','كرة ثلج','Snowball','snow','ball'),
-_p400('two_pics_043','مطرقة ثقيلة','Heavy hammer','hammer','heavy weight'),
+_p400('two_pics_043','وزن الريشة','Featherweight','heavy weight','feather'),
 _p400('two_pics_044','طريق سريع','Highway','road','speedometer'),
 _p400('two_pics_045','ضوء القمر','Moonlight','moon','light beam'),
 _p400('two_pics_046','ماء الورد','Rose water','rose','water'),
@@ -29,9 +29,9 @@ _p400('two_pics_055','كرسي كهربائي','Electric chair','chair','electri
 _p400('two_pics_056','حائط الصد','Defensive wall','brick wall','goalkeeper blocking ball'),
 _p400('two_pics_057','طاولة مستديرة','Round table','round circle','table'),
 _p400('two_pics_058','مفتاح السيارة','Car key','metal key','car'),
-_p400('two_pics_059','ضربة شمس','Sunstroke','bright sun','person dizzy headache'),
+_p400('two_pics_059','ضربة شمس','Sunstroke','boxing punch','bright sun'),
 _p400('two_pics_060','حزام الأمان','Seat belt','clothing belt with buckle','safety shield symbol'),
-_p400('two_pics_061','خط النهاية','Finish line','straight line','finish flag'),
+_p400('two_pics_061','خط النهاية','Finish line','straight line','checkered finish flag'),
 _p400('two_pics_062','سوق سوداء','Black market','market','black color'),
 _p400('two_pics_063','البيت الأبيض','White House','house','white paint'),
 _p400('two_pics_064','بحر ميت','Dead Sea','sea','dead dry tree'),
