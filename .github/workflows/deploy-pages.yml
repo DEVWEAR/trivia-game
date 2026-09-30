@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -19,21 +19,52 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Seed first real Two Pics assets into repository
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p web/two_pics
+          changed=0
+          if [ ! -s web/two_pics/001_1.jpg ]; then
+            curl --fail --location --retry 5 --retry-delay 3 --user-agent 'DEVTriviaGame/1.0' \
+              'https://upload.wikimedia.org/wikipedia/commons/c/c5/Sun_clear_sky.jpg' \
+              -o web/two_pics/001_1.jpg
+            changed=1
+          fi
+          if [ ! -s web/two_pics/001_2.jpg ]; then
+            curl --fail --location --retry 5 --retry-delay 3 --user-agent 'DEVTriviaGame/1.0' \
+              'https://upload.wikimedia.org/wikipedia/commons/2/2b/Fashion-sunglasses-summer-eyewear_%2824326655305%29.jpg' \
+              -o web/two_pics/001_2.jpg
+            changed=1
+          fi
+          file web/two_pics/001_1.jpg web/two_pics/001_2.jpg
+          test $(wc -c < web/two_pics/001_1.jpg) -gt 10000
+          test $(wc -c < web/two_pics/001_2.jpg) -gt 10000
+          if [ "$changed" = 1 ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add web/two_pics/001_1.jpg web/two_pics/001_2.jpg
+            git commit -m 'Add first verified Two Pics photo assets'
+            git push origin HEAD:main
+          fi
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
           cache: true
       - run: flutter pub get
-      - name: Prepare Two Pics folder without network dependency
-        run: mkdir -p web/two_pics
       - run: flutter build web --release --base-href /trivia-game/
-      - name: Verify Flutter web output
+      - name: Verify Two Pics assets are in published output
         shell: bash
         run: |
           set -euo pipefail
           test -s build/web/index.html
           test -s build/web/main.dart.js
-          echo "Flutter web output verified"
+          test $(wc -c < build/web/two_pics/001_1.jpg) -gt 10000
+          test $(wc -c < build/web/two_pics/001_2.jpg) -gt 10000
+          file build/web/two_pics/001_1.jpg build/web/two_pics/001_2.jpg
+          echo 'First Two Pics assets verified inside build/web'
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build/web
