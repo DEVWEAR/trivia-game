@@ -30,6 +30,12 @@ jobs:
           test -s '001_1.jpg.jpeg'
           cp '001_1.jpg.jpeg' assets/two_pics/001_2.jpg
 
+          # These riddles/clues were revised. Remove their old photos so the
+          # downloader actually replaces them instead of KEEP-ing stale assets.
+          for i in 018 021 030 032 042 043 059 060 065; do
+            rm -f "assets/two_pics/${i}_1.jpg" "assets/two_pics/${i}_2.jpg"
+          done
+
           python3 - <<'PY'
           import json, pathlib, time, urllib.parse, urllib.request, urllib.error
 
@@ -105,7 +111,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add assets/two_pics/*.jpg
           if ! git diff --cached --quiet; then
-            git commit -m 'Add curated local photos for Two Pics 200 and 400 cards'
+            git commit -m 'Refresh revised local photos for Two Pics cards'
             git push origin HEAD:main
           fi
 
