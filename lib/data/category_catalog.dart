@@ -5,7 +5,7 @@ class TriviaCategory {
     required this.ar,
     required this.en,
     required this.group,
-    this.totalQuestions = 100,
+    this.totalQuestions = 204,
   });
 
   final String id;
@@ -70,7 +70,7 @@ const triviaCategories = <TriviaCategory>[
   TriviaCategory(id: 'car_logos', emoji: '🔰', ar: 'شعارات السيارات', en: 'Car Logos', group: 'cars'),
 
   // General interests
-  TriviaCategory(id: 'general_knowledge', emoji: '💡', ar: 'معلومات عامة', en: 'General Knowledge', group: 'general', totalQuestions: 102),
+  TriviaCategory(id: 'general_knowledge', emoji: '💡', ar: 'معلومات عامة', en: 'General Knowledge', group: 'general'),
   TriviaCategory(id: 'animals', emoji: '🐆', ar: 'الحيوانات', en: 'Animals', group: 'general'),
   TriviaCategory(id: 'world', emoji: '🌍', ar: 'حول العالم', en: 'Around the World', group: 'general'),
   TriviaCategory(id: 'gaming', emoji: '🎮', ar: 'ألعاب الفيديو', en: 'Gaming', group: 'general'),
