@@ -44,14 +44,37 @@ class _HomeScreenState extends State<HomeScreen> {
           )],
         ),
         body:Stack(fit:StackFit.expand,children:[
-          AnimatedSwitcher(
-            duration:const Duration(milliseconds:900),
-            child:Image.asset(
-              backgrounds[imageIndex],
-              key:ValueKey(imageIndex),
-              fit:BoxFit.cover,
-              errorBuilder:(_,__,___)=>const ColoredBox(color:Color(0xFF101F28)),
-            ),
+          Positioned.fill(
+            child:LayoutBuilder(builder:(context,constraints)=>ClipRect(
+              child:AnimatedSwitcher(
+                duration:const Duration(milliseconds:260),
+                switchInCurve:Curves.easeOutCubic,
+                switchOutCurve:Curves.easeInCubic,
+                transitionBuilder:(child,animation){
+                  final offset=Tween<Offset>(
+                    begin:const Offset(1,0),end:Offset.zero,
+                  ).animate(animation);
+                  return SlideTransition(position:offset,child:child);
+                },
+                layoutBuilder:(current,previous)=>Stack(
+                  fit:StackFit.expand,
+                  children:[...previous,if(current!=null)current],
+                ),
+                child:SizedBox(
+                  key:ValueKey(imageIndex),
+                  width:constraints.maxWidth,
+                  height:constraints.maxHeight,
+                  child:Image.asset(
+                    backgrounds[imageIndex],
+                    width:constraints.maxWidth,
+                    height:constraints.maxHeight,
+                    fit:BoxFit.cover,
+                    alignment:Alignment.center,
+                    errorBuilder:(_,__,___)=>const ColoredBox(color:Color(0xFF101F28)),
+                  ),
+                ),
+              ),
+            )),
           ),
           const ColoredBox(color:Color(0x99051018)),
           SafeArea(
