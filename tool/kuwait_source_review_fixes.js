@@ -1,0 +1,14 @@
+const fs=require('fs'),dir='content/kuwait_general/';
+function set(file,id,changes){let lines=fs.readFileSync(dir+file,'utf8').trim().split(/\r?\n/);const keys=lines[0].split('|'),i=lines.findIndex(x=>x.startsWith(id+'|'));let row=Object.fromEntries(lines[i].split('|').map((v,n)=>[keys[n],v]));Object.assign(row,changes);lines[i]=keys.map(k=>row[k]).join('|');fs.writeFileSync(dir+file,lines.join('\n')+'\n');}
+fs.appendFileSync(dir+'sources.psv','topographyen|Kuwait Government Online — Topography English|https://e.gov.kw/sites/kgoenglish/Pages/Visitors/AboutKuwait/KuwaitAtaGlaneTopography.aspx|Government callsAlJahra largestgovernorate; Arabiccompanion onlyoneoflargest. Otherislandareas/percentageformattingerrors excluded.\n'+
+'filmstory|Khalid Al-Siddiq — Firsthand film interview in Al Jarida|https://www.aljarida.com/articles/1461796851058531000|Director says hefoundAbdulrahmanAlSaleh storyAlLuluah andchangedfilmnameBasYaBahr; useoriginalstoryauthorship notsole screenplaycredit.\n'+
+'asiacupar|AFC — Kuwait wins the 1980 Asian Cup Arabic|https://www.the-afc.com/ar/national/afc_asian_cup/news/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9_%D9%81%D9%88%D8%B2_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A8%D9%84%D9%82%D8%A8_%D9%83%D8%A3%D8%B3_%D8%A2%D8%B3%D9%8A%D8%A7_1980.html|AFC callsKuwaitAlAzraq; hosts1980won; sourceArabicexplicitnickname.\n');
+set('easy.psv','028',{source:'asiacupar'});
+set('easy.psv','055',{source:'topographyen'});
+set('hard.psv','138',{factKey:'cinema:basya:storyauthor',source:'filmstory',questionAr:'من كتب القصة الأصلية التي استند إليها فيلم «بس يا بحر»؟',questionEn:'Who wrote the original story on which Bas Ya Bahr was based?'});
+set('medium.psv','136',{answerAr:'منخفضات صحراوية',answerEn:'Desert depressions'});
+set('sources.psv','ikaros',{evidence:'Hellenistic limestone stela excavated1960Failaka;44Greeklines lettertoinhabitantsofIkaros; displayedKuwaitNationalMuseum; UNESCO MemoryWorld registration2025 submission2023; uncertain246–226BC dating excluded.'});
+set('sources.psv','mirror',{evidence:'CreatorLidiaItalianbornwifeKhalifaQattan;1972expandedmosaicproject;1981termitesdestroyedoriginalpanels promptingdirectwallmosaic1981–1984;Qadsiya; twofirstfloorartgalleries.'});
+set('sources.psv','currency',{evidence:'Dinar divided1000fils;quarterdinar smallestbanknote; denominationsquarter half one five ten twenty;firstissue1961replacedIndianrupee; CBKexclusiveissue. Historicalprinteddateclaims notused.'});
+set('sources.psv','history',{evidence:'1899Britishprotection;CaptainKnoxfirstagent1904;independence19June1961;constitution11Nov1962;ArabLeague1961UN1963;SabahAlAhmadraisedUNflag;NationalDayAbdullahaccession25Feb1950;KFAEDDec1961expanded1974allDevelopingcountries. Exclude mistakenparliamentaryelection1962 and disputedWilliamLuceindependencesignature.'});
+console.log('Individual evidence corrections recorded.');

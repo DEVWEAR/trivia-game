@@ -1,0 +1,3 @@
+"pair","hash","similarity","factA","factB","questionA","answerA","questionB","answerB","decision","reason"
+"gulf_culture_v2_047/uae_heritage_v2_001","08ebfe5307dd77050eaa5803f22fc76f6d6aeae3e685013ee358321c918de88d","0.6","omandress:robe:name","dress:kandura:identity","What is the traditional long men's robe in Oman called?","Dishdasha","What is the long robe worn by men in traditional Emirati dress called?","Kandura","",""
+"gulf_culture_v2_067/uae_heritage_v2_004","57664c164376887f17ce16fa0aa01514e030e362ac388c48458824a91c4b0bb2","0.5","omandress:mussar:identity","dress:agal:function","What is the mussar in traditional Omani dress?","A turban wrapped around the head","What is the purpose of the agal in traditional Emirati dress?","To hold the ghutra in place","",""

@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|song:ayazon:singer|ayazon|من المطربة صاحبة التسجيل الشهير لقصيدة «أيظن»؟|Which singer made the famous recording of Ayazon?|نجاة الصغيرة|Najat Al Saghira
+002|song:saatsaat:singer|saat|من المطربة اللبنانية التي اشتهرت بأغنية «ساعات ساعات»؟|Which Lebanese singer is known for Saat Saat?|صباح|Sabah
+003|song:akdebaleik:singer|akdebwriter|من المطربة صاحبة «أكدب عليك»؟|Which singer performs Akdeb Aleik?|وردة الجزائرية|Warda Al Jazairia
+004|song:eltaer:singer|taer|من المطربة التي غنّت «الطير المسافر» في تسجيله الكلاسيكي؟|Which singer made the classic recording of El Tair El Mosafer?|نجاة الصغيرة|Najat Al Saghira
+005|song:layalion:singer|layalion|من المطربة صاحبة التسجيل الكلاسيكي لـ«ليالي الأنس في فيينا»؟|Which singer made the classic recording of Layali El Ons Fi Vienna?|أسمهان|Asmahan
+006|song:hawasultan:singer|hawa|من المطرب السوري الذي اشتهر بـ«الهوى سلطان»؟|Which Syrian singer is known for El Hawa Sultan?|جورج وسوف|George Wassouf
+007|song:alaremesh:singer|ramesh|من المطرب اللبناني صاحب التسجيل الكلاسيكي لـ«على رمش عيونها»؟|Which Lebanese singer made the classic recording of Ala Remsh Ouyounha?|وديع الصافي|Wadih El Safi
+008|song:modnak:singer|modnak|من المطرب الذي قدّم قصيدة «مضناك جفاه مرقده» في تسجيلها الكلاسيكي؟|Which singer made the classic recording of Modnak Jafahu Marqaduhu?|محمد عبد الوهاب|Mohammed Abdel Wahab
+009|song:haramt:singer|haramt|من المطربة صاحبة أغنية «حرمت أحبك»؟|Which singer performs Haramt Ahebak?|وردة الجزائرية|Warda Al Jazairia
+010|song:libeirout:singer|libeirout|من المطربة التي غنّت «لبيروت»؟|Which singer performs Li Beirut?|فيروز|Fairuz
+011|song:respect:arethaperformance|respect|من المطربة صاحبة تسجيل «ريسبكت» الشهير عام 1967؟|Who made the famous 1967 recording of Respect?|أريثا فرانكلين|Aretha Franklin
+012|song:hitroadjack:performer|rayroad|من المطرب صاحب التسجيل الشهير لـ«هِت ذا رود جاك»؟|Which singer made the famous recording of Hit The Road Jack?|راي تشارلز|Ray Charles
+013|song:superstition:performer|stevie|من الفنان الذي غنّى «سوبرستيشن»؟|Who performs Superstition?|ستيفي وندر|Stevie Wonder
+014|song:whatsgoingon:performer|marvin|من المطرب صاحب أغنية «واتس غوينغ أون» وألبومها الكلاسيكي؟|Which singer released the classic song and album What's Going On?|مارفن غاي|Marvin Gaye
+015|song:dockbay:performer|otis|من المطرب صاحب تسجيل «سِتِن أون ذا دوك أوف ذا باي»؟|Who performs (Sittin' On) The Dock Of The Bay?|أوتيس ريدينغ|Otis Redding
+016|song:johnnybgoode:performer|chuck|من عازف الروك والمغنّي الذي غنّى «جوني بي غود»؟|Which rock musician and singer performs Johnny B. Goode?|تشاك بيري|Chuck Berry
+017|song:changegonnacome:performer|sam|من مطرب السول صاحب «أ تشينج إز غونا كَم»؟|Which soul singer performs A Change Is Gonna Come?|سام كوك|Sam Cooke
+018|song:jolene:performer|dolly|من مطربة الكانتري صاحبة التسجيل الأصلي لأغنية «جولين»؟|Which country singer made the original Jolene recording?|دولي بارتون|Dolly Parton
+019|song:ringfire:cashperformer|cash|من المطرب صاحب التسجيل الشهير لأغنية «رينغ أوف فاير»؟|Who made the famous recording of Ring Of Fire?|جوني كاش|Johnny Cash
+020|song:crazy:patsyperformer|patsy|من مطربة الكانتري صاحبة تسجيل «كريزي» الشهير عام 1961؟|Which country singer made the famous 1961 Crazy recording?|باتسي كلاين|Patsy Cline
+021|song:standbyme:originalperformer|standby|من المطرب صاحب التسجيل الأصلي لـ«ستاند باي مي»؟|Who made the original Stand By Me recording?|بن إي كينغ|Ben E. King
+022|song:unchained:righteousversion|unchained|أي ثنائي غنّى التسجيل الشهير لـ«أنتشيند ميلودي» الذي عاد للنجاح عام 1990؟|Which duo’s famous Unchained Melody recording regained popularity in 1990?|رايتشَس براذرز|The Righteous Brothers
+023|song:soundofsilence:performers|silence|أي ثنائي غنّى «ذا ساوند أوف سايلنس» في تسجيله الأصلي؟|Which duo made the original The Sound Of Silence recording?|سايمون وغارفنكل|Simon and Garfunkel
+024|song:stayinalive:performer|beegees|أي فرقة غنّت «ستايِن ألايف»؟|Which group sings Stayin' Alive?|بي جيز|Bee Gees
+025|song:rasputin:performer|boneym|أي فرقة ديسكو اشتهرت بـ«راسبوتين»؟|Which disco group is known for Rasputin?|بوني إم|Boney M.
+026|song:sweetdreams:performer|eurythmics|أي ثنائي أصدَر «سويت دريمز آر ميد أوف ذِس»؟|Which duo released Sweet Dreams (Are Made Of This)?|يوريثميكس|Eurythmics
+027|song:housrisingsun:animals|animals|أي فرقة اشتهرت بتسجيل «هاوس أوف ذا رايزينغ سان» عام 1964؟|Which band is known for the 1964 House Of The Rising Sun recording?|ذي أنيمالز|The Animals
+028|song:satisfaction:performer|stones|أي فرقة غنّت «آي كانت غِت نو ساتيسفاكشن»؟|Which band performs (I Can't Get No) Satisfaction?|ذا رولينغ ستونز|The Rolling Stones
+029|song:lightmyfire:performer|doors|أي فرقة روك أصدرت «لايت ماي فاير»؟|Which rock band released Light My Fire?|ذا دورز|The Doors
+030|song:mygeneration:performer|who|أي فرقة غنّت «ماي جينيريشن» في تسجيلها الأصلي؟|Which band made the original My Generation recording?|ذا هو|The Who
+031|song:youreallygotme:performer|kinks|أي فرقة بريطانية أصدرت التسجيل الأصلي لـ«يو ريلي غوت مي»؟|Which British band released the original You Really Got Me recording?|ذا كينكس|The Kinks
+032|song:godonlyknows:performer|beach|أي فرقة أمريكية غنّت «غود أونلي نوز»؟|Which American group sings God Only Knows?|ذا بيتش بويز|The Beach Boys
+033|song:seenrain:performer|ccr|أي فرقة تُختصر إلى سي سي آر غنّت «هاف يو إيفر سين ذا رين»؟|Which band abbreviated CCR sings Have You Ever Seen The Rain?|كريدنس كليرووتر ريفايفل|Creedence Clearwater Revival
+034|song:blackmagic:santanaversion|santana|أي فرقة روك اشتهرت بتسجيل «بلاك ماجيك وومان» عام 1970؟|Which rock band is known for the 1970 Black Magic Woman recording?|سانتانا|Santana
+035|song:oulou:singer|oulou|من صاحب التسجيل الكلاسيكي الشهير لأغنية «قولوا لعين الشمس»؟|Who performs the famous classic recording of Oulou Lain El Shams?|شادية|Shadia
+036|song:sakan:singer|sakan|من صاحب التسجيل الكلاسيكي الشهير لأغنية «سكن الليل»؟|Who performs the famous classic recording of Sakan Al Lail?|فيروز|Fairuz
+037|song:helwamorra:singer|helwamorra|من صاحب التسجيل الكلاسيكي الشهير لأغنية «عالحلوة والمرة»؟|Who performs the famous classic recording of Ala El Helwa Wel Morra?|عبد الغني السيد|Abdel Ghani El Sayed
+038|song:rahela:singer|rahela|من صاحب التسجيل الكلاسيكي الشهير لأغنية «راحلة»؟|Who performs the famous classic recording of Rahila?|محمد الحياني|Mohammed El Hayani
+039|song:qamar:singer|qamar|من صاحب التسجيل الكلاسيكي الشهير لأغنية «القمر الأحمر»؟|Who performs the famous classic recording of Al Qamar Al Ahmar?|عبد الهادي بلخياط|Abdelhadi Belkhayat
+040|song:adawiyaclassic:singer|adawiyaclassic|من صاحب التسجيل الكلاسيكي الشهير لأغنية «عدوية»؟|Who performs the famous classic recording of Adawiya?|محمد رشدي|Mohammed Rushdi
+041|song:asalsabah:singer|asalsabah|من صاحب التسجيل الكلاسيكي الشهير لأغنية «زي العسل»؟|Who performs the famous classic recording of Zi El Asal?|صباح|Sabah
+042|song:daret:singer|daret|من غنّى «دارت الأيام» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of Daret El Ayyam?|أم كلثوم|Umm Kulthum
+043|song:fat:singer|fat|من غنّى «فات الميعاد» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of Fat El Mead?|أم كلثوم|Umm Kulthum
+044|song:nbtdi:singer|nbtdi|من غنّى «نبتدي منين الحكاية» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of Nebtedi Menein El Hekaya?|عبد الحليم حافظ|Abdel Halim Hafez
+045|song:zayhawa:singer|zayhawa|من غنّى «زي الهوا» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of Zay El Hawa?|عبد الحليم حافظ|Abdel Halim Hafez
+046|song:hayati:singer|hayati|من غنّى «وحياتي عندك» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of We Hayati Andak?|ذكرى|Zekra
+047|song:marina:singer|yaskh|من غنّى «مرينا بيكم حمد» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of Marina Bikom Hamad?|ياس خضر|Yas Khudr
+048|song:hanwana:singer|yaskh|من غنّى «حن وآنا حن» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of Han Wana Han?|ياس خضر|Yas Khudr
+049|song:makir:singer|yaskh|من غنّى «المكير» في تسجيلها الكلاسيكي المعروف؟|Who sings the well-known classic recording of Al Makir?|ياس خضر|Yas Khudr
+050|song:zahab:singer|zahab|من المطرب الذي غنّى للأطفال «ذهب الليل» في تسجيلها السينمائي الأصلي؟|Who sings the original film recording of the children’s song Zahab El Leil?|محمد فوزي|Mohammed Fawzi
+051|song:flymoon:sinatra|sinatramoon|من المغنّي الأمريكي صاحب التسجيل الكلاسيكي لـ«فلاي مي تو ذا مون» مع أوركسترا كاونت بيسي؟|Which American singer made the classic Fly Me To The Moon recording with Count Basie’s orchestra?|فرانك سيناترا|Frank Sinatra
+052|song:unforgettable:father|unforgettable|أي مغنٍّ شارك ابنته ناتالي في دويتو «أنفورغيتابل» باستخدام تسجيل صوته القديم؟|Which singer’s earlier vocal recording was used for the Unforgettable duet with his daughter Natalie?|نات كينغ كول|Nat King Cole
+053|song:amore:performer|deanamore|من المغنّي صاحب تسجيل «ذاتس أموري» الكلاسيكي؟|Who sings the classic recording of That’s Amore?|دين مارتن|Dean Martin
+054|song:mackknife:ellaberlin|ellaberlin|أي مغنّية جاز قدّمت التسجيل الحي الشهير لـ«ماك ذا نايف» عام 1960؟|Which jazz singer made the famous 1960 live recording of Mack The Knife?|إيلا فيتزجيرالد|Ella Fitzgerald
+055|song:hellodolly:louis|dollylouis|أي عازف ترومبيت ومغنّي جاز اشتهر بتسجيل «هالو دولي»؟|Which jazz trumpeter and singer is famous for recording Hello, Dolly!?|لويس أرمسترونغ|Louis Armstrong
+056|song:volare:originalperformer|volare|من المغنّي الإيطالي صاحب التسجيل الأصلي لـ«فولاري»؟|Which Italian singer made the original Volare recording?|دومينيكو مودونيو|Domenico Modugno
+057|song:allgirls:spanishsinger|julioduet|أي مغنٍّ إسباني شارك في دويتو «تو أول ذا غيرلز آيف لَفْد بيفور» عام 1984؟|Which Spanish singer appears on the 1984 duet To All The Girls I’ve Loved Before?|خوليو إغليسياس|Julio Iglesias
+058|song:regretterien:singer|piafclassic|أي مغنّية فرنسية اشتهرت بـ«نون، جو نو روغريت ريان»؟|Which French singer is famous for Non, Je Ne Regrette Rien?|إديث بياف|Edith Piaf
+059|song:prettywoman:performer|orbisonclassic|من المغنّي صاحب التسجيل الأصلي لـ«أوه، بريتي وومان»؟|Who sings the original recording of Oh, Pretty Woman?|روي أوربيسون|Roy Orbison
+060|song:yasmine:singer|jouwini|من الفنان التونسي صاحب التسجيل الشهير لـ«تحت الياسمينة في الليل»؟|Which Tunisian artist made the famous recording of Taht El Yasmine Fil Leil?|الهادي الجويني|Hedi Jouini
+061|song:tairmohajer:singer|wardiclassic|من المطرب السوداني الشهير بأغنية «الطير المهاجر»؟|Which Sudanese singer is famous for Al Tair Al Mohajer?|محمد وردي|Mohammed Wardi
+062|song:jarida:singer|aminjarida|من المطرب السوداني صاحب أغنية «الجريدة»؟|Which Sudanese singer performs Al Jarida?|محمد الأمين|Mohammed Al Amin
+063|song:najahnational:singer|najahnational|من صاحب التسجيل الكلاسيكي لأغنية «يا أغلى اسم في الوجود»؟|Who sings the classic recording of Ya Aghla Ism Fil Wujud?|نجاح سلام|Najah Salam
+064|song:najma:singer|najma|من صاحب التسجيل الكلاسيكي لأغنية «يا نجمة»؟|Who sings the classic recording of Ya Najma?|حسين نعمة|Hussein Nema
+065|song:tyour:singer|tyour|من صاحب التسجيل الكلاسيكي لأغنية «يا طيور الطايرة»؟|Who sings the classic recording of Ya Tiyour El Tayra?|سعدون جابر|Saadoun Jaber
+066|song:saqayeen:singer|saqayeen|من صاحب التسجيل الكلاسيكي لأغنية «حارة السقايين»؟|Who sings the classic recording of Haret El Saqayeen?|شريفة فاضل|Sharifa Fadel
+067|song:habbaytak:singer|habbaytak|من المطربة اللبنانية صاحبة «حبيتك بالصيف»؟|Which Lebanese singer performs Habbaytak Bessayf?|فيروز|Fairuz
+068|song:mesafer:originalsinger|mesafer|من غنّى «يا مسافر وحدك» في تسجيلها السينمائي الأصلي؟|Who sings the original film recording of Ya Mesafer Wahdak?|محمد عبد الوهاب|Mohammed Abdel Wahab

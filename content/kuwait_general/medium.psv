@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+069|history:independence:year|history|في أي عام استقلت الكويت عن الحماية البريطانية؟|In which year did Kuwait become independent of British protection?|1961|1961
+070|history:arableague:entry|history|أي منظمة إقليمية انضمت إليها الكويت في عام استقلالها 1961؟|Which regional organization did Kuwait join in its independence year, 1961?|جامعة الدول العربية|The Arab League
+071|history:constitution:year|history|في أي عام صدر أول دستور للكويت بعد الاستقلال؟|In which year was Kuwait's first post-independence Constitution promulgated?|1962|1962
+072|history:agreement:partner|history|مع أي دولة عقد الشيخ مبارك الصباح اتفاقية الحماية عام 1899؟|With which country did Sheikh Mubarak Al-Sabah conclude the 1899 protection agreement?|بريطانيا|Britain
+073|history:un:entryyear|history|في أي عام أصبحت الكويت عضواً في الأمم المتحدة؟|In which year did Kuwait become a member of the United Nations?|1963|1963
+074|holiday:national:significance|history|ما المناسبة في حياة الشيخ عبدالله السالم التي يرتبط بها اختيار 25 فبراير عيداً وطنياً؟|Which event in Sheikh Abdullah Al-Salem's life underlies the choice of 25 February as National Day?|توليه الحكم|His accession to power
+075|anthem:lyrics:writer|anthem|من كتب كلمات النشيد الوطني الكويتي؟|Who wrote the lyrics of Kuwait's national anthem?|أحمد مشاري العدواني|Ahmad Meshari Al-Adwani
+076|anthem:music:composer|anthem|من لحّن النشيد الوطني الكويتي؟|Who composed Kuwait's national anthem?|إبراهيم الصولة|Ibrahim Al-Soula
+077|currency:dinar:division|currency|كم فلساً يساوي الدينار الكويتي؟|How many fils equal one Kuwaiti dinar?|ألف فلس|One thousand fils
+078|currency:predecessor:unit|currency|ما العملة التي استُخدمت في الكويت قبل إصدار الدينار؟|Which currency was used in Kuwait before the dinar was issued?|الروبية الهندية|The Indian rupee
+079|administration:mubarak:latest|topography|ما آخر محافظة استُحدثت في الكويت؟|Which governorate was created most recently in Kuwait?|مبارك الكبير|Mubarak Al-Kabeer
+080|administration:islands:governorate|topography|إلى أي محافظة تتبع الجزر الكويتية إدارياً؟|To which governorate do Kuwait's islands belong administratively?|محافظة العاصمة|Capital Governorate
+081|geography:western:valley|topography|ما الوادي الذي يمتد بمحاذاة الحدود الغربية للكويت؟|Which valley runs along Kuwait's western boundary?|وادي الباطن|Wadi Al-Batin
+082|geography:jalzor:bay|topography|على أي خليج تطل مرتفعات جال الزور؟|Which bay do the Jal Al-Zor heights overlook?|جون الكويت|Kuwait Bay
+083|island:qaruh:name|topography|ما المادة التي ارتبط بها اسم جزيرة قاروه؟|Which substance is associated with the name of Qaruh Island?|القار|Tar
+084|island:ummnamil:antiquity|topography|تعود أقدم الآثار التي يذكرها الدليل الحكومي لجزيرة أم النمل إلى أي عصر؟|To which age do the oldest remains listed for Umm Al-Namil Island in the government guide date?|العصر البرونزي|The Bronze Age
+085|towers:opening:year|towers|في أي عام افتُتحت أبراج الكويت؟|In which year did Kuwait Towers open?|1979|1979
+086|towers:main:object|towers|أي أداة تقليدية ألهمت شكل البرج الرئيسي من أبراج الكويت؟|Which traditional object inspired the shape of the main Kuwait Tower?|المبخرة|An incense burner
+087|towers:smallest:function|towers|ما وظيفة أصغر أبراج الكويت ضمن مجموعة الأبراج الثلاثة؟|What is the function of the smallest of the three Kuwait Towers?|إضاءة البرجين الآخرين واحتواء المولدات|Lighting the other two towers and housing generators
+088|art:mirror:creator|mirror|من الفنانة التي صنعت فسيفساء بيت المرايا في الكويت؟|Which artist created the mosaics of Kuwait's Mirror House?|ليديا القطان|Lidia Qattan
+089|art:mirror:origin|mirror|في أي بلد وُلدت الفنانة ليديا القطان صاحبة مشروع بيت المرايا؟|In which country was Mirror House artist Lidia Qattan born?|إيطاليا|Italy
+090|museum:rajab:opening|rajab|في أي عام تأسس متحف طارق رجب؟|In which year was the Tareq Rajab Museum founded?|1980|1980
+091|culture:dai:founding|dai|في أي عام تأسست دار الآثار الإسلامية في الكويت؟|In which year was Kuwait's Dar al-Athar al-Islamiyyah founded?|1983|1983
+092|culture:dai:patron|dai|من الشيخ الذي كوّن مجموعة الصباح الفنية مع الشيخة حصة صباح السالم؟|Which sheikh formed the al-Sabah art collection with Sheikha Hussa Sabah Al-Salem?|الشيخ ناصر صباح الأحمد الصباح|Sheikh Nasser Sabah Al-Ahmad Al-Sabah
+093|architecture:jacc:materials|jaccarchitecture|ما المادتان اللتان تغطيان الهياكل الفولاذية لمباني مركز الشيخ جابر الأحمد الثقافي؟|Which two materials clad the steel structures of Sheikh Jaber Al-Ahmad Cultural Centre?|التيتانيوم والزجاج|Titanium and glass
+094|culture:district:partner|jacc|أي مركز ثقافي يشكّل مع مركز الشيخ جابر الأحمد المنطقة الثقافية الوطنية؟|Which cultural centre forms the national cultural district with Sheikh Jaber Al-Ahmad Cultural Centre?|مركز عبدالله السالم الثقافي|Abdullah Al-Salem Cultural Centre
+095|university:foundation:year|university|في أي عام تأسست جامعة الكويت؟|In which year was Kuwait University established?|1966|1966
+096|science:centre:establishment|scientificarchive|في أي عام أُنشئ المركز العلمي في الكويت؟|In which year was Kuwait's Scientific Center established?|2000|2000
+097|cinema:basya:livelihood|cinema|حول أي مهنة بحرية تدور قصة فيلم «بس يا بحر»؟|Which maritime occupation is central to the story of Bas Ya Bahr?|الغوص بحثاً عن اللؤلؤ|Pearl diving
+098|safeguarding:sadu:partner|sadueducation|أي وزارة تعاونت مع جمعية السدو في برنامج تدريب المدرّبين على النسيج؟|Which ministry partnered with the Al Sadu Society in its weaving train-the-trainers programme?|وزارة التربية|The Ministry of Education
+099|safeguarding:sadu:trainees|sadueducation|مَن يستهدف برنامج السدو الكويتي لتدريب المدرّبين أساساً؟|Who are the main trainees in Kuwait's Al Sadu train-the-trainers programme?|معلّمو التربية الفنية|Art teachers
+100|diwaniya:unesco:year|diwaniya|في أي عام أُدرجت الديوانية الكويتية في قائمة اليونسكو للتراث الثقافي غير المادي؟|In which year was Kuwait's Diwaniya inscribed on UNESCO's intangible cultural heritage list?|2025|2025
+101|clothing:jalwa:colour|customs|ما لون الثوب أو الوشاح الذي ترتديه العروس في عادة الجلوة الكويتية؟|What colour is the garment or scarf worn by the bride in Kuwait's Jalwa custom?|الأخضر|Green
+102|clothing:maqtaa:fabric|customs|من أي نسيج تُصنع الدشداشة الشتوية المسماة «المقطع» في وصف الملابس الكويتية التقليدية؟|From which fabric is the winter dishdasha called Maqtaa made in the description of traditional Kuwaiti clothing?|الصوف|Wool
+103|nature:mubarakreserve:island|ramsar|على أي جزيرة تقع محمية مبارك الكبير المسجّلة ضمن مواقع رامسار؟|On which island is the Ramsar-listed Mubarak Al-Kabeer Reserve located?|بوبيان|Bubiyan
+104|games:boats:material|customs|من أي مادة كان الأطفال يصنعون قوارب «العدال» الصغيرة؟|From which material did children make small Al-Adal toy boats?|الصفيح|Tin
+105|history:utub:origin|democracy|من أي منطقة في الجزيرة العربية قدم العتوب الذين استقروا في الكويت؟|From which region of the Arabian Peninsula did the Utub who settled in Kuwait originate?|نجد|Najd
+106|oil:export:firstyear|oil|في أي عام صدّرت الكويت أول شحنة نفط؟|In which year did Kuwait export its first shipment of oil?|1946|1946
+107|oil:refinery:first|oil|ما اسم أول مصفاة نفط في الكويت؟|What was Kuwait's first oil refinery called?|مصفاة ميناء الأحمدي|Mina Al-Ahmadi refinery
+108|oil:export:amir|oil|أي أمير دشّن تصدير أول شحنة نفط كويتية؟|Which Amir inaugurated Kuwait's first oil export shipment?|الشيخ أحمد الجابر الصباح|Sheikh Ahmad Al-Jaber Al-Sabah
+109|football:1980final:score|asiacup|بأي نتيجة فازت الكويت في نهائي كأس آسيا 1980؟|By what score did Kuwait win the 1980 AFC Asian Cup final?|3–0|3–0
+110|football:1980final:stadium|asiacup|على أي ملعب أُقيم نهائي كأس آسيا 1980 في الكويت؟|Which stadium hosted the 1980 AFC Asian Cup final in Kuwait?|ملعب صباح السالم|Sabah Al-Salem Stadium
+111|football:worldcup:host|worldcupdraw|أي دولة استضافت كأس العالم التي شاركت فيها الكويت عام 1982؟|Which country hosted the 1982 World Cup in which Kuwait participated?|إسبانيا|Spain
+112|football:worldcup:goalopponent|worldcup|في مرمى أي منتخب سجّل فيصل الدخيل أول هدف كويتي في كأس العالم؟|Against which team did Faisal Al-Dakhil score Kuwait's first World Cup goal?|تشيكوسلوفاكيا|Czechoslovakia
+113|football:1980semi:opponent|asiacup|أي منتخب تجاوزته الكويت في نصف نهائي كأس آسيا 1980؟|Which team did Kuwait defeat in the 1980 AFC Asian Cup semifinal?|إيران|Iran
+114|shooting:deehani:delegation|deehani|تحت اسم أي وفد أحرز فهيد الديحاني ذهبية ريو 2016؟|Under which delegation name did Fehaid Al-Deehani win Rio 2016 gold?|الرياضيون الأولمبيون المستقلون|Independent Olympic Athletes
+115|shooting:rashidi:discipline|rashidi|في أي مسابقة رماية حقق عبدالله الرشيدي العلامة الكاملة في نهائي آسياد هانغتشو 2023؟|In which shooting event did Abdullah Alrashidi achieve a perfect final score at the 2023 Hangzhou Asian Games?|السكيت|Skeet
+116|humanitarian:recognition:amir|humanitarian|أي أمير كويتي كرّمته الأمم المتحدة عام 2014 لقيادته الإنسانية؟|Which Kuwaiti Amir did the United Nations honour in 2014 for humanitarian leadership?|الشيخ صباح الأحمد الجابر الصباح|Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah
+117|constitution:system:form|constitution|كيف وصف دستور 1962 نظام الحكم في الكويت من حيث انتقال الإمارة؟|How did the 1962 Constitution describe Kuwait's system regarding succession to the emirate?|إمارة وراثية|A hereditary emirate
+118|history:kazma:identity|democracy|ما الاسم التاريخي الذي يورده مجلس الأمة للكويت قبل استقرار اسمها الحالي؟|Which historic name does the National Assembly give for Kuwait before its present name became established?|كاظمة|Kazma
+119|science:ujairy:museumsite|ujairy|في أي مؤسسة كويتية افتُتح متحف صالح العجيري عام 2013؟|At which Kuwaiti institution did the Saleh Al-Ujairy Museum open in 2013?|النادي العلمي الكويتي|Kuwait Scientific Club
+120|food:zubaidi:species|culinary|ما الاسم الإنجليزي لسمك الزبيدي الشهير في المطبخ الكويتي؟|What is the English species name of Zubaidi fish, popular in Kuwaiti cuisine?|سيلفر بومفريت (الزبيدي الفضي)|Silver pomfret
+121|shopping:soku:expansion|avenues|ما العبارة الإنجليزية التي اختُصر منها اسم منطقة «سو كو» في الأفنيوز؟|Which English phrase is abbreviated by the Avenues district name SoKu?|ساوث أوف كويت، أي جنوب الكويت|South of Kuwait
+122|archaeology:ikaros:language|ikaros|بأي لغة كُتب نقش إيكاروس المكتشف في فيلكا؟|In which language was the Ikaros inscription discovered on Failaka written?|اليونانية|Greek
+123|archaeology:failaka:greekname|failaka|ما الاسم الذي عُرفت به جزيرة فيلكا في العصر الهلنستي؟|By which name was Failaka Island known in the Hellenistic period?|إيكاروس|Ikaros
+124|literature:sabiliat:author|sabiliat|من مؤلف رواية «السبيليات»؟|Who wrote the novel Al-Sabiliat?|إسماعيل فهد إسماعيل|Ismail Fahd Ismail
+125|museum:mirror:district|museums|في أي منطقة كويتية يقع بيت المرايا؟|In which Kuwaiti district is the Mirror House?|القادسية|Qadsiya
+126|museum:rajab:district|rajab|في أي منطقة كويتية يقع متحف طارق رجب؟|In which Kuwaiti district is the Tareq Rajab Museum?|الجابرية|Jabriya
+127|heritage:dickson:district|museums|في أي منطقة يقع بيت ديكسون التاريخي في الكويت؟|In which district is Kuwait's historic Dickson House?|شرق|Sharq
+128|museum:hashemi:district|museums|في أي منطقة كويتية يوجد المتحف الملحق بسفينة الهاشمي الثانية؟|In which Kuwaiti district is the museum attached to Al-Hashemi II?|سلوى|Salwa
+129|press:arabi:firsteditor|arabi|من أول رئيس تحرير لمجلة «العربي» الكويتية؟|Who was the first editor-in-chief of Kuwait's Al-Arabi magazine?|الدكتور أحمد زكي|Dr Ahmad Zaki
+130|heritage:mubarak:kiosksite|museums|في أي سوق تاريخي يقع كشك الشيخ مبارك؟|In which historic market is Sheikh Mubarak's kiosk?|سوق المباركية|Souq Al-Mubarakiya
+131|custom:newlyweds:firstweek|customs|في بيت أي أسرة كان الزوجان يقضيان الأسبوع الأول في تقاليد الزواج الكويتية القديمة؟|In whose family home did newlyweds spend their first week in old Kuwaiti wedding traditions?|أسرة العروس|The bride's family
+132|aid:fund:firstborrower|fund|أي دولة حصلت على أول قرض من الصندوق الكويتي للتنمية عام 1962؟|Which country received the Kuwait Fund's first loan in 1962?|السودان|Sudan
+133|park:green:openingyear|attractions|في أي عام افتُتحت الجزيرة الخضراء في الكويت؟|In which year did Kuwait's Green Island open?|1988|1988
+134|shopping:boulevard:district|attractions|في أي منطقة كويتية يقع مشروع البوليفارد؟|In which Kuwaiti district is Boulevard located?|السالمية|Salmiya
+135|geography:auhah:relativeposition|topography|تقع جزيرة عوهة في أي جهة من جزيرة فيلكا؟|In which direction from Failaka Island is Auhah Island?|الجنوب الشرقي|Southeast
+136|geography:khubarat:landform|topography|ما المقصود بالخُبَرات في وصف تضاريس الكويت؟|What are khubarat in descriptions of Kuwait's topography?|منخفضات صحراوية|Desert depressions

@@ -1,0 +1,234 @@
+{
+  "bundesliga_v2_002/bundesliga_v2_090": {
+    "hash": "85613586dd44edd3c20c3f7608193ecf5f732568a5bcec45bfab3e1c11562de9",
+    "reason": "Gerd Muller holds the full-league career goal record; Kirsten holds the separate Leverkusen club record. Different populations and totals."
+  },
+  "bundesliga_v2_007/bundesliga_v2_020": {
+    "hash": "46d40a7d5655b2e1eaf5510eecb4f3176a44b7a2112359b6fcfb3ba66b235f19",
+    "reason": "Gladbach Foals and Leipzig Red Bulls identify independent clubs and nicknames."
+  },
+  "bundesliga_v2_110/bundesliga_v2_130": {
+    "hash": "3eca90d070dee171a51ab93c5dea09654dbf647820e589ef0db9a17e7f04ef31",
+    "reason": "Veh won Stuttgart 2007; Daum won Stuttgart 1992. Different coaches and title campaigns."
+  },
+  "bundesliga_v2_007/uae_football_v2_031": {
+    "hash": "6c226fae3897acf236ec6a328c0255dbef350177ea20836162f734d4f70bb1a9",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / bani-yas:nickname."
+  },
+  "bundesliga_v2_007/uae_football_v2_032": {
+    "hash": "e1ec6dde883a95fb03efeb9b521ebefa9e3b3fcbcfebb657de7a89a1d0d73543",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / sharjah:nickname."
+  },
+  "bundesliga_v2_007/uae_football_v2_033": {
+    "hash": "b8a5d1c5045948f47667f90ba60d2a152ff3f0870d033fa75c9fbefbbd28b4f0",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / al-wasl:nickname."
+  },
+  "bundesliga_v2_020/uae_football_v2_032": {
+    "hash": "060eacccdc06816fb9a38b8bd0d631a12631c8e442ed03dc3dc2e17fb6d189e9",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:leipzig:redbulls / sharjah:nickname."
+  },
+  "bundesliga_v2_096/uae_football_v2_032": {
+    "hash": "e7f3cc5cea2754cafe43353277836df144ea187c58b1774a51bf19c783b3fca2",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:hertha:oldlady / sharjah:nickname."
+  },
+  "bundesliga_v2_119/uae_football_v2_020": {
+    "hash": "5c36d33026e1a119f8ba16eae70e5eed53ac236dd268f388b9a15bb0854348e9",
+    "reason": "Millerntor is St Pauli stadium in Hamburg; the other is a different club stadium. Compared facts: stpauli:stadium:millerntor / al-nasr:home:stadium."
+  },
+  "bundesliga_v2_147/uae_football_v2_079": {
+    "hash": "c4fa776c1786e092a66524e8af97b847c08df6bd2d461226dbf56ddeaebc64bd",
+    "reason": "Ozil scored Bremen 2009 cup winner; the other concerns a different competition, match, club and scorer. Compared facts: final:bremen2009:ozilwinner / asian-cup:2019:quarter-final-winning-scorer."
+  },
+  "bundesliga_v2_007/uae_pro_league_v2_012": {
+    "hash": "f23a7b22e235b6eb4b858054ce5280bdfdcc803a3130ed8be3611bdc1145dd8e",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / identity:hatta:nickname."
+  },
+  "bundesliga_v2_007/uae_pro_league_v2_013": {
+    "hash": "1472aeae7e3660ae9617e49d02bf0ce3030abc75690fe990ec194d94ef503723",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / identity:emirates:nickname."
+  },
+  "bundesliga_v2_007/uae_pro_league_v2_026": {
+    "hash": "814d446c3c95ea8f4a2cf44f94065603c8fb0facee030c75db49d6cd71d56af6",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / identity:ain:nickname."
+  },
+  "bundesliga_v2_007/uae_pro_league_v2_037": {
+    "hash": "3fb8e0d708c0f2d66427c1a15d4f01adb979812da6937b4ecc6e717d6ed92268",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / identity:fujairah:nickname."
+  },
+  "bundesliga_v2_007/uae_pro_league_v2_040": {
+    "hash": "6eb83ab803e02ad9347b4df3dddb9b5a8c59557e4486516574836a8365615b90",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / identity:dibba:nickname."
+  },
+  "bundesliga_v2_020/uae_pro_league_v2_061": {
+    "hash": "e7de4c81dab436cad688f7c2d7a05aa1d5f81ebf6ea9fddfe10ba2e79a4f3f1b",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:leipzig:redbulls / identity:shababahli:nickname."
+  },
+  "bundesliga_v2_119/uae_pro_league_v2_083": {
+    "hash": "2213a4819f5add0babb12049b367a7815c94e2bbb138283c1ed6e9e49f2bd17e",
+    "reason": "Millerntor is St Pauli stadium in Hamburg; the other is a different club stadium. Compared facts: stpauli:stadium:millerntor / venue:hatta:homestadium."
+  },
+  "bundesliga_v2_130/uae_pro_league_v2_034": {
+    "hash": "3660c8b3326cbc924783848f729db1ffe8097de4d59253b1c1b2797222e7baa4",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coaching:ain2024:crespo."
+  },
+  "bundesliga_v2_130/uae_pro_league_v2_096": {
+    "hash": "7779938cba675ecf805f14967b6679f4b36500d37640fd762d7133f77f253ca1",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coaching:wahda2010:hickersberger."
+  },
+  "bundesliga_v2_130/uae_pro_league_v2_103": {
+    "hash": "12adfb50f5a8a40970381bb5f6c98b853e1adf0225e71b8891edb74dfbe31aef",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coaching:jazira2021:keizer."
+  },
+  "bundesliga_v2_130/uae_pro_league_v2_108": {
+    "hash": "5f31c3c5594891145ec85479325eb3a9cddec99365d058c370ddb7c0b2f949d0",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coaching:sharjah2019:anberi."
+  },
+  "bundesliga_v2_006/premier_league_v2_036": {
+    "hash": "dc2c8cfad91d859e7a166a2967b85f7765919fb693e21637437c7a5572a41e60",
+    "reason": "The Revierderby and Merseyside derby have different club pairings and locations. Compared facts: derby:revier:clubs / derby:merseyside:clubs."
+  },
+  "bundesliga_v2_007/premier_league_v2_013": {
+    "hash": "73919fc65af66a8afe7fcc1360188b0f15d8206cdc97f24842d7ef128218e5b0",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / identity:brighton:nickname."
+  },
+  "bundesliga_v2_007/premier_league_v2_037": {
+    "hash": "7d84011df02c22a282e18f6899d58cba24d453046cf9149fdbb221d89d8970f8",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / club:everton:nickname."
+  },
+  "bundesliga_v2_007/premier_league_v2_040": {
+    "hash": "4ffd85419f20bf85b5d377ad3b24685148d0a2df982e37eea6785ddcf5ddd90c",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / club:westham:nickname."
+  },
+  "bundesliga_v2_007/premier_league_v2_050": {
+    "hash": "d554f0966537e9d2b4b72c11971dd942f7d1bd0716ad76773f45bb451aae2396",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / club:bournemouth:nickname."
+  },
+  "bundesliga_v2_007/premier_league_v2_051": {
+    "hash": "3830df91dd8bb434478bf521d4bf2a47ce171c4f311069b34f8d45c8b18e62ae",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / club:brentford:nickname."
+  },
+  "bundesliga_v2_007/premier_league_v2_052": {
+    "hash": "5518f7fcfaf4698ca0cb48ce9ed89ea7634e67c7c1ab95e96d6bd402c8f88fe3",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / club:newcastle:nickname."
+  },
+  "bundesliga_v2_007/premier_league_v2_053": {
+    "hash": "19796f8ade29d0ab53a570d160f215fef804bdb8346e28dbba4e45bfbbe9c3d7",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / club:leicester:nickname."
+  },
+  "bundesliga_v2_007/premier_league_v2_067": {
+    "hash": "fe5ab347c516fd26f026e9d2c65694919b881e927e3f4fa4c7f82050bbc7613e",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / club:hull:nickname."
+  },
+  "bundesliga_v2_020/premier_league_v2_040": {
+    "hash": "f7d292160678f4e38c7c55c25fa74291a3a490675fb910a7de6cad479f067890",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:leipzig:redbulls / club:westham:nickname."
+  },
+  "bundesliga_v2_020/premier_league_v2_051": {
+    "hash": "b279f9da39ea416514b60601cf369a56f341f9b2b10f5a0048848df9c3602309",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:leipzig:redbulls / club:brentford:nickname."
+  },
+  "bundesliga_v2_020/premier_league_v2_067": {
+    "hash": "b486e12cec4fa5828071021b3bc2286f4e0ea679fb82f81d959d7399be4db30a",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:leipzig:redbulls / club:hull:nickname."
+  },
+  "bundesliga_v2_096/premier_league_v2_040": {
+    "hash": "2d9861aaff0092398d3d707a4a39b7b516bc5fbbcd196d0bcb081de0a9b8c262",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:hertha:oldlady / club:westham:nickname."
+  },
+  "bundesliga_v2_096/premier_league_v2_051": {
+    "hash": "42269c34c6a1313f3ef305663138602be3a80aa6cf9ed41b6844ebd28679cb21",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:hertha:oldlady / club:brentford:nickname."
+  },
+  "bundesliga_v2_096/premier_league_v2_067": {
+    "hash": "afc70026cf7bafc73b723cab48b7bb17b1ffb5d9c6a61a9fb9740b324ff243a4",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:hertha:oldlady / club:hull:nickname."
+  },
+  "bundesliga_v2_002/la_liga_v2_002": {
+    "hash": "2f63206c107115759f5b14e6b9ffb7e01e629dfb0413c14a6c9b101ba583112d",
+    "reason": "Independent league or club records with different players, competitions and numerical totals. Compared facts: record:bundesliga:careergoals / record:career:messigoals."
+  },
+  "bundesliga_v2_007/la_liga_v2_011": {
+    "hash": "35b4655f48949be033163c30a3b47455b1518df5a7a6cd172e18fc55440bee01",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / nickname:villarreal:submarine."
+  },
+  "bundesliga_v2_007/la_liga_v2_019": {
+    "hash": "09db76276a81d02cba2ac235ec01b0f5446071dd30d9fa61e6e5890372b84bbf",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:gladbach:foals / nickname:espanyol:pericos."
+  },
+  "bundesliga_v2_014/la_liga_v2_030": {
+    "hash": "5c6f7ca3b2014c6540b480095b0a2e05477096481e770247d4d95af62c4ff823",
+    "reason": "Stuttgart red chest hoop and Elche green chest stripe are independent club kit identities. Compared facts: kit:stuttgart:redhoop / kit:elche:greenstripe."
+  },
+  "bundesliga_v2_062/la_liga_v2_110": {
+    "hash": "ae743c9fa39db4f59c0d51fa5309f9f9fe2cefcb37aa853c3e0d08951fa9a1b4",
+    "reason": "Thiago joined Bayern from Barcelona in 2013; Isco joined Madrid from Malaga. Different players and moves. Compared facts: bayern2013:thiago:origin / transfer:isco2013:origin."
+  },
+  "bundesliga_v2_067/la_liga_v2_025": {
+    "hash": "232079860f53cc5fff1331e619668b8a8cc65a9efae4fa6e0f4620656cf0eb7c",
+    "reason": "Wirtz won Germany 2023/24 player award; Bellingham won Spain award. Different domestic competitions and recipients. Compared facts: wirtz:2024:playerseason / award:bellingham2024:bestplayer."
+  },
+  "bundesliga_v2_096/la_liga_v2_019": {
+    "hash": "7930bab85de3d9403b3cf5c0d6d6784682aa3e6790c16962c7fa820be9a645a4",
+    "reason": "Different club identities and nicknames; no Bundesliga nickname is repeated as an inverse question. Compared facts: nickname:hertha:oldlady / nickname:espanyol:pericos."
+  },
+  "bundesliga_v2_119/la_liga_v2_068": {
+    "hash": "2b8aa06a88061a97694ca032ba5c883e133a234ea2c4783a2586332db2656256",
+    "reason": "Millerntor is St Pauli stadium in Hamburg; the other is a different club stadium. Compared facts: stpauli:stadium:millerntor / venue:levante-ciutat-home-stadium."
+  },
+  "bundesliga_v2_125/la_liga_v2_077": {
+    "hash": "19b736f708438de101b18f6f24f4a57e5ae78929ed65aaf20f44eacac881d5ca",
+    "reason": "Lewandowski Lech-to-Dortmund in 2010 differs from Villa Valencia-to-Barcelona and Cavani Palermo-to-Napoli. Compared facts: lewandowski:2010:origin / transfer:villa:barcaorigin."
+  },
+  "bundesliga_v2_130/la_liga_v2_091": {
+    "hash": "6c10eb45049196dbf25dcbe20331686b2fbbabf37222db6c6a4e94ca61a98094",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coach:valencia2002:benitez."
+  },
+  "bundesliga_v2_130/la_liga_v2_139": {
+    "hash": "ecfd88157bee9d93f86504ecc018a2ef31f9d4573921417afe3e07c850e3e9e2",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coach:betis1935:oconnell."
+  },
+  "bundesliga_v2_002/serie_a_v2_041": {
+    "hash": "28eade24f35fff882b2bcb66748b8dc660816b3265e5b796218593dbf3a9ce64",
+    "reason": "Independent league or club records with different players, competitions and numerical totals. Compared facts: record:bundesliga:careergoals / record:milan:careergoals."
+  },
+  "bundesliga_v2_075/serie_a_v2_095": {
+    "hash": "6fa09f7c997e2ecc491ea039773cf439ab643e86c86deeb76d4f9f1068e8a612",
+    "reason": "Independent league or club records with different players, competitions and numerical totals. Compared facts: record:zorc:dortmundappearances / record:inter:appearances858."
+  },
+  "bundesliga_v2_084/serie_a_v2_036": {
+    "hash": "14288640b40a192fd8d6465a75d6d2bad7802205c49f031b0676b17653c5b48e",
+    "reason": "Different clubs, stadiums and stadium attributes. Compared facts: stadium:union:alteforsterei / stadium:parma:home."
+  },
+  "bundesliga_v2_125/serie_a_v2_113": {
+    "hash": "375466088ba246274991a4e88daa272abb0d2037b07761b4d325bbd7b16511dc",
+    "reason": "Lewandowski Lech-to-Dortmund in 2010 differs from Villa Valencia-to-Barcelona and Cavani Palermo-to-Napoli. Compared facts: lewandowski:2010:origin / history:cavani:napoliprevious."
+  },
+  "bundesliga_v2_130/serie_a_v2_052": {
+    "hash": "c0078a4534fd20cbe9df1fb5f11b14017473084be326520f784c11b129d981cb",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coach:milan1988:sacchi."
+  },
+  "bundesliga_v2_130/serie_a_v2_109": {
+    "hash": "f6e85dc54e1b465db2a77bef3aa85261cabd48493452c6fa455086ae95bf42e4",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coach:lazio2000:eriksson."
+  },
+  "bundesliga_v2_130/serie_a_v2_145": {
+    "hash": "9a4034a0231470fe62e6ba15d1aafb1752fc112522804002730c726ae2ad83fc",
+    "reason": "Daum coached Stuttgart in 1992; the other question concerns a different club, coach and championship. Compared facts: stuttgart1992:title:coach / coach:cagliari1970:scopigno."
+  },
+  "bundesliga_v2_147/serie_a_v2_072": {
+    "hash": "0a8f6c25591bd545c816b7ac51d41952dc185d96cd0416a3fc8344478ae82bb5",
+    "reason": "Ozil scored Bremen 2009 cup winner; the other concerns a different competition, match, club and scorer. Compared facts: final:bremen2009:ozilwinner / final:coppa2013:winninggoal."
+  },
+  "bundesliga_v2_154/serie_a_v2_102": {
+    "hash": "8026c44a43bc738a0c7b490a3fa9373daba9f0b42e974972ff2a7533c48ea406",
+    "reason": "Frankfurt eagle Attila and Lazio eagle Olympia are different live birds and clubs introduced in different years. Compared facts: mascot:frankfurt:attila / identity:lazio:olympia."
+  },
+  "bundesliga_v2_191/serie_a_v2_095": {
+    "hash": "799ab4e7f25b91058731b088d80b98c373078e9333cc8bb665610f3b432cc866",
+    "reason": "Zewe holds Fortuna league appearances record; Zanetti holds Inter all-competition appearances record. Compared facts: fortuna:appearance:zewe / record:inter:appearances858."
+  },
+  "bundesliga_v2_199/serie_a_v2_074": {
+    "hash": "9a19f0e94685d7fc5e75905aa8cf6f69e0f9f399156fa1a36e328c63eaf2a7e3",
+    "reason": "Germany introduced three points in 1995/96; Italy in 1994/95. Different national rule changes. Compared facts: rule:threepoints:firstseason / rule:winpoints:introduction."
+  }
+}

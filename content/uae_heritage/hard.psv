@@ -1,0 +1,69 @@
+id|factKey|topic|source|questionAr|questionEn|answerAr|answerEn
+137|dress:burqa:lining-quality|Clothing|burqa|أي لون من بطانة «الشيل» كان الأعلى ثمناً في صناعة البرقع؟|Which colour of al sheel lining was the most expensive in burqa making?|الأحمر|Red
+138|dress:burqa:nose-piece|Clothing|burqa|ما اسم القطعة الخشبية الصغيرة التي تتوسط البرقع وتستقر على الأنف؟|What is the small wooden piece at the centre of a burqa resting on the nose called?|السيف|Seif
+139|craft:burqa:craft-name|Crafts|burqaar|بأي اسم تُعرف حرفة صناعة البراقع التقليدية؟|What is the traditional craft of making burqas called?|قرض البراقع|Qardh al baraqe
+140|craft:sadu:loom-position|Crafts|sadu|أين يوضع النول في الطريقة التقليدية لنسج السدو؟|Where is the loom positioned in traditional Al Sadu weaving?|على الأرض|On the ground
+141|craft:talli:bobbins|Crafts|talli|ما الاسم المحلي لبكرات الخيوط التي تستخدمها ناسجة التلي؟|What is the local name for the thread bobbins used by a talli artisan?|الدحاري|Dahary
+142|craft:talli:sayeryaay|Crafts|talli|أي نقش تلي سُمّي نسبة إلى تمرير خيط فضي ذهاباً وإياباً؟|Which talli pattern is named for passing a silver thread back and forth?|ساير ياي|Sayer yaay
+143|craft:talli:bukhostain|Crafts|talli|أي نقش تلي يستخدم بكرتين من الخيط الفضي لصنع شريط عريض في الوسط؟|Which talli pattern uses two silver-thread bobbins to make a broad central band?|بوخوصتين أو بوفتلتين|Bu-khostain or bu-fatlteen
+144|dress:bisht:najafi-origin|Clothing|bisht|إلى أي مدينة عراقية يُنسب البشت النجفي؟|Which Iraqi city gives the Najafi bisht its name?|النجف|Najaf
+145|dress:bisht:doranki|Clothing|bisht|أي نوع من البشوت يتميز بنسيجه ذي اللونين ويُسمّى باسم فارسي؟|Which type of bisht has a two-coloured fabric and a Persian-derived name?|الدورانكي|Doranki
+146|adornment:henna:ghamsa|Customs|henna|ما اسم طريقة الحناء التي تغطي اليد كاملة من جهتي الكف والظهر؟|What is the henna style covering the entire hand on both palm and back called?|الغمسة|Ghamsa
+147|adornment:henna:sheraa|Customs|henna|أي نقش حناء تقليدي يأخذ شكلاً مثلثاً؟|Which traditional henna design takes a triangular shape?|الشراع|Sheraa
+148|adornment:kohl:athmad|Customs|kohl|أي نوع من الكحل يُصنع بطحن الحجر المعدني بدلاً من جمع السخام؟|Which type of kohl is made by grinding a mineral stone rather than collecting soot?|الإثمد|Athmad
+149|adornment:kohl:applicator|Customs|kohl|ما اسم العود الرفيع المستخدم لوضع الكحل على العين؟|What is the slender implement used to apply kohl to the eye called?|المرود|Mirwad
+150|occupation:taresh:bag|Occupations|taresh|ما اسم الحقيبة التي يحفظ فيها الطارش الرسالة المكتوبة؟|What is the bag in which a taresh keeps a written message called?|الخريطة|Khareetah
+151|occupation:baydar:landowner-term|Occupations|baydar|بأي اسم يُعرف صاحب المزرعة الذي يعمل لديه البيدار في سجل التراث؟|What is the farm owner employing a baydar called in the heritage register?|الهنجري|Hanjari
+152|occupation:sardal:role|Pearling|pearling|ما اسم قائد أسطول سفن الغوص الذي تعتمد السفن على خبرته؟|What is the leader of a pearling fleet whose expertise guides the boats called?|السردال|Sardal
+153|occupation:tabbab:age|Pearling|pearling|ما الفئة العمرية التقريبية للصبية «التبابين» الذين يساعدون السيوب؟|What was the approximate age range of the tabbabs who assisted the seibs?|من 10 إلى 14 سنة|From 10 to 14 years
+154|occupation:ridha:role|Pearling|pearling|أي أفراد طاقم الغوص تولّوا تقديم الطعام والشاي وفتح المحار؟|Which pearling crew members served food and tea and opened oysters?|الرضيف|Ridha
+155|pearling:yada:rope|Pearling|pearling|ما اسم الحبل الذي يُسحب به غواص اللؤلؤ إلى السطح، خلاف حبل النزول؟|What is the rope used to pull a pearl diver to the surface, as distinct from the descent rope, called?|اليدا|Yada
+156|pearling:khbat:protection|Pearling|divingtools|ما اسم أغطية الأصابع الجلدية التي تحمي الغواص عند جمع المحار؟|What are the leather finger covers protecting a diver while collecting oysters called?|الخبط|Khabt
+157|pearling:balad:material|Pearling|divingtools|من أي مادتين كان يُصنع «البلد» الذي يساعد الغواص على النزول؟|From which two materials could the descent weight called balad be made?|الحجر أو الرصاص|Stone or lead
+158|pearling:shamshool:identity|Pearling|divingtools|ما اسم لباس الغوص الداكن الذي ارتداه غواصو اللؤلؤ تقليدياً؟|What was the dark diving garment traditionally worn by pearl divers called?|الشمشول|Shamshool
+159|pearling:taqiya:hazard|Pearling|divingtools|من أي كائن بحري عُرف محلياً باسم «الدول» تحمي طاقية الغواص رأسه؟|From which sea creature locally called doll did a diver's cap protect his head?|قنديل البحر|Jellyfish
+160|maritime:noora:meaning|Maritime|maritime|ما المادة التي سُمّيت «النورة» واستُخدمت لطلاء بدن السفينة؟|What substance, called noora, was used to coat a boat's hull?|الجير|Lime
+161|maritime:saffar:vessel|Maritime|maritimear|أي سفينة استخدمها التجار للرحلات البعيدة، مقابل «القطاع» للرحلات القصيرة؟|Which vessel did merchants use for long-distance voyages, as opposed to qatta for short trips?|السفّار|Saffar
+162|maritime:kalafat:role|Maritime|jallaf|ما مهمة «جلاف الكلفات» أو «القلفاط» في صناعة السفن الخشبية؟|What was the kalafat caulker's task in wooden boat building?|سدّ الفواصل بين الألواح بالقطن المدهون|Sealing plank joints with grease-soaked cotton
+163|maritime:oustad:role|Maritime|jallaf|ما اللقب الذي يُطلق على كبير صُنّاع السفن المشرف على العمل؟|What title is given to the master shipwright supervising boat construction?|الاستاد|Oustad
+164|maritime:shalamen:role|Maritime|jallaf|أي عامل في صناعة السفن كان يختص بتهذيب ألواح الخشب؟|Which boat-building worker specialised in trimming wooden planks?|مسؤول الشلامين|The shalamen supervisor
+165|maritime:sewnboats:fibre|Maritime|jallaf|أي ألياف استُخدمت قديماً لخياطة ألواح السفن قبل شيوع المسامير؟|Which fibres were historically used to sew boat planks together before nails became common?|ألياف جوز الهند|Coconut fibres
+166|fishing:yall:catch|Fishing|fishing|أي سمكين صغيرين كانت شبكة «اليل» الدقيقة تُستخدم لصيدهما؟|Which two small fish were caught with the fine-meshed yall net?|السردين والأنشوجة|Sardines and anchovies
+167|fishing:kufa:weight-name|Fishing|fishingar|ما الاسم التراثي للثقل المثبّت في أسفل «الكوفة»؟|What is the heritage name for the weight fixed to the bottom of a kufa?|الصنجل|Sinjil
+168|household:saqa:stand|Household|saqaar|ما اسم الحامل الخشبي الثلاثي الذي تُعلَّق عليه السقا عند خضّ الحليب؟|What is the three-legged wooden support used to suspend a saqa while churning milk called?|الترجابة أو المشد|Tarjabah or mashadd
+169|household:saqa:mouth|Vocabulary|saqa|ماذا يُسمّى فم السقا والسعن في المصطلح التراثي؟|What is the mouth of a saqa or saan called in heritage terminology?|الوجا|Waja
+170|household:raha:axis|Household|raha|ما اسم المحور الذي يدور حوله حجر الرحى العلوي؟|What is the axis around which the upper raha stone rotates called?|قطب الرحى|Qutb al raha
+171|household:raha:flour-cloth|Household|rahaar|ما اسم القطعة المنسوجة التي تُبسط تحت الرحى لجمع الدقيق؟|What is the woven cloth spread beneath a raha to collect flour called?|الثقال|Thiqal
+172|household:raha:tarsha|Household|raha|بأي اسم تُعرف الرحى الكبيرة التي تتعاون امرأتان على تحريكها؟|What is the large raha usually operated jointly by two women called?|التارشة|Tarsha
+173|craft:pottery:kharas|Crafts|pottery|ما اسم الوعاء الفخاري التقليدي المستخدم لتخزين التمر أو السمك المجفف؟|What is the traditional pottery vessel used to store dates or dried fish called?|الخراس|Kharas
+174|craft:jafeer:base|Crafts|jafeer|ماذا تسمّى قاعدة الجفير التي يبدأ منها نسجه؟|What is the base from which jafeer weaving begins called?|البدوة|Badwah
+175|craft:jafeer:tall-basket|Crafts|jafeer|ما اسم الجفير الذي يزيد ارتفاعه على طول الذراع؟|What is a jafeer taller than an arm's length called?|المزماة|Mizmah
+176|household:utensils:serving-spoon|Household|utensilsar|أي ملعقة كبيرة تُعرف أيضاً باسم «الخاشوقة» وتُستخدم لتقديم الطعام؟|Which large serving spoon is also known as khashoga?|الكفشة|Kafsha
+177|household:utensils:fryingpan|Household|utensils|ما الاسم التراثي للمقلاة المستخدمة في قلي الطعام؟|What is the heritage name for a frying pan?|الطابي|Tabi
+178|craft:smith:anchor-term|Vocabulary|smith|أي قطعة معدنية يصنعها الحدّاد للسفن تُسمّى «الباورة»؟|Which metal item made by a blacksmith for boats is called bawera?|المرساة|An anchor
+179|craft:smith:bellows-material|Crafts|smith|أي جلد حيواني استُخدم مع الخشب لصنع منفاخ الحدّاد التقليدي؟|Which animal skin was used with wood to make traditional blacksmith's bellows?|جلد الضأن|Sheepskin
+180|hospitality:coffee:three-pots|Hospitality|coffee|رتّب أسماء دلال القهوة الثلاث بحسب وظائفها: الغلي، ثم التصفية، ثم التقديم.|Name the three coffee dallahs in order of function: boiling, filtering, then serving.|الخمرة، التلقيمة، المزلة|Khumrah, talgeemah, mazalah
+181|customs:wedding:meer|Customs|zuhba|ما المقصود بـ«المير» الذي يُرسل ضمن تجهيزات الزواج التقليدية؟|What does meer mean among traditional wedding provisions?|المؤن الغذائية|Food provisions
+182|dress:suwaia:material|Clothing|zuhba|من أي نسيج تُصنع «السويعية» المذكورة ضمن زهبة العروس؟|From which fabric is the suwaia included in the bridal trousseau made?|الحرير|Silk
+183|scent:hair:powder-name|Customs|sandalwoodar|ما اسم مسحوق تعطير الشعر القديم المكوّن من الصندل والورس والورد والمحلب؟|What was the old hair-perfuming powder made from sandalwood, wars, rose and mahaleb called?|البضاعة|Al bidaah
+184|craft:isqa:clapping-toy|Games|isqa|ما اسم لعبة عسقة النخيل التي تصدر صوتاً كالتصفيق عند تحريكها؟|What is the palm-stalk toy that makes a clapping sound when shaken called?|الطرقعانة|Tarqiana
+185|craft:isqa:bow|Crafts|isqa|ما اسم القوس القديم الذي يُصنع من عسقة نخيل مقوّسة لرمي السهام؟|What is the old bow made from a curved date-palm stalk to shoot arrows called?|النشابة|Nashaba
+186|food:kami:dried-name|Food|kami|ما اسم مشتق الجامي المجفف الذي يُحفظ لمدة طويلة؟|What is the dried derivative of jami kept for long periods called?|اليقط|Yaqt
+187|food:harees:birth-custom|Customs|harees|بعد كم يوماً من الولادة يُوزَّع الهريس في عادة «الطلوع»؟|How many days after a birth is harees distributed in the custom called altulou?|40 يوماً|40 days
+188|food:harees:quran-custom|Customs|harees|أي إنجاز في قراءة القرآن كان يُحتفل به بتوزيع الهريس؟|Which achievement in Quran reading was celebrated by distributing harees?|ختم القرآن كاملاً|Completing a full reading of the Quran
+189|food:rigag:mhyawa|Food|rigag|ما المكوّن البحري الأساسي في المهياوة التي تُضاف إلى الرقاق؟|What is the main seafood ingredient in mhyawa served on rigag?|السمك|Fish
+190|saluki:coat:types|Desert|saluki|ما الاسمان التراثيان لنوعي السلوقي ذي الشعر الناعم وذي الشعر الكثيف؟|What are the traditional names for the smooth-coated and thick-coated saluki types?|الحصّ والأريش|Al Hoss and Aryash
+191|saluki:centre:year|Desert|saluki|في أي عام تأسس مركز السلوقي العربي في أبوظبي؟|In which year was the Arabian Saluki Centre founded in Abu Dhabi?|2001|2001
+192|unesco:azi:list|UNESCO|azi|في أي قائمة لليونسكو أُدرج العازي الإماراتي عام 2017؟|On which UNESCO list was Emirati Al Azi inscribed in 2017?|قائمة التراث الثقافي غير المادي الذي يحتاج إلى صون عاجل|The List of Intangible Cultural Heritage in Need of Urgent Safeguarding
+193|poetry:taghrooda:length|Poetry|taghrooda|ما الحد الأعلى المعتاد لعدد أبيات قصيدة التغرودة بحسب أبوظبي للثقافة؟|What is the usual maximum length of a Taghrooda poem according to Abu Dhabi Culture?|سبعة أبيات|Seven lines
+194|poetry:taghrooda:alwajan-poet|Poetry|taghrooda|أي شاعر تغرودة معروف من الوجن يذكره سجل أبوظبي للثقافة؟|Which noted Taghrooda poet from Al Wajan is named by Abu Dhabi Culture?|عبيد بن معضد النعيمي|Obaid Ibn Maaaded Al Nuaimi
+195|arts:wanna:integration|Performance|wanna|في أي فن جماعي إماراتي تدخل الونّة بوصفها جزءاً من الأداء؟|In which Emirati group performance is wanna incorporated?|العيالة|Al Ayyala
+196|game:tabat:answer-call|Games|tabat|أي عبارة في لعبة «قول طبات» تُلزم صاحب اللغز بأن يذكر الحل؟|Which phrase in Gol Tabat obliges the riddle setter to give the answer?|قول جيج|Gol Jeej
+197|game:suwair:houl|Games|suwair|ماذا يسمّى الحيز المحدد الذي ينطلق منه اللاعبون في لعبة الصوير؟|What is the marked area from which players set out in Al Suwair called?|الحول|Houl
+198|place:jahili:completion|Historic places|jahili|في أي عام اكتمل بناء حصن الجاهلي بعد بدء العمل عام 1891؟|In which year was Al Jahili Fort completed after construction began in 1891?|1898|1898
+199|place:jahili:round-tower|Architecture|jahili|من كم طبقة دائرية متدرجة يتكوّن برج حصن الجاهلي المنفصل؟|How many progressively narrowing circular tiers form Al Jahili Fort's detached tower?|أربع طبقات|Four tiers
+200|place:jahili:explorer|Historic places|jahili|لأي رحّالة ومصوّر خُصص المعرض الدائم في حصن الجاهلي؟|Which explorer and photographer is the permanent exhibition at Al Jahili Fort dedicated to?|ويلفريد ثيسيجر|Wilfred Thesiger
+201|place:sharjahfort:construction-year|Historic places|sharjahfort|ما سنة بناء حصن الشارقة الذي كان مقراً للحكومة والأسرة الحاكمة؟|In which year was Sharjah Fort, once the government and ruling family's seat, built?|1823|1823
+202|place:dhayah:lower-refuge|Historic places|dhayahhistory|ما الاسم المحلي للحصن الأكبر أسفل تل ضاية، الذي احتمى فيه أهل الواحة وحيواناتهم؟|What was the larger refuge fort below Dhayah's hill, where oasis residents sheltered with their animals, called?|السور|Sur
+203|unesco:aflaj:year|UNESCO|aflaj|متى أُدرج نظام الأفلاج الإماراتي ومهاراته وتقاليده في قائمة اليونسكو غير المادية؟|When were the UAE's aflaj system and associated skills and traditions inscribed on UNESCO's intangible list?|2020|2020
+204|place:jahili:commissioner|Historic places|jahili|أي حاكم أمر ببناء حصن الجاهلي في أواخر القرن التاسع عشر؟|Which ruler commissioned Al Jahili Fort in the late nineteenth century?|الشيخ زايد بن خليفة آل نهيان، زايد الأول|Sheikh Zayed bin Khalifa Al Nahyan, Zayed the First

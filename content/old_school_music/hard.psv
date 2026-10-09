@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+137|song:zahab:film|zahab|في أي فيلم غنّى محمد فوزي «ذهب الليل»؟|In which film did Mohammed Fawzi sing Zahab El Leil?|معجزة من السماء|Moageza Men El Samaa
+138|song:saatsaat:lyricist|saat|من كتب كلمات «ساعات ساعات» لصباح؟|Who wrote the lyrics of Sabah's Saat Saat?|عبد الرحمن الأبنودي|Abdel Rahman El Abnoudi
+139|song:akdebaleik:lyricist|akdebwriter|من كتب كلمات أغنية وردة «أكدب عليك»؟|Who wrote the lyrics of Warda's Akdeb Aleik?|مرسي جميل عزيز|Morsi Gamil Aziz
+140|song:eltaer:lyricist|taer|من كتب كلمات «الطير المسافر» التي غنّتها نجاة؟|Who wrote the lyrics of El Tair El Mosafer performed by Najat?|محمد حمزة|Mohammed Hamza
+141|song:layalion:lyricist|layalion|من كتب كلمات «ليالي الأنس في فيينا» لأسمهان؟|Who wrote the lyrics of Asmahan's Layali El Ons Fi Vienna?|أحمد رامي|Ahmed Rami
+142|song:hawasultan:lyricist|hawa|من كتب كلمات «الهوى سلطان» لجورج وسوف؟|Who wrote the lyrics of George Wassouf's El Hawa Sultan?|بديع يزبك|Badi Yazbek
+143|song:alaremesh:lyricist|ramesh|من كتب كلمات «على رمش عيونها» لوديع الصافي؟|Who wrote the lyrics of Ala Remsh Ouyounha for Wadih El Safi?|حسين السيد|Hussein El Sayed
+144|song:modnak:maqam|modnak|بأي مقام تُدوّن قصيدة «مضناك جفاه مرقده» في نوتة مكتبة الموسيقى العربية؟|In which maqam is Modnak Jafahu Marqaduhu notated in the Arabic Music Library score?|الحجاز|Hijaz
+145|song:haramt:lyricist|haramt|من كتب كلمات «حرمت أحبك» لوردة؟|Who wrote the lyrics of Warda's Haramt Ahebak?|عمر بطيشة|Omar Batisha
+146|song:libeirout:originalcomposer|libeirout|من الموسيقار الإسباني صاحب اللحن الذي استُلهمت منه أغنية فيروز «لبيروت»؟|Which Spanish composer wrote the melody that inspired Fairuz's Li Beirut?|خواكين رودريغو|Joaquín Rodrigo
+147|song:respect:originalwriter|respect|من كتب «ريسبكت» قبل أن تعيد أريثا فرانكلين تسجيلها؟|Who wrote Respect before Aretha Franklin recorded it?|أوتيس ريدينغ|Otis Redding
+148|song:hitroadjack:writer|raywriter|من كتب «هِت ذا رود جاك» التي اشتهرت بصوت راي تشارلز؟|Who wrote Hit The Road Jack, made famous by Ray Charles?|بيرسي مايفيلد|Percy Mayfield
+149|award:stevie:firstpresenters1974|stevie|أي فنانين قدّما لستيفي وندر أول غرامي له في حفل 1974؟|Which two artists presented Stevie Wonder with his first Grammy in 1974?|تشاك بيري وليتل ريتشارد|Chuck Berry and Little Richard
+150|song:whatsgoingon:cowriters|marvin|من شاركا مارفن غاي كتابة «واتس غوينغ أون»؟|Who co-wrote What's Going On with Marvin Gaye?|رينالدو بنسون وآل كليفلاند|Renaldo Benson and Al Cleveland
+151|song:dockbay:cowriter|otis|من شارك أوتيس ريدينغ كتابة «ذا دوك أوف ذا باي»؟|Who co-wrote The Dock Of The Bay with Otis Redding?|ستيف كروبر|Steve Cropper
+152|event:chuckvoyager1989:planet|chuckneptune|احتفل تشاك بيري وكارل ساغان عام 1989 بمرور فوياجر 2 قرب أي كوكب؟|Which planet flyby did Chuck Berry and Carl Sagan celebrate for Voyager 2 in 1989?|نبتون|Neptune
+153|award:changegonnacome:halloffameyear|sam|في أي سنة أُدرج تسجيل سام كوك «أ تشينج إز غونا كَم» في قاعة مشاهير غرامي؟|In which year was Sam Cooke's A Change Is Gonna Come inducted into the Grammy Hall of Fame?|2000|2000
+154|song:jolene:producer|dollycredits|من أنتج تسجيل دولي بارتون الكلاسيكي لأغنية «جولين»؟|Who produced Dolly Parton’s classic Jolene recording?|بوب فيرغسون|Bob Ferguson
+155|album:ringfire:producers|cashalbum|من أنتجا ألبوم «رينغ أوف فاير: ذا بيست أوف جوني كاش»؟|Who produced Ring Of Fire: The Best Of Johnny Cash?|دون لو وفرانك جونز|Don Law and Frank Jones
+156|recording:crazy:producer|patsy|من المنتج الذي أشرف على تسجيل باتسي كلاين لأغنية «كريزي»؟|Who produced Patsy Cline's Crazy recording?|أوين برادلي|Owen Bradley
+157|song:standbyme:cowriters|standby|من شاركا بن إي كينغ كتابة «ستاند باي مي»؟|Who co-wrote Stand By Me with Ben E. King?|جيري لايبر ومايك ستولر|Jerry Leiber and Mike Stoller
+158|song:unchained:originalcredits|unchained|من مؤلف الموسيقى وكاتب الكلمات الأصليان لـ«أنتشيند ميلودي»؟|Who are the original composer and lyricist of Unchained Melody?|أليكس نورث وهاي زاريت|Alex North and Hy Zaret
+159|song:soundofsilence:electricproducer|silence|من المنتج الذي أضاف الآلات الكهربائية إلى التسجيل الصوتي الأصلي لـ«ذا ساوند أوف سايلنس»؟|Which producer added electric instrumentation to the original acoustic The Sound Of Silence recording?|توم ويلسون|Tom Wilson
+160|song:stayinalive:otherproducers|beecredits|من شاركا بي جيز إنتاج تسجيل «ستايِن ألايف»؟|Who co-produced the Stayin' Alive recording with the Bee Gees?|كارل ريتشاردسون وألبهي غالوتن|Karl Richardson and Albhy Galuten
+161|song:rasputin:producer|boneyprod|من أنتج تسجيل بوني إم لـ«راسبوتين»؟|Who produced Boney M.'s Rasputin recording?|فرانك فاريان|Frank Farian
+162|award:eurythmics:1987winningtrack|euryaward|بأي أغنية فاز يوريثميكس بغرامي أفضل أداء روك لثنائي أو مجموعة عام 1987؟|Which song won Eurythmics the 1987 Grammy for Best Rock Performance by a Duo or Group?|ميشنري مان|Missionary Man
+163|song:housrisingsun:producer|animalsprod|من أنتج تسجيل ذي أنيمالز لـ«هاوس أوف ذا رايزينغ سان»؟|Who produced the Animals House Of The Rising Sun recording?|ميكي موست|Mickie Most
+164|song:satisfaction:pedal|stonespedal|ما طراز دواسة الفَز المستخدمة في ريف كيث ريتشاردز على «ساتيسفاكشن»؟|What model of fuzz pedal was used for Keith Richards Satisfaction riff?|مايسترو/غيبسون إف زد-1 فَز تون|Maestro/Gibson FZ-1 Fuzz-Tone
+165|song:lightmyfire:firstsongwriter|doorswriter|أي عازف غيتار في ذا دورز كانت «لايت ماي فاير» أول أغنية يكتبها؟|For which Doors guitarist was Light My Fire his first written song?|روبي كريغر|Robby Krieger
+166|song:mygeneration:producer|who|من أنتج التسجيل الأصلي لأغنية ذا هو «ماي جينيريشن»؟|Who produced the original Who recording of My Generation?|شِل تالمي|Shel Talmy
+167|song:youreallygotme:producer|kinksprod|من أنتج تسجيل ذا كينكس الأصلي لـ«يو ريلي غوت مي»؟|Who produced the original Kinks recording of You Really Got Me?|شِل تالمي|Shel Talmy
+168|song:godonlyknows:cowriter|beach|من شارك برايان ويلسون كتابة «غود أونلي نوز»؟|Who co-wrote God Only Knows with Brian Wilson?|توني آشر|Tony Asher
+169|artist:ccr:drummer|ccrdrums|من عازف الدرامز في التشكيلة الكلاسيكية لكريدنس كليرووتر ريفايفل؟|Who is the drummer in the classic Creedence Clearwater Revival lineup?|دوغ كليفورد|Doug Clifford
+170|artist:santana:firstsologrammywork|santanaaward|بأي عمل حصد كارلوس سانتانا أول غرامي له كفنان منفرد عام 1988؟|Which work earned Carlos Santana his first solo-artist Grammy in 1988?|بلوز فور سلفادور|Blues For Salvador
+171|song:oulou:lyricist|oulou|من كتب كلمات «قولوا لعين الشمس» التي غنّتها شادية؟|Who wrote the words of Oulou Lain El Shams, sung by Shadia?|مجدي نجيب|Magdy Naguib
+172|song:sakan:scoremaqam|sakan|ما المقام الأساسي لقصيدة فيروز «سكن الليل» بحسب نوتتها المنشورة؟|What is the principal maqam of Fairuz’s Sakan Al Lail according to its published score?|الكرد|Kurd
+173|song:helwamorra:lyricist|helwamorra|من كتب كلمات «عالحلوة والمرة» التي غنّاها عبد الغني السيد؟|Who wrote the words of Ala El Helwa Wel Morra, sung by Abdel Ghani El Sayed?|سيد مرسي|Sayed Morsi
+174|song:rahela:lyricist|rahela|من كتب كلمات «راحلة» التي غنّاها محمد الحياني؟|Who wrote the words of Rahila, sung by Mohammed El Hayani?|عبد الرفيع الجواهري|Abderrafi Jawahiri
+175|song:qamar:lyricist|qamar|من كتب كلمات «القمر الأحمر» التي غنّاها عبد الهادي بلخياط؟|Who wrote the words of Al Qamar Al Ahmar, sung by Abdelhadi Belkhayat?|عبد الرفيع الجواهري|Abderrafi Jawahiri
+176|song:adawiyaclassic:lyricist|adawiyaclassic|من كتب كلمات «عدوية» التي غنّاها محمد رشدي؟|Who wrote the words of Adawiya, sung by Mohammed Rushdi?|عبد الرحمن الأبنودي|Abdel Rahman El Abnoudi
+177|song:asalsabah:lyricist|asalsabah|من كتب كلمات «زي العسل» التي غنّتها صباح؟|Who wrote the words of Zi El Asal, sung by Sabah?|محمد حمزة|Mohammed Hamza
+178|song:daret:lyricist|daret|من الشاعر الغنائي وراء كلمات «دارت الأيام» لأم كلثوم؟|Which lyricist wrote Daret El Ayyam for Umm Kulthum?|مأمون الشناوي|Maamoun El Shennawy
+179|song:fat:lyricist|fat|من الشاعر الغنائي وراء كلمات «فات الميعاد» لأم كلثوم؟|Which lyricist wrote Fat El Mead for Umm Kulthum?|مرسي جميل عزيز|Morsi Gamil Aziz
+180|song:nbtdi:lyricist|nbtdi|من الشاعر الغنائي وراء كلمات «نبتدي منين الحكاية» لعبد الحليم حافظ؟|Which lyricist wrote Nebtedi Menein El Hekaya for Abdel Halim Hafez?|محمد حمزة|Mohammed Hamza
+181|song:zayhawa:lyricist|zayhawa|من الشاعر الغنائي وراء كلمات «زي الهوا» لعبد الحليم حافظ؟|Which lyricist wrote Zay El Hawa for Abdel Halim Hafez?|محمد حمزة|Mohammed Hamza
+182|song:hayati:lyricist|hayati|من الشاعر الغنائي وراء كلمات «وحياتي عندك» لذكرى؟|Which lyricist wrote We Hayati Andak for Zekra?|وليد رزيقة|Walid Raziqa
+183|song:marina:lyricist|yaskh|من الشاعر الغنائي وراء كلمات «مرينا بيكم حمد» لياس خضر؟|Which lyricist wrote Marina Bikom Hamad for Yas Khudr?|مظفر النواب|Muzaffar Al Nawab
+184|song:hanwana:lyricist|yaskh|من الشاعر الغنائي وراء كلمات «حن وآنا حن» لياس خضر؟|Which lyricist wrote Han Wana Han for Yas Khudr?|مظفر النواب|Muzaffar Al Nawab
+185|song:makir:lyricist|yaskh|من الشاعر الغنائي وراء كلمات «المكير» لياس خضر؟|Which lyricist wrote Al Makir for Yas Khudr?|زامل سعيد فتاح|Zamil Saeed Fattah
+186|song:zahab:lyricist|zahab|من كتب كلمات أغنية محمد فوزي للأطفال «ذهب الليل»؟|Who wrote the lyrics of Mohammed Fawzi’s children’s song Zahab El Leil?|حسين السيد|Hussein El Sayed
+187|song:flymoon:author|moon|من كتب أغنية «فلاي مي تو ذا مون» عام 1954؟|Who wrote Fly Me To The Moon in 1954?|بارت هوارد|Bart Howard
+188|song:unforgettable:writer|gordon|من مؤلف «أنفورغيتابل» الذي نال عنها غرامي أغنية العام في حفل 1992؟|Which Unforgettable writer won Song Of The Year at the 1992 Grammys?|إرفينغ غوردون|Irving Gordon
+189|song:amore:creditpair|amore|من ملحّن وكاتب كلمات «ذاتس أموري» بحسب ترشيحها للأوسكار؟|Who composed That’s Amore and wrote its lyrics, according to its Oscar nomination?|هاري وارن؛ جاك بروكس|Harry Warren; Jack Brooks
+190|concert:ellaberlin:venue|ellavenue|في أي قاعة ببرلين سجّلت إيلا فيتزجيرالد حفلتها الشهيرة عام 1960؟|At which Berlin venue did Ella Fitzgerald record her famous 1960 concert?|دويتشلاند هاله|Deutschlandhalle
+191|song:hellodolly:author|dollywriter|من كتب موسيقى وكلمات «هالو دولي»؟|Who wrote the music and lyrics of Hello, Dolly!?|جيري هيرمان|Jerry Herman
+192|song:volare:coauthor|volare|من شارك دومينيكو مودونيو كتابة «نِل بلو ديبينتو دي بلو»؟|Who co-wrote Nel Blu, Dipinto Di Blu with Domenico Modugno?|فرانكو ميلياتشي|Franco Migliacci
+193|song:allgirls:writers|julioduetwriters|من الثنائي الذي كتب «تو أول ذا غيرلز آيف لَفْد بيفور»؟|Which songwriting pair wrote To All The Girls I’ve Loved Before?|ألبرت هاموند وهال ديفيد|Albert Hammond and Hal David
+194|song:regretterien:lyricist|piafcredits|من كتب كلمات «نون، جو نو روغريت ريان»؟|Who wrote the lyrics of Non, Je Ne Regrette Rien?|ميشيل فوكير|Michel Vaucaire
+195|song:prettywoman:label|orbisonclassic|ما شركة التسجيل التي أصدرت «أوه، بريتي وومان» لروي أوربيسون بالرقم 851؟|Which record label issued Roy Orbison’s Oh, Pretty Woman as single number 851?|مونومِنت|Monument
+196|film:jouwinidoc:director|jouwinifilm|أي حفيدة للهادي الجويني أخرجت «الرجل خلف الميكروفون»؟|Which granddaughter of Hedi Jouini directed The Man Behind The Microphone?|كلير بلحسين|Claire Belhassine
+197|artist:wardi:birthisland|wardiclassic|في أي جزيرة نيلية وُلد محمد وردي؟|On which Nile island was Mohammed Wardi born?|جزيرة صاي|Sai Island
+198|song:jarida:poet|jaridapoet|من كتب كلمات «الجريدة» التي غنّاها محمد الأمين؟|Who wrote the lyrics of Al Jarida, sung by Mohammed Al Amin?|فضل الله محمد|Fadl Allah Mohammed
+199|song:najahnational:lyricist|najahnational|من كتب كلمات «يا أغلى اسم في الوجود» في تسجيل نجاح سلام؟|Who wrote the lyrics of Ya Aghla Ism Fil Wujud, recorded by Najah Salam?|إسماعيل الحبروك|Ismail El Habrouk
+200|song:najma:lyricist|najma|من كتب كلمات «يا نجمة» في تسجيل حسين نعمة؟|Who wrote the lyrics of Ya Najma, recorded by Hussein Nema?|كاظم الركابي|Kadhim Al Rikabi
+201|song:tyour:lyricist|tyour|من كتب كلمات «يا طيور الطايرة» في تسجيل سعدون جابر؟|Who wrote the lyrics of Ya Tiyour El Tayra, recorded by Saadoun Jaber?|زهير الدجيلي|Zuhair Al Dujaili
+202|song:saqayeen:lyricist|saqayeen|من كتب كلمات «حارة السقايين» في تسجيل شريفة فاضل؟|Who wrote the lyrics of Haret El Saqayeen, recorded by Sharifa Fadel?|حسين السيد|Hussein El Sayed
+203|song:habbaytak:frenchadaptationsinger|habbaytak|أي مغنٍّ فرنسي قدّم «كوبابل» المقتبسة موسيقيًا من «حبيتك بالصيف»؟|Which French singer recorded Coupable, musically adapted from Habbaytak Bessayf?|جان فرانسوا مايكل|Jean François Michael
+204|song:mesafer:lyricist|mesafer|من كتب كلمات «يا مسافر وحدك» لمحمد عبد الوهاب؟|Who wrote the lyrics of Mohammed Abdel Wahab’s Ya Mesafer Wahdak?|حسين السيد|Hussein El Sayed

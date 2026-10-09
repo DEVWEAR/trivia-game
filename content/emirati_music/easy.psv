@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|song:bont:singer|bont|من المطرب الإماراتي الذي غنّى «بالبنط العريض» عام 2020؟|Which Emirati singer released Bel Bont El Areedh in 2020?|حسين الجسمي|Hussain Al Jassmi
+002|song:motasoaa:singer|motasoaa|من صاحب أغنية «متصوع» التي أصدرها عام 2017؟|Who released the song Motasoa in 2017?|عيضة المنهالي|Eida Al Menhali
+003|song:tadri:singer|tadri|أي مطربة إماراتية غنّت «تدري ليش» في نسختها الأصلية عام 1996؟|Which Emirati singer performed the original 1996 recording of Tadry Leesh?|أحلام|Ahlam
+004|song:mehadbar:singer|mehadbar|من المطرب الإماراتي صاحب تسجيل «أحب البر والمزيون»؟|Which Emirati singer recorded Aheb El Bar W El Mazyoun?|ميحد حمد|Mehad Hamad
+005|tv:ahlam:arabidol|women2022|أي مطربة إماراتية اشتهرت بعضويتها في لجنة تحكيم «أراب آيدول»؟|Which Emirati singer became known as a judge on Arab Idol?|أحلام|Ahlam
+006|tv:shamma:arabsfinal|women2022|أي مطربة إماراتية برزت بوصولها إلى نهائي «أرابز غوت تالنت»؟|Which Emirati singer rose to prominence by reaching the Arabs Got Talent final?|شمة حمدان|Shamma Hamdan
+007|song:momken:partner|momken|من المطرب الذي شارك بلقيس غناء «ممكن» عام 2021؟|Which singer duetted with Balqees on Momken in 2021?|سيف نبيل|Saif Nabeel
+008|song:sahebmaani:partner|mehadassala|من المطربة التي شاركت ميحد حمد غناء «الصاحب المعني»؟|Which female singer duetted with Mehad Hamad on Al Saheb Al Maani?|أصالة|Assala
+009|artist:jassmi:piano|jassmibio|ما الآلة ذات المفاتيح التي يعزف عليها حسين الجسمي؟|Which keyboard instrument does Hussain Al Jassmi play?|البيانو|Piano
+010|artist:elham:instrument|elham|بأي آلة وترية اشتهرت العازفة الإماراتية إلهام المرزوقي؟|Which string instrument is Emirati musician Elham Al Marzooqi known for playing?|التشيلو|Cello
+011|song:kashf:singer|kashf|من غنّى «كشف المحبة» في التسجيل الصادر عام 2016؟|Who sang the 2016 recording of Kashf Al Mahabba?|محمد الشحي|Mohamed Al Shehhi
+012|song:aanadt:singer|aanadt|من المطربة الإماراتية التي غنّت «عاندت فيك»؟|Which Emirati female singer performed Aanadt Feek?|شمة حمدان|Shamma Hamdan
+013|song:talaa:singer|talaa|أي مطرب إماراتي قدّم أغنية وألبوم «طلع عاشق» عام 2011؟|Which Emirati singer released the song and album Talaa Asheq in 2011?|منصور زايد|Mansour Zayed
+014|song:dighewa:singer|dighewa|من غنّى «دق هيوه» في الفيديو الصادر عن فايز السعيد للصوتيات والمرئيات؟|Who sang Dig Hewa in the video released by Fayez Al Saeed Sound and Media?|فايز السعيد|Fayez Al Saeed
+015|song:adelondon:singer|adelondon|من المطرب صاحب تسجيل «آه يا لندن» المعروف في الأغنية الإماراتية؟|Which singer recorded the well-known Emirati song Ah Ya London?|عادل إبراهيم|Adel Ebrahim
+016|song:entaha:singer|entaha|من المطربة التي قدّمت فيديو «انتهى» الرسمي عام 2021؟|Which female singer released the official Entaha video in 2021?|بلقيس|Balqees
+017|song:bahrrikba:partner|bahrrikba|من المطرب الذي شارك بلقيس دويتو «بحر ركبه غلاهم» عام 2020؟|Which singer joined Balqees on the 2020 duet Bahr Rikbah Ghalahm?|عيضة المنهالي|Eida Al Menhali
+018|album:aryam:vitaminartist|aryamcatalog|أي مطربة إماراتية أصدرت ألبوم «فيتامين الغرام»؟|Which Emirati female singer released the album Vitamin Al Gharam?|أريام|Aryam
+019|song:hamadainei:singer|hamadcatalog|من غنّى «عيني اليمين»؟|Who sang Aini Al Yameen?|حمد العامري|Hamad Al Ameri
+020|song:harbimal:singer|harbimal|من المطرب صاحب تسجيل «مل صبري»؟|Which singer recorded Mal Sabri?|حربي العامري|Harbi Al Amri
+021|song:ajer:singer|ajer|من غنّت «أجر وعافية» في النسخة الأصلية الصادرة عام 2014؟|Who sang the original 2014 release of Ajer We Afeya?|شمة حمدان|Shamma Hamdan
+022|song:zanzibar:singer|zanzibar|من المطرب الإماراتي الذي اشتهر بأداء «زنجبار»؟|Which Emirati singer is known for performing Zanzibar?|عبدالله بالخير|Abdullah Bilkhair
+023|artist:fatimarawda:mother|fatimarawda|ما صلة القرابة بين المطربتين فاطمة «زهرة العين» وروضة؟|How are singers Fatima Zahrat Al Ain and Rawda related?|فاطمة والدة روضة|Fatima is Rawda's mother
+024|song:yasaaed:band|yasaaed|أي فرقة حربية قدّمت تسجيل «يا سعيد» المنشور على قناتها الرسمية عام 2019؟|Which Harbiya band performed the Ya Saeed recording published on its official channel in 2019?|فرقة المزيود الحربية|Al Mazyood Harbiya Band
+025|artist:arqam:genre|arqam|بأي لون غنائي اشتهر الفنان الإماراتي أرقم، بما فيه أسلوب النيو سول؟|Which musical genre, including its neo-soul style, is Emirati singer Arqam known for?|السول|Soul
+026|artist:eman:identity|emanbio|من الموسيقية المعروفة بأنها أول ملحنة إماراتية؟|Which musician is known as the first female Emirati composer?|إيمان الهاشمي|Eman Al Hashimi
+027|artist:zayedzaabi:instrument|zayedpianist|ما الآلة التي يعزف عليها الموسيقي الإماراتي زايد محمد الزعابي؟|Which instrument does Emirati musician Zayed Mohammed Al Zaabi play?|البيانو|Piano
+028|song:mohim:singer|mohim|من غنّى «مهم جداً» في نسختها الصادرة عام 2019؟|Who sang the 2019 release of Mohim Jiddan?|حسين الجسمي|Hussain Al Jassmi
+029|song:wayli:singer|wayli|من المطرب الإماراتي صاحب تسجيل «ويلي يا ويلاه» في ألبوم «يا عبيد»؟|Which Emirati singer recorded Wayli Ya Waylah on the album Ya Obeid?|عبدالله بالخير|Abdullah Bilkhair
+030|song:weshthakkarak:singer|weshthakkarak|من غنّت النسخة الأصلية من «وش ذكرك» عام 1995؟|Who sang the original 1995 recording of Wsh Zkrk?|أحلام|Ahlam
+031|song:khams:singer|khams|من صاحب النسخة الأصلية لأغنية «خمس الحواس» عام 1999؟|Who sang the original 1999 recording of Khams Al Hawas?|ميحد حمد|Mehad Hamad
+032|song:redqalbi:singer|redqalbi|أي مطربة قدّمت الفيديو الرسمي لأغنية «رد قلبي» عام 2013؟|Which female singer released the official Red Kalbi video in 2013?|بلقيس|Balqees
+033|song:sketanak:singer|sketanak|من غنّى «سكت عنك» في التسجيل الصادر عام 2019؟|Who sang the 2019 recording of Sket Anak?|محمد الشحي|Mohamed Al Shehhi
+034|song:ramsh:singer|ramsh|من صاحب أغنية «الرمش اريشا» الصادرة ضمن ألبوم يحمل اسمه عام 2004؟|Who sang Al Rmsh Ariasha on his self-titled 2004 album?|حمد العامري|Hamad Al Ameri
+035|artist:balqees:father|balqeesfather|من الموسيقار الذي يُعد والد المطربة بلقيس؟|Which musician is singer Balqees's father?|أحمد فتحي|Ahmed Fathi
+036|artist:shamma:guitar|shammabillboard|ما الآلة الوترية التي علّمت شمة حمدان نفسها العزف عليها عبر يوتيوب؟|Which string instrument did Shamma Hamdan teach herself to play through YouTube?|الجيتار|Guitar
+037|artist:hamadtaee:profession|hamadtaee|ما المهنة التي يمارسها الموسيقي الإماراتي حمد الطائي إلى جانب التأليف والعزف؟|What profession does Emirati musician Hamad Al Taee practise alongside composing and performing?|طيّار|Pilot
+038|song:jabbar:singer|jabbar|من المطربة التي قدّمت «جبّار» في الفيديو الرسمي لعام 2021؟|Which female singer performed Jabbar in its official 2021 video?|بلقيس|Balqees
+039|song:mayeswa:singer|mayeswa|من المطرب الإماراتي صاحب أغنية «والله ما يسوى»؟|Which Emirati singer performed Wallah Ma Yeswa?|حسين الجسمي|Hussain Al Jassmi
+040|song:mestaghreb:singer|mestaghreb|من غنّت «ومستغرب» في نسختها الصادرة عام 2016؟|Who sang the 2016 release of WeMestaghrb?|أحلام|Ahlam
+041|song:boshra:singer|boshra|من المطرب الإماراتي الذي غنّى «بشرة خير»؟|Which Emirati singer performed Boshret Kheir?|حسين الجسمي|Hussain Al Jassmi
+042|song:hazeen:singer|hazeen|من غنّت «حزين» في حفل «الليلة الماسية» عام 2023؟|Who sang Hazeen at the 2023 Diamond Night concert?|أحلام|Ahlam
+043|song:ardhef:singer|ardhef|من غنّى «أردف الونة» في التسجيل الرسمي لعام 2017؟|Who sang the official 2017 recording of Ardhef Al Wannah?|عيضة المنهالي|Eida Al Menhali
+044|song:fakadtek:singer|fakadtek|من المطرب الإماراتي صاحب أغنية «فقدتك»؟|Which Emirati singer performed Fakadtak?|حسين الجسمي|Hussain Al Jassmi
+045|song:hamadtezaal:singer|hamadcatalog|من صاحب أغنية «تزعل وأراضيك»؟|Who sings Tezaal W Aradeek?|حمد العامري|Hamad Al Ameri
+046|person:fayez:nickname|fayeznickname|أي ملحّن ومطرب إماراتي يُعرف بلقب «سفير الألحان»؟|Which Emirati composer and singer is known as the Ambassador of Melodies?|فايز السعيد|Fayez Al Saeed
+047|song:hazzaaljaw:singer|hazzaaljaw|من غنّى «الجو لندني» في النسخة الأصلية التي أصدرتها شركة الخوار عام 2015؟|Who sang the original Al Jaw Londani released by Al Khawar in 2015?|هزاع|Hazza
+048|song:fayezselfie:singer|fayezselfie|من غنّى «سيلفي» في الفيديو الرسمي الصادر عام 2014؟|Who sang Selfie in its official 2014 music video?|فايز السعيد|Fayez Al Saeed
+049|song:diplomacy:singer|diplomacy|من المطربة صاحبة أغنية «دبلوماسي»؟|Which female singer performed Diplomacy?|بلقيس|Balqees
+050|song:moajaba:singer|moajaba|من غنّت «معجبة» في نسختها الأصلية لعام 2016؟|Who sang the original 2016 version of Moajaba?|شمة حمدان|Shamma Hamdan
+051|song:sersaada:singer|sersaada|من غنّى «سر السعادة» في إعلان ماونتن ڤيو الرمضاني عام 2021؟|Who sang Ser El Saada in Mountain View's 2021 Ramadan advertisement?|حسين الجسمي|Hussain Al Jassmi
+052|song:pieceheart:singer|pieceheart|من غنّى «حتة من قلبي» في التسجيل الأصلي لعام 2021؟|Who sang the original 2021 recording of Piece of My Heart?|حسين الجسمي|Hussain Al Jassmi
+053|song:hathashayef:singer|hathashayef|من المطربة صاحبة أغنية «هذا اللي شايف نفسه»؟|Which female singer performs Haza Eli Shayef Nafsa?|أحلام|Ahlam
+054|song:wayyakkhedni:singer|wayyakkhedni|من غنّت «وياك خذني» في الفيديو الرسمي؟|Who sang Wayyak Khedni in its official video?|بلقيس|Balqees
+055|institution:baitaloud:city|recitaloud|في أي مدينة إماراتية يقع معهد «بيت العود»؟|In which Emirati city is the Bait Al Oud music institute?|أبوظبي|Abu Dhabi
+056|song:taalachouf:singer|taalachouf|من غنّت «تعالى تشوف» في الفيديو الرسمي؟|Who sang Taala Tchouf in its official video?|بلقيس|Balqees
+057|song:barshloni:singer|barshloni|من المطرب الإماراتي الذي غنّى «حبيبي برشلوني»؟|Which Emirati singer performed Habibi Barshloni?|حسين الجسمي|Hussain Al Jassmi
+058|song:abiafham:singer|abiafham|من غنّت «أبي أفهم» في نسختها الأصلية لعام 2017؟|Who sang the original 2017 recording of Abi Afham?|شمة حمدان|Shamma Hamdan
+059|song:qahwawadaa:singer|qahwawadaa|من صاحب أغنية «قهوة وداع» الصادرة عام 2016؟|Who sang the 2016 song Qahwat Wadaa?|حسين الجسمي|Hussain Al Jassmi
+060|song:yalazem:singer|yalazem|من المطربة صاحبة أغنية «يلازمني خيالك»؟|Which female singer performs Yalazemni Khayalak?|أحلام|Ahlam
+061|song:saqani:singer|saqani|من غنّى «سقاني الحب» في النسخة الرسمية لعام 2017؟|Who sang the official 2017 version of Saqani Al Hob?|حمد العامري|Hamad Al Ameri
+062|song:mabrouk:singer|mabrouk|من المطربة صاحبة أغنية «مبروك» التي أصدرت روتانا فيديوها عام 2015؟|Which female singer performed Mabrouk in Rotana's 2015 music video?|بلقيس|Balqees
+063|song:shammaaheb:singer|shammaaheb|من غنّت «أحبك» في التسجيل الأصلي لعام 2016 الذي لحّنته بنفسها؟|Who sang the original 2016 Ahebk recording that she composed herself?|شمة حمدان|Shamma Hamdan
+064|song:latathkir:singer|latathkir|من غنّى «لا تذكرني» في النسخة الأصلية الصادرة عن شركة الخوار؟|Who sang the original La Tathkirni released by Al Khawar Art Production?|ميحد حمد|Mehad Hamad
+065|song:alteir:singer|alteir|من المطرب الإماراتي الذي غنّى «الطير» في حفل المدرج الروماني بعمّان عام 2023؟|Which Emirati singer performed Al Teir at Amman's Roman Theatre in 2023?|حسين الجسمي|Hussain Al Jassmi
+066|song:seta:singer|seta|من المطرب الإماراتي صاحب أغنية «ستة الصبح»؟|Which Emirati singer performs Seta El Sobah?|حسين الجسمي|Hussain Al Jassmi
+067|song:hathana:singer|hathana|من غنّت «هذا أنا» في دار الأوبرا السلطانية بمسقط عام 2019؟|Who sang Hatha Ana at the Royal Opera House Muscat in 2019?|أحلام|Ahlam
+068|song:yamarini:singer|yamarini|من المطرب الإماراتي صاحب أغنية «يمرني طاريك» الصادرة عام 2020؟|Which Emirati singer released Yamarini Tarik in 2020?|عيضة المنهالي|Eida Al Menhali

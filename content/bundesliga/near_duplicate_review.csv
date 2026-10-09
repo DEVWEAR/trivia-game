@@ -1,0 +1,4 @@
+"pair","hash","decision","reason"
+"bundesliga_v2_002/bundesliga_v2_090","85613586dd44edd3c20c3f7608193ecf5f732568a5bcec45bfab3e1c11562de9","distinct","Gerd Muller holds the full-league career goal record; Kirsten holds the separate Leverkusen club record. Different populations and totals."
+"bundesliga_v2_007/bundesliga_v2_020","46d40a7d5655b2e1eaf5510eecb4f3176a44b7a2112359b6fcfb3ba66b235f19","distinct","Gladbach Foals and Leipzig Red Bulls identify independent clubs and nicknames."
+"bundesliga_v2_110/bundesliga_v2_130","3eca90d070dee171a51ab93c5dea09654dbf647820e589ef0db9a17e7f04ef31","distinct","Veh won Stuttgart 2007; Daum won Stuttgart 1992. Different coaches and title campaigns."

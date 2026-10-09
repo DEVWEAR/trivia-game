@@ -1,0 +1,106 @@
+[
+  {
+    "pair": "emirati_music_v2_055/uae_football_v2_063",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "In which city is UAE club Al Jazira based?",
+    "answer": "Abu Dhabi",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city is the Bait Al Oud music institute? against In which city is UAE club Al Jazira based?; common answer Abu Dhabi. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_football_v2_066",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "In which emirate is Bani Yas based?",
+    "answer": "Abu Dhabi",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city is the Bait Al Oud music institute? against In which emirate is Bani Yas based?; common answer Abu Dhabi. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_001",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "What is the capital of the United Arab Emirates?",
+    "answer": "Abu Dhabi",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city is the Bait Al Oud music institute? against What is the capital of the United Arab Emirates?; common answer Abu Dhabi. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_007",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "Which UAE emirate is the largest by area?",
+    "answer": "Abu Dhabi",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city is the Bait Al Oud music institute? against Which UAE emirate is the largest by area?; common answer Abu Dhabi. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_024",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "In which emirate is the UAE's Louvre museum located?",
+    "answer": "Abu Dhabi",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city is the Bait Al Oud music institute? against In which emirate is the UAE's Louvre museum located?; common answer Abu Dhabi. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_035",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "Which city is Etihad Airways based in?",
+    "answer": "Abu Dhabi",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city is the Bait Al Oud music institute? against Which city is Etihad Airways based in?; common answer Abu Dhabi. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_077",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "Which city hosted the GCC's founding summit in 1981?",
+    "answer": "Abu Dhabi",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city is the Bait Al Oud music institute? against Which city hosted the GCC's founding summit in 1981?; common answer Abu Dhabi. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_074/uae_general_v2_004",
+    "qA": "Whose words did Hussain Al Jassmi sing in In Hawetona?",
+    "qB": "Who was the first President of the UAE?",
+    "answer": "Sheikh Zayed bin Sultan Al Nahyan",
+    "decision": "distinct",
+    "reason": "Reviewed Whose words did Hussain Al Jassmi sing in In Hawetona? against Who was the first President of the UAE?; common answer Sheikh Zayed bin Sultan Al Nahyan. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_074/uae_general_v2_129",
+    "qA": "Whose words did Hussain Al Jassmi sing in In Hawetona?",
+    "qB": "Who established Sir Bani Yas's Royal Nature Reserve in 1971?",
+    "answer": "Sheikh Zayed bin Sultan Al Nahyan",
+    "decision": "distinct",
+    "reason": "Reviewed Whose words did Hussain Al Jassmi sing in In Hawetona? against Who established Sir Bani Yas's Royal Nature Reserve in 1971?; common answer Sheikh Zayed bin Sultan Al Nahyan. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_122/uae_heritage_v2_030",
+    "qA": "Which instrument did Mohamed Al Mazam play in his school band while also singing?",
+    "qB": "Which main percussion instruments set the rhythm of Al Ayyala performers' movements?",
+    "answer": "Drums",
+    "decision": "distinct",
+    "reason": "Reviewed Which instrument did Mohamed Al Mazam play in his school band while also singing? against Which main percussion instruments set the rhythm of Al Ayyala performers' movements?; common answer Drums. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_156/uae_heritage_v2_123",
+    "qA": "Which instrument did Bait Al Oud in Abu Dhabi introduce classes for in 2017?",
+    "qB": "Which string instrument accompanies traditional shilla according to Abu Dhabi Culture's register?",
+    "answer": "Rebabah",
+    "decision": "distinct",
+    "reason": "Reviewed Which instrument did Bait Al Oud in Abu Dhabi introduce classes for in 2017? against Which string instrument accompanies traditional shilla according to Abu Dhabi Culture's register?; common answer Rebabah. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_037/uae_pro_league_v2_189",
+    "qA": "What profession does Emirati musician Hamad Al Taee practise alongside composing and performing?",
+    "qB": "What profession did Ahmed Khalil say he had dreamed of in an AFC magazine interview before becoming a professional footballer?",
+    "answer": "Pilot",
+    "decision": "distinct",
+    "reason": "Reviewed What profession does Emirati musician Hamad Al Taee practise alongside composing and performing? against What profession did Ahmed Khalil say he had dreamed of in an AFC magazine interview before becoming a professional footballer?; common answer Pilot. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  },
+  {
+    "pair": "emirati_music_v2_069/uae_pro_league_v2_005",
+    "qA": "In which Emirati city was Hussain Al Jassmi born?",
+    "qB": "Which club in the UAE league is known as the Eagles?",
+    "answer": "Khorfakkan",
+    "decision": "distinct",
+    "reason": "Reviewed In which Emirati city was Hussain Al Jassmi born? against Which club in the UAE league is known as the Eagles?; common answer Khorfakkan. Music-institute location, songwriting, an artist's instrument, a dated instrument class, a musician's profession and birthplace are distinct from football-club location, national geography, political office, heritage accompaniment or a footballer's career ambition."
+  }
+]

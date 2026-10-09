@@ -2,8 +2,8 @@ import '../question_model.dart';
 
 TriviaQuestion _p200(String id,String ar,String en,String photo1,String photo2){
   final n=int.parse(id.split('_').last);
-  String localPhoto(int side)=>'assets/two_pics/${n.toString().padLeft(3,'0')}_$side.jpg';
-  return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.easy200,questionAr:'صورتان، كلمة أو عبارة واحدة',questionEn:'Two pictures, one word or phrase',answerAr:ar,answerEn:en,sourceName:'Bundled real photographic clue',sourceUrl:'local asset',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
+  String localPhoto(int side)=>'assets/two_pics/redesign/${n.toString().padLeft(3,'0')}_$side.png';
+  return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.easy200,questionAr:'صورتان، كلمة أو عبارة واحدة',questionEn:'Two pictures, one word or phrase',answerAr:ar,answerEn:en,sourceName:'Original generated clue artwork, visually reviewed',sourceUrl:'internal://original-clue-artwork',lastVerified:DateTime(2026,10,9),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
 }
 final twoPicsQuestions001To034=<TriviaQuestion>[
 _p200('two_pics_001','نظارة شمسية','Sunglasses','bright sun sky','clear eyeglasses'),
@@ -35,9 +35,9 @@ _p200('two_pics_026','كأس ماء','Glass of water','empty drinking glass','cl
 _p200('two_pics_027','طاولة طعام','Dining table','wooden table','meal plate'),
 _p200('two_pics_028','كرة تنس','Tennis ball','round ball','tennis racket'),
 _p200('two_pics_029','حبة رمل','Grain of sand','single grain macro','sand dunes'),
-_p200('two_pics_030','راحة اليد','Palm of hand','resting person relaxing','open human hand'),
+_p200('two_pics_030','راحة البال','Peace of mind','resting person relaxing','open human hand'),
 _p200('two_pics_031','قهوة عربية','Arabic coffee','coffee cup','Arabic dallah'),
 _p200('two_pics_032','برج الساعة','Clock tower','tall tower','analog clock face'),
 _p200('two_pics_033','ورق شجر','Tree leaves','paper sheets','green tree'),
-_p200('two_pics_034','مفتاح بيت','House key','metal key','house exterior'),
+_p200('two_pics_034','عصير البرتقال','Orange juice','one whole orange and a neatly cut orange half, no drink or glass','a clear glass filled with generic pale fruit juice, no fruit, no oranges'),
 ];

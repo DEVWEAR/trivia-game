@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+069|song:ayazon:composer|ayazon|من لحّن قصيدة «أيظن» لنجاة الصغيرة؟|Who composed Ayazon for Najat Al Saghira?|محمد عبد الوهاب|Mohammed Abdel Wahab
+070|song:saatsaat:composer|saat|من لحّن «ساعات ساعات» لصباح؟|Who composed Sabah's Saat Saat?|جمال سلامة|Gamal Salama
+071|song:akdebaleik:composer|akdebcomposer|من لحّن أغنية وردة «أكدب عليك»؟|Who composed Warda's Akdeb Aleik?|محمد الموجي|Mohammed El Mougi
+072|song:eltaer:composer|taer|من لحّن «الطير المسافر» لنجاة الصغيرة؟|Who composed El Tair El Mosafer for Najat Al Saghira?|بليغ حمدي|Baligh Hamdi
+073|song:layalion:composer|layalion|من لحّن «ليالي الأنس في فيينا» لأسمهان؟|Who composed Asmahan's Layali El Ons Fi Vienna?|فريد الأطرش|Farid Al Atrash
+074|song:hawasultan:composer|hawa|من لحّن «الهوى سلطان» لجورج وسوف؟|Who composed George Wassouf's El Hawa Sultan?|جورج يزبك|Georges Yazbek
+075|song:alaremesh:composer|ramesh|من لحّن «على رمش عيونها» لوديع الصافي؟|Who composed Ala Remsh Ouyounha for Wadih El Safi?|بليغ حمدي|Baligh Hamdi
+076|song:modnak:poet|modnak|من الشاعر صاحب قصيدة «مضناك جفاه مرقده»؟|Who wrote the poem Modnak Jafahu Marqaduhu?|أحمد شوقي|Ahmed Shawqi
+077|song:haramt:composer|haramt|من لحّن «حرمت أحبك» لوردة؟|Who composed Warda's Haramt Ahebak?|صلاح الشرنوبي|Salah El Sharnouby
+078|song:libeirout:poet|libeirout|من كتب كلمات «لبيروت» التي غنّتها فيروز؟|Who wrote the words of Li Beirut performed by Fairuz?|جوزيف حرب|Joseph Harb
+079|song:respect:arethaalbum|respect|ما ألبوم أريثا فرانكلين الذي يضم تسجيلها لعام 1967 من «ريسبكت»؟|Which Aretha Franklin album contains her 1967 Respect recording?|آي نيفر لَفد أ مان ذا واي آي لَف يو|I Never Loved A Man The Way I Love You
+080|album:modernsounds:raytitle|rayroad|ما اسم ألبوم راي تشارلز لعام 1962 الذي جمع أغاني الكانتري بإحساسه الموسيقي؟|What is Ray Charles' 1962 country-and-western album called?|مودرن ساوندز إن كانتري آند ويسترن ميوزيك|Modern Sounds In Country And Western Music
+081|song:superstition:album|stevie|ما ألبوم ستيفي وندر الذي يضم «سوبرستيشن»؟|Which Stevie Wonder album contains Superstition?|توكينغ بوك|Talking Book
+082|album:whatsgoingon:year|marvin|في أي سنة صدر ألبوم مارفن غاي «واتس غوينغ أون» الأصلي؟|In which year was Marvin Gaye's original What's Going On album released?|1971|1971
+083|award:dockbay:1969songcategory|otis|بأي فئة لأفضل أغنية فازت «ذا دوك أوف ذا باي» بغرامي عام 1969؟|In which best-song category did The Dock Of The Bay win a Grammy in 1969?|أفضل أغنية ريذم آند بلوز|Best R&B Song
+084|song:johnnybgoode:spacecraft|chuckneptune|أي مسبارين حملا «جوني بي غود» على الأسطوانة الذهبية إلى الفضاء؟|Which two probes carried Johnny B. Goode on the Golden Record into space?|فوياجر 1 وفوياجر 2|Voyager 1 and Voyager 2
+085|song:changegonnacome:inspiringsong|sam|أي أغنية لبوب ديلان ألهمت سام كوك كتابة «أ تشينج إز غونا كَم»؟|Which Bob Dylan song inspired Sam Cooke's A Change Is Gonna Come?|بلووين إن ذا ويند|Blowin' In The Wind
+086|album:jolene:originalyear|dolly|في أي سنة صدر ألبوم الاستوديو «جولين» لدولي بارتون؟|In which year was Dolly Parton's Jolene studio album released?|1974|1974
+087|song:ringfire:cowriterjune|cash|أي مغنّية من عائلة كارتر شاركت كتابة «رينغ أوف فاير»؟|Which singer from the Carter family co-wrote Ring Of Fire?|جون كارتر|June Carter
+088|song:crazy:writer|patsy|من كتب «كريزي» التي اشتهرت بصوت باتسي كلاين؟|Who wrote Crazy, made famous by Patsy Cline?|ويلي نيلسون|Willie Nelson
+089|artist:benking:formerband|benking|مع أي فرقة غنّى بن إي كينغ قبل نجاحاته منفردًا؟|With which group did Ben E. King sing before his solo successes?|ذا دريفترز|The Drifters
+090|song:unchained:1990film|unchained|أي فيلم لعام 1990 أعاد تسجيل رايتشَس براذرز «أنتشيند ميلودي» إلى الشهرة؟|Which 1990 film revived the popularity of the Righteous Brothers Unchained Melody recording?|غوست|Ghost
+091|song:soundofsilence:firstalbum|silence|في أي ألبوم صدرت النسخة الصوتية الأصلية من «ذا ساوند أوف سايلنس»؟|On which album was the original acoustic The Sound Of Silence released?|وِنزداي مورنينغ، ثري إيه إم|Wednesday Morning, 3 A.M.
+092|song:stayinalive:originalfilm|beegees|لأي فيلم ظهرت «ستايِن ألايف» في الموسيقى التصويرية الأصلية؟|For which film was Stayin' Alive included on the original soundtrack?|ساترداي نايت فيفر|Saturday Night Fever
+093|song:rasputin:album|boneym|ما ألبوم بوني إم الذي يضم «راسبوتين»؟|Which Boney M. album contains Rasputin?|نايت فلايت تو فينوس|Nightflight To Venus
+094|artist:eurythmics:leadvocalist|eurythmics|من المغنّية الرئيسية في ثنائي يوريثميكس؟|Who is the lead singer of Eurythmics?|آني لينوكس|Annie Lennox
+095|artist:animals:leadsinger|animals|من المغنّي الرئيسي لفرقة ذي أنيمالز في تسجيل «هاوس أوف ذا رايزينغ سان»؟|Who is the Animals lead singer on House Of The Rising Sun?|إريك بوردون|Eric Burdon
+096|song:satisfaction:richardscowriter|stones|أي عازف غيتار شارك ميك جاغر كتابة «ساتيسفاكشن»؟|Which guitarist co-wrote Satisfaction with Mick Jagger?|كيث ريتشاردز|Keith Richards
+097|artist:doors:leadsinger|doors|من كان المغنّي الرئيسي لفرقة ذا دورز في عهدها الكلاسيكي؟|Who was the lead singer of the classic Doors lineup?|جيم موريسون|Jim Morrison
+098|song:mygeneration:basssoloist|whobass|من عازف الباس صاحب السولو في تسجيل «ماي جينيريشن» لذا هو؟|Who plays the bass solo on the Who's My Generation?|جون إنتويستل|John Entwistle
+099|song:youreallygotme:guitarist|kinks|أي شقيق من الأخوين ديفيز عزف ريف الغيتار في «يو ريلي غوت مي»؟|Which Davies brother plays the guitar riff on You Really Got Me?|ديف ديفيز|Dave Davies
+100|song:godonlyknows:leadvocalist|beach|أي فرد من عائلة ويلسون غنّى الصوت الرئيسي في «غود أونلي نوز»؟|Which Wilson family member sings lead on God Only Knows?|كارل ويلسون|Carl Wilson
+101|song:seenrain:album|ccr|ما ألبوم كريدنس كليرووتر ريفايفل الذي يضم «هاف يو إيفر سين ذا رين»؟|Which Creedence Clearwater Revival album contains Have You Ever Seen The Rain?|بِندولَم|Pendulum
+102|song:blackmagic:santanaalbum|santana|ما ألبوم سانتانا الذي يضم «بلاك ماجيك وومان/جيبسي كوين»؟|Which Santana album contains Black Magic Woman/Gypsy Queen?|أبراكساس|Abraxas
+103|song:oulou:composer|oulou|من وضع لحن أغنية «قولوا لعين الشمس» في تسجيل شادية؟|Who composed Oulou Lain El Shams as recorded by Shadia?|بليغ حمدي|Baligh Hamdi
+104|song:sakan:composer|sakan|من وضع لحن أغنية «سكن الليل» في تسجيل فيروز؟|Who composed Sakan Al Lail as recorded by Fairuz?|محمد عبد الوهاب|Mohammed Abdel Wahab
+105|song:helwamorra:composer|helwamorra|من وضع لحن أغنية «عالحلوة والمرة» في تسجيل عبد الغني السيد؟|Who composed Ala El Helwa Wel Morra as recorded by Abdel Ghani El Sayed?|محمود الشريف|Mahmoud El Sherif
+106|song:rahela:composer|rahela|من وضع لحن أغنية «راحلة» في تسجيل محمد الحياني؟|Who composed Rahila as recorded by Mohammed El Hayani?|عبد السلام عامر|Abdessalam Amer
+107|song:qamar:composer|qamar|من وضع لحن أغنية «القمر الأحمر» في تسجيل عبد الهادي بلخياط؟|Who composed Al Qamar Al Ahmar as recorded by Abdelhadi Belkhayat?|عبد السلام عامر|Abdessalam Amer
+108|song:adawiyaclassic:composer|adawiyaclassic|من وضع لحن أغنية «عدوية» في تسجيل محمد رشدي؟|Who composed Adawiya as recorded by Mohammed Rushdi?|بليغ حمدي|Baligh Hamdi
+109|song:asalsabah:composer|asalsabah|من وضع لحن أغنية «زي العسل» في تسجيل صباح؟|Who composed Zi El Asal as recorded by Sabah?|بليغ حمدي|Baligh Hamdi
+110|song:daret:composer|daret|من لحّن «دارت الأيام» التي غنّتها أم كلثوم؟|Who composed Daret El Ayyam, sung by Umm Kulthum?|محمد عبد الوهاب|Mohammed Abdel Wahab
+111|song:fat:composer|fat|من لحّن «فات الميعاد» التي غنّتها أم كلثوم؟|Who composed Fat El Mead, sung by Umm Kulthum?|بليغ حمدي|Baligh Hamdi
+112|song:nbtdi:composer|nbtdimusic|من لحّن «نبتدي منين الحكاية» التي غنّاها عبد الحليم حافظ؟|Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?|محمد عبد الوهاب|Mohammed Abdel Wahab
+113|song:zayhawa:composer|zayhawa|من لحّن «زي الهوا» التي غنّاها عبد الحليم حافظ؟|Who composed Zay El Hawa, sung by Abdel Halim Hafez?|بليغ حمدي|Baligh Hamdi
+114|song:hayati:composer|hayati|من لحّن «وحياتي عندك» التي غنّتها ذكرى؟|Who composed We Hayati Andak, sung by Zekra?|صلاح الشرنوبي|Salah El Sharnouby
+115|song:marina:composer|yaskh|من لحّن «مرينا بيكم حمد» التي غنّاها ياس خضر؟|Who composed Marina Bikom Hamad, sung by Yas Khudr?|محمد جواد أموري|Mohammed Jawad Amouri
+116|song:hanwana:composer|yaskh|من لحّن «حن وآنا حن» التي غنّاها ياس خضر؟|Who composed Han Wana Han, sung by Yas Khudr?|طالب القره غولي|Talib Al Qarah Ghouli
+117|song:makir:composer|yaskh|من لحّن «المكير» التي غنّاها ياس خضر؟|Who composed Al Makir, sung by Yas Khudr?|كمال السيد|Kamal Al Sayed
+118|song:ayazon:poet|ayazon|من الشاعر صاحب قصيدة «أيظن» التي غنّتها نجاة الصغيرة؟|Who wrote the poem Ayazon performed by Najat Al Saghira?|نزار قباني|Nizar Qabbani
+119|song:flymoon:originaltitle|moon|ما العنوان الأصلي لأغنية «فلاي مي تو ذا مون» قبل اعتماد اسمها الأشهر؟|What was Fly Me To The Moon originally titled?|إن أذر ووردز|In Other Words
+120|song:unforgettable:duetalbum|unforgettable|ما ألبوم ناتالي كول الذي يضم دويتو «أنفورغيتابل» مع صوت والدها؟|Which Natalie Cole album contains the Unforgettable duet with her father’s voice?|أنفورغيتابل... ويذ لوف|Unforgettable... With Love
+121|song:amore:film|amore|في أي فيلم ظهرت أغنية «ذاتس أموري» التي ترشحت للأوسكار؟|In which film did the Oscar-nominated song That’s Amore appear?|ذا كادي|The Caddy
+122|song:mackknife:album|ellaberlin|ما ألبوم إيلا فيتزجيرالد الحي الشهير الذي حمل «ماك ذا نايف» في عنوانه؟|Which famous Ella Fitzgerald live album included Mack The Knife in its title?|إيلا إن برلين: ماك ذا نايف|Ella In Berlin: Mack The Knife
+123|song:hellodolly:grammycategory|dollylouis|في أي فئة غنائية فاز لويس أرمسترونغ بغرامي عن «هالو دولي» عام 1965؟|In which vocal category did Louis Armstrong win a Grammy for Hello, Dolly! in 1965?|أفضل أداء غنائي للرجال|Best Vocal Performance, Male
+124|song:volare:formalname|volare|ما العنوان الإيطالي الرسمي للأغنية التي اشتهرت باسم «فولاري»؟|What is the formal Italian title of the song popularly called Volare?|نِل بلو ديبينتو دي بلو|Nel Blu, Dipinto Di Blu
+125|song:allgirls:duetpartner|julioduet|من نجم الكانتري الذي غنّى مع خوليو إغليسياس «تو أول ذا غيرلز آيف لَفْد بيفور»؟|Which country star duets with Julio Iglesias on To All The Girls I’ve Loved Before?|ويلي نيلسون|Willie Nelson
+126|song:regretterien:composer|piafcredits|من وضع موسيقى أغنية إديث بياف «نون، جو نو روغريت ريان»؟|Who composed Edith Piaf’s Non, Je Ne Regrette Rien?|شارل دومون|Charles Dumont
+127|song:prettywoman:cowriter|orbisonclassic|من شارك روي أوربيسون كتابة «أوه، بريتي وومان»؟|Who co-wrote Oh, Pretty Woman with Roy Orbison?|بيل ديس|Bill Dees
+128|artist:jouwini:documentary|jouwinifilm|ما الفيلم الوثائقي الذي قدّم سيرة الهادي الجويني عام 2017؟|Which 2017 documentary tells Hedi Jouini’s life story?|الرجل خلف الميكروفون|The Man Behind The Microphone
+129|artist:wardi:traditionalinstrument|wardiclassic|ما الآلة الوترية النوبية التقليدية التي أتقن محمد وردي العزف عليها؟|Which traditional Nubian string instrument did Mohammed Wardi master?|الطمبور|Tambur
+130|artist:amin:earlyband|aminband|ما فرقة الشرطة التي انضم إليها محمد الأمين عام 1960؟|Which police music band did Mohammed Al Amin join in 1960?|فرقة موسيقى شرطة النيل الأزرق|Blue Nile Police music band
+131|song:najahnational:composer|najahnational|من لحّن «يا أغلى اسم في الوجود» التي غنّاها نجاح سلام؟|Who composed Ya Aghla Ism Fil Wujud, sung by Najah Salam?|محمد الموجي|Mohammed El Mougi
+132|song:najma:composer|najma|من لحّن «يا نجمة» التي غنّاها حسين نعمة؟|Who composed Ya Najma, sung by Hussein Nema?|كوكب حمزة|Kawkab Hamza
+133|song:tyour:composer|tyour|من لحّن «يا طيور الطايرة» التي غنّاها سعدون جابر؟|Who composed Ya Tiyour El Tayra, sung by Saadoun Jaber?|كوكب حمزة|Kawkab Hamza
+134|song:saqayeen:composer|saqayeen|من لحّن «حارة السقايين» التي غنّاها شريفة فاضل؟|Who composed Haret El Saqayeen, sung by Sharifa Fadel?|منير مراد|Mounir Mourad
+135|song:habbaytak:composers|habbaytak|من الثنائي الذي وضع لحن «حبيتك بالصيف» لفيروز؟|Which duo composed Fairuz’s Habbaytak Bessayf?|عاصي ومنصور الرحباني|Assi and Mansour Rahbani
+136|song:mesafer:film|mesafer|في أي فيلم غنّى محمد عبد الوهاب «يا مسافر وحدك»؟|In which film did Mohammed Abdel Wahab sing Ya Mesafer Wahdak?|ممنوع الحب|Mamnou El Hob

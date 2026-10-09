@@ -1,0 +1,536 @@
+[
+  {
+    "pair": "ucl_v2_118/saudi_general_v2_165",
+    "qA": "At which Glasgow stadium did Real Madrid beat Frankfurt 7-3 in the 1960 final?",
+    "qB": "At which stadium did Saudi Arabia win the 1989 Under-16 World Championship?",
+    "answer": "Hampden Park"
+  },
+  {
+    "pair": "ucl_v2_038/uae_pro_league_v2_120",
+    "qA": "Which Birmingham club beat Bayern Munich in the 1982 European Cup final?",
+    "qB": "From which English club did Brett Holman move to Al Nasr in summer 2013?",
+    "answer": "Aston Villa"
+  },
+  {
+    "pair": "ucl_v2_048/uae_pro_league_v2_085",
+    "qA": "Which Portuguese club beat Real Madrid 5-3 in the 1962 European Cup final?",
+    "qB": "From which Portuguese club did Al Wasl sign Haris Seferovic permanently in 2023?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_048/uae_pro_league_v2_106",
+    "qA": "Which Portuguese club beat Real Madrid 5-3 in the 1962 European Cup final?",
+    "qB": "From which Portuguese club did Adel Taarabt move to Al Nasr in September 2022?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_066/uae_pro_league_v2_085",
+    "qA": "Which Portuguese team did Manchester United beat in the 1968 European Cup final?",
+    "qB": "From which Portuguese club did Al Wasl sign Haris Seferovic permanently in 2023?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_066/uae_pro_league_v2_106",
+    "qA": "Which Portuguese team did Manchester United beat in the 1968 European Cup final?",
+    "qB": "From which Portuguese club did Adel Taarabt move to Al Nasr in September 2022?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_084/uae_pro_league_v2_121",
+    "qA": "Which club won all eleven of its Champions League matches in 2019–2020?",
+    "qB": "Which German club did Ali Karimi join from Al Ahli Dubai in 2005?",
+    "answer": "Bayern Munich"
+  },
+  {
+    "pair": "ucl_v2_176/uae_pro_league_v2_107",
+    "qA": "Which defending champions did Nottingham Forest eliminate at the start of their run to the 1979 European Cup?",
+    "qB": "Which English club sold Oussama Assaidi to Al Ahli in January 2015 after his Stoke City loan ended?",
+    "answer": "Liverpool"
+  },
+  {
+    "pair": "ucl_v2_187/uae_pro_league_v2_085",
+    "qA": "Which team did Celtic eliminate on a coin toss on their way to the 1970 European Cup final?",
+    "qB": "From which Portuguese club did Al Wasl sign Haris Seferovic permanently in 2023?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_187/uae_pro_league_v2_106",
+    "qA": "Which team did Celtic eliminate on a coin toss on their way to the 1970 European Cup final?",
+    "qB": "From which Portuguese club did Adel Taarabt move to Al Nasr in September 2022?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_198/uae_pro_league_v2_087",
+    "qA": "Which club ended Manchester United's unbeaten European record at Old Trafford in 1996?",
+    "qB": "From which Turkish club did Dusan Tadic join Al Wahda in 2025?",
+    "answer": "Fenerbahce"
+  },
+  {
+    "pair": "ucl_v2_001/premier_league_v2_019",
+    "qA": "Who is the Champions League's all-time leading scorer counting matches from the group stage to the final?",
+    "qB": "Which Portuguese Manchester United star won the Premier League Golden Boot with 31 goals in 2007-08?",
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "pair": "ucl_v2_009/premier_league_v2_115",
+    "qA": "Who became the first coach to win the European Cup four times after the 2022 final?",
+    "qB": "Who managed Chelsea to the 2009-10 Premier League title when the team scored 103 goals?",
+    "answer": "Carlo Ancelotti"
+  },
+  {
+    "pair": "ucl_v2_013/premier_league_v2_129",
+    "qA": "Who scored Liverpool's early penalty against Tottenham in the 2019 final?",
+    "qB": "Who became the first visiting player to score a Premier League hat-trick at Old Trafford, in Liverpool's 5-0 win in 2021?",
+    "answer": "Mohamed Salah"
+  },
+  {
+    "pair": "ucl_v2_018/premier_league_v2_019",
+    "qA": "Who scored Real Madrid's decisive shootout penalty in the 2016 Champions League final?",
+    "qB": "Which Portuguese Manchester United star won the Premier League Golden Boot with 31 goals in 2007-08?",
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "pair": "ucl_v2_023/premier_league_v2_031",
+    "qA": "Who scored Manchester United's only goal in the 2011 Champions League final?",
+    "qB": "Who scored the famous overhead-kick winner for Manchester United against Manchester City in February 2011?",
+    "answer": "Wayne Rooney"
+  },
+  {
+    "pair": "ucl_v2_023/premier_league_v2_157",
+    "qA": "Who scored Manchester United's only goal in the 2011 Champions League final?",
+    "qB": "Which Manchester United player scored the second goal against Arsenal on his 19th birthday in the match that ended the 49-game unbeaten run?",
+    "answer": "Wayne Rooney"
+  },
+  {
+    "pair": "ucl_v2_037/premier_league_v2_164",
+    "qA": "Which English club won their first European Cup against Malmo in 1979?",
+    "qB": "From which club did Roy Keane join Manchester United in 1993?",
+    "answer": "Nottingham Forest"
+  },
+  {
+    "pair": "ucl_v2_038/premier_league_v2_123",
+    "qA": "Which Birmingham club beat Bayern Munich in the 1982 European Cup final?",
+    "qB": "From which club did Jack Grealish join Manchester City in 2021?",
+    "answer": "Aston Villa"
+  },
+  {
+    "pair": "ucl_v2_038/premier_league_v2_165",
+    "qA": "Which Birmingham club beat Bayern Munich in the 1982 European Cup final?",
+    "qB": "With which club did Peter Schmeichel score the first goalkeeper goal in Premier League history in 2001?",
+    "answer": "Aston Villa"
+  },
+  {
+    "pair": "ucl_v2_041/premier_league_v2_129",
+    "qA": "Who scored a hat-trick in about seven minutes for Liverpool against Rangers in the 2022 Champions League?",
+    "qB": "Who became the first visiting player to score a Premier League hat-trick at Old Trafford, in Liverpool's 5-0 win in 2021?",
+    "answer": "Mohamed Salah"
+  },
+  {
+    "pair": "ucl_v2_043/premier_league_v2_006",
+    "qA": "Who scored five goals for Manchester City against Leipzig in the Champions League in 2023?",
+    "qB": "Which Manchester City striker scored 36 goals in the 2022-23 Premier League season?",
+    "answer": "Erling Haaland"
+  },
+  {
+    "pair": "ucl_v2_043/premier_league_v2_068",
+    "qA": "Who scored five goals for Manchester City against Leipzig in the Champions League in 2023?",
+    "qB": "Which Manchester City striker became known for the Zen celebration, sitting in a meditation pose?",
+    "answer": "Erling Haaland"
+  },
+  {
+    "pair": "ucl_v2_050/premier_league_v2_136",
+    "qA": "Who scored Manchester United's last-gasp winner in the 1999 final?",
+    "qB": "Who scored four goals after coming on as a Manchester United substitute against Nottingham Forest in February 1999?",
+    "answer": "Ole Gunnar Solskjaer"
+  },
+  {
+    "pair": "ucl_v2_078/premier_league_v2_006",
+    "qA": "Who finished the 2022–2023 Champions League as top scorer with 12 goals?",
+    "qB": "Which Manchester City striker scored 36 goals in the 2022-23 Premier League season?",
+    "answer": "Erling Haaland"
+  },
+  {
+    "pair": "ucl_v2_078/premier_league_v2_068",
+    "qA": "Who finished the 2022–2023 Champions League as top scorer with 12 goals?",
+    "qB": "Which Manchester City striker became known for the Zen celebration, sitting in a meditation pose?",
+    "answer": "Erling Haaland"
+  },
+  {
+    "pair": "ucl_v2_093/premier_league_v2_074",
+    "qA": "Which goalkeeper saved Robben's penalty in extra time in the 2012 final?",
+    "qB": "Which goalkeeper finished his Premier League career with a record 202 clean sheets?",
+    "answer": "Petr Cech"
+  },
+  {
+    "pair": "ucl_v2_121/premier_league_v2_184",
+    "qA": "Who scored Manchester United's equaliser before Solskjaer's goal in the 1999 final?",
+    "qB": "Who scored the first live televised goal in Premier League history?",
+    "answer": "Teddy Sheringham"
+  },
+  {
+    "pair": "ucl_v2_128/premier_league_v2_204",
+    "qA": "Which Manchester United substitute scored twice against Real Madrid in the 2003 quarter-final second leg?",
+    "qB": "Who took the corner that Paul Scholes volleyed directly for his famous goal against Bradford in March 2000?",
+    "answer": "David Beckham"
+  },
+  {
+    "pair": "ucl_v2_164/premier_league_v2_059",
+    "qA": "Whose shot did Ter Stegen parry before Origi scored Liverpool's opener in the 2019 semi-final second leg?",
+    "qB": "Which Liverpool captain lifted the club's first Premier League Trophy in 2020?",
+    "answer": "Jordan Henderson"
+  },
+  {
+    "pair": "ucl_v2_170/premier_league_v2_020",
+    "qA": "Who scored Manchester City's fourth goal in their 4-3 win over Tottenham in the 2019 quarter-final second leg?",
+    "qB": "Who scored Manchester City's historic stoppage-time winner against Queens Park Rangers to clinch the 2012 title?",
+    "answer": "Sergio Aguero"
+  },
+  {
+    "pair": "ucl_v2_176/premier_league_v2_029",
+    "qA": "Which defending champions did Nottingham Forest eliminate at the start of their run to the 1979 European Cup?",
+    "qB": "With which club did Steven Gerrard spend his Premier League career?",
+    "answer": "Liverpool"
+  },
+  {
+    "pair": "ucl_v2_015/la_liga_v2_065",
+    "qA": "Who was the first coach to win the Champions League three times in a row?",
+    "qB": "Which French legend played for Real Madrid and later coached it, and is widely known as 'Zizou'?",
+    "answer": "Zinedine Zidane"
+  },
+  {
+    "pair": "ucl_v2_042/la_liga_v2_002",
+    "qA": "Who scored five goals for Barcelona against Bayer Leverkusen in the Champions League in 2012?",
+    "qB": "Who is La Liga's all-time leading goalscorer with 474 goals?",
+    "answer": "Lionel Messi"
+  },
+  {
+    "pair": "ucl_v2_054/la_liga_v2_146",
+    "qA": "Who scored Arsenal's goal that decided their 2006 round-of-16 tie against Real Madrid?",
+    "qB": "With which striker did Diego Forlan share the European Golden Shoe in 2005?",
+    "answer": "Thierry Henry"
+  },
+  {
+    "pair": "ucl_v2_055/la_liga_v2_057",
+    "qA": "Who rounded Valdes to score Chelsea's late goal in the 2012 semi-final second leg in Barcelona?",
+    "qB": "Which Atletico Madrid academy striker became known as 'El Nino', meaning 'The Kid'?",
+    "answer": "Fernando Torres"
+  },
+  {
+    "pair": "ucl_v2_057/la_liga_v2_045",
+    "qA": "Which Brazilian Real Madrid star scored an Old Trafford hat-trick in 2003 and received applause from United fans?",
+    "qB": "Which Brazilian star shone for Barcelona in 1996–97 and was nicknamed 'The Phenomenon'?",
+    "answer": "Ronaldo Nazario"
+  },
+  {
+    "pair": "ucl_v2_060/la_liga_v2_026",
+    "qA": "Who scored all four Dortmund goals against Real Madrid in the 2013 semi-final first leg?",
+    "qB": "Which Polish striker topped the Spanish league scoring chart in his first Barcelona season in 2022-23?",
+    "answer": "Robert Lewandowski"
+  },
+  {
+    "pair": "ucl_v2_062/la_liga_v2_100",
+    "qA": "Who scored Barcelona's stoppage-time goal that eliminated Chelsea in the 2009 semi-finals?",
+    "qB": "Which Barcelona star was Pedri's childhood idol?",
+    "answer": "Andres Iniesta"
+  },
+  {
+    "pair": "ucl_v2_063/la_liga_v2_002",
+    "qA": "Who scored both Barcelona goals in their Bernabeu win over Real Madrid in the 2011 semi-finals?",
+    "qB": "Who is La Liga's all-time leading goalscorer with 474 goals?",
+    "answer": "Lionel Messi"
+  },
+  {
+    "pair": "ucl_v2_079/la_liga_v2_063",
+    "qA": "Who led the 2021–2022 Champions League scoring charts with 15 goals?",
+    "qB": "Which French Real Madrid striker won the 2022 Ballon d'Or?",
+    "answer": "Karim Benzema"
+  },
+  {
+    "pair": "ucl_v2_094/la_liga_v2_015",
+    "qA": "Who scored Barcelona's third goal with a curling shot in the 2011 final?",
+    "qB": "Which Spanish striker played for Valencia and Barcelona and was known as El Guaje?",
+    "answer": "David Villa"
+  },
+  {
+    "pair": "ucl_v2_094/la_liga_v2_080",
+    "qA": "Who scored Barcelona's third goal with a curling shot in the 2011 final?",
+    "qB": "Who scored twice for Barcelona in its 5-0 win over Real Madrid in November 2010?",
+    "answer": "David Villa"
+  },
+  {
+    "pair": "ucl_v2_094/la_liga_v2_198",
+    "qA": "Who scored Barcelona's third goal with a curling shot in the 2011 final?",
+    "qB": "Which striker scored four goals for Real Zaragoza in its 4–4 draw with Sevilla in 2003–04?",
+    "answer": "David Villa"
+  },
+  {
+    "pair": "ucl_v2_095/la_liga_v2_006",
+    "qA": "At which stadium did Inter Milan win the 2010 Champions League title?",
+    "qB": "Which Real Madrid stadium is named after one of the club's historic presidents?",
+    "answer": "Santiago Bernabeu"
+  },
+  {
+    "pair": "ucl_v2_112/la_liga_v2_105",
+    "qA": "Who scored the fastest Champions League goal after 10.12 seconds against Real Madrid in 2007?",
+    "qB": "Which Dutch striker won the European Golden Shoe with Deportivo in 2002-03?",
+    "answer": "Roy Makaay"
+  },
+  {
+    "pair": "ucl_v2_145/la_liga_v2_025",
+    "qA": "Who assisted Vinicius for Real Madrid's second goal in the 2024 Champions League final?",
+    "qB": "Which English Real Madrid star won La Liga's Player of the Year award for 2023-24?",
+    "answer": "Jude Bellingham"
+  },
+  {
+    "pair": "ucl_v2_157/la_liga_v2_100",
+    "qA": "Who assisted Rakitic's opening goal in the 2015 Champions League final?",
+    "qB": "Which Barcelona star was Pedri's childhood idol?",
+    "answer": "Andres Iniesta"
+  },
+  {
+    "pair": "ucl_v2_185/la_liga_v2_001",
+    "qA": "Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?",
+    "qB": "Which club won the first Spanish league championship in 1929?",
+    "answer": "Barcelona"
+  },
+  {
+    "pair": "ucl_v2_185/la_liga_v2_158",
+    "qA": "Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?",
+    "qB": "From which club did Villarreal buy Riquelme permanently in 2005 after his loan spell?",
+    "answer": "Barcelona"
+  },
+  {
+    "pair": "ucl_v2_009/serie_a_v2_111",
+    "qA": "Who became the first coach to win the European Cup four times after the 2022 final?",
+    "qB": "Which AC Milan coach moved Andrea Pirlo from an advanced playmaker role into a deep-lying playmaker role?",
+    "answer": "Carlo Ancelotti"
+  },
+  {
+    "pair": "ucl_v2_024/serie_a_v2_094",
+    "qA": "Who scored both Inter Milan goals in the 2010 Champions League final?",
+    "qB": "Who scored Inter's league-title-clinching goal against Siena in 2010?",
+    "answer": "Diego Milito"
+  },
+  {
+    "pair": "ucl_v2_024/serie_a_v2_105",
+    "qA": "Who scored both Inter Milan goals in the 2010 Champions League final?",
+    "qB": "Who scored Genoa's hat-trick in their 3–1 win over Sampdoria in May 2009?",
+    "answer": "Diego Milito"
+  },
+  {
+    "pair": "ucl_v2_044/serie_a_v2_061",
+    "qA": "Who won the Champions League with Ajax, Real Madrid and Milan?",
+    "qB": "Which Dutch midfielder starred for AC Milan and was known as The Professor?",
+    "answer": "Clarence Seedorf"
+  },
+  {
+    "pair": "ucl_v2_048/serie_a_v2_156",
+    "qA": "Which Portuguese club beat Real Madrid 5-3 in the 1962 European Cup final?",
+    "qB": "Which club did Grande Torino face in their last friendly in Lisbon before the Superga disaster?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_066/serie_a_v2_156",
+    "qA": "Which Portuguese team did Manchester United beat in the 1968 European Cup final?",
+    "qB": "Which club did Grande Torino face in their last friendly in Lisbon before the Superga disaster?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_101/serie_a_v2_063",
+    "qA": "Who converted Roma's penalty against Barcelona in their 2018 comeback?",
+    "qB": "Which iconic Roma midfielder was known as Capitan Futuro, Captain Future?",
+    "answer": "Daniele De Rossi"
+  },
+  {
+    "pair": "ucl_v2_106/serie_a_v2_147",
+    "qA": "Which Italian city hosted the 1991 final between Red Star and Marseille?",
+    "qB": "Against which team did Cagliari clinch the 1970 league title with a 2–0 victory?",
+    "answer": "Bari"
+  },
+  {
+    "pair": "ucl_v2_106/serie_a_v2_193",
+    "qA": "Which Italian city hosted the 1991 final between Red Star and Marseille?",
+    "qB": "With which club did Igor Protti top Serie A's scoring chart in 1995–1996?",
+    "answer": "Bari"
+  },
+  {
+    "pair": "ucl_v2_185/serie_a_v2_060",
+    "qA": "Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?",
+    "qB": "From which Spanish club did Diego Maradona join Napoli in 1984?",
+    "answer": "Barcelona"
+  },
+  {
+    "pair": "ucl_v2_187/serie_a_v2_156",
+    "qA": "Which team did Celtic eliminate on a coin toss on their way to the 1970 European Cup final?",
+    "qB": "Which club did Grande Torino face in their last friendly in Lisbon before the Superga disaster?",
+    "answer": "Benfica"
+  },
+  {
+    "pair": "ucl_v2_190/serie_a_v2_016",
+    "qA": "Who scored Juventus's only goal in the 1997 final?",
+    "qB": "Who holds Juventus's records for both goals and competitive appearances?",
+    "answer": "Alessandro Del Piero"
+  },
+  {
+    "pair": "ucl_v2_190/serie_a_v2_085",
+    "qA": "Who scored Juventus's only goal in the 1997 final?",
+    "qB": "Which Juventus star did Gianni Agnelli nickname Pinturicchio after the Italian painter?",
+    "answer": "Alessandro Del Piero"
+  },
+  {
+    "pair": "ucl_v2_197/serie_a_v2_095",
+    "qA": "Who opened Inter's scoring in the first minutes against Tottenham in their 4-3 win in 2010?",
+    "qB": "Who holds Inter's competitive appearance record with 858 games?",
+    "answer": "Javier Zanetti"
+  },
+  {
+    "pair": "ucl_v2_016/bundesliga_v2_066",
+    "qA": "Which club became the first to retain the title in the Champions League era in 2017?",
+    "qB": "From which Spanish club did Arjen Robben join Bayern in 2009?",
+    "answer": "Real Madrid"
+  },
+  {
+    "pair": "ucl_v2_031/bundesliga_v2_030",
+    "qA": "Who scored twice for Tottenham in their 4-3 defeat by Manchester City in the 2019 quarter-finals?",
+    "qB": "Which South Korean star played for Hamburg and Leverkusen before starring for Tottenham?",
+    "answer": "Son Heung-min"
+  },
+  {
+    "pair": "ucl_v2_035/bundesliga_v2_065",
+    "qA": "Which French club lost the 1991 European Cup final to Red Star on penalties?",
+    "qB": "From which French club did Franck Ribery join Bayern in 2007?",
+    "answer": "Marseille"
+  },
+  {
+    "pair": "ucl_v2_043/bundesliga_v2_029",
+    "qA": "Who scored five goals for Manchester City against Leipzig in the Champions League in 2023?",
+    "qB": "Which Norwegian striker scored a hat-trick after coming off the bench on his Bundesliga debut for Dortmund in 2020?",
+    "answer": "Erling Haaland"
+  },
+  {
+    "pair": "ucl_v2_060/bundesliga_v2_033",
+    "qA": "Who scored all four Dortmund goals against Real Madrid in the 2013 semi-final first leg?",
+    "qB": "Which Bayern striker scored five goals in about nine minutes against Wolfsburg in 2015?",
+    "answer": "Robert Lewandowski"
+  },
+  {
+    "pair": "ucl_v2_065/bundesliga_v2_065",
+    "qA": "Which club won the first edition under the Champions League name in 1993?",
+    "qB": "From which French club did Franck Ribery join Bayern in 2007?",
+    "answer": "Marseille"
+  },
+  {
+    "pair": "ucl_v2_078/bundesliga_v2_029",
+    "qA": "Who finished the 2022–2023 Champions League as top scorer with 12 goals?",
+    "qB": "Which Norwegian striker scored a hat-trick after coming off the bench on his Bundesliga debut for Dortmund in 2020?",
+    "answer": "Erling Haaland"
+  },
+  {
+    "pair": "ucl_v2_081/bundesliga_v2_061",
+    "qA": "Which German coach led Chelsea to the 2021 Champions League title?",
+    "qB": "Which coach won the German Cup with Dortmund in 2017?",
+    "answer": "Thomas Tuchel"
+  },
+  {
+    "pair": "ucl_v2_081/bundesliga_v2_150",
+    "qA": "Which German coach led Chelsea to the 2021 Champions League title?",
+    "qB": "Which coach took over Mainz's first team in 2009 after leading the club's U19s to the German title?",
+    "answer": "Thomas Tuchel"
+  },
+  {
+    "pair": "ucl_v2_084/bundesliga_v2_004",
+    "qA": "Which club won all eleven of its Champions League matches in 2019–2020?",
+    "qB": "Which club won 11 consecutive Bundesliga titles from 2012–2013 to 2022–2023?",
+    "answer": "Bayern Munich"
+  },
+  {
+    "pair": "ucl_v2_112/bundesliga_v2_088",
+    "qA": "Who scored the fastest Champions League goal after 10.12 seconds against Real Madrid in 2007?",
+    "qB": "Which Dutch Bayern striker was nicknamed The Phantom?",
+    "answer": "Roy Makaay"
+  },
+  {
+    "pair": "ucl_v2_112/bundesliga_v2_194",
+    "qA": "Who scored the fastest Champions League goal after 10.12 seconds against Real Madrid in 2007?",
+    "qB": "Who scored Bayern's 3,000th Bundesliga goal in August 2006?",
+    "answer": "Roy Makaay"
+  },
+  {
+    "pair": "ucl_v2_145/bundesliga_v2_123",
+    "qA": "Who assisted Vinicius for Real Madrid's second goal in the 2024 Champions League final?",
+    "qB": "Which Dortmund player became the youngest Bundesliga captain in October 2022 since captaincy records began in 1995?",
+    "answer": "Jude Bellingham"
+  },
+  {
+    "pair": "ucl_v2_176/bundesliga_v2_093",
+    "qA": "Which defending champions did Nottingham Forest eliminate at the start of their run to the 1979 European Cup?",
+    "qB": "Which English club ended Augsburg's first Europa League campaign in the round of 32 in 2016?",
+    "answer": "Liverpool"
+  },
+  {
+    "pair": "ucl_v2_178/bundesliga_v2_012",
+    "qA": "Which German city hosted the PSV–Benfica European Cup final in 1988?",
+    "qB": "At which German club's academy did Joshua Kimmich develop?",
+    "answer": "Stuttgart"
+  },
+  {
+    "pair": "ucl_v2_178/bundesliga_v2_126",
+    "qA": "Which German city hosted the PSV–Benfica European Cup final in 1988?",
+    "qB": "To which club was Philipp Lahm loaned from Bayern, becoming a regular under Felix Magath?",
+    "answer": "Stuttgart"
+  },
+  {
+    "pair": "ucl_v2_185/bundesliga_v2_062",
+    "qA": "Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?",
+    "qB": "From which Spanish club did Thiago Alcantara join Bayern in 2013?",
+    "answer": "Barcelona"
+  },
+  {
+    "pair": "ucl_v2_192/bundesliga_v2_135",
+    "qA": "Who kept goal for Arsenal in their goalless 2006 round-of-16 second leg against Real Madrid?",
+    "qB": "Which Schalke goalkeeper became the first goalkeeper to score from open play in the Bundesliga, with a header against Dortmund in 1997?",
+    "answer": "Jens Lehmann"
+  },
+  {
+    "pair": "ucl_v2_035/ligue_1_v2_048",
+    "qA": "Which French club lost the 1991 European Cup final to Red Star on penalties?",
+    "qB": "For which French club did Rudi Voller play after leaving Roma in 1992?",
+    "answer": "Marseille"
+  },
+  {
+    "pair": "ucl_v2_065/ligue_1_v2_048",
+    "qA": "Which club won the first edition under the Champions League name in 1993?",
+    "qB": "For which French club did Rudi Voller play after leaving Roma in 1992?",
+    "answer": "Marseille"
+  },
+  {
+    "pair": "ucl_v2_079/ligue_1_v2_030",
+    "qA": "Who led the 2021–2022 Champions League scoring charts with 15 goals?",
+    "qB": "Which Lyon star topped the French league scoring charts in 2008 before later joining Real Madrid?",
+    "answer": "Karim Benzema"
+  },
+  {
+    "pair": "ucl_v2_098/ligue_1_v2_040",
+    "qA": "Who scored Paris Saint-Germain's only goal in their 6-1 defeat by Barcelona in 2017?",
+    "qB": "Which Uruguayan striker starred for Paris and was known as El Matador?",
+    "answer": "Edinson Cavani"
+  },
+  {
+    "pair": "ucl_v2_163/ligue_1_v2_035",
+    "qA": "Which French club beat Bayern twice in the group stage of Inter's European title-winning 2009/10 season?",
+    "qB": "Which French club did Zidane join from Cannes in 1992?",
+    "answer": "Bordeaux"
+  },
+  {
+    "pair": "ucl_v2_185/ligue_1_v2_067",
+    "qA": "Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?",
+    "qB": "Which Spanish club did Edmilson join after four years at Lyon?",
+    "answer": "Barcelona"
+  },
+  {
+    "pair": "ucl_v2_185/ligue_1_v2_105",
+    "qA": "Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?",
+    "qB": "From which Spanish club did Lyon sign Brazilian striker Sonny Anderson in 1999?",
+    "answer": "Barcelona"
+  }
+]

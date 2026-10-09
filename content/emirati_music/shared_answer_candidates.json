@@ -1,0 +1,80 @@
+[
+  {
+    "pair": "emirati_music_v2_055/uae_football_v2_063",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "In which city is UAE club Al Jazira based?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_football_v2_066",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "In which emirate is Bani Yas based?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_001",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "What is the capital of the United Arab Emirates?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_007",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "Which UAE emirate is the largest by area?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_024",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "In which emirate is the UAE's Louvre museum located?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_035",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "Which city is Etihad Airways based in?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "pair": "emirati_music_v2_055/uae_general_v2_077",
+    "qA": "In which Emirati city is the Bait Al Oud music institute?",
+    "qB": "Which city hosted the GCC's founding summit in 1981?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "pair": "emirati_music_v2_074/uae_general_v2_004",
+    "qA": "Whose words did Hussain Al Jassmi sing in In Hawetona?",
+    "qB": "Who was the first President of the UAE?",
+    "answer": "Sheikh Zayed bin Sultan Al Nahyan"
+  },
+  {
+    "pair": "emirati_music_v2_074/uae_general_v2_129",
+    "qA": "Whose words did Hussain Al Jassmi sing in In Hawetona?",
+    "qB": "Who established Sir Bani Yas's Royal Nature Reserve in 1971?",
+    "answer": "Sheikh Zayed bin Sultan Al Nahyan"
+  },
+  {
+    "pair": "emirati_music_v2_122/uae_heritage_v2_030",
+    "qA": "Which instrument did Mohamed Al Mazam play in his school band while also singing?",
+    "qB": "Which main percussion instruments set the rhythm of Al Ayyala performers' movements?",
+    "answer": "Drums"
+  },
+  {
+    "pair": "emirati_music_v2_156/uae_heritage_v2_123",
+    "qA": "Which instrument did Bait Al Oud in Abu Dhabi introduce classes for in 2017?",
+    "qB": "Which string instrument accompanies traditional shilla according to Abu Dhabi Culture's register?",
+    "answer": "Rebabah"
+  },
+  {
+    "pair": "emirati_music_v2_037/uae_pro_league_v2_189",
+    "qA": "What profession does Emirati musician Hamad Al Taee practise alongside composing and performing?",
+    "qB": "What profession did Ahmed Khalil say he had dreamed of in an AFC magazine interview before becoming a professional footballer?",
+    "answer": "Pilot"
+  },
+  {
+    "pair": "emirati_music_v2_069/uae_pro_league_v2_005",
+    "qA": "In which Emirati city was Hussain Al Jassmi born?",
+    "qB": "Which club in the UAE league is known as the Eagles?",
+    "answer": "Khorfakkan"
+  }
+]

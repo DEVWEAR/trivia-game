@@ -1,0 +1,69 @@
+id|factKey|topic|source|questionAr|questionEn|answerAr|answerEn
+001|dress:kandura:identity|Clothing|dress|ما اسم الثوب الطويل الذي يرتديه الرجال في الزي الإماراتي التقليدي؟|What is the long robe worn by men in traditional Emirati dress called?|الكندورة|Kandura
+002|dress:abaya:identity|Clothing|dressbasic|ما اسم الرداء الخارجي الطويل الذي ترتديه المرأة الإماراتية فوق ملابسها؟|What is the long outer garment Emirati women wear over their clothes called?|العباية|Abaya
+003|dress:ghutra:identity|Clothing|dress|ما اسم قطعة القماش التي تغطي رأس الرجل في الزي الإماراتي؟|What is the cloth head covering in Emirati men's dress called?|الغترة|Ghutra
+004|dress:agal:function|Clothing|dress|ما وظيفة العقال في الزي الإماراتي التقليدي؟|What is the purpose of the agal in traditional Emirati dress?|تثبيت الغترة على الرأس|To hold the ghutra in place
+005|dress:bisht:identity|Clothing|bisht|ما اسم العباءة الرجالية التي تُلبس فوق الكندورة في المناسبات الرسمية؟|What is the men's cloak worn over a kandura on formal occasions called?|البشت|Bisht
+006|dress:burqa:coverage|Clothing|burqa|أي جزء من الجسم يغطيه البرقع الإماراتي التقليدي؟|Which part of the body does the traditional Emirati burqa cover?|الوجه|The face
+007|adornment:henna:occasion|Customs|henna|ما النبات الذي تُستخدم عجينة أوراقه لتزيين أيدي النساء في الأعراس الإماراتية؟|Which plant supplies the leaf paste used to decorate women's hands at Emirati weddings?|الحناء|Henna
+008|adornment:kohl:use|Customs|kohl|ما المادة التي تُستخدم تقليدياً لتجميل العينين في الإمارات؟|What substance is traditionally used to adorn the eyes in the UAE?|الكحل|Kohl
+009|food:harees:identity|Food|harees|ما الطبق الإماراتي الذي يُطهى فيه القمح واللحم معاً ثم يُضرب حتى يتجانس؟|Which Emirati dish combines wheat and meat cooked and beaten into a smooth mixture?|الهريس|Harees
+010|food:luqaimat:identity|Food|foodguide|ما اسم كرات العجين المقلية التي تُقدّم غالباً مع دبس التمر في المطبخ الإماراتي؟|What are the fried dough balls often served with date syrup in Emirati cuisine called?|اللقيمات|Luqaimat
+011|food:balaleet:identity|Food|foodguide|ما اسم طبق الشعيرية الحلوة الذي يُقدّم مع البيض في الإمارات؟|What is the Emirati dish of sweet vermicelli served with eggs called?|البلاليط|Balaleet
+012|food:thareed:identity|Food|foodguide|ما الطبق الإماراتي الذي يُسكب فيه مرق اللحم والخضار على الخبز؟|Which Emirati dish consists of meat and vegetable stew served over bread?|الثريد|Thareed
+013|food:machboos:identity|Food|foodguide|ما اسم طبق الأرز المتبّل المطبوخ مع اللحم، الشائع في الولائم الإماراتية؟|What is the spiced rice-and-meat dish commonly served at Emirati feasts called?|مجبوس اللحم|Machboos laham
+014|food:rigag:identity|Food|rigag|ما اسم الخبز الإماراتي الرقيق جداً الذي يُفرد على صاج ساخن؟|What is the very thin Emirati bread spread onto a hot griddle called?|الرقاق|Rigag
+015|food:khabees:identity|Food|khabees|ما الحلوى الإماراتية التي يُحمّص دقيقها وتُحلّى بالسكر أو العسل؟|Which Emirati dessert uses toasted flour sweetened with sugar or honey?|الخبيص|Khabees
+016|food:kami:category|Food|kami|من أي منتج حيواني يُصنع الجامي الإماراتي؟|From which animal product is Emirati jami made?|الحليب|Milk
+017|hospitality:dallah:identity|Hospitality|coffee|ما اسم الإناء ذو الفوهة الطويلة المستخدم لتقديم القهوة العربية؟|What is the long-spouted pot used to serve Arabic coffee called?|الدلّة|Dallah
+018|hospitality:coffee:finish-signal|Hospitality|coffeecustom|كيف يشير الضيف إلى أنه اكتفى من القهوة العربية؟|How does a guest signal that they have had enough Arabic coffee?|بهزّ الفنجان|By shaking the cup
+019|hospitality:coffee:first-guest|Hospitality|coffeecustom|من يُقدَّم له فنجان القهوة أولاً بحسب آداب الضيافة: الأكبر سناً أم الأصغر؟|Under coffee hospitality etiquette, who is served first: the oldest or the youngest?|الأكبر سناً|The oldest
+020|hospitality:majlis:purpose|Majlis|majlis|ما اسم مكان استقبال الضيوف والاجتماع وتبادل الحديث في البيت الإماراتي؟|What is the Emirati home's space for receiving guests and gathering for conversation called?|المجلس|Majlis
+021|customs:fazaa:meaning|Customs|oasislife|ماذا تعني «الفزعة» في العادات الإماراتية؟|What does fazaa mean in Emirati social customs?|المبادرة إلى مساعدة من يحتاج|Rushing to help someone in need
+022|celebration:haqlaila:date|Celebrations|haqlaila|في أي ليلة من شهر شعبان يُحتفل بحق الليلة في الإمارات؟|On which night of Shaaban is Haq Al Laila celebrated in the UAE?|ليلة النصف من شعبان، 15 شعبان|The night of mid-Shaaban, 15 Shaaban
+023|celebration:fitr:timing|Celebrations|eid|أي عيد يأتي بعد انتهاء شهر رمضان؟|Which Eid follows the end of Ramadan?|عيد الفطر|Eid Al Fitr
+024|celebration:adha:pilgrimage|Celebrations|eid|أي عيد يرتبط بموسم الحج؟|Which Eid is associated with the Hajj pilgrimage season?|عيد الأضحى|Eid Al Adha
+025|craft:sadu:identity|Crafts|sadu|ما اسم حرفة النسج البدوي التي تُنتج بسطاً وأقمشة للخيام من الصوف والشعر؟|What is the Bedouin weaving craft that makes rugs and tent textiles from wool and hair called?|السدو|Al Sadu
+026|craft:khous:material|Crafts|khous|أي جزء من النخلة يُستخدم في حرفة الخوص؟|Which part of the date palm is used in khous weaving?|سعف النخيل|Palm leaves
+027|craft:talli:purpose|Crafts|talli|أي حرفة إماراتية تصنع شرائط مضفورة لتزيين أكمام وحواف ملابس النساء؟|Which Emirati craft makes braided strips to decorate women's cuffs and garment borders?|التلي|Talli
+028|craft:pottery:material|Crafts|pottery|ما المادة الأساسية التي تُشكَّل منها الأواني الفخارية التقليدية؟|What is the basic material shaped into traditional pottery vessels?|الطين|Clay
+029|household:raha:function|Household|raha|ما وظيفة الرحى الحجرية في البيوت الإماراتية قديماً؟|What was the stone raha used for in old Emirati homes?|طحن الحبوب|Grinding grain
+030|arts:ayyala:rhythm|Performance|ayyala|ما الآلات الإيقاعية الأساسية التي تضبط خطوات مؤدي العيالة؟|Which main percussion instruments set the rhythm of Al Ayyala performers' movements?|الطبول|Drums
+031|household:mandoos:identity|Household|furniture|ما اسم الصندوق الخشبي التقليدي لحفظ الملابس والمقتنيات الثمينة؟|What is the traditional wooden chest for clothes and valuables called?|المندوس|Mandoos
+032|household:haseer:identity|Household|furniture|ما اسم البساط التقليدي المنسوج من سعف النخيل والمستخدم لفرش الأرض؟|What is the traditional palm-woven floor mat called?|الحصير|Haseer
+033|household:jafeer:identity|Household|jafeer|ما اسم السلة التراثية المصنوعة من الخوص ولها مقبضان لحمل التمر أو السمك؟|What is the two-handled palm basket traditionally used to carry dates or fish called?|الجفير|Jafeer
+034|household:serai:function|Household|serai|لأي غرض استُخدم «السراج» في البيوت قبل انتشار الكهرباء؟|What was the serai lamp used for in homes before electricity became widespread?|الإضاءة|Lighting
+035|occupation:taresh:identity|Occupations|taresh|من هو «الطارش» في المجتمع الإماراتي القديم؟|Who was the taresh in traditional Emirati society?|حامل الرسائل|A messenger
+036|occupation:qassab:identity|Occupations|qassab|أي مهنة يُقصد بها «القصّاب» في المفردات الشعبية؟|Which occupation does the heritage term qassab refer to?|الجزّار|A butcher
+037|occupation:nukhada:role|Pearling|pearling|من كان يدير سفينة الغوص ويوزّع أرباحها؟|Who managed a pearling boat and distributed its profits?|النوخذة|The nukhada
+038|occupation:naham:role|Pearling|pearling|ما اسم المغنّي الذي كان يؤنس بحّارة سفن الغوص بأهازيجه؟|What was the singer who entertained pearling crews with sea chants called?|النهّام|Naham
+039|pearling:oyster:harvest|Pearling|pearling|ما الصدف الذي كان الغوّاصون يجمعونه بحثاً عن اللؤلؤ؟|What shellfish did divers collect in their search for pearls?|المحار|Oysters
+040|pearling:fattam:function|Pearling|pearling|ما وظيفة الفطام الذي يضعه غواص اللؤلؤ على أنفه؟|What is the purpose of the fattam placed on a pearl diver's nose?|إغلاق الأنف أثناء الغوص|To close the nose while diving
+041|fishing:gargoor:identity|Fishing|fishing|ما اسم مصيدة السمك التقليدية المصنوعة من الأسلاك على شكل قبة؟|What is the traditional dome-shaped wire fish trap called?|القرقور|Gargoor
+042|fishing:hadaq:method|Fishing|fishing|ما وسيلة الصيد المستخدمة في «الحداق»؟|What fishing equipment is used in hadaq?|الخيط والسنّارة|A line and hook
+043|maritime:jallaf:occupation|Maritime|jallaf|ما الحرفة التي كان يمارسها «الجلّاف»؟|What craft did a jallaf practise?|صناعة السفن|Boat building
+044|maritime:hoori:purpose|Maritime|maritime|لأي نشاط بحري استُخدم قارب «الهوري» تقليدياً؟|Which maritime activity was the hoori boat traditionally used for?|صيد السمك|Fishing
+045|animal:falconry:practice|Falconry|falcon|ما النشاط التراثي الذي يُدرَّب الصقر على ممارسته مع صاحبه؟|What heritage activity is a falcon trained to practise with its owner?|الصيد|Hunting
+046|animal:saluki:role|Desert|saluki|ما دور كلاب السلوقي في حياة البدو إلى جانب الحراسة؟|Besides guarding, what role did saluki dogs play in Bedouin life?|المساعدة في الصيد|Helping with hunting
+047|animal:hedaa:purpose|Camels|hedaa|في فن الحداء، مع أي حيوان يتواصل الراعي بنداءاته الإيقاعية؟|In alhedaa, which animal does a herder communicate with through rhythmic calls?|الإبل|Camels
+048|desert:karrey:transport|Desert|karrey|أي حيوان كان يؤجّره «الكري» لنقل الناس وأمتعتهم في رحلات المقيظ؟|Which animal did the karrey hire out to transport people and luggage during summer migrations?|الجمال|Camels
+049|architecture:areesh:material|Architecture|oasislife|ممَّ تُبنى بيوت العريش التقليدية؟|What are traditional areesh houses built from?|سعف النخيل وجريده|Palm leaves and branches
+050|place:fahidi:emirate|Historic places|fahidi|في أي إمارة يقع حي الفهيدي التاريخي المعروف ببراجه الهوائية؟|In which emirate is the Al Fahidi Historical Neighbourhood, known for its wind towers?|دبي|Dubai
+051|place:dhayah:emirate|Historic places|dhayah|في أي إمارة تقع قلعة ضاية المبنية على تل؟|In which emirate is the hilltop Dhayah Fort?|رأس الخيمة|Ras Al Khaimah
+052|arts:ayyala:formation|Performance|ayyala|كيف يصطف المؤدون في العيالة: في صفين متقابلين أم صف واحد؟|How do Al Ayyala performers stand: in two facing rows or one row?|في صفين متقابلين|In two facing rows
+053|arts:nabati:language|Poetry|nabati|هل يُكتب الشعر النبطي باللغة الفصحى أم باللهجة العامية؟|Is Nabati poetry composed in formal Arabic or colloquial dialect?|باللهجة العامية|In colloquial dialect
+054|game:dahrouj:object|Games|dahrouj|في لعبة الدحروج، ما الشيء الذي يدحرجه الأطفال ويركضون خلفه؟|In Al Dahrouj, what do children roll and run after?|عجلة|A wheel
+055|game:karabi:movement|Games|karabi|على كم رجل يتحرك اللاعب في لعبة الكرابي التقليدية؟|On how many legs does a player move in the traditional Al Karabi game?|رجل واحدة|One leg
+056|game:motor:construction|Games|motor|كيف صنع الأطفال «موتر بو عجل» قديماً بدلاً من شراء سيارة لعبة؟|How did children make Motor Bou Ajal instead of buying a toy car?|من علب فارغة وأسلاك|From empty tins and wire
+057|hospitality:coffee:cup-hand|Hospitality|coffee|بأي يد يستلم الضيف فنجان القهوة العربية وفق آداب الضيافة؟|With which hand should a guest receive an Arabic coffee cup?|باليد اليمنى|The right hand
+058|household:saqa:purpose|Household|saqa|ما وظيفة «السقا» في إعداد منتجات الحليب؟|What is the purpose of a saqa in preparing dairy products?|خضّ الحليب لاستخراج الزبدة|Churning milk to extract butter
+059|food:maleh:preservation|Food|foodguide|كيف يُحفظ السمك عند إعداد «المالح» التقليدي؟|How is fish preserved when preparing traditional maleh?|بالتمليح والتجفيف في الشمس|By salting and sun-drying
+060|household:mahafa:purpose|Household|furniture|ما اسم المروحة اليدوية المصنوعة من الخوص في التراث الإماراتي؟|What is the palm-woven hand fan in Emirati heritage called?|المهفّة|Mahafa
+061|celebration:haqlaila:collection|Celebrations|haqlaila|ماذا يجمع الأطفال من بيوت الجيران في حق الليلة؟|What do children collect from neighbours' homes during Haq Al Laila?|الحلوى والمكسرات|Sweets and nuts
+062|food:harees:topping|Food|harees|ما الدهن التقليدي الذي يُضاف إلى الهريس عند تقديمه؟|What traditional fat is added to harees when serving it?|السمن|Ghee
+063|arts:ayyala:canes|Performance|ayyala|ما الذي يمسكه مؤدو العيالة بأيديهم أثناء الأداء الجماعي؟|What do Al Ayyala performers hold during their group performance?|عصيّ خيزران رفيعة|Thin bamboo canes
+064|customs:zuhba:meaning|Customs|zuhba|ما المقصود بـ«زهبة العروس» في العادات الإماراتية؟|What does the bride's zuhba mean in Emirati customs?|جهاز العروس من ملابس وعطور وذهب|The bridal trousseau of clothes, perfume and gold
+065|arts:azi:formation|Performance|azi|في العازي، أين يقف الرجال الذين يردّون على الشاعر؟|In Al Azi, where do the men who respond to the poet stand?|خلف الشاعر|Behind the poet
+066|food:khameer:texture|Food|fwala|أي خبز إماراتي طري ومنتفخ يُقدَّم تقليدياً مع الجامي؟|Which fluffy Emirati bread is traditionally served with jami curds?|الخمير|Khameer
+067|place:naboodah:occupation|Historic places|sharjahfort|ما المهنة التي ارتبط بها صاحب بيت النابودة التراثي في الشارقة؟|Which occupation was associated with the owner of Sharjah's historic Bait Al Naboodah?|تجارة اللؤلؤ|Pearl trading
+068|food:fwala:meaning|Hospitality|fwala|ما اسم ضيافة العصر الإماراتية التي تُقدَّم فيها أطباق متنوعة مع القهوة؟|What is the Emirati afternoon hospitality spread of assorted dishes with coffee called?|الفوالة|Fwala

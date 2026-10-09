@@ -1,0 +1,70 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+069|song:kelmanasnas:lyricist|kelmanasnas|من الأمير الشاعر الذي كتب كلمات «كل ما نسنس» التي غنّاها محمد عبده؟|Which prince and poet wrote Kel Ma Nasnas, sung by Mohammed Abdu?|الأمير خالد الفيصل|Prince Khaled Al Faisal
+070|song:ikhtalafna:composer|ikhtalafna|من لحّن أغنية «اختلفنا» لمحمد عبده؟|Who composed Mohammed Abdu's Ikhtalafna?|محمد عبده|Mohammed Abdu
+071|song:azeemehsasi:composer|azeem|من لحّن «عظيم إحساسي» لراشد الماجد؟|Who composed Rashed Al Majid's Azeem Ehsasi?|أحمد الهرمي|Ahmed Al Harmi
+072|song:rdy:composer|rdy|من الملحن الذي نُسب إليه لحن أغنية عايض «ردي»؟|Who is credited with composing Ayed's Rdy?|راكان|Rakan
+073|song:dukhoon:composer|dukhoon|من لحّن أغنية «دخون» لعبادي الجوهر؟|Who composed Abadi Al Johar's Dukhoon?|عبادي الجوهر|Abadi Al Johar
+074|song:yahalawa:composer|yahalawa|من الفنان الذي لحّن «يا حلاوة» لعبادي الجوهر؟|Which artist composed Ya Halawa for Abadi Al Johar?|طلال مداح|Talal Maddah
+075|song:feztbek:composer|feztbek|من لحّن أغنية سلطان المرشد «فزت بك»؟|Who composed Sultan Al Murshed's Fezt Bek?|الأنين|Al Anein
+076|song:dehkatayami:composers|dehkat|ما الاسمان المذكوران معًا في خانة ألحان «ضحكة أيامي» لسلطان المرشد؟|Which two names are jointly credited for the composition of Sultan Al Murshed's Dehkat Ayami?|سلطان ووتد|Sultan and Watad
+077|song:wardabaida:composer|wardabaida|من لحّن أغنية زينة عماد «الوردة البيضا»؟|Who composed Zena Emad's Elwarda Elbaida?|سامر أبو طالب|Samer Abu Taleb
+078|album:helwsowtak:yawesatrack|yawesa|في أي ألبوم لأصيل أبو بكر صدرت «يا وسع صدري»؟|Which Aseel Abu Bakr album includes Ya Wesa Sadri?|حلو صوتك|Helw Sowtak
+079|song:lammah:composer|lammah|من لحّن أغنية عايض «لماح»؟|Who composed Ayed's Lammah?|راكان|Rakan
+080|artist:tariq:deannickname|tariqbio|من الموسيقار السعودي المعروف بلقب «عميد الفن السعودي»؟|Which Saudi composer is known as the Dean of Saudi Art?|طارق عبدالحكيم|Tariq Abdulhakim
+081|museum:tariq:city|tariqmuseum|في أي مدينة يقع متحف طارق عبدالحكيم الذي يعرض جانبًا من تاريخ الموسيقى السعودية؟|Which city houses the Tariq Abdulhakim Museum, showcasing Saudi musical history?|جدة|Jeddah
+082|artist:talal:birthcity|talalbio|في أي مدينة سعودية وُلد طلال مداح؟|In which Saudi city was Talal Maddah born?|مكة المكرمة|Makkah
+083|genre:yanbawi:openingsection|yanbawi|بأي نوع من الغناء يبدأ المؤدي أغنية الينبعاوي قبل «الدور»؟|Which type of singing opens a Yanbawi song before the dawr section?|الموال|Mawwal
+084|genre:majass:historicalwelcome|majass|أي قوافل دينية كان أهل مكة يستقبلونها قديمًا بالغناء والأهازيج في فن المجس؟|Which religious caravans did Makkah's residents historically welcome with Al Majass singing?|قوافل الحجاج|Hajj pilgrim caravans
+085|artist:abdmaj:earlymentor|abdmajbio|من الملحن الذي تبنّى عبدالمجيد عبدالله فنيًا في بداياته ورافقه إلى مصر للتسجيل؟|Which composer mentored Abdul Majeed Abdullah early in his career and accompanied him to Egypt to record?|سامي إحسان|Sami Ihsan
+086|song:lanaallah:lyricist|lanaallah|من الشاعر السعودي الذي كتب كلمات «لنا الله» لمحمد عبده؟|Which Saudi poet wrote Mohammed Abdu's Lana Allah?|إبراهيم خفاجي|Ibrahim Khafaji
+087|song:entehel:composer|entehel|من لحّن أغنية عبدالمجيد عبدالله «انتحل شخصيتك»؟|Who composed Abdul Majeed Abdullah's Entehel Shakhsetak?|سهم|Sahm
+088|album:ehsasrabeh:montahatrack|montaha|في أي ألبوم لرابح صقر صدرت «منتهى الرقة» التي راجعتها صحيفة الجزيرة عام 2011؟|Which Rabeh Saqer album contains Montaha Al Riqqa, reviewed by Al Jazirah in 2011?|إحساس رابح|Ehsas Rabeh
+089|song:bentelnour:composer|bentelnour|من لحّن أغنية محمد عبده «بنت النور»؟|Who composed Mohammed Abdu's Bent El Nour?|ناصر الصالح|Nasser Al Saleh
+090|song:anaalabyad:composer|anaalabyad|من لحّن «أنا الأبيض» لراشد الماجد؟|Who composed Rashed Al Majid's Ana Al Abyad?|ياسر بوعلي|Yasser Bou Ali
+091|song:awalhekaya:composer|awalhekaya|من لحّن أغنية عبدالمجيد عبدالله «أول حكايتنا»؟|Who composed Abdul Majeed Abdullah's Awal Hekayatna?|طارق محمد|Tareq Mohammed
+092|song:mawedthani:composer|mawedthani|من لحّن «الموعد الثاني» لطلال مداح؟|Who composed Talal Maddah's Al Mawed Al Thani?|سراج عمر|Siraj Omar
+093|song:insanakthar:composer|insanakthar|من لحّن أغنية عبدالمجيد عبدالله «إنسان أكثر»؟|Who composed Abdul Majeed Abdullah's Ensan Akthar?|طارق محمد|Tareq Mohammed
+094|song:wahm:lyricist|wahm|من الشاعر الكويتي الذي كتب «وهم» لمحمد عبده؟|Which Kuwaiti poet wrote Mohammed Abdu's Wahm?|فائق عبدالجليل|Faiq Abdul Jaleel
+095|song:hebrwarag:composer|hebrwarag|من لحّن أغنية «حبر وورق» لعبادي الجوهر؟|Who composed Abadi Al Johar's Hebr W Warag?|عبادي الجوهر|Abadi Al Johar
+096|song:nadet:lyricist|nadet|من الأمير الشاعر الذي كتب أغنية عباس إبراهيم «ناديت»؟|Which prince and poet wrote Abbas Ibrahim's Nadet?|الأمير خالد الفيصل|Prince Khaled Al Faisal
+097|song:maazeem:composer|maazeem|من لحّن أغنية محمد عبده «المعازيم»؟|Who composed Mohammed Abdu's Al Maazeem?|عدنان خوج|Adnan Khoj
+098|song:tahdooh:composer|tahdooh|من لحّن «تحدوه البشر» لراشد الماجد؟|Who composed Rashed Al Majid's Tahdooh Al Bashar?|مشعل العروج|Mishal Al Arouj
+099|song:janyasmar:composer|janyasmar|من لحّن أغنية عتاب «جاني الأسمر»؟|Who composed Etab's Jani Al Asmar?|فوزي محسون|Fawzi Mahsoun
+100|artist:toha:fatherinstrumentgift|toha|أي آلة موسيقية أهداها والد الفنانة توحة إليها ووَصفتها بأنها «يمانية»؟|Which musical instrument did Toha receive from her father, describing it as Yemeni?|العود|Oud
+101|song:ibtisamwadaa:composer|ibtisam|من الموسيقار المصري الذي لحّن قصيدة «وداع» لابتسام لطفي؟|Which Egyptian composer set Wadaa for Ibtisam Lotfi?|رياض السنباطي|Riad Al Sunbati
+102|song:rasayel:composer|rasayel|من لحّن أغنية محمد عبده «الرسايل»؟|Who composed Mohammed Abdu's Al Rasayel?|محمد عبده|Mohammed Abdu
+103|song:sayedi:composer|sayedi|من لحّن أغنية «سيدي قم» لطلال مداح؟|Who composed Talal Maddah's Sayedi Qum?|طلال مداح|Talal Maddah
+104|song:ahebbak:composer|ahebbak|من لحّن أغنية طلال مداح «أحبك لو تكون حاضر»؟|Who composed Talal Maddah's Ahebbak Law Tekoun Hader?|طلال مداح|Talal Maddah
+105|song:menathabi:composer|menathabi|من لحّن أغنية «من عذابي» لعبادي الجوهر؟|Who composed Abadi Al Johar's Men Athabi?|عبادي الجوهر|Abadi Al Johar
+106|song:allamtni:composer|allamtni|من لحّن أغنية راشد الماجد «علمتني»؟|Who composed Rashed Al Majid's Allamtni?|عبدالرب إدريس|Abdul Rab Idris
+107|song:mostageb:melodyorigin|mostageb|هل نُسب لحن «يا مستجيب للداعي» في إصدار محمد عبده الرسمي إلى ملحن معاصر أم إلى التراث؟|Is the melody of Ya Mostageb Lel Daay credited on Mohammed Abdu's official release to a modern composer or to tradition?|إلى التراث|To tradition
+108|song:seqa:composer|seqa|من لحّن أغنية رابح صقر «سقى الله»؟|Who composed Rabeh Saqer's Seqa Allah?|ياسر بوعلي|Yasser Bou Ali
+109|song:seqa:album|seqa|في أي ألبوم لرابح صقر صدرت «سقى الله» عام 2015؟|Which Rabeh Saqer album includes the 2015 release Seqa Allah?|أوجه المعنى|Awjeh Al Maana
+110|song:faman:composer|faman|من لحّن «فمان الله» لعايض؟|Who composed Ayed's Faman Allah?|فيصل سعود|Faisal Saud
+111|song:lataht:album|lataht|في أي ألبوم لداليا مبارك صدرت «لا طحت»؟|Which Dalia Mubarak album includes La Taht?|في حياتك مستحيل|Fi Hayatak Mostaheel
+112|song:thaheba:composer|thaheba|من لحّن قصيدة «الذاهبة» التي غنّاها خالد عبدالرحمن؟|Who composed Al Thaheba, sung by Khalid Abdulrahman?|خالد عبدالرحمن|Khalid Abdulrahman
+113|song:entithar:composer|entithar|من لحّن أغنية «انتظارك صعب» لماجد المهندس؟|Who composed Majid Al Mohandis's Entitharak Saab?|ماجد المهندس|Majid Al Mohandis
+114|song:saqiatash:composer|saqiatash|من لحّن أغنية عايض «ساقي العطش»؟|Who composed Ayed's Saqi Al Atash?|حمد القطان|Hamad Al Qattan
+115|song:istiraha:composer|istiraha|من لحّن «استراحة محارب» لعايض؟|Who composed Ayed's Estrahet Mohareb?|ياسر بوعلي|Yasser Bou Ali
+116|song:alabal:composer|alabal|من لحّن أغنية محمد عبده «على البال»؟|Who composed Mohammed Abdu's Ala El Bal?|محمد عبده|Mohammed Abdu
+117|song:markeb:lyricist|markeb|من الأمير الشاعر الذي كتب «يا مركب الهند» لمحمد عبده؟|Which prince and poet wrote Mohammed Abdu's Ya Markeb Al Hind?|الأمير بدر بن عبدالمحسن|Prince Badr bin Abdulmohsen
+118|song:wainkent:composer|wainkent|من لحّن أغنية رابح صقر «وين كنت»؟|Who composed Rabeh Saqer's Wain Kent?|رابح صقر|Rabeh Saqer
+119|song:khamees:composer|khamees|من لحّن «خميس» لرابح صقر؟|Who composed Rabeh Saqer's Khamees?|سهم|Sahm
+120|song:atni:composer|atni|من لحّن أغنية «عطني المحبة» لطلال مداح؟|Who composed Talal Maddah's Atni Al Mahabba?|طلال مداح|Talal Maddah
+121|artist:jameel:tvprogramme|jameel|ما اسم البرنامج الموسيقي الذي قدّمه جميل محمود على التلفزيون السعودي؟|What music programme did Jameel Mahmoud present on Saudi television?|وتر وسمر|Watar Wa Samar
+122|song:samraa:composer|jameel|من الملحن السعودي صاحب لحن أغنية «سمراء» من كلمات يحيى توفيق؟|Which Saudi composer wrote the music of Samraa, with words by Yahya Tawfiq?|جميل محمود|Jameel Mahmoud
+123|artist:jameel:upbringingcity|jameel|في أي مدينة نشأ الفنان جميل محمود في حي المسفلة؟|In which city did musician Jameel Mahmoud grow up in Al Misfalah district?|مكة المكرمة|Makkah
+124|song:yasariya:composer|omarbio|من لحّن أغنية طلال مداح «يا سارية خبريني»؟|Who composed Talal Maddah's Ya Sariya Khabbirini?|عمر كدرس|Omar Kedres
+125|song:azzah:composer|azzah|من لحّن أغنية راشد الفارس «عزاه»؟|Who composed Rashed Al Fares's Azzah?|سهم|Sahm
+126|song:aghrab:composer|aghrab|من لحّن أغنية طلال مداح «أغراب»؟|Who composed Talal Maddah's Aghrab?|سراج عمر|Siraj Omar
+127|song:lanaallah:composer|lanaallah|من لحّن أغنية محمد عبده «لنا الله»؟|Who composed Mohammed Abdu's Lana Allah?|طارق عبدالحكيم|Tariq Abdulhakim
+128|song:montaha:composer|montaha|من لحّن «منتهى الرقة» لرابح صقر؟|Who composed Rabeh Saqer's Montaha Al Riqqa?|سهم|Sahm
+129|song:khalas:composer|khalas|من لحّن أغنية رابح صقر «خلاص»؟|Who composed Rabeh Saqer's Khalas?|أحمد الهرمي|Ahmed Al Harmi
+130|song:tahamaltak:composer|tahamaltak|من لحّن أغنية رابح صقر «تحملتك»؟|Who composed Rabeh Saqer's Tahamaltak?|سهم|Sahm
+131|song:minkobraha:composer|minkobraha|من لحّن أغنية رابح صقر «من كبرها»؟|Who composed Rabeh Saqer's Min Kobraha?|سهم|Sahm
+132|song:akhqalbi:composer|akhqalbi|من لحّن أغنية ماجد المهندس «آخ قلبي»؟|Who composed Majid Al Mohandis's Akh Qalbi?|علي صابر|Ali Saber
+133|song:yasabr:composer|yasabr|من لحّن أغنية أصيل أبو بكر «يا صبر»؟|Who composed Aseel Abu Bakr's Ya Sabr?|عبدالله الجاسم|Abdullah Al Jassem
+134|song:ikhtafat:album|ikhtafat|في أي ألبوم لعبادي الجوهر صدرت «اختفت»؟|Which Abadi Al Johar album includes Ikhtafat?|أصدق ما كتبت|Asdaq Ma Katabt
+135|song:maaldunya:album|maaldunya|في أي ألبوم لعبادي الجوهر صدرت «ما على الدنيا عتب»؟|Which Abadi Al Johar album includes Ma Ala Al Dunya Atab?|طال السكوت|Tal Al Sukoot
+136|museum:tariq:inaugurationyear|tariqmuseum|في أي عام دُشّن مركز طارق عبدالحكيم ومتحفه في جدة التاريخية؟|In which year were the Tariq Abdulhakim Centre and its museum inaugurated in historic Jeddah?|2023|2023
+

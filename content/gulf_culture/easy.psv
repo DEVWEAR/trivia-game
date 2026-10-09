@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|gcc:membership:number|gcccharter|كم دولة يضم مجلس التعاون الخليجي؟|How many countries belong to the Gulf Cooperation Council?|ست دول|Six
+002|gcc:secretariat:city|gcccharter|في أي مدينة يقع مقر مجلس التعاون الخليجي؟|Which city hosts the Gulf Cooperation Council headquarters?|الرياض|Riyadh
+003|fjiri:tradition:country|fjiri|الفجري، فن ارتبط بالغوص على اللؤلؤ، من تراث أي دولة خليجية؟|Fjiri, a performance linked to pearl diving, belongs to which Gulf country's heritage?|البحرين|Bahrain
+004|khanjar:ceremonial:country|khanjar|الخنجر الذي يُلبس على الحزام جزء بارز من الزي التقليدي في أي دولة خليجية؟|In which Gulf country is a dagger worn on a belt a prominent part of traditional dress?|سلطنة عُمان|Oman
+005|ardah:najd:prop|ardah|ما الذي يحمله المؤدون في العرضة النجدية إلى جانب العلم؟|What do performers carry in Alardah Alnajdiyah alongside the flag?|السيوف|Swords
+006|mezmar:hijaz:prop|mezmar|ما الأداة التي يدورها الراقصون في فن المزمار الحجازي؟|What do dancers twirl in the Hijazi Almezmar performance?|العصي|Sticks
+007|qatt:art:country|qatt|فن القط العسيري للزخرفة من تراث أي دولة خليجية؟|Al-Qatt Al-Asiri decoration belongs to which Gulf country's heritage?|السعودية|Saudi Arabia
+008|gccgeography:qatar:landform|gccgeography|أي دولة خليجية تشكل شبه جزيرة تمتد في الخليج بين السعودية والبحرين؟|Which Gulf country forms a peninsula projecting into the Gulf between Saudi Arabia and Bahrain?|قطر|Qatar
+009|shuwa:meat:cooking|omanabout|أين يُطهى الشواء العُماني التقليدي لساعات طويلة؟|Where is traditional Omani shuwa cooked for many hours?|في حفرة تحت الأرض|In an underground pit
+010|margoog:dish:identity|qatarfood|أي طبق خليجي يجمع اللحم والخضار مع رقائق عجين القمح في المرق؟|Which Gulf dish combines meat and vegetables with whole-wheat dough discs in a stew?|المرقوق|Margoog
+011|saloona:dish:identity|qatarfood|ما اسم اليخنة الخليجية التي يصفها موقع سياحة قطر بأنها تعتمد على الطماطم؟|What is the Gulf stew that Qatar Tourism describes as tomato-based called?|الصالونة|Saloona
+012|frankincense:heritage:country|frankincense|في أي دولة خليجية تقع مواقع «أرض اللبان» المسجلة لدى اليونسكو؟|In which Gulf country are the UNESCO-listed Land of Frankincense sites?|سلطنة عُمان|Oman
+013|pearling:trail:city|bahrainpearling|في أي مدينة بحرينية تمر مواقع «مسار اللؤلؤ» التاريخية؟|Which Bahraini city contains the historic Pearling Path buildings?|المحرق|Muharraq
+014|ardah:najd:voices|ardah|أي فن أدبي يُنشد مع قرع الطبول في العرضة النجدية؟|Which literary art is chanted with the drumming in Alardah Alnajdiyah?|الشعر|Poetry
+015|qatt:art:location|qatt|أي جزء من البيت تزيّنه نساء عسير بفن القط التقليدي؟|Which part of a house do women in Asir decorate with traditional Al-Qatt art?|الجدران الداخلية|Interior walls
+016|khanjar:emblem:presence|khanjar|أي قطعة من الزي التقليدي تظهر في الشعار الوطني العُماني إلى جانب السيوف؟|Which item of traditional dress appears alongside swords in Oman's national emblem?|الخنجر|The khanjar
+017|gcc:organization:expansion|gcccharter|ماذا تعني الأحرف GCC في اسم المنظمة الخليجية بالإنجليزية؟|What does GCC stand for in the Gulf organization's English name?|مجلس التعاون الخليجي|Gulf Cooperation Council
+018|ardah:performance:opening|ardah|من يفتتح العرضة النجدية بإنشاد الأبيات قبل أن تبدأ الطبول؟|Who opens Alardah Alnajdiyah by chanting verses before the drums begin?|الشاعر|The poet
+019|khanjar:metal:decoration|khanjar|ما المعدن الذي يشتهر به تزيين الخنجر العُماني التقليدي؟|Which metal is traditionally used to decorate the Omani khanjar?|الفضة|Silver
+020|frankincense:trade:commodity|frankincense|أي مادة عطرية كانت أساس التجارة التي ترويها مواقع أرض اللبان؟|Which aromatic substance was central to the trade illustrated by the Land of Frankincense sites?|اللبان|Frankincense
+021|karak:drink:identity|karak|ما اسم الشاي بالحليب والهيل الذي يُطلب بكثرة في مقاهي الخليج؟|What is the tea with milk and cardamom widely ordered in Gulf cafés called?|الكرك|Karak
+022|souqwaqif:market:city|souqwaqif|في أي عاصمة خليجية يقع سوق واقف؟|In which Gulf capital is Souq Waqif?|الدوحة|Doha
+023|garangao:celebration:month|garangao|في أي شهر تُقام احتفالات القرنقعوه في قطر؟|In which month is Garangao celebrated in Qatar?|رمضان|Ramadan
+024|barah:dance:country|barah|البرعة من الفنون التقليدية في أي دولة خليجية؟|Al-Barah is a traditional performing art of which Gulf country?|سلطنة عُمان|Oman
+025|sawt:music:string|sawt|أي آلة وترية ترافق المرواس في فن الصوت الخليجي؟|Which string instrument accompanies the mirwas in Gulf Sawt music?|العود|The oud
+026|qatt:design:geometry|qatt|على أي نوع من الأشكال تعتمد زخارف القط العسيري الملونة؟|What type of shapes underlies the colourful designs of Al-Qatt Al-Asiri?|أشكال هندسية|Geometric shapes
+027|aali:craft:town|aali|أي قرية بحرينية تشتهر بورش الفخار المحيطة بتلال المدافن؟|Which Bahraini village is known for pottery workshops around burial mounds?|عالي|Aali
+028|katara:amphitheatre:style|katara|مدرج كتارا المكشوف مستوحى من طراز أي حضارة قديمة؟|Katara's open-air amphitheatre is inspired by which ancient civilization's style?|الحضارة اليونانية|Ancient Greece
+029|jassasiya:site:identity|jassasiya|ما الموقع الأثري القطري الذي يجمع نقوش القوارب والحفر الكأسية؟|Which Qatari archaeological site combines boat carvings and cup marks?|الجساسية|Al Jassasiya
+030|barzan:towers:purpose|barzan|ما الوظيفة الدفاعية الأساسية لأبراج برزان تجاه السفن القادمة؟|What was the main defensive function of Barzan Towers concerning approaching ships?|المراقبة والإنذار|Lookout and warning
+031|taifrose:flowers:city|taifrose|أي مدينة سعودية تشتهر بتراث زراعة الورد وتقطيره؟|Which Saudi city is known for its heritage of growing and distilling roses?|الطائف|Taif
+032|semsemiah:instrument:family|semsemiah|إلى أي عائلة من الآلات الموسيقية تنتمي السمسمية؟|To which musical instrument family does the semsemiah belong?|الآلات الوترية|String instruments
+033|opera:venue:city|opera|في أي عاصمة خليجية تقع دار الأوبرا السلطانية؟|In which Gulf capital is the Royal Opera House?|مسقط|Muscat
+034|bamboo:novel:author|bamboo|من الكاتب الكويتي صاحب رواية «ساق البامبو»؟|Which Kuwaiti writer wrote The Bamboo Stalk?|سعود السنعوسي|Saud Alsanousi
+035|aflaj:system:protection|aflaj|أي منشآت دفاعية بُنيت لحماية الأفلاج العُمانية ومياهها؟|Which defensive structures were built to protect Oman's aflaj and their water?|أبراج المراقبة|Watchtowers
+036|katara:towers:birds|katara|أي طيور خُصصت لها الأبراج ذات الفتحات والمجاثم بجوار مسجد كتارا؟|Which birds are the towers with holes and perches beside Katara Mosque designed for?|الحمام|Pigeons
+037|bahrainpearling:houses:owners|bahrainpearling|بيوت أصحاب أي تجارة بحرية تشكل جزءاً من مسار اللؤلؤ في المحرق؟|Houses belonging to merchants in which maritime trade form part of Muharraq's Pearling Path?|تجارة اللؤلؤ|The pearl trade
+038|horseardhah:display:country|horseardhah|في أي دولة خليجية تُمارس «عرضة الخيل والإبل» المسجلة لدى اليونسكو؟|In which Gulf country is the UNESCO-listed horse-and-camel Ardhah practised?|سلطنة عُمان|Oman
+039|musahhar:neighbourhood:term|musahhar|ما المقصود بكلمة «فريج» في وصف الأحياء التي يجوبها المسحّر في قطر؟|What does fereej mean in the description of the areas a musahhar tours in Qatar?|الحي السكني|A neighbourhood
+040|mancala:game:pieces|mancala|بأي قطع صغيرة تُلعب المنقلة في نسخة لوحة متاحف قطر؟|With what small pieces is mancala played in Qatar Museums' posted version?|بالحصى أو الكرات الزجاجية|Stones or marbles
+041|suhail:tradition:season|suhail|ظهور نجم سهيل عند العرب يبشر بانحسار حر أي فصل؟|For Arabs, the appearance of Suhail traditionally heralds the easing of which season's heat?|الصيف|Summer
+042|thuraya:name:stars|thuraya|ما نوع الجرم الفلكي الذي تحمل قبة الثريا القطرية اسمه؟|What kind of astronomical object gives Qatar's Al Thuraya Planetarium its name?|مجموعة نجوم|A star cluster
+043|katara:cultural:city|katara|في أي مدينة خليجية يقع الحي الثقافي كتارا؟|In which Gulf city is Katara Cultural Village?|الدوحة|Doha
+044|nationalqatar:architecture:inspiration|nationalqatar|أي تكوين طبيعي ألهم شكل متحف قطر الوطني؟|Which natural formation inspired the shape of the National Museum of Qatar?|وردة الصحراء|The desert rose
+045|sur:maritime:craft|omanguide|أي حرفة بحرية تقليدية ما زالت تمارسها ورش مدينة صور العُمانية؟|Which traditional maritime craft is still practised in the workshops of Sur, Oman?|صناعة السفن الخشبية|Wooden boatbuilding
+046|khasab:fort:strait|khasab|على أي مضيق يطل حصن خصب في عُمان؟|Which strait does Oman's Khasab Fort overlook?|مضيق هرمز|The Strait of Hormuz
+047|omandress:robe:name|omanguide|ما اسم الثوب الرجالي التقليدي الطويل في عُمان؟|What is the traditional long men's robe in Oman called?|الدشداشة|Dishdasha
+048|ramadan:iftar:meal|garangao|ما اسم وجبة كسر الصيام عند الغروب في رمضان؟|What is the meal that breaks the Ramadan fast at sunset called?|الإفطار|Iftar
+049|ramadan:suhoor:meal|musahhar|ما اسم وجبة رمضان التي تُؤكل قبل الفجر؟|What is the Ramadan meal eaten before dawn called?|السحور|Suhoor
+050|musahhar:occupation:purpose|musahhar|ما مهمة المسحّر عندما يجوب الفريج بطبلته في رمضان؟|What is the musahhar's task when touring the neighbourhood with his drum in Ramadan?|إيقاظ الناس للسحور|Waking people for suhoor
+051|ramadan:cannon:signal|garangao|إطلاق مدفع رمضان في قطر يعلن حلول أي وقت؟|What time does the Ramadan cannon in Qatar announce?|وقت الإفطار|Iftar time
+052|madbasa:date:product|dilmun|أي منتج من التمر كانت تنتجه المدابس الأثرية في قلعة البحرين؟|Which date product was made in the ancient madbasas at Qalat Al Bahrain?|دبس التمر|Date syrup
+053|miadoha:museum:collection|miadoha|أي فرع من الفنون يتخصص به متحف الدوحة المعروف اختصاراً بـ MIA؟|Which field of art does Doha's museum known as MIA specialize in?|الفن الإسلامي|Islamic art
+054|baytstadium:architecture:inspiration|baytstadium|أي مسكن بدوي ألهم تصميم استاد البيت في قطر؟|Which Bedouin dwelling inspired Qatar's Al Bayt Stadium design?|بيت الشعر (الخيمة)|The bayt al-shaar tent
+055|janoubstadium:architecture:inspiration|stadiumheritage|ما العنصر البحري الذي ألهم تصميم استاد الجنوب في قطر؟|Which maritime feature inspired Qatar's Al Janoub Stadium design?|أشرعة السفن الخشبية|The sails of wooden dhows
+056|darbzalag:comedy:country|darbzalag|مسلسل «درب الزلق» الشهير من دراما أي دولة خليجية؟|The famous comedy Darb Al Zalag belongs to which Gulf country's television drama?|الكويت|Kuwait
+057|celestial:writer:nationality|celestial|إلى أي دولة خليجية تنتمي الروائية جوخة الحارثي؟|Which Gulf country is novelist Jokha Alharthi from?|سلطنة عُمان|Oman
+058|bahla:fort:wallmaterial|bahla|من أي مادة محلية صُنعت جدران وأبراج قلعة بهلاء فوق أساساتها الحجرية؟|Which local material forms Bahla Fort's walls and towers above their stone foundations?|الطوب الطيني غير المحروق|Unbaked mud brick
+059|gccgeography:bahrain:landform|gccgeography|أي دولة من دول مجلس التعاون تتكون من أرخبيل جزر؟|Which GCC country consists of an archipelago of islands?|البحرين|Bahrain
+060|garangao:children:activity|garangao|ماذا يجمع أطفال قطر في أكياسهم خلال القرنقعوه؟|What do Qatari children collect in their bags during Garangao?|الحلوى والمكسرات|Sweets and nuts
+061|bukhoor:burner:name|bukhoor|ما اسم الإناء المستخدم لتبخير البيوت والملابس بالبخور؟|What is the vessel used to perfume homes and clothes with incense called?|المبخرة|Mabkhara (incense burner)
+062|jassasiya:carvings:boats|jassasiya|إلى جانب العلامات الكأسية، أي وسيلة نقل بحرية تظهر في نقوش الجساسية؟|Besides cup marks, which maritime means of transport appears in the Al Jassasiya carvings?|القوارب|Boats
+063|liwa:music:roots|folkmusic|جذور موسيقى الليوة الخليجية مرتبطة بأي قارة؟|The roots of Gulf Leiwa music are associated with which continent?|أفريقيا|Africa
+064|ainvillage:name:water|ainvillage|إلى أي مصدر مياه تشير كلمة «عين» في اسم قرية عين محمد التراثية بقطر؟|Which water source does ain refer to in the name of Qatar's heritage village Ain Mohammad?|نبع ماء|A spring
+065|souqwaqif:hospital:patients|souqwaqif|أي طيور يعالجها المستشفى المتخصص في سوق واقف؟|Which birds are treated by the specialist hospital at Souq Waqif?|الصقور|Falcons
+066|sesame:programme:identity|sesame|ما اسم البرنامج الخليجي التعليمي الشهير الذي تظهر شخصياته في عروض مسرحية للأطفال؟|What is the famous Gulf educational programme whose characters appear in children's theatre shows?|افتح يا سمسم|Iftah Ya Simsim
+067|omandress:mussar:identity|omanguide|ما «المصرّ» في الزي العُماني التقليدي؟|What is the mussar in traditional Omani dress?|عمامة تُلف على الرأس|A turban wrapped around the head
+068|dilmunseals:object:function|dilmunseals|أي أدوات دلمونية صغيرة كانت تُستخدم لإثبات ملكية البضائع وصحة الوثائق؟|Which small Dilmun objects were used to certify ownership of goods and authenticate documents?|الأختام|Seals

@@ -1,0 +1,150 @@
+[
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_football_final.dart",
+    "Hash": "560D8FAD431E4255A3BF98FA5C034CE9D1B1E76092FA52F06762B3D530569F17"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_football\\easy_1.dart",
+    "Hash": "1F6FF2CBDFCD4B3B21296D0F7DBC23D3134731FDFEAA4533CCFDF1888F9FD058"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_football\\easy_2.dart",
+    "Hash": "865E5E3C636BEB87C89019ADA60AB6AC93A28B73D6BF168167CD69A0C8A23087"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_football\\hard_1.dart",
+    "Hash": "3C553EA2B0F2D57689BC1F4BF8419B471F48ADECDCC49AA2949C2BB863933C79"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_football\\hard_2.dart",
+    "Hash": "0D4F484CC37A60566AEFCB7C0512BFA7E209918CA71CE5BC42741D85D9E97098"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_football\\medium_1.dart",
+    "Hash": "9C8C146DA36FEE7967BBF01FFE2A4824BDBFFFC4F39A72C168241C0F3A5221BF"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_football\\medium_2.dart",
+    "Hash": "827A53FC27F7CE0C6AD94D984BB579EF476AD948091DCAD3ED50ED2ECFB37079"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\easy.psv",
+    "Hash": "A36C28A34B4D43ECF5DD9C2BA031662A4D9AFB19BBB6A915D01B121A7062A559"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\evidence_ledger.csv",
+    "Hash": "7CE64D0DC124CC1A03B26083A12F1ABBA69A245CE87E930BD2104BBE1CC7E511"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\hard.psv",
+    "Hash": "AEEE980749B4366248937581DCFF9905F32901814A593F5D37DD0A6C997248CC"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\medium.psv",
+    "Hash": "CAF5B5FC5F9CA7EBD4A1C99E506C40176EC54DE6E1115B115A38BA199F07FB90"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\near_duplicate_candidates.csv",
+    "Hash": "01C4B13D5854AE87520A1CB846B9DC4ECD23A9FC2B6033C3DBD1A5A1EAEA016C"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\near_duplicate_review.csv",
+    "Hash": "233120D01F6A169EF7D455FDE1BF516A95142092B0807A5E5A1CEC57E72C6442"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\sources.psv",
+    "Hash": "D366E82A4F5AC7F71DC1BE4EA0FDDDDFAB2E5B38EA1935D53F33D96CC868779C"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_football\\validation_result.json",
+    "Hash": "3AB7469D46682710FC178EF08E2B2A19C523DA7795B4A77BDCFBE443D1652CDE"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\tool\\generate_uae_football.ps1",
+    "Hash": "5041386A7E818F45BE700F94D46ED9E803A20A20A7CF23065373DF61656F6BBC"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\tool\\validate_uae_football.ps1",
+    "Hash": "6943D7C5A3BBD905F62D9A98B4D5992904650C5395304ADA03E33417CBA32992"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_general_final.dart",
+    "Hash": "8FE5427051740889A6583EDDEC7B167723959D4555AA6C48287684D75B133C1D"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_general\\easy_1.dart",
+    "Hash": "859DB2AD5AFD09EA80459EF0F77AD017C1B1E67DA729611C975092C723874C08"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_general\\easy_2.dart",
+    "Hash": "EAA4875989BD616093D870E7A359D250D24DF8DCC710261D5A056848D97FC391"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_general\\hard_1.dart",
+    "Hash": "44FA12C7EFF9DD502725D0D04DC9621718D15FF2B4E4239E5899ED6B682FFF9B"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_general\\hard_2.dart",
+    "Hash": "B512F8FE4A0582FBBBFAEE78FE2E5BD3D3F17977A91F61BA15D96A58F412BDFE"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_general\\medium_1.dart",
+    "Hash": "D3C5F85E78CEEF1AA65678D9B9119A99FCE259A0F77F6813F9199157AD2A82C8"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\lib\\data\\questions\\uae_general\\medium_2.dart",
+    "Hash": "50B765D78810DDD38C65975488B78BAF17D948D0181957A697E0557A8FA598BB"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\easy.psv",
+    "Hash": "5A581F870F06756DC2BCA39903020AB079472D02D208B113B7C01821591DC9CD"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\evidence_ledger.csv",
+    "Hash": "06C082EA1DDCCFD28AF82F555C74331D0E0E66ACBD2E9A36AE3CD8830ED7E0F8"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\fact_family_review.csv",
+    "Hash": "F006FE80F2F48B4425C6CBAA6FAE4AD22C3A53120D73AB7A9B0187689C31CCE2"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\hard.psv",
+    "Hash": "4CF3F67F0F2B25F9D8F5B97DEFA69CD7E49449A008A44B0DC38B86BB9A84E1A9"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\medium.psv",
+    "Hash": "1D9C84F7885B079F4F6AD30F18FCAC5A22A18B590BC221A3CFE529E516A98B9A"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\near_duplicate_candidates.csv",
+    "Hash": "FF4DC1AF4A8CF72348FB41BCA388C4AACF23E1F2E55291F36B84138208EE87E9"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\near_duplicate_review.csv",
+    "Hash": "EC89F18E4F6388E43490CD7FAC7B2099DBA7A34341551904005D0BC620052FC8"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\sources.psv",
+    "Hash": "5E21E4FEE47223AB44CE4C76C3555BB34641BFF452F3F1BD4A0EEA668E5DC44A"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\content\\uae_general\\validation_result.json",
+    "Hash": "CCF6BA7B395D75F3C5C820ADDB72C6718004FAEE182419C29FC0DE1CCF76960F"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\tool\\generate_uae_general.ps1",
+    "Hash": "32AF552423247D060B2A31EC5EA5194C2B714D7F8F908833B966EC7384E34470"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\tool\\validate_uae_general.ps1",
+    "Hash": "397BF18C0CB1ECEDB43C49C87A7665ED0172D4D004221AAB4F90A12F8F6D8919"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\UAE_FOOTBALL_AUDIT.md",
+    "Hash": "F0F71BB1B6132AE5F8CFBF95147FCA4E2DD0002020242668ECB8649E0EF23186"
+  },
+  {
+    "Path": "C:\\Users\\khali\\Downloads\\trivia-game-main\\trivia-game-main\\UAE_GENERAL_AUDIT.md",
+    "Hash": "D3C1A84DD4378E918A35F8204F24EBB9054118654673511367B0A381DC36B1BE"
+  }
+]

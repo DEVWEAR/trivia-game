@@ -1,0 +1,9 @@
+const fs=require('fs'),path=require('path'); const root=path.resolve(__dirname,'..'),dir=path.join(root,'content/bundesliga');
+const keys=['id','factKey','source','questionAr','questionEn','answerAr','answerEn'];
+function read(t){return fs.readFileSync(path.join(dir,t+'.psv'),'utf8').trim().split(/\r?\n/).slice(1).map(l=>Object.fromEntries(l.split('|').map((v,i)=>[keys[i],v])));}
+const banks=Object.fromEntries(['easy','medium','hard'].map(t=>[t,read(t)]));
+function swap(ta,ia,tb,ib){const a=banks[ta].find(q=>q.id===ia),b=banks[tb].find(q=>q.id===ib);banks[ta]=banks[ta].filter(q=>q!==a).concat({...b,id:ia});banks[tb]=banks[tb].filter(q=>q!==b).concat({...a,id:ib});}
+swap('easy','013','medium','107');swap('easy','024','medium','087');swap('easy','056','medium','088');swap('medium','113','hard','152');swap('medium','111','hard','204');
+const rule=banks.easy.find(q=>q.id==='013');rule.questionAr='ما نوع الأغلبية التي تحفظها قاعدة «50+1» لأعضاء النادي الألماني في إدارة كرة القدم؟';rule.questionEn='What type of majority does Germany\'s 50+1 rule preserve for club members in football governance?';
+for(const [t,qs]of Object.entries(banks))fs.writeFileSync(path.join(dir,t+'.psv'),[keys.join('|'),...qs.sort((a,b)=>a.id.localeCompare(b.id)).map(q=>keys.map(k=>q[k]).join('|'))].join('\n')+'\n');
+for(const file of ['lib/data/question_bank.dart','lib/data/playable_category_registry.dart']){const p=path.join(root,file);let s=fs.readFileSync(p,'utf8');s=s.replace("import 'questions/serie_a_final.dart';","import 'questions/serie_a_final.dart';\nimport 'questions/bundesliga_final.dart';");s=s.replace(/\n};\s*$/, "\n  'bundesliga': bundesligaFinalQuestions,\n};\n").replace(/\n];\s*$/, "\n  PlayableCategory('bundesliga', '⚽', 'الدوري الألماني', 'Bundesliga', bundesligaFinalQuestions),\n];\n");fs.writeFileSync(p,s);}

@@ -12,7 +12,11 @@ dependencies:
   cupertino_icons: ^1.0.8
   shared_preferences: ^2.5.3
 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
 flutter:
   uses-material-design: true
   assets:
-    - assets/two_pics/
+    - assets/two_pics/redesign/

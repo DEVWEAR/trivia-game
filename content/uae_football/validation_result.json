@@ -1,0 +1,15 @@
+{
+  "total": 204,
+  "easy200": 68,
+  "medium400": 68,
+  "hard600": 68,
+  "duplicate_id": 0,
+  "duplicate_questionAr": 0,
+  "duplicate_questionEn": 0,
+  "duplicate_factKey": 0,
+  "missing_sources": 0,
+  "missing_translations": 0,
+  "wrong_category_ids": 0,
+  "near_duplicate_candidates": 36,
+  "unresolved_near_duplicates": 0
+}

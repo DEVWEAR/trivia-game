@@ -1,0 +1,70 @@
+id|factKey|topic|source|questionAr|questionEn|answerAr|answerEn
+069|world-cup:1990:uae-coach|coaches|wcStory|من درب الإمارات في نهائيات كأس العالم 1990؟|Who coached the UAE at the 1990 World Cup finals?|كارلوس ألبرتو بيريرا|Carlos Alberto Parreira
+070|world-cup:1990:uae-qualifying-coach|coaches|wcStory|من كان مدرب الإمارات خلال مشوار التأهل إلى مونديال 1990؟|Who coached the UAE during their qualifying campaign for the 1990 World Cup?|ماريو زاغالو|Mario Zagallo
+071|world-cup:1990:uae-opening-opponent|national|khalidFifa|من واجه الإمارات في أول مباراة لها في مونديال 1990؟|Who were the UAE's opponents in their opening match at the 1990 World Cup?|كولومبيا|Colombia
+072|world-cup:1990:uae-yugoslavia-scorer|national|aliThaniGoal|من سجل هدف الإمارات أمام يوغوسلافيا في مونديال 1990؟|Who scored the UAE's goal against Yugoslavia at the 1990 World Cup?|علي ثاني|Ali Thani
+073|asian-cup:uae:debut-year|national|asian2015Technical|في أي عام شاركت الإمارات للمرة الأولى في نهائيات كأس آسيا؟|In which year did the UAE first appear at the Asian Cup finals?|1980|1980
+074|asian-cup:1996:final-open-play-score|national|asianHistory|كم انتهى نهائي كأس آسيا 1996 بين الإمارات والسعودية قبل ركلات الترجيح؟|What was the score in the 1996 UAE–Saudi Arabia Asian Cup final before the shootout?|0-0 بعد الوقت الإضافي|0-0 after extra time
+075|asian-cup:1996:uae-semi-opponent|national|asianHistory|أي منتخب هزمته الإمارات في نصف نهائي كأس آسيا 1996؟|Which team did the UAE beat in the 1996 Asian Cup semi-final?|الكويت|Kuwait
+076|asian-cup:2015:mabkhout-goals|players|mabkhoutProfile|كم هدفاً سجل علي مبخوت ليتصدر هدافي كأس آسيا 2015؟|How many goals did Ali Mabkhout score to lead the 2015 Asian Cup scoring chart?|خمسة أهداف|Five goals
+077|asian-cup:2015:fastest-goal-seconds|records|fastestGoal|بعد كم ثانية سجل علي مبخوت أسرع هدف في تاريخ كأس آسيا أمام البحرين عام 2015؟|After how many seconds did Ali Mabkhout score the fastest Asian Cup goal against Bahrain in 2015?|14 ثانية|14 seconds
+078|asian-cup:2015:bronze-opponent|national|asian2015Review|ضد أي منتخب فازت الإمارات بمباراة المركز الثالث في كأس آسيا 2015؟|Against which team did the UAE win the third-place match at the 2015 Asian Cup?|العراق|Iraq
+079|asian-cup:2019:quarter-final-winning-scorer|national|uaeAustralia2019|من سجل هدف الإمارات الوحيد أمام أستراليا في ربع نهائي كأس آسيا 2019؟|Who scored the UAE's only goal against Australia in the 2019 Asian Cup quarter-final?|علي مبخوت|Ali Mabkhout
+080|asian-cup:2019:round16-winning-scorer|national|uaeKyrgyz|من سجل ركلة الجزاء الحاسمة في الوقت الإضافي أمام قيرغيزستان في كأس آسيا 2019؟|Who scored the decisive extra-time penalty against Kyrgyz Republic at the 2019 Asian Cup?|أحمد خليل|Ahmed Khalil
+081|asian-cup:2023:round16-equalizer|national|uaeTajik|من سجل هدف تعادل الإمارات المتأخر أمام طاجيكستان في ثمن نهائي كأس آسيا 2023؟|Who scored the UAE's late equaliser against Tajikistan in the 2023 Asian Cup round of 16?|خليفة الحمادي|Khalifa Al Hammadi
+082|asian-cup:2019:uae-coach|coaches|uaeAustralia2019|من المدرب الإيطالي الذي قاد الإمارات في كأس آسيا 2019؟|Which Italian coach led the UAE at the 2019 Asian Cup?|ألبرتو زاكيروني|Alberto Zaccheroni
+083|uae:2023:appointed-coach|coaches|bento|من المدرب البرتغالي الذي تولى تدريب الإمارات في يوليو 2023؟|Which Portuguese coach took charge of the UAE in July 2023?|باولو بينتو|Paulo Bento
+084|olympics:2012:great-britain-uae-scorer|youth|uaeGB|من سجل هدف الإمارات أمام بريطانيا في أولمبياد لندن 2012؟|Who scored for the UAE against Great Britain at London 2012?|راشد عيسى|Rashed Essa
+085|olympics:2012:uae-draw-opponent|youth|uaeSenegal|أمام أي منتخب حصلت الإمارات على نقطتها في منافسات كرة القدم بأولمبياد 2012؟|Against which team did the UAE earn their point in the 2012 Olympic football tournament?|السنغال|Senegal
+086|u19:2008:final-opponent|youth|youthFinal|من واجه الإمارات في نهائي كأس آسيا تحت 19 سنة عام 2008؟|Who faced the UAE in the 2008 AFC U-19 Championship final?|أوزبكستان|Uzbekistan
+087|u20:2003:uae-eliminator|youth|matarFifa|أي منتخب أقصى الإمارات من ربع نهائي مونديال الشباب 2003؟|Which team eliminated the UAE in the 2003 World Youth Championship quarter-final?|كولومبيا|Colombia
+088|u20:2009:uae-eliminator|youth|khalilQuarterly|من أقصى الإمارات من ربع نهائي كأس العالم تحت 20 سنة عام 2009؟|Who eliminated the UAE in the 2009 U-20 World Cup quarter-final?|كوستاريكا|Costa Rica
+089|asian-games:2010:final-opponent|youth|awana|من فاز على الإمارات في نهائي كرة القدم بالألعاب الآسيوية 2010؟|Who beat the UAE in the 2010 Asian Games football final?|اليابان|Japan
+090|gulf:2013:host-country|gulf|gulf2013|في أي دولة أحرز منتخب الإمارات لقب كأس الخليج 2013؟|In which country did the UAE win the 2013 Gulf Cup?|البحرين|Bahrain
+091|gulf:2007:matar-goals|players|matarFifa|كم هدفاً سجل إسماعيل مطر في كأس الخليج 2007؟|How many goals did Ismail Matar score at the 2007 Gulf Cup?|خمسة أهداف|Five goals
+092|gulf:2007:uae-semi-opponent|gulf|matarFifa|أي منتخب أقصته الإمارات في نصف نهائي خليجي 18؟|Which team did the UAE eliminate in the Gulf Cup 18 semi-final?|السعودية|Saudi Arabia
+093|olympics:2012:qualifying-final-opponent|youth|olympicDraw|أمام أي منتخب حسمت الإمارات التأهل لأولمبياد لندن بانتصار 3-2 في طشقند؟|Against which team did the UAE clinch London Olympic qualification with a 3-2 win in Tashkent?|أوزبكستان|Uzbekistan
+094|bani-yas:1992:cup-final-opponent|domestic|baniAfc|من هزمه بني ياس في نهائي كأس رئيس الدولة عام 1992؟|Who did Bani Yas defeat in the 1992 President's Cup final?|النصر|Al Nasr
+095|bani-yas:foundation:year|history|baniHistory|في أي عام تأسس نادي بني ياس؟|In which year was Bani Yas founded?|1982|1982
+096|al-wahda:first-league:season|domestic|wahdaHistory|في أي موسم أحرز الوحدة أول لقب دوري في تاريخه؟|In which season did Al Wahda win their first league title?|1998-1999|1998-99
+097|al-jazira:first-league:season|domestic|jaziraHistory|متى توج الجزيرة بلقب الدوري للمرة الأولى؟|When did Al Jazira win their first league title?|موسم 2010-2011|The 2010-11 season
+098|al-wasl:original:name|history|waslHistory|ما الاسم الذي حمله نادي الوصل عند تأسيسه عام 1960؟|What was Al Wasl called when it was founded in 1960?|الزمالك|Al Zamalek
+099|gcc-clubs:2010:champion|gulf|waslHistory|أي نادٍ إماراتي توج ببطولة الأندية الخليجية عام 2010؟|Which UAE club won the GCC Club Championship in 2010?|الوصل|Al Wasl
+100|al-wasl:foundation:year|history|waslHistory|في أي عام تأسس النادي الذي أصبح لاحقاً نادي الوصل؟|In which year was the club that later became Al Wasl founded?|1960|1960
+101|al-nasr:1970:visiting-club|history|nasrHistory|أي نادٍ برازيلي زار النصر برفقة بيليه عام 1970؟|Which Brazilian club visited Al Nasr with Pele in 1970?|سانتوس|Santos
+102|shabab-al-ahli:2017:merged-clubs|history|shababProgramme|ما الأندية الثلاثة التي اندمجت لتشكيل شباب الأهلي في 2017؟|Which three clubs merged to form Shabab Al Ahli in 2017?|الأهلي والشباب ودبي|Al Ahli, Al Shabab and Dubai
+103|al-jazira:foundation:merged-clubs|history|jaziraHistory|ما الناديان اللذان اندمجا لتأسيس الجزيرة عام 1974؟|Which two clubs merged to establish Al Jazira in 1974?|الخالدية والبطين|Al Khalidiya and Al Bateen
+104|pro-league:2015-16:champion|domestic|proChampions|من بطل دوري المحترفين الإماراتي موسم 2015-2016، باسمه آنذاك؟|Who won the 2015-16 UAE Pro League, using the club's name at the time?|الأهلي|Al Ahli
+105|pro-league:2016-17:champion|domestic|proChampions|من فاز بدوري المحترفين الإماراتي موسم 2016-2017؟|Who won the UAE Pro League in 2016-17?|الجزيرة|Al Jazira
+106|pro-league:2009-10:champion|domestic|proChampions|أي نادٍ فاز بثاني موسم للدوري الإماراتي في عصر الاحتراف، 2009-2010؟|Which club won the second professional-era UAE league season, 2009-10?|الوحدة|Al Wahda
+107|al-wasl:2024:championship-coach|coaches|waslStats|من المدرب الصربي الذي قاد الوصل إلى لقب الدوري موسم 2023-2024؟|Which Serbian coach led Al Wasl to the 2023-24 league title?|ميلوش ميلوييفيتش|Milos Milojevic
+108|al-wasl:2024:league-title-number|records|wasl2024|كان لقب الدوري موسم 2023-2024 هو اللقب رقم كم في تاريخ الوصل؟|What number league title in Al Wasl's history was their 2023-24 championship?|الثامن|Eighth
+109|acl-two:2025:sharjah-coach|coaches|sharjahFinal|من قاد الشارقة كمدرب إلى لقب دوري أبطال آسيا 2 عام 2025؟|Who coached Sharjah to the 2025 AFC Champions League Two title?|كوزمين أولاريو|Cosmin Olaroiu
+110|acl:2015:final-opponent|asia|ahliFinal|أي فريق صيني واجه الأهلي الإماراتي في نهائي دوري أبطال آسيا 2015؟|Which Chinese club faced UAE club Al Ahli in the 2015 AFC Champions League final?|غوانغجو إيفرغراند|Guangzhou Evergrande
+111|acl:2016:final-opponent|asia|omarAclMvp|أي نادٍ كوري واجه العين في نهائي دوري أبطال آسيا 2016؟|Which Korean club faced Al Ain in the 2016 AFC Champions League final?|جيونبوك هيونداي موتورز|Jeonbuk Hyundai Motors
+112|acl-two:2025:final-opponent|asia|sharjahFinal|أي نادٍ سنغافوري واجهه الشارقة في نهائي دوري أبطال آسيا 2 عام 2025؟|Which Singapore club faced Sharjah in the 2025 AFC Champions League Two final?|ليون سيتي سيلرز|Lion City Sailors
+113|acl-two:2025:final-winning-scorer|players|sharjahFinal|من سجل هدف تتويج الشارقة في الوقت المحتسب بدل الضائع بنهائي آسيا 2 عام 2025؟|Who scored Sharjah's stoppage-time winner in the 2025 Champions League Two final?|ماركوس ميلوني|Marcus Meloni
+114|acl:2024:final-opponent|asia|acl2024|من واجه العين في نهائي دوري أبطال آسيا 2023-2024؟|Who faced Al Ain in the 2023-24 AFC Champions League final?|يوكوهاما إف مارينوس|Yokohama F. Marinos
+115|acl:2024:final-second-leg-score|asia|acl2024|بأي نتيجة فاز العين في إياب نهائي دوري أبطال آسيا 2024؟|By what score did Al Ain win the second leg of the 2024 AFC Champions League final?|5-1|5-1
+116|acl:2024:rahimi-goals|records|rahimiAwards|كم هدفاً سجل سفيان رحيمي في دوري أبطال آسيا 2023-2024؟|How many goals did Soufiane Rahimi score in the 2023-24 AFC Champions League?|13 هدفاً|13 goals
+117|acl:2014:gyan-goals|records|gyanAward|كم هدفاً سجل أسامواه جيان للعين في دوري أبطال آسيا 2014؟|How many goals did Asamoah Gyan score for Al Ain in the 2014 AFC Champions League?|12 هدفاً|12 goals
+118|gyan:2016:loan-origin|players|gyanLoan|من أي نادٍ صيني انتقل جيان إلى الأهلي الإماراتي بالإعارة في 2016؟|From which Chinese club did Gyan join UAE club Al Ahli on loan in 2016?|شنغهاي سيبغ|Shanghai SIPG
+119|club-world-cup:2018:final-opponent|asia|ainCwcFinal|أي نادٍ واجه العين في نهائي كأس العالم للأندية 2018؟|Which club faced Al Ain in the 2018 Club World Cup final?|ريال مدريد|Real Madrid
+120|club-world-cup:2018:semi-opponent|asia|ainCwcSemi|أي نادٍ أرجنتيني أقصاه العين ليصل إلى نهائي كأس العالم للأندية 2018؟|Which Argentine club did Al Ain eliminate to reach the 2018 Club World Cup final?|ريفر بليت|River Plate
+121|club-world-cup:2017:madrid-jazira-scorer|players|jaziraCwcFifa|من سجل هدف تقدم الجزيرة على ريال مدريد في كأس العالم للأندية 2017؟|Who put Al Jazira ahead against Real Madrid at the 2017 Club World Cup?|رومارينيو|Romarinho
+122|league-cup:2020:champion|domestic|cupHonours|أي نادٍ أحرز كأس الرابطة الإماراتية عام 2020؟|Which club won the UAE League Cup in 2020?|النصر|Al Nasr
+123|league-cup:2023:champion|domestic|cupHonours|أي نادٍ فاز بكأس مصرف أبوظبي الإسلامي عام 2023؟|Which club won the ADIB Cup in 2023?|الشارقة|Sharjah
+124|presidents-cup:2021-22:final-opponent|domestic|sharjahCup2022|من واجه الشارقة في نهائي كأس رئيس الدولة موسم 2021-2022؟|Who faced Sharjah in the 2021-22 President's Cup final?|الوحدة|Al Wahda
+125|al-shabab:home:stadium|history|shababHistory|ما اسم ملعب نادي الشباب في دبي قبل اندماجه في شباب الأهلي؟|What was Dubai club Al Shabab's home stadium before the Shabab Al Ahli merger?|استاد مكتوم بن راشد آل مكتوم|Maktoum bin Rashid Al Maktoum Stadium
+126|al-shabab:2011:coach|coaches|shababHistory|من المدرب البرازيلي الذي قاد الشباب إلى لقبي كأس الخليج للأندية وكأس الرابطة في 2011؟|Which Brazilian coach led Al Shabab to the GCC Club Championship and League Cup titles in 2011?|باولو بوناميغو|Paulo Bonamigo
+127|villanueva:nationality|players|shababHistory|أي منتخب كان يمثله كارلوس فيلانويفا، نجم الشباب السابق؟|Which national team did former Al Shabab star Carlos Villanueva represent?|تشيلي|Chile
+128|al-wahda:formation:year|history|wahdaHistory|في أي عام اندمج ناديا الإمارات وأبوظبي لتشكيل نادي الوحدة الحالي؟|In which year did Emirates and Abu Dhabi clubs merge to form the present Al Wahda club?|1984|1984
+129|al-nasr:stadium:opening-year|history|nasrHistory|في أي عام افتتح استاد آل مكتوم التابع لنادي النصر؟|In which year did Al Nasr's Al Maktoum Stadium open?|1978|1978
+130|al-wasl:first-league:season|domestic|waslHistory|في أي موسم نال الوصل أول لقب دوري له؟|In which season did Al Wasl win their first league title?|1981-1982|1981-82
+131|u19:2008:quarter-final-scorer|youth|awana|من سجل هدف الإمارات أمام السعودية في ربع نهائي آسيا للشباب 2008؟|Who scored the UAE's goal against Saudi Arabia in the 2008 AFC U-19 quarter-final?|ذياب عوانة|Theyab Awana
+132|club-world-cup:2017:jazira-coach|coaches|jaziraCwcFifa|من المدرب الهولندي الذي قاد الجزيرة في كأس العالم للأندية 2017؟|Which Dutch coach led Al Jazira at the 2017 Club World Cup?|هينك تين كات|Henk ten Cate
+133|club-world-cup:2017:quarter-scorer|players|jaziraCwcFifa|من سجل هدف الجزيرة أمام أوراوا ريد دايموندز في كأس العالم للأندية 2017؟|Who scored Al Jazira's goal against Urawa Red Diamonds at the 2017 Club World Cup?|علي مبخوت|Ali Mabkhout
+134|club-world-cup:2018:ain-coach|coaches|ainCwcSemi|من كان مدرب العين عندما وصل إلى نهائي كأس العالم للأندية 2018؟|Who coached Al Ain when they reached the 2018 Club World Cup final?|زوران ماميتش|Zoran Mamic
+135|acl:2003:ain-coach|coaches|metsuWasl|من المدرب الفرنسي الذي قاد العين إلى لقب دوري أبطال آسيا 2003؟|Which French coach led Al Ain to the 2003 AFC Champions League title?|برونو ميتسو|Bruno Metsu
+136|gyan:2011:english-origin|players|gyanLoan|من أي نادٍ إنجليزي انضم أسامواه جيان إلى العين في 2011؟|From which English club did Asamoah Gyan join Al Ain in 2011?|سندرلاند|Sunderland
+

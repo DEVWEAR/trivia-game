@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|geography:capital:identity|topography|ما عاصمة دولة الكويت؟|What is the capital of Kuwait?|مدينة الكويت|Kuwait City
+002|currency:unit:identity|currency|ما العملة الرسمية في الكويت؟|What is Kuwait's official currency?|الدينار الكويتي|The Kuwaiti dinar
+003|science:kfas:identity|kfas|ما اسم المؤسسة الكويتية التي أُنشئت لدعم التقدم العلمي عام 1976؟|Which Kuwaiti foundation was established in 1976 to support scientific advancement?|مؤسسة الكويت للتقدم العلمي|Kuwait Foundation for the Advancement of Sciences
+004|state:dynasty:family|constitution|ما اسم الأسرة التي يحكم أحفاد مبارك منها الكويت وفق دستور 1962؟|Which family do Mubarak's descendants ruling Kuwait belong to under the 1962 Constitution?|آل صباح|Al Sabah
+005|holiday:national:date|history|في أي يوم من فبراير تحتفل الكويت بعيدها الوطني؟|On which February date does Kuwait celebrate National Day?|25 فبراير|25 February
+006|holiday:liberation:date|democracy|متى تحتفل الكويت بيوم التحرير؟|On what date does Kuwait celebrate Liberation Day?|26 فبراير|26 February
+007|geography:coast:sea|geography|على أي خليج تطل الكويت؟|Which gulf does Kuwait overlook?|الخليج العربي|The Arabian Gulf
+008|geography:border:north|geography|أي دولة تحد الكويت من الشمال والشمال الغربي؟|Which country borders Kuwait to the north and northwest?|العراق|Iraq
+009|geography:border:south|geography|أي دولة تحد الكويت من الجنوب والجنوب الغربي؟|Which country borders Kuwait to the south and southwest?|السعودية|Saudi Arabia
+010|island:bubiyan:size|topography|ما أكبر جزيرة كويتية؟|What is Kuwait's largest island?|بوبيان|Bubiyan
+011|state:telephone:code|factsheet|ما رمز الاتصال الدولي للكويت؟|What is Kuwait's international telephone code?|+965|+965
+012|flag:lowerstripe:colour|factsheet|ما لون الشريط الأفقي السفلي في علم الكويت؟|What colour is the bottom horizontal stripe of Kuwait's flag?|الأحمر|Red
+013|currency:banknotes:minimum|currency|ما أصغر فئة من الأوراق النقدية الكويتية؟|What is the smallest denomination of Kuwaiti banknotes?|ربع دينار|A quarter dinar
+014|emblem:ship:type|factsheet|ما نوع السفينة الذي يظهر داخل الدائرة في شعار الكويت؟|What type of ship appears inside the circle in Kuwait's coat of arms?|سفينة شراعية خشبية|A wooden sailing dhow
+015|governorate:airport:location|topography|في أي محافظة يقع مطار الكويت الدولي؟|In which governorate is Kuwait International Airport?|الفروانية|Farwaniya
+016|administration:governorates:count|topography|إلى كم محافظة تنقسم الكويت؟|Into how many governorates is Kuwait divided?|ست محافظات|Six governorates
+017|oil:discovery:field|oil|في أي حقل اكتُشف النفط تجارياً في الكويت عام 1938؟|In which field was oil commercially discovered in Kuwait in 1938?|برقان|Burgan
+018|governorate:ahmadi:economy|topography|أي محافظة كويتية تحمل اسم أحمد الجابر وتشتهر بحقول النفط؟|Which Kuwaiti governorate is named after Ahmad Al-Jaber and known for oil fields?|الأحمدي|Ahmadi
+019|towers:middle:function|towers|ما الوظيفة الأساسية للبرج الأوسط من أبراج الكويت؟|What is the main function of the middle Kuwait Tower?|تخزين المياه|Water storage
+020|palace:red:city|museums|في أي مدينة كويتية يوجد القصر الأحمر التاريخي؟|In which Kuwaiti city is the historic Red Palace?|الجهراء|Jahra
+021|park:shaheed:identity|attractions|ما الحديقة الكويتية التي تضم متحفين وحدائق نباتية وبحيرة في العاصمة؟|Which park in Kuwait's capital contains two museums, botanical gardens and a lake?|حديقة الشهيد|Al Shaheed Park
+022|island:green:construction|attractions|الجزيرة الخضراء على الواجهة البحرية الكويتية طبيعية أم اصطناعية؟|Is Kuwait's waterfront Green Island natural or artificial?|اصطناعية|Artificial
+023|zoo:site:district|attractions|في أي منطقة تقع حديقة حيوان الكويت؟|In which district is Kuwait Zoo?|العمرية|Omariya
+024|museum:othman:district|museums|في أي منطقة كويتية يقع متحف بيت العثمان؟|In which Kuwaiti district is Bait Al-Othman Museum?|حولي|Hawalli
+025|shopping:avenues:district|avenues|في أي منطقة يقع مجمع الأفنيوز في الكويت؟|In which district is Kuwait's Avenues mall?|الري|Al Rai
+026|science:centre:cinema|scientific|ما نظام السينما الذي يشتهر به المركز العلمي في الكويت بشاشته الكبيرة؟|Which large-screen cinema system is an attraction at Kuwait's Scientific Center?|آي ماكس (IMAX)|IMAX
+027|education:mubarakiya:identity|school|ما اسم أول مدرسة نظامية افتُتحت في الكويت عام 1911؟|What was Kuwait's first formal school, opened in 1911, called?|المدرسة المباركية|Al-Mubarakiya School
+028|football:national:nickname|asiacupar|ما اللقب الشهير لمنتخب الكويت لكرة القدم؟|What is the Kuwait national football team's famous nickname?|الأزرق|Al-Azraq (The Blues)
+029|football:asian:titleyear|asiacup|في أي عام فاز الأزرق بكأس آسيا لكرة القدم؟|In which year did Al-Azraq win the AFC Asian Cup?|1980|1980
+030|football:worldcup:firstscorer|worldcup|من سجّل أول هدف للكويت في كأس العالم لكرة القدم؟|Who scored Kuwait's first FIFA World Cup goal?|فيصل الدخيل|Faisal Al-Dakhil
+031|shooting:rio:goldmedallist|deehani|من الرامي الكويتي الذي أحرز ذهبية الدبل تراب في أولمبياد ريو 2016؟|Which Kuwaiti shooter won men's double trap gold at Rio 2016?|فهيد الديحاني|Fehaid Al-Deehani
+032|astronomy:ujairy:field|ujairy|في أي علم اشتهر العالم الكويتي صالح العجيري؟|In which science was Kuwait's Saleh Al-Ujairy renowned?|علم الفلك|Astronomy
+033|music:nabeel:nickname|nabeel|أي مطرب كويتي يُلقب بـ«بلبل الخليج»؟|Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?|نبيل شعيل|Nabeel Shuail
+034|cinema:firstfeature:title|cinema|ما اسم أول فيلم روائي طويل في السينما الكويتية؟|What is the title of Kuwait's first feature film?|بس يا بحر|Bas Ya Bahr (The Cruel Sea)
+035|cinema:basya:director|cinema|من أخرج الفيلم الكويتي «بس يا بحر»؟|Who directed the Kuwaiti film Bas Ya Bahr?|خالد الصديق|Khalid Al-Siddiq
+036|food:ogaily:flavour|culinary|ما التابل الذهبي الذي يلوّن قرص عقيلي ويمنحه نكهته المميزة؟|Which golden spice colours Gers Ogaily and gives it its distinctive flavour?|الزعفران|Saffron
+037|food:gabout:identity|culinary|ما اسم الطبق الكويتي الذي توضع فيه قطع عجين محشوة داخل مرق اللحم؟|What is the Kuwaiti dish with stuffed dough dumplings in a meat stew called?|القبوط|Gabout
+038|food:tashreeb:base|culinary|ما المكوّن الذي يُنقع بالمرق في التشريب الكويتي؟|Which ingredient is soaked in broth in Kuwaiti tashreeb?|الخبز|Bread
+039|food:ogaily:category|culinary|«قرص عقيلي» من الحلويات الكويتية؛ ما نوعه؟|Gers Ogaily is a Kuwaiti sweet; what type of dessert is it?|كعكة إسفنجية|A sponge cake
+040|diwaniya:social:identity|diwaniya|ما اسم التجمع الاجتماعي الكويتي الذي يناقش فيه الأصدقاء والجيران شؤون المجتمع؟|What is the Kuwaiti social gathering where friends and neighbours discuss community matters called?|الديوانية|Diwaniya
+041|custom:noon:milestone|customs|ما المناسبة المرتبطة بالطفل التي يحتفل بها الكويتيون في عادة «النون»؟|What childhood milestone do Kuwaitis celebrate in the Al-Noon custom?|ظهور أول الأسنان أو الخطوات الأولى|First teeth or first steps
+042|custom:harees:preparation|customs|لأي شهر تُجهّز الأسر الكويتية القمح في مناسبة «دق الهريس»؟|For which month do Kuwaiti families prepare wheat during Daq Al-Harees?|رمضان|Ramadan
+043|craft:saduhouse:neighbour|museums|بجوار أي متحف كويتي يقع بيت السدو على شارع الخليج العربي؟|Beside which museum does Sadu House stand on Arabian Gulf Street?|متحف الكويت الوطني|Kuwait National Museum
+044|art:mirror:material|mirror|بأي مادة زُيّنت فسيفساء بيت الفنانين خليفة وليديا القطان؟|What material decorates the mosaics in Khalifa and Lidia Qattan's house?|قطع المرايا|Mirror pieces
+045|museum:rajab:artfield|rajab|ما الفن العربي الذي يتخصص فيه المتحف الثاني لطارق رجب؟|Which Arabic art is the focus of Tareq Rajab's second museum?|الخط العربي|Arabic calligraphy
+046|culture:dai:collection|dai|ما اسم المجموعة الفنية التي تديرها دار الآثار الإسلامية في الكويت؟|What is the art collection managed by Kuwait's Dar al-Athar al-Islamiyyah called?|مجموعة الصباح|The al-Sabah Collection
+047|museum:habitat:theme|shaheed|ما موضوع متحف الموطن في حديقة الشهيد؟|What is the theme of the Habitat Museum in Al Shaheed Park?|البيئات الطبيعية في الكويت|Kuwait's natural habitats
+048|museum:memorial:theme|shaheed|أي جانب من الكويت يرويه متحف الذكرى في حديقة الشهيد؟|Which aspect of Kuwait does Al Shaheed Park's Memorial Museum recount?|التاريخ وتضحيات من خدموا الوطن|History and the sacrifices of those who served the nation
+049|university:campus:district|university|في أي منطقة تقع مدينة صباح السالم الجامعية؟|In which district is Sabah Al-Salem University City?|الشدادية|Al Shadadiya
+050|independence:ruler:identity|history|أي أمير كويتي ارتبط اسمه بالاستقلال ودستور 1962؟|Which Kuwaiti Amir is associated with independence and the 1962 Constitution?|الشيخ عبدالله السالم الصباح|Sheikh Abdullah Al-Salem Al-Sabah
+051|history:name:diminutive|democracy|اسم «الكويت» تصغير أي كلمة كانت تعني حصناً صغيراً؟|Kuwait is the diminutive of which word meaning a small fort?|كوت|Kout
+052|island:failaka:rank|topography|ما ثاني أكبر جزيرة في الكويت بعد بوبيان؟|What is Kuwait's second-largest island after Bubiyan?|فيلكا|Failaka
+053|island:warbah:position|topography|ما أقصى الجزر الكويتية شمالاً؟|What is Kuwait's northernmost island?|وربة|Warbah
+054|island:ummaradim:position|topography|ما أقصى الجزر الكويتية جنوباً؟|What is Kuwait's southernmost island?|أم المرادم|Umm Al-Maradim
+055|governorate:jahra:largest|topographyen|ما أكبر محافظات الكويت مساحةً؟|Which Kuwaiti governorate is largest by area?|الجهراء|Jahra
+056|towers:main:lookout|towers|ما الذي تقدمه الكرة الصغيرة في البرج الرئيسي من أبراج الكويت للزوار؟|What does the small sphere in the main Kuwait Tower offer visitors?|إطلالة بانورامية على المدينة والخليج|A panoramic view of the city and Gulf
+057|architecture:jacc:inspiration|jaccarchitecture|من أي عمارة استُلهمت الأشكال الهندسية لواجهات مركز الشيخ جابر الأحمد الثقافي؟|Which architectural tradition inspired the geometric façades of Sheikh Jaber Al-Ahmad Cultural Centre?|العمارة الإسلامية|Islamic architecture
+058|press:arabi:identity|arabi|ما المجلة الثقافية الكويتية التي صدر عددها الأول في ديسمبر 1958؟|Which Kuwaiti cultural magazine published its first issue in December 1958?|العربي|Al-Arabi
+059|aviation:carrier:identity|aviation|ما اسم الناقلة الوطنية الكويتية التي بدأت مسيرتها باسم «الكويت الوطنية للطيران»؟|What is the national carrier that began as Kuwait National Airways called today?|الخطوط الجوية الكويتية|Kuwait Airways
+060|food:qouzi:meat|culinary|أي لحم يُحشى بالأرز في طبق القوزي الذي يصفه الدليل الكويتي لجمعية الطهاة؟|Which meat is stuffed with rice in qouzi as described in the culinary association's Kuwait guide?|لحم الضأن|Lamb
+061|music:shadi:stagename|shadi|ما الاسم الفني للمطرب الكويتي عبدالعزيز المفرج؟|What is Kuwaiti singer Abdulaziz Al-Mufarrej's stage name?|شادي الخليج|Shadi Al-Khaleej
+062|games:sherouka:activity|customs|ماذا كانت البنات تُحضّرن لدمى العرائس في لعبة «الشروكة» الكويتية؟|What did girls prepare for their dolls in Kuwait's Sherouka game?|وليمة عرس|A wedding feast
+063|history:liberation:year|democracy|في أي عام تحررت الكويت من الاحتلال العراقي؟|In which year was Kuwait liberated from Iraqi occupation?|1991|1991
+064|football:1980final:opponent|asiacup|أي منتخب هزمته الكويت في نهائي كأس آسيا 1980؟|Which team did Kuwait defeat in the 1980 AFC Asian Cup final?|كوريا الجنوبية|Korea Republic (South Korea)
+065|state:time:offset|factsheet|توقيت الكويت يسبق غرينتش بكم ساعة؟|How many hours ahead of GMT is Kuwait?|ثلاث ساعات|Three hours
+066|flag:hoist:shape|factsheet|ما شكل الجزء الأسود عند سارية علم الكويت؟|What shape is the black part beside the hoist of Kuwait's flag?|شبه منحرف|A trapezium
+067|aviation:airport:code|airportcode|ما رمز مطار الكويت الدولي المكوّن من ثلاثة أحرف؟|What is Kuwait International Airport's three-letter code?|KWI|KWI
+068|constitution:religion:identity|constitution|ما دين الدولة في نص دستور الكويت الصادر عام 1962؟|What is the state religion in Kuwait's 1962 Constitution?|الإسلام|Islam

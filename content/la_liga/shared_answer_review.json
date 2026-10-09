@@ -1,0 +1,74 @@
+[
+  {
+    "pair": "la_liga_v2_012/kuwait_general_v2_012",
+    "qA": "What is the main colour of Osasuna's traditional shirt?",
+    "qB": "What colour is the bottom horizontal stripe of Kuwait's flag?",
+    "answer": "Red",
+    "decision": "distinct",
+    "reason": "Osasuna kit colour versus Kuwait flag stripe."
+  },
+  {
+    "pair": "la_liga_v2_030/kuwait_general_v2_101",
+    "qA": "What colour is the distinctive horizontal stripe on Elche's white shirt?",
+    "qB": "What colour is the garment or scarf worn by the bride in Kuwait's Jalwa custom?",
+    "answer": "Green",
+    "decision": "distinct",
+    "reason": "Elche kit stripe versus Kuwaiti wedding garment."
+  },
+  {
+    "pair": "la_liga_v2_030/saudi_general_v2_006",
+    "qA": "What colour is the distinctive horizontal stripe on Elche's white shirt?",
+    "qB": "What is the background color of the Saudi flag?",
+    "answer": "Green",
+    "decision": "distinct",
+    "reason": "Elche kit stripe versus Saudi flag background."
+  },
+  {
+    "pair": "la_liga_v2_022/uae_pro_league_v2_126",
+    "qA": "From which French club did Karim Benzema join Real Madrid in 2009?",
+    "qB": "Which French club took Hamdan Al Kamali on loan from Al Wahda in 2012?",
+    "answer": "Olympique Lyonnais",
+    "decision": "distinct",
+    "reason": "Benzema permanent Madrid transfer versus Hamdan Al Kamali Lyon loan."
+  },
+  {
+    "pair": "la_liga_v2_035/uae_pro_league_v2_030",
+    "qA": "Which country is Real Madrid legend Ferenc Puskas from?",
+    "qB": "Which European national team did Balazs Dzsudzsak, who played for Al Wahda, captain?",
+    "answer": "Hungary",
+    "decision": "distinct",
+    "reason": "Puskas nationality versus Dzsudzsak national-team captaincy."
+  },
+  {
+    "pair": "la_liga_v2_108/uae_pro_league_v2_155",
+    "qA": "Which club did Youssef En-Nesyri join from Malaga in 2018 before later moving to Sevilla?",
+    "qB": "From which Spanish club did Renato Tapia join Al Wasl in summer 2025?",
+    "answer": "Leganes",
+    "decision": "distinct",
+    "reason": "En-Nesyri 2018 destination versus Tapia 2025 origin."
+  },
+  {
+    "pair": "la_liga_v2_197/uae_pro_league_v2_091",
+    "qA": "Who scored all four Sevilla goals in its 4–3 win over Valencia, in his last game for the club in June 2013?",
+    "qB": "Who opened the scoring for Al Nasr within seconds in the 2020 League Cup final against Shabab Al Ahli?",
+    "answer": "Alvaro Negredo",
+    "decision": "distinct",
+    "reason": "Negredo four-goal Sevilla farewell in 2013 versus Al Nasr UAE Cup opener 2020."
+  },
+  {
+    "pair": "la_liga_v2_038/premier_league_v2_043",
+    "qA": "Which Arab national team did Valencia star Sofiane Feghouli represent?",
+    "qB": "Which Arab national team does Riyad Mahrez represent, the Premier League champion with Leicester and Manchester City?",
+    "answer": "Algeria",
+    "decision": "distinct",
+    "reason": "Feghouli national team versus different player Mahrez."
+  },
+  {
+    "pair": "la_liga_v2_056/premier_league_v2_016",
+    "qA": "Who coached Real Madrid in its historic 100-point La Liga season of 2011–12?",
+    "qB": "Which Portuguese Chelsea manager described himself as the Special One?",
+    "answer": "Jose Mourinho",
+    "decision": "distinct",
+    "reason": "Mourinho Madrid 2012 title versus Chelsea Special One nickname."
+  }
+]

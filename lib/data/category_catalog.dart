@@ -67,7 +67,6 @@ const triviaCategories = <TriviaCategory>[
   TriviaCategory(id: 'american_cars', emoji: '🇺🇸', ar: 'سيارات أمريكية', en: 'American Cars', group: 'cars'),
   TriviaCategory(id: 'supercars', emoji: '🏎️', ar: 'سوبر كار', en: 'Supercars', group: 'cars'),
   TriviaCategory(id: 'classic_cars', emoji: '🛞', ar: 'سيارات كلاسيكية', en: 'Classic Cars', group: 'cars'),
-  TriviaCategory(id: 'car_logos', emoji: '🔰', ar: 'شعارات السيارات', en: 'Car Logos', group: 'cars'),
 
   // General interests
   TriviaCategory(id: 'general_knowledge', emoji: '💡', ar: 'معلومات عامة', en: 'General Knowledge', group: 'general'),

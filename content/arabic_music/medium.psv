@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+069|song:nassamalayna:composers|nassam|من الثنائي الذي لحّن أغنية فيروز «نسم علينا الهوى»؟|Which duo composed Fairuz's Nassam Alayna El Hawa?|عاصي ومنصور الرحباني|Assi and Mansour Rahbani
+070|song:saalounyelnas:composer|saalouny|من لحّن أغنية فيروز «سألوني الناس»؟|Who composed Fairuz's Saalouny El Nas?|زياد الرحباني|Ziad Rahbani
+071|song:ghabetshamselhaq:composer|ghabet|من لحّن أغنية جوليا بطرس «غابت شمس الحق»؟|Who composed Julia Boutros's Ghabet Shams El Haq?|زياد بطرس|Ziad Boutros
+072|song:aabalihabibi:album|aabali|في أي ألبوم لإليسا صدرت أغنية «ع بالي حبيبي»؟|On which Elissa album was Aa Bali Habibi released?|تصدق بمين|Tesadaa Bemeen
+073|song:intaeih:composer|intaeih|من لحّن أغنية نانسي عجرم «إنت إيه»؟|Who composed Nancy Ajram's Inta Eih?|سمير صفير|Samir Sfeir
+074|song:nasinieldonya:album|nasini|في أي ألبوم لراغب علامة صدرت أغنية «نسيني الدنيا»؟|On which Ragheb Alama album was Nasini El Donya released?|الحب الكبير|El Hob El Kebir
+075|song:youmwarayoum:composer|youmwara|من لحّن دويتو سميرة سعيد والشاب مامي «يوم ورا يوم»؟|Who composed Samira Said and Cheb Mami's Youm Wara Youm duet?|عمرو مصطفى|Amr Mostafa
+076|song:kalimat:poet|kalimat|من الشاعر الذي كتب قصيدة ماجدة الرومي «كلمات»؟|Which poet wrote Kalimat, performed by Majida El Roumi?|نزار قباني|Nizar Qabbani
+077|song:kalimat:composer|kalimat|من لحّن ووزّع أغنية ماجدة الرومي «كلمات»؟|Who composed and arranged Majida El Roumi's Kalimat?|إحسان المنذر|Ihsan El Monzer
+078|album:bluemaqams:label|bluemaqams|ما شركة التسجيلات التي أصدرت ألبوم أنور براهم «بلو مقامات» عام 2017؟|Which record label released Anouar Brahem's Blue Maqams in 2017?|إي سي إم|ECM
+079|heritage:iraqimaqam:inscriptionyear|iraqimaqam|في أي عام أُدرج المقام العراقي على قائمة اليونسكو التمثيلية للتراث الثقافي غير المادي؟|In which year was Iraqi Maqam inscribed on UNESCO's Representative List of Intangible Cultural Heritage?|2008|2008
+080|heritage:qudoud:inscriptionyear|qudoud|في أي عام أُدرجت القدود الحلبية على قائمة اليونسكو التمثيلية للتراث الثقافي غير المادي؟|In which year was Al-Qudoud al-Halabiya inscribed on UNESCO's Representative List of Intangible Cultural Heritage?|2021|2021
+081|institution:rachidia:foundingyear|rachidia|في أي عام تأسست الجمعية التي أصبحت تُعرف بالرشيدية للموسيقى التونسية؟|In which year was the association later known as the Rachidia for Tunisian music founded?|1934|1934
+082|song:waedmenni:composer|waed|من لحّن أغنية رحمة رياض «وعد مني»؟|Who composed Rahma Riad's Waed Menni?|علي صابر|Ali Saber
+083|song:michamtezbat:composer|mich|من لحّن أغنية ناصيف زيتون «مش عم تظبط معي»؟|Who composed Nassif Zeytoun's Mich Aam Tezbat Maii?|فضل سليمان|Fadel Sleiman
+084|song:dalliedhaki:album|dalli|في أي ألبوم لملحم زين صدرت أغنية «ضلي اضحكي»؟|On which Melhem Zein album was Dalli Edhaki released?|الجرح اللي بعده|El Jereh Elli Badou
+085|song:madareet:arranger|saifnews|من تولّى توزيع أغنية سيف نبيل «ما دريت»؟|Who arranged Saif Nabeel's Ma Dareet?|حسين سامح|Hussein Sameh
+086|song:kalamelnas:composer|kalam|من لحّن أغنية جورج وسوف «كلام الناس»؟|Who composed George Wassouf's Kalam El Nas?|صلاح الشرنوبي|Salah El Sharnouby
+087|song:saharni:writercomposer|saharnicredits|من كتب ولحّن أغنية نجوى كرم «سحرني»؟|Who both wrote and composed Najwa Karam's Saharni?|وسام الأمير|Wissam El Amir
+088|song:aaljanibaadyoumein:composer|samiraretro|من لحّن أغنية سميرة سعيد «قال جاني بعد يومين»؟|Who composed Samira Said's Aal Gani Baad Youmein?|جمال سلامة|Gamal Salama
+089|album:souad:secondalbum|souadbio|ما اسم ألبوم سعاد ماسي الثاني الصادر عام 2003؟|What is the title of Souad Massi's second album, released in 2003?|داب|Deb
+090|song:kelmtihorra:writer|kelmtihorra|من الشاعر التونسي الذي كتب «كلمتي حرة» التي غنّتها آمال المثلوثي؟|Which Tunisian poet wrote Kelmti Horra, performed by Emel Mathlouthi?|أمين الغزي|Amine Al Ghozzi
+091|song:yabaniummi:poet|zakiaub|على نصوص أي أديب استندت أغنية فيروز «يا بني أمي»؟|Which writer's texts formed the basis of Fairuz's Ya Bani Ummi?|جبران خليل جبران|Gibran Khalil Gibran
+092|artist:zakinassif:musicuniversity|zakiaub|في أي جامعة بدأ زكي ناصيف دراسته الموسيقية عام 1936؟|At which university did Zaki Nassif begin his music studies in 1936?|الجامعة الأمريكية في بيروت|American University of Beirut
+093|song:rajehyetaamar:writercomposer|zakiaub|من كتب ولحّن الأغنية الوطنية «راجع يتعمر لبنان»؟|Who wrote and composed the patriotic song Raje'h Yit'Ammar Loubnan?|زكي ناصيف|Zaki Nassif
+094|song:labidayiwalanihayi:originalsong|labidayi|من أي أغنية عالمية اقتُبس لحن «لا بداية ولا نهاية» لهبة طوجي؟|Which international song supplied the melody for Hiba Tawaji's La Bidayi Wala Nihayi?|ذا ويندميلز أوف يور مايند|The Windmills of Your Mind
+095|song:labidayiwalanihayi:orchestrator|labidayi|من أعدّ «لا بداية ولا نهاية» لهبة طوجي موسيقيًا ووزّعها أوركستراليًا؟|Who musically adapted and orchestrated La Bidayi Wala Nihayi for Hiba Tawaji?|أسامة الرحباني|Oussama Rahbani
+096|song:kelelqasayed:writercomposer|qasayed|من كتب ولحّن أغنية «كل القصايد»؟|Who wrote and composed Kel El Qasayed?|مروان خوري|Marwan Khoury
+097|song:kheleseldamaa:album|kheles|في أي ألبوم لآدم صدرت أغنية «خلص الدمع»؟|On which Adam album was Kheles El Dame'a released?|هيدا أنا|Hatha Ana
+098|song:omrikellou:composer|omri|من لحّن أغنية وائل كفوري «عمري كلو»؟|Who composed Wael Kfoury's Omri Kellou?|طارق أبو جودة|Tarek Abou Jaoude
+099|song:ellayali:composer|nawallayali|من لحّن أغنية نوال الزغبي «الليالي»؟|Who composed Nawal El Zoghbi's El Layali?|محمد رحيم|Mohammed Rahim
+100|song:aatenielnay:poet|aateni|من الشاعر الذي كتب «أعطني الناي وغنّ» التي غنّتها فيروز؟|Which poet wrote Aateny El Nay Wa Ghanni, performed by Fairuz?|جبران خليل جبران|Gibran Khalil Gibran
+101|song:etazaltelgharam:composer|etazalt|من لحّن أغنية ماجدة الرومي «اعتزلت الغرام»؟|Who composed Majida El Roumi's Etazalt El Gharam?|ملحم بركات|Melhem Barakat
+102|song:majbour:composer|majbour|من لحّن أغنية ناصيف زيتون «مجبور»؟|Who composed Nassif Zeytoun's Majbour?|فضل سليمان|Fadel Sleiman
+103|song:mabzon:composer|mabzon|من لحّن أغنية ناصيف زيتون «ما بظن»؟|Who composed Nassif Zeytoun's Ma Bzon?|سليم سلامة|Salim Salameh
+104|heritage:gnawa:inscriptionyear|gnawa|في أي عام أُدرجت الغناوة على قائمة اليونسكو التمثيلية للتراث الثقافي غير المادي؟|In which year was Gnawa inscribed on UNESCO's Representative List of Intangible Cultural Heritage?|2019|2019
+105|heritage:rai:inscriptionyear|rai|في أي عام أُدرج غناء الراي الجزائري على قائمة اليونسكو التمثيلية للتراث الثقافي غير المادي؟|In which year was Algeria's Rai singing inscribed on UNESCO's Representative List of Intangible Cultural Heritage?|2022|2022
+106|band:nasselghiwane:foundingyear|nasshistory|في أي عام تأسست فرقة «ناس الغيوان» رسميًا؟|In which year was Nass El Ghiwane officially founded?|1971|1971
+107|artist:malouma:traditionalinstrument|maloumabio|ما الآلة الوترية التقليدية التي تعلّمت معلومة بنت الميداح العزف عليها في صغرها؟|Which traditional string instrument did Malouma Mint El Meidah learn to play in her youth?|الأردين|Ardin
+108|heritage:mauritania:singingterm|maloumabio|ما الاسم المحلي للغناء التقليدي الموريتاني الذي نشأت عليه معلومة بنت الميداح؟|What is the local name for the traditional Mauritanian singing in which Malouma Mint El Meidah grew up?|الهول|Hawl
+109|song:didi:writercomposer|didi|من كتب ولحّن أغنية «ديدي»؟|Who wrote and composed Didi?|الشاب خالد|Khaled
+110|song:yarayah:originalwritercomposer|yarayah|من كتب ولحّن أغنية «يا الرايح» التي أعاد رشيد طه غناءها؟|Who wrote and composed Ya Rayah, later covered by Rachid Taha?|دحمان الحراشي|Dahmane El Harrachi
+111|artist:idir:stagename|khaledbio|بأي اسم فني اشتهر المطرب القبائلي حميد شريّت؟|By which stage name is the Kabyle singer Hamid Cheriet known?|إيدير|Idir
+112|song:ghirenta:album|ghir|في أي ألبوم لسعاد ماسي صدرت أغنية «غير إنت»؟|On which Souad Massi album was Ghir Enta released?|داب|Deb
+113|song:aicha:composer|aicha|من لحّن أغنية الشاب خالد «عائشة»؟|Who composed Khaled's Aicha?|جان جاك غولدمان|Jean-Jacques Goldman
+114|song:hafla:composer|hafla|من لحّن أغنية نوال الزغبي «حفلة»؟|Who composed Nawal El Zoghbi's Hafla?|أحمد زعيم|Ahmed Zaeem
+115|song:yelaan:composer|yelaan|من كتب ولحّن أغنية «يلعن البعد» لنجوى كرم؟|Who wrote both the lyrics and music for Najwa Karam's Yelaan El Boed?|إيفان نصوح|Ivan Nassouh
+116|song:estimara:composer|estimara|من لحّن أغنية راغب علامة «استمارة 6»؟|Who composed Ragheb Alama's Estimara 6?|محمود الخيامي|Mahmoud El Khayamy
+117|song:sahsah:composer|sahsah|من لحّن أغنية نانسي عجرم «صح صح»؟|Who composed Nancy Ajram's Sah Sah?|مودي سعيد|Moudi Saeed
+118|song:walafi:composer|walafi|من لحّن أغنية وائل جسار «ولا في الأحلام»؟|Who composed Wael Jassar's Wala Fi El Ahlam?|أحمد زعيم|Ahmed Zaeem
+119|song:matgheebsh:composer|matgheebsh|من لحّن أغنية وائل جسار «ما تغيبش ثواني»؟|Who composed Wael Jassar's Ma Tgheebsh Sawani?|وليد سعد|Walid Saad
+120|song:kon:composer|kon|من الملحنان اللذان اشتركا في تلحين «كون» لجوزيف عطية؟|Which two composers jointly composed Joseph Attieh's Kon?|جمال ياسين ورامي شلهوب|Jamal Yassine and Rami Chalhoub
+121|song:baghdada:composer|baghdada|من كتب ولحّن أغنية «البغددة» لجوزيف عطية؟|Who wrote both the lyrics and music for Joseph Attieh's Al Baghdada?|عزيز الشافعي|Aziz El Shafie
+122|song:motallaqa:composer|motallaqa|من لحّن أغنية كارول سماحة «المطلقة»؟|Who composed Carole Samaha's El Motallaqa?|ميشيل فاضل|Michel Fadel
+123|song:habibiduo:composer|habibiduo|من لحّن أغنية عاصي الحلاني والوليد الحلاني «حبيبي»؟|Who composed Assi El Hallani and Al Walid El Hallani's Habibi?|عادل العراقي|Adel Al Iraqi
+124|song:maswloli:composer|maswloli|من لحّن أغنية ديانا حداد والشاب خالد «ماس ولولي»؟|Who composed the Diana Haddad and Khaled duet Mas Wloli?|محمد يحيى|Mohammed Yehia
+125|concert:soleils:thirdsinger|soleils|من شارك الشاب خالد ورشيد طه الغناء في حفل «1، 2، 3 شموس» عام 1998؟|Who sang alongside Khaled and Rachid Taha in the 1998 1 2 3 Soleils concert?|الشاب فضيل|Faudel
+126|artist:fairuz:nicknamecoiner|fairuznickname|من الشاعر الذي أطلق على فيروز لقب «سفيرتنا إلى النجوم»؟|Which poet gave Fairuz the title Our Ambassador to the Stars?|سعيد عقل|Said Akl
+127|artist:faudel:debutalbum|faudel|ما اسم أول ألبوم للشاب فضيل؟|What is Faudel's debut album called?|بيضاء|Baida
+128|album:rita:dedication|rita|لذكرى أي شاعر فلسطيني أهدى أنور براهم ألبوم «عيون ريتا المذهلة»؟|To which Palestinian poet's memory did Anouar Brahem dedicate The Astounding Eyes Of Rita?|محمود درويش|Mahmoud Darwish
+129|festival:lebanesenights:firstyear|baalbeknights|في أي عام انطلقت «الليالي اللبنانية» في مهرجانات بعلبك؟|In which year did the Lebanese Nights begin at the Baalbeck Festival?|1957|1957
+130|festival:baalbek:foundation|baalbekhistory|في أي عام تأسّس مهرجان بعلبك الدولي؟|In which year was the Baalbeck International Festival founded?|1956|1956
+131|album:carte:doucefrance|carte|على أي ألبوم قدّمت فرقة «كارت دو سيجور» نسختها من «دوس فرانس»؟|On which album did Carte de Sejour release its version of Douce France?|اثنان ونصف|2 et demi
+132|song:anawaleila:poet|analeilapoet|من الشاعر العراقي الذي كتب قصيدة كاظم الساهر «أنا وليلى»؟|Which Iraqi poet wrote Ana Wa Leila, sung by Kadim Al Sahir?|حسن المرواني|Hassan Al Marwani
+133|tradition:gnawa:castanetsterm|gnawaterms|ما اسم الصنوج المعدنية التي تُعزف في موسيقى كناوة؟|What are the metallic castanets played in Gnawa music called?|القراقب|Qraqeb
+134|tradition:gnawa:leaderterm|gnawaterms|ما اللقب التقليدي الذي يُطلق على الموسيقي الذي يقود فرقة كناوة؟|What traditional title is given to the musician who leads a Gnawa ensemble?|المعلّم|Maallem
+135|festival:baalbek:resumptionyear|baalbekhistory|في أي عام استأنف مهرجان بعلبك نشاطه بعد توقفه طوال فترة 1975–1996؟|In which year did the Baalbeck Festival resume after its suspension throughout 1975–1996?|1997|1997
+136|film:100arabica:khaledcostar|khaledbio|أي مطرب راي شارك الشاب خالد بطولة فيلم «100% عربي»؟|Which rai singer starred alongside Khaled in the film 100% Arabica?|الشاب مامي|Cheb Mami

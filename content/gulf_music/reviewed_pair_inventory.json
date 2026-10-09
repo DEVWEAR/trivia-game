@@ -1,0 +1,1520 @@
+{
+  "reviewer": "Assistant editorial review, not independent human review",
+  "reviewedOn": "2026-10-08",
+  "internal": [
+    {
+      "pair": "gulf_music_v2_008/gulf_music_v2_064",
+      "hash": "7c8fbd84c2a5154095a962b280d2489f0631fb4334c571918b11d3996c753c13"
+    },
+    {
+      "pair": "gulf_music_v2_013/gulf_music_v2_016",
+      "hash": "12c28124f57e96a316ae518cedf956603f96f7db6f127f6f71bf467ca2c3c6ed"
+    },
+    {
+      "pair": "gulf_music_v2_013/gulf_music_v2_017",
+      "hash": "b6ab66a4db7a4a137b5f03c859e3a11ebc9cabad96603b7fc70b090a502670d9"
+    },
+    {
+      "pair": "gulf_music_v2_015/gulf_music_v2_052",
+      "hash": "ce8c951f47e8043c1cb75bc880912fa1cf014420b15cb99b72db75494a9eb767"
+    },
+    {
+      "pair": "gulf_music_v2_015/gulf_music_v2_066",
+      "hash": "ba447bb524a321b1ad724246c89265da379391250bfacc0f42a5eb21498e5964"
+    },
+    {
+      "pair": "gulf_music_v2_040/gulf_music_v2_048",
+      "hash": "18f4ea12fe51d8900102274b363db4494f8b8b2475b083b075286dfd22d1c3d0"
+    },
+    {
+      "pair": "gulf_music_v2_050/gulf_music_v2_053",
+      "hash": "a4f55181acfbf9387300164102508fe514cd6e4c250eacd3b18d0f86e0a1efc6"
+    },
+    {
+      "pair": "gulf_music_v2_052/gulf_music_v2_066",
+      "hash": "0ddf673e2a0fe2920ed36b4e01fdb03debaac8bf8af517721b18a502d0a08188"
+    },
+    {
+      "pair": "gulf_music_v2_069/gulf_music_v2_072",
+      "hash": "21daad55f55f181c19d33c9ec0011b88a17cd67f1c97b069a2efef93780bdf4a"
+    },
+    {
+      "pair": "gulf_music_v2_070/gulf_music_v2_138",
+      "hash": "dd760c854f7b090c0fe6c29c4fbd428275595cc3985b2881f0ec5c1d13e7ec67"
+    },
+    {
+      "pair": "gulf_music_v2_080/gulf_music_v2_087",
+      "hash": "f835e93479adc4caac935330dc7b8277d539f8efa86ee78b9197dad3d45a62ad"
+    },
+    {
+      "pair": "gulf_music_v2_080/gulf_music_v2_104",
+      "hash": "7c09b7f5a4c9c16aec93d652ada65430016eaef8c6e0b0d8ce0d57d23d9f0799"
+    },
+    {
+      "pair": "gulf_music_v2_080/gulf_music_v2_110",
+      "hash": "f3d2bea826d6bc369442e1a9f456253eb0096159a6e78b0dc2d28b0bb10710dd"
+    },
+    {
+      "pair": "gulf_music_v2_080/gulf_music_v2_113",
+      "hash": "ae5b4c2b1bd70dfd8e00dde7833fe6361dfc8d9a697f8c4d0db92369c8aef3cb"
+    },
+    {
+      "pair": "gulf_music_v2_080/gulf_music_v2_152",
+      "hash": "076f1f94c59619796fd3fe2f745024607a31c18bf117fc2a507eb5da2d92f676"
+    },
+    {
+      "pair": "gulf_music_v2_081/gulf_music_v2_109",
+      "hash": "0d746a184373fdf518e9b45a2e22a90f8146b10ca6e48bd037a5a165c5fdf041"
+    },
+    {
+      "pair": "gulf_music_v2_081/gulf_music_v2_112",
+      "hash": "11d0fc9282140744e8fdfc4a14554cdad3619545aa9d4e8e7faf0f7226dc094a"
+    },
+    {
+      "pair": "gulf_music_v2_081/gulf_music_v2_132",
+      "hash": "1957486d69f15c7bfa5290bfa003368e146f74ee8d86185a6fb3738d3f7050b4"
+    },
+    {
+      "pair": "gulf_music_v2_081/gulf_music_v2_153",
+      "hash": "ccdbc360963fe817a54ba58bb3eb43e710b71ad48c7ffad7b3231bfbd91b88f4"
+    },
+    {
+      "pair": "gulf_music_v2_082/gulf_music_v2_129",
+      "hash": "f3f39f2f73a951b0afcc21f7e07ee40e94b85b02d2121f2477cf99c5f28e0b13"
+    },
+    {
+      "pair": "gulf_music_v2_082/gulf_music_v2_154",
+      "hash": "dc7d51c3d44c60d18a16444a2a02be86913bfa9618dc5c05b16fabc2e9edd4d0"
+    },
+    {
+      "pair": "gulf_music_v2_085/gulf_music_v2_158",
+      "hash": "a09f6e543e54075deec972da61aaafac2399831e1399d46ccc51ddec3cc9f360"
+    },
+    {
+      "pair": "gulf_music_v2_086/gulf_music_v2_161",
+      "hash": "5a4787b4c4ab0d9dfc16845a0c084713cf65b2d9f415c4021032023ade68e7bc"
+    },
+    {
+      "pair": "gulf_music_v2_087/gulf_music_v2_104",
+      "hash": "3c36552c67513620883f75d6d42e0a43caf844a989caa8d7239622ae89c7a2c6"
+    },
+    {
+      "pair": "gulf_music_v2_092/gulf_music_v2_168",
+      "hash": "43d2021eb80b25008785fd2d416a2a4980ea6b33ff53757d2f96810eb1500336"
+    },
+    {
+      "pair": "gulf_music_v2_097/gulf_music_v2_135",
+      "hash": "05e23eb0a190eeae6687a2a4d5605d3a3a6e945b9a21d8bb522ec1127899769d"
+    },
+    {
+      "pair": "gulf_music_v2_098/gulf_music_v2_174",
+      "hash": "5032b827c79e498bc1ca8877290b3598081e24a450b479b72fdd35ac778ccec5"
+    },
+    {
+      "pair": "gulf_music_v2_103/gulf_music_v2_182",
+      "hash": "a811a86f2b5ca03ff94175c35ff2633c790635d8b4ca56d1f0cd7f2b45c36cf8"
+    },
+    {
+      "pair": "gulf_music_v2_108/gulf_music_v2_187",
+      "hash": "25f08de50eaffdeb821512bfdd99b6d7276d999b1da0b272ed4b52a040ec8e70"
+    },
+    {
+      "pair": "gulf_music_v2_109/gulf_music_v2_112",
+      "hash": "c65f30d0fba498bafb84b251931c6153f5a080391e07858e232219fc3242ea20"
+    },
+    {
+      "pair": "gulf_music_v2_109/gulf_music_v2_190",
+      "hash": "cdcd14252070b4a8b1adad6d0793d7b94bdbfb8cffd02a9b7e833bc3085b60e5"
+    },
+    {
+      "pair": "gulf_music_v2_110/gulf_music_v2_113",
+      "hash": "c8cbbd43b6f61dfa4df224e6d877000093f5a1c931fc215e259d3e1f29a17076"
+    },
+    {
+      "pair": "gulf_music_v2_111/gulf_music_v2_133",
+      "hash": "69c8739f0e28a6379263d0f9e4ad7b161b09dea6b76cca66f5df7318bf9c63c6"
+    },
+    {
+      "pair": "gulf_music_v2_112/gulf_music_v2_132",
+      "hash": "896c2d0f5967bf9c1a6b3845ac1bdcf5f48ccaa9f6a1444abf3f99f4a1c4941f"
+    },
+    {
+      "pair": "gulf_music_v2_112/gulf_music_v2_193",
+      "hash": "67dc4ca619acf65ccf91a170f89c9530bef4111d860f94cb5a59c24e7f4980a9"
+    },
+    {
+      "pair": "gulf_music_v2_114/gulf_music_v2_195",
+      "hash": "cb7f10a63b04b9415281ed1b94b84a2295e7a50cf9030f868edcda7bf9886471"
+    },
+    {
+      "pair": "gulf_music_v2_118/gulf_music_v2_198",
+      "hash": "103f8521c0d294cebc76a73999febf096d80a07986f637a0df64f0b0068195b7"
+    },
+    {
+      "pair": "gulf_music_v2_124/gulf_music_v2_203",
+      "hash": "eb34ca25024eb29f69ea53c37c2d31f55243684f464ee731be00f19d7372307d"
+    },
+    {
+      "pair": "gulf_music_v2_135/gulf_music_v2_151",
+      "hash": "7c99ccb838c994ad8a1f15d6934bc33660ac9c420fa9f0b494f3f91ddccb66bc"
+    },
+    {
+      "pair": "gulf_music_v2_135/gulf_music_v2_186",
+      "hash": "a21f73ec1111076e2a918091a50c029482bd9556167f09926c58dd62d544a6a1"
+    },
+    {
+      "pair": "gulf_music_v2_137/gulf_music_v2_148",
+      "hash": "d2c1e4cc4cc30bc2d06332173561f3677d56d2e44425e495546269dbfd9be3d9"
+    },
+    {
+      "pair": "gulf_music_v2_147/gulf_music_v2_169",
+      "hash": "60413705979bba0d4bec1703103da18fa0f34a6adc91f5288ab436ff6983f70c"
+    },
+    {
+      "pair": "gulf_music_v2_147/gulf_music_v2_199",
+      "hash": "5c86acc93f1a5df2cedc5bd122a436f0e5fe1a35aec937455c422c016d438db3"
+    },
+    {
+      "pair": "gulf_music_v2_149/gulf_music_v2_198",
+      "hash": "1af720fb504a0ef228ecbba59609328fdd82ec76cfa442f4800313cabd3325c4"
+    },
+    {
+      "pair": "gulf_music_v2_150/gulf_music_v2_161",
+      "hash": "b7a14bad93b1b47cded35cc28108d981d6bb855d2f27ccbeb9e9dfcd01a597ab"
+    },
+    {
+      "pair": "gulf_music_v2_150/gulf_music_v2_171",
+      "hash": "d2321acf1f462fb6c57f5126a8f4a866ca768999c961138abaa4d7e78c25474c"
+    },
+    {
+      "pair": "gulf_music_v2_150/gulf_music_v2_174",
+      "hash": "85b5a216e111316a8ce60044869e45563789ec46658dacb2ff61e5aa7d72e488"
+    },
+    {
+      "pair": "gulf_music_v2_150/gulf_music_v2_184",
+      "hash": "1880fd698cfcf0069f74937d8472ce33c8d413adaad86cd5fd841ec753840fb2"
+    },
+    {
+      "pair": "gulf_music_v2_150/gulf_music_v2_197",
+      "hash": "ac7d2e6d7691557544cdba16476a90e4150580038aa0d4d9972bc23d297fb964"
+    },
+    {
+      "pair": "gulf_music_v2_151/gulf_music_v2_186",
+      "hash": "37a814a980a0ac1eb664624c02049e721ef068dbbf261a35f6f6a6e154059c06"
+    },
+    {
+      "pair": "gulf_music_v2_152/gulf_music_v2_183",
+      "hash": "4774262708acb112e3067886b55413cfd1ac3f9afb79c6f43687e89d79cfb984"
+    },
+    {
+      "pair": "gulf_music_v2_152/gulf_music_v2_194",
+      "hash": "59bbcb111f09cc157690e4396f3eaf555712c34cb701203dc8af59eb2501a49d"
+    },
+    {
+      "pair": "gulf_music_v2_152/gulf_music_v2_203",
+      "hash": "de7db2f116f2e21b86bdd2b6c8255cd2f26944eaec11eb37faafbe6133a17ac2"
+    },
+    {
+      "pair": "gulf_music_v2_153/gulf_music_v2_190",
+      "hash": "3b6462beca28cf10ca1186aec0421c3f92be0e93ae4c1c6842ba244566701df7"
+    },
+    {
+      "pair": "gulf_music_v2_153/gulf_music_v2_193",
+      "hash": "fb5b317c3fbdc3f2f23053a61f11332b66dab4d40fae0e7207f5e03a541b6942"
+    },
+    {
+      "pair": "gulf_music_v2_161/gulf_music_v2_184",
+      "hash": "984adbf2c254cb42d0766af679472696f3cf6ba6b91c089b9f314be17c5c6e14"
+    },
+    {
+      "pair": "gulf_music_v2_163/gulf_music_v2_196",
+      "hash": "650afe4c0ce4467a098c9d3f07d0dbc3caaea94cf93779d759e0762ff1f5d3cf"
+    },
+    {
+      "pair": "gulf_music_v2_169/gulf_music_v2_199",
+      "hash": "82ca6927b3cd3510ff773813c5b0117f3e2695da2627c16c1ee47a86e2f5110c"
+    },
+    {
+      "pair": "gulf_music_v2_171/gulf_music_v2_184",
+      "hash": "c52bdfd75f67f18bffb39c3ffbf46579ed646e17d999068e2f2e828d3e0a737d"
+    },
+    {
+      "pair": "gulf_music_v2_174/gulf_music_v2_184",
+      "hash": "66b397592b9eb1f96e9d2fff2f0f028c5c2fef6178f777840d41f7072ca42fc0"
+    },
+    {
+      "pair": "gulf_music_v2_174/gulf_music_v2_197",
+      "hash": "b07ac3e2e76065f6355e90fcbd11a5f2ebd28d4d3fbc92fd649b3f66f278d3df"
+    },
+    {
+      "pair": "gulf_music_v2_177/gulf_music_v2_185",
+      "hash": "dad48c6a97fd492952a6fb3a9ebdb5e9cc2f878a8eda3d51632e23de1d41d2e2"
+    },
+    {
+      "pair": "gulf_music_v2_177/gulf_music_v2_192",
+      "hash": "df03482733f05e9a830a39f79affff30c3d48e4aee5edc3ed0a3c77ca08083c9"
+    },
+    {
+      "pair": "gulf_music_v2_182/gulf_music_v2_202",
+      "hash": "7020fac2455b9e91b198a7d222942a03d57c6c85f416a9ca3fc415d2ab96e3a7"
+    },
+    {
+      "pair": "gulf_music_v2_183/gulf_music_v2_194",
+      "hash": "7be79428f089c243def5287298dc9fe6debbabc6f3dda6b312d3cce0897d71ae"
+    },
+    {
+      "pair": "gulf_music_v2_183/gulf_music_v2_203",
+      "hash": "916215fda62d4df556941df299aa15b2ff47fe87befa9ca480cb79349050acee"
+    },
+    {
+      "pair": "gulf_music_v2_184/gulf_music_v2_197",
+      "hash": "ff954dd0863f38cf67ec57d7ca77744a0087f867006d405c7c388a650910a205"
+    },
+    {
+      "pair": "gulf_music_v2_185/gulf_music_v2_192",
+      "hash": "2282df217aed2d300f80ec632e409b7292981c2aa222364127ffde78e2950ca5"
+    },
+    {
+      "pair": "gulf_music_v2_190/gulf_music_v2_193",
+      "hash": "5ec23356727b01fc49cc217bff968b3c90d73e2331c758c5898eab91d9ee0569"
+    },
+    {
+      "pair": "gulf_music_v2_194/gulf_music_v2_203",
+      "hash": "d83f4e9dbf623573c0db5b740fc543d9d450a430dde850e7879fa762741ca8f2"
+    }
+  ],
+  "cross": [
+    {
+      "pair": "gulf_music_v2_063/kuwait_general_v2_033",
+      "hash": "17f60d79ab3dd80c6ca6de5851a0184c6098b7cceff8c62af2b7a5641f25cda4"
+    },
+    {
+      "pair": "gulf_music_v2_150/kuwait_general_v2_075",
+      "hash": "06c857ac4fc56ad67057bb78613af5b41fa865ccd2427b8c4e4cc4309d07ed4a"
+    },
+    {
+      "pair": "gulf_music_v2_155/kuwait_general_v2_075",
+      "hash": "20d68cf43d8694f54e672a609d801b50f596df7ea6c5060bdcbc7a937ae801f5"
+    },
+    {
+      "pair": "gulf_music_v2_166/kuwait_general_v2_075",
+      "hash": "2d97b0fa70c2a431cc313a15446dd9a06dfb220264a6a00ea264db27a6b6d764"
+    },
+    {
+      "pair": "gulf_music_v2_171/kuwait_general_v2_075",
+      "hash": "4cc31215ae7d11bb4e860b2396fe65b779ef01825fcd60c66584d2e39391d2c7"
+    },
+    {
+      "pair": "gulf_music_v2_184/kuwait_general_v2_075",
+      "hash": "49363cbf093df34703fd54a72ea66c5c007232338d6f1616694585985211910a"
+    },
+    {
+      "pair": "gulf_music_v2_186/kuwait_general_v2_075",
+      "hash": "0d1aaa98a40242139d96813f8d5ea33703f4c7da8a03bb1a247d998f705f05d8"
+    },
+    {
+      "pair": "gulf_music_v2_187/kuwait_general_v2_090",
+      "hash": "60b1002da6bed30f475d2a186353203269a24e46c4a41227ffea60e70b1bfbd7"
+    },
+    {
+      "pair": "gulf_music_v2_193/kuwait_general_v2_075",
+      "hash": "37acd6061563243baf049fc2f9d2166267ee688fe62a969775769a1832b4f1dd"
+    },
+    {
+      "pair": "gulf_music_v2_008/saudi_general_v2_032",
+      "hash": "0c5e60c545113e5637ae5f667354429191e2d9a527351eeda8380f2c4eaa091a"
+    },
+    {
+      "pair": "gulf_music_v2_055/saudi_general_v2_032",
+      "hash": "21f2435f0f9e791f1d477698099ce060187ae8bf58abe2d288e59caa00bf6422"
+    },
+    {
+      "pair": "gulf_music_v2_062/saudi_general_v2_032",
+      "hash": "458f42875314a7e8eb51fffe795098d8cdded30f453cc4fa0ccc459a19276006"
+    },
+    {
+      "pair": "gulf_music_v2_064/saudi_general_v2_032",
+      "hash": "50ef0599e60d6f0d4e51f0edb3ff4016a523cdeaf1f96fe4a308f3ae01d650a6"
+    },
+    {
+      "pair": "gulf_music_v2_002/emirati_music_v2_044",
+      "hash": "be421c68bfcfd8b6711e11a5686bdf3ff852d482f3242a091f19ef4432f57efd"
+    },
+    {
+      "pair": "gulf_music_v2_003/emirati_music_v2_050",
+      "hash": "7ed381ced7afc3b5e5252164862e573050bb8a390b77575b42e38809ddb91d3f"
+    },
+    {
+      "pair": "gulf_music_v2_011/emirati_music_v2_050",
+      "hash": "2d3d460cb6c3ebd48fe67683f6394e8c905d2539028c050022269b9c6abd3b6a"
+    },
+    {
+      "pair": "gulf_music_v2_015/emirati_music_v2_044",
+      "hash": "5e8790b89204b3dadb9ddb9a902c4e5c3f8ba987191d20bd0c52d8f60caeb47e"
+    },
+    {
+      "pair": "gulf_music_v2_015/emirati_music_v2_066",
+      "hash": "89ba5d58e31b55665480f3518ef0e7740f89b8789edd486397ac514f327bd82d"
+    },
+    {
+      "pair": "gulf_music_v2_016/emirati_music_v2_044",
+      "hash": "e85b232e2f72d9c7bdc65ae6ae44076e719c9d21a9d6c6b0a8c9de4257c3886e"
+    },
+    {
+      "pair": "gulf_music_v2_017/emirati_music_v2_044",
+      "hash": "f894646ba6b67495cd722a0ecf726c664c52dfd4973d4109a55063fc53bbf0f9"
+    },
+    {
+      "pair": "gulf_music_v2_020/emirati_music_v2_013",
+      "hash": "93c36782b4b97af4f428f5c44351ba6542cd8e4a7782aa58ae2a8c482a219408"
+    },
+    {
+      "pair": "gulf_music_v2_022/emirati_music_v2_044",
+      "hash": "774a51b4bdd32b35868c819d9e2873b2767659be0c10d7eb138e017308edfc6b"
+    },
+    {
+      "pair": "gulf_music_v2_032/emirati_music_v2_030",
+      "hash": "cadc0969ff3c99e42ed506f036ceae3bbbb1e656f60c52203922fb71897f7caf"
+    },
+    {
+      "pair": "gulf_music_v2_032/emirati_music_v2_058",
+      "hash": "a8ae6c672910577fc48fbd90b106ebe5629c28b02998cd959944490cb29d4116"
+    },
+    {
+      "pair": "gulf_music_v2_037/emirati_music_v2_044",
+      "hash": "de0810ed57da5dcb652c2ccb1803cba14a797fcea965088e942720c715c2cb4a"
+    },
+    {
+      "pair": "gulf_music_v2_039/emirati_music_v2_049",
+      "hash": "bab36bf8fe6f0495e67d08cf5b15698688ac291f9efaf029837d58728bfa32c5"
+    },
+    {
+      "pair": "gulf_music_v2_039/emirati_music_v2_060",
+      "hash": "b57b1789640bf82a0bd50a21b6711fece397768802a0c0c54e125816c81a2ae5"
+    },
+    {
+      "pair": "gulf_music_v2_050/emirati_music_v2_030",
+      "hash": "e08e34502e3b309b37cd6ac34d122588e5b97187b8c93f23d9b3f84ea6a76635"
+    },
+    {
+      "pair": "gulf_music_v2_050/emirati_music_v2_031",
+      "hash": "eda8b49d8b737ce13e740ff5c60bde17743153999ba086acc63e2bea94af0a79"
+    },
+    {
+      "pair": "gulf_music_v2_050/emirati_music_v2_052",
+      "hash": "9bb6bccb209523b3d877966e154f7e0bb60deac50d25c8c98c6ec34bf9045e04"
+    },
+    {
+      "pair": "gulf_music_v2_050/emirati_music_v2_058",
+      "hash": "4fce6a8050b3c7288b81fbcba40a3642f9d0afd263f72e4d2fed7ee3e4c2d743"
+    },
+    {
+      "pair": "gulf_music_v2_052/emirati_music_v2_020",
+      "hash": "df8667cd4f309ab83016ceccac2affd7b38c7e4ac6792d182153b80c74c4284b"
+    },
+    {
+      "pair": "gulf_music_v2_052/emirati_music_v2_044",
+      "hash": "7d5ec70edc95995b4289c5af4866d8e8216aa42b9d14acce8f721029951ce1cf"
+    },
+    {
+      "pair": "gulf_music_v2_052/emirati_music_v2_066",
+      "hash": "fc5142595798bd95fe1231eb4b5a99def59589c849b574dac1bc6314b224f32c"
+    },
+    {
+      "pair": "gulf_music_v2_053/emirati_music_v2_030",
+      "hash": "6be0de3c3dd96208a0b2fba23a08bde3afba965f73bcfa752e0002df18bd91de"
+    },
+    {
+      "pair": "gulf_music_v2_053/emirati_music_v2_031",
+      "hash": "dfba1391716d2b566c25875bf933d55044179c07688784784fdde4a05f4dd834"
+    },
+    {
+      "pair": "gulf_music_v2_053/emirati_music_v2_052",
+      "hash": "a9c9ad296ceded99812e7824d8476c68110a936d9a5ca0257e03c7e0f0dfad87"
+    },
+    {
+      "pair": "gulf_music_v2_053/emirati_music_v2_058",
+      "hash": "e4668a7173f07eb1f073ba9a9ef37f839fe8367e640f73a0d7cb2b3e954965dd"
+    },
+    {
+      "pair": "gulf_music_v2_056/emirati_music_v2_044",
+      "hash": "3a14e5302a611dc71c4d0aec77a7f136769c411b5a562305754e2fd6ddcff9da"
+    },
+    {
+      "pair": "gulf_music_v2_062/emirati_music_v2_046",
+      "hash": "456b44a9c9a3c34ecf2413d3262b62ae8a8d683a7e8e1d2eeee56aa3dbcf151e"
+    },
+    {
+      "pair": "gulf_music_v2_066/emirati_music_v2_020",
+      "hash": "66d03e3eab1a6363c0b78635f35ac4ceecf7b8609e032817d8ace3f4dbacf5d3"
+    },
+    {
+      "pair": "gulf_music_v2_066/emirati_music_v2_044",
+      "hash": "21205900f90e90f69391a43253eeede1654b3ac31e82a772fa8a372acebcd2d0"
+    },
+    {
+      "pair": "gulf_music_v2_066/emirati_music_v2_066",
+      "hash": "609392cd9f66fbec5bc8511e954850e4b09f518e47924a9d21422d55b6a59b71"
+    },
+    {
+      "pair": "gulf_music_v2_077/emirati_music_v2_141",
+      "hash": "c874bc11fdffe37dc0007b627c705def474c9126e72a620316f16423cd8ea977"
+    },
+    {
+      "pair": "gulf_music_v2_089/emirati_music_v2_073",
+      "hash": "56825e4080eebd58333bde4169a7983f0f6abae13c709cdd87d3ea0f697e94c6"
+    },
+    {
+      "pair": "gulf_music_v2_135/emirati_music_v2_114",
+      "hash": "5664ed6f3492729c5b8414bd5b2c061df5adace17000fb7a21ab11e22e516a2f"
+    },
+    {
+      "pair": "gulf_music_v2_135/emirati_music_v2_172",
+      "hash": "2be71ad05e1c62e25133a9c234dea15cf6773fd97052890d2d0775ef54d8b082"
+    },
+    {
+      "pair": "gulf_music_v2_135/emirati_music_v2_174",
+      "hash": "26320b00494b7f0b239516e258a45b77b66b9755ae6cac898669353b7e6729e0"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_079",
+      "hash": "27e5bc7ffec8f6df1d8e83d3d22c44241987b5f56958650e5df31fc231c3f940"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_082",
+      "hash": "9f70abcab2cecef2c59168c2b261245bd52e02738aae5e489a6fc7912b3740ab"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_097",
+      "hash": "f28b9c6f5bfc3f6b39e7218f85a9d234642582ad64ee5464b9202eb3d81179a0"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_114",
+      "hash": "e5f4c5a8159cefea81d19d09a560cf540e921ada999c051bb6ebbc27c5cbbf2a"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_146",
+      "hash": "fe5b99bb7c9d04e3d5c7426ccac72674e6d400f40497b6ef122392930b590f91"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_148",
+      "hash": "a5f25d384688882d13c47ae8e49716898c3ac6cf0cb3c1e807a5666a9fcfa979"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_171",
+      "hash": "0e64677a7d7c5edc76a115f9af01394675fbd74d25d8ce0e054ec78ce2ddaa67"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_172",
+      "hash": "2a796b0fb11f371afa5b75fd853cd991fcbf3b534b23095dd310f08fea248301"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_174",
+      "hash": "b086d23a8cc2617e7fc728615f210f123223ddbf26c749ee3b888106dc96c146"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_175",
+      "hash": "fddd0ba35aa0b8fc1d6b58e42c0846cf05e7972fd07eb463c4292c4c750b0a50"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_180",
+      "hash": "78168511eeb2692c8402dd56451f87ac09efe41c22ffe127879f132acf8b58a1"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_181",
+      "hash": "d6dcf31cb4046eda1d09f8d4513e6e75f052e352c51b33360031f893f3459fac"
+    },
+    {
+      "pair": "gulf_music_v2_147/emirati_music_v2_190",
+      "hash": "dff934543355bdbc7d6f938683a46b9113cb52c4f3f7e30beb95b9c27d0d59da"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_079",
+      "hash": "0a9b22b6f54527fe4908b0179101c342a481c653b576aa765313c6be4a043c28"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_082",
+      "hash": "3bc5b52e31f444f2a85bb6e4b324ae0e74da303b42c1c368ab29a2ca103a3be7"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_097",
+      "hash": "75d61b2c7743995d5a30bf80d5ed69170e72b404a1985a966ea2f5727e9452ce"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_114",
+      "hash": "49172542468eb1e053a880205e541d95f734c0e4776ea2d99b10de6a4987dc60"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_146",
+      "hash": "c4f4ec3392011716852cc117dc49e5bec95a4e6f9bbff130ce5f6a00458a01be"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_148",
+      "hash": "a3657cb7076c1ed2e6f37b6b6f19ae2a997223e0bfaab758d2c42dc8c8c4e114"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_171",
+      "hash": "123bbd8622f1a89a24307a66b9b14723c3c0594ece7efb1754438ee64bee8cfc"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_172",
+      "hash": "ad78e3be86d4c08310aa497f8845d3fb5dfeb6c77a645cb9a14f809190c8f4e1"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_174",
+      "hash": "1674e1f8e41f453ab5f81e2d4b0348ee4d2c7f98d86e381b501877c993103e06"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_175",
+      "hash": "b636813a284f8fb73fd2615b46f8e2cae40c2c686b2ac11a49fdd922de4ced0a"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_180",
+      "hash": "bb2632f6274c90e6d2e23feaa317df71687be6125db5291901fe77b3434c07cd"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_181",
+      "hash": "687c6c6d4d98cfd94a38af2a2a16fceca6cdf96bb736e74cb0aafc6ef72c0c19"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_190",
+      "hash": "a3cc81f75e292c004236d93fe8f00f9319c591f1a43f82ce854e423deeee4e22"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_079",
+      "hash": "f9bbd9826a85aed867fcc1e57912a51ca27557e480c5572ca5704ba5639b134e"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_082",
+      "hash": "8f6d069bf2b880d8f09ee1fc275db46f64220cb9547a5b9825ec2fd0d0023761"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_114",
+      "hash": "8579f73b897b7a718ed906309a8deddab226eecc195b9ba2371646c619197b03"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_150",
+      "hash": "eb83fc8fa98c316b33cfac919adfe0cfec6c0ada65d2b495fc1e1872cbcd0702"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_159",
+      "hash": "a0532734d65b378945e747f7154540492e8e131266f49bc941356337c6974a43"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_172",
+      "hash": "a986a54d8e70579725b1513bd36d3ac5c7e5cc917b8562e9336dfab0138d5070"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_174",
+      "hash": "8b4897c2eff7bb9d1fcd8741f4062101fddf4e47503ec9b4f12b17770f161a9e"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_180",
+      "hash": "a25148a227b45f682034d72f93d6c9e53b766888fe7e317ca3cba72a75339d8c"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_183",
+      "hash": "2cbba8e63dc3594017e0efbf6a8135c71d9ffce8c917010660d7dac421ed810d"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_184",
+      "hash": "89292d96790e88cae5e2934453ba8590b88b7a4f429837f27fc08e0a22f08677"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_187",
+      "hash": "1a51f2ad4b27c7ba8d823929be927df584ce66a89be4449fb6e01ad2a4d117ec"
+    },
+    {
+      "pair": "gulf_music_v2_150/emirati_music_v2_199",
+      "hash": "477fc2aabe58f665a92359f1a324bf042e1233a617ab444a249b3b5621814dd0"
+    },
+    {
+      "pair": "gulf_music_v2_151/emirati_music_v2_114",
+      "hash": "bd0db5ccc4f456925ac50f66716832ed710de242283aa62523c7b42b91ac616d"
+    },
+    {
+      "pair": "gulf_music_v2_151/emirati_music_v2_172",
+      "hash": "5a400979e07cb49b1cb4e5d18e6af7369b433258e90c01dbb26a8c2ab5f023c0"
+    },
+    {
+      "pair": "gulf_music_v2_151/emirati_music_v2_174",
+      "hash": "48b485842abbb230857922b6c7a42ca6ba465010f7688f06df3fe39a79a419db"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_079",
+      "hash": "e1c7b1bd58b5d385898cec221c3589817a7b131d864acbb436a9fbd98953bab4"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_082",
+      "hash": "3013500d4739c2c3f004dc7aed7bea5eca48ca9438e0cc94f8d2867f96faa144"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_097",
+      "hash": "cf98f96669df3ebff5e59d0c6f85cb53809e6629c72391fa6f8d10747d7ee1aa"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_114",
+      "hash": "10a1cf4021c8d098ebddc73354a59fd2f4e33ea7e7a0ffc94fb1cb172b358df5"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_146",
+      "hash": "dc33dc477ad368f4952b650378346e5f09332388d151529f21d2671043efee57"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_148",
+      "hash": "df24ca0aebd578a83721fa6e1445a44782b5ab2d35f04a921817ddfde3819613"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_171",
+      "hash": "88a9618a8f574fb6c8b817c8a68bea0453ac30438d9038e5af42d1c75b356b62"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_172",
+      "hash": "392430a831afae215d5fda729453bbe968bbcd433246f7cc579ba150a167afeb"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_174",
+      "hash": "5d91f1db7194d8ab5fb0750ad68d4c7fe9c18d9fb5ab4d42e31c9ecbb581f36b"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_175",
+      "hash": "04b1c482d3b97b06136f794fbf48b0fd6a8e393572ccd819998da9e1a037bac3"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_180",
+      "hash": "e69c7fe01df3fdd01981326d7b67e6997b62b82375c253b07c558fca0d5202df"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_181",
+      "hash": "e637dad1801eabba8d4ee1f1c3039ec733260ff8c1fd69602ab875b9c2913a05"
+    },
+    {
+      "pair": "gulf_music_v2_152/emirati_music_v2_190",
+      "hash": "da837317bfb0381470571c4b9d6a71e84dd3a721d91b8ebf61d8f5a747118a19"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_079",
+      "hash": "52ffb5f567aade963e10a538e26fabdf7cf9bdabd1a4aacd0a4f2d46f098f741"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_082",
+      "hash": "ea6255431dfc2a90e19b5c70fd78628fb08f070f8189487ef6ff0322f8f02197"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_097",
+      "hash": "049e83a1bf855abae8ed622d5d0bf4bb9dea4ac15ee08bf30e3787159c672798"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_114",
+      "hash": "43dbd6358c00e5de34919bfd7d2a63f352098833f35d758a9544c91a4330b495"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_146",
+      "hash": "89a232ab45547966874fa90d1cfea8f9cec101cae846c468d7c5469b048a40f7"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_148",
+      "hash": "3c8ff8d4bc47dd13d1a2bdd2afb5ec40f46f2936da2f9391bec1d4e4b36ea4d3"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_171",
+      "hash": "9c97327cd6d3de8fe4031b48d489f6a505b5dff9b30ff18c9ac3463acca3e89e"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_172",
+      "hash": "afd73a35d0a2ec55e4e724370302432eaf9addde31234f57f29ab297823103c3"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_174",
+      "hash": "d8b854900766cab507b0fda21d2e26036b591ce8726bf55d37a939087836ec80"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_175",
+      "hash": "fabcc5fe2552c3f4e0b09e71683592ad7295155b790612cd20886b9df12b76a7"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_180",
+      "hash": "11d6e2688389def7f4b72d39f3b1b2d44e9126b706d8232f61ee7058508ecb30"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_181",
+      "hash": "bc5e11115f3dda8587830a9ecffba86dd5c6c6065fdd64731caf8a68055b456c"
+    },
+    {
+      "pair": "gulf_music_v2_153/emirati_music_v2_190",
+      "hash": "36f717ec6255580f3b84adc2d7931a4d1424ece2ac6a167d6ac2c74974f154c8"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_079",
+      "hash": "335ba3d11b48d9134c1513e88eadd4d5aa684153bfc2efe4f0847f95690eabe7"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_082",
+      "hash": "00fef3e97a77433fdba940d69d1304a517e7332824d60cf6e1874d8bfedbf269"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_097",
+      "hash": "93301f071d2318c447e752e5607e8f9710eba2b56e249ecae26c999b28947895"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_114",
+      "hash": "0b8382c7c96c2d2e9eee184269e14295fee29c07f8681d46f35b2205cb60fcd9"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_146",
+      "hash": "8cc63e66c75ccaebabd538efe10f8bfbedfe31c08f4ce9fd7ac9cf19fb51d5a7"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_148",
+      "hash": "bb48ff954d9ae8ab128b58b650373e149368af81012bfda20af424d42c9e22e8"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_171",
+      "hash": "356b2e5a898e81ab5ab4e5d9567fcb4fe65cfc3fe585e343428e3f6753359996"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_172",
+      "hash": "25f52f988b0ea872f6fafd056e10a4546e87c82af210eddb7d959af8ea3a42a2"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_174",
+      "hash": "c067da54909de4b6f8395d8fe9bc25194642b568a79c890021e172f17c990f03"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_175",
+      "hash": "873095be592ae935b2f321b48bbd53dd6a2bbd4ed12a341419180e74251f5486"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_180",
+      "hash": "7296a5019955e7d0497b596f77cf331eea6cd56c3cfb7a77f3e8f045ca54a9ff"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_181",
+      "hash": "4a9d6e789c64145b9ff553dae80383fcec8837a79106f013a8c7c7bb78f56baf"
+    },
+    {
+      "pair": "gulf_music_v2_154/emirati_music_v2_190",
+      "hash": "1caa58eaf1409b6d9642a34f34eb1ffa50409dbaffeb8b8c0cd5596ce36e9ed6"
+    },
+    {
+      "pair": "gulf_music_v2_155/emirati_music_v2_114",
+      "hash": "c294c45694013261a9b0edc7dda8bdb10f74d06bead96be2a813d081739a235d"
+    },
+    {
+      "pair": "gulf_music_v2_155/emirati_music_v2_150",
+      "hash": "160135bc996f78773bf6d03a41036e3ce4fbf5e3801eb109fa522b4b7d5f37ae"
+    },
+    {
+      "pair": "gulf_music_v2_155/emirati_music_v2_172",
+      "hash": "b48345edb4e1a0f36b95839787834446b490a314716e1bf90ad03b48bcac0bb6"
+    },
+    {
+      "pair": "gulf_music_v2_155/emirati_music_v2_174",
+      "hash": "f2773dfdad671d69d875343820daf534a37b347ba3f1932e77a77962230c9e64"
+    },
+    {
+      "pair": "gulf_music_v2_155/emirati_music_v2_184",
+      "hash": "e818ab028e6d9f0f0c8ccc8a4785d486b63ec3aac144c922aaefba235006f7c0"
+    },
+    {
+      "pair": "gulf_music_v2_155/emirati_music_v2_187",
+      "hash": "2b38fa58833c91bb67f33610f7b2b0affac11a482ab274d40fca25419885e99a"
+    },
+    {
+      "pair": "gulf_music_v2_161/emirati_music_v2_114",
+      "hash": "9f5a1794092b181f0e4126cf2a0e4aa56fa5a158699ac840ff4fee6af497d820"
+    },
+    {
+      "pair": "gulf_music_v2_161/emirati_music_v2_150",
+      "hash": "f886accfdc1c2fa1f79375e90efff4d78d0150e43b2b412a001f7f83f06b57fd"
+    },
+    {
+      "pair": "gulf_music_v2_161/emirati_music_v2_172",
+      "hash": "0ff585f3429794de2f3f039599a9f25025aab7f44046d44f30f1c87722b91b26"
+    },
+    {
+      "pair": "gulf_music_v2_161/emirati_music_v2_174",
+      "hash": "6e3ba2604e97c68af5b9b377836cf3aaaba3071a0e404b3009d54738a30fec35"
+    },
+    {
+      "pair": "gulf_music_v2_163/emirati_music_v2_079",
+      "hash": "e6e556449dc12ddc935c81bd69d09b1548b3a60ca29678b9cb0d86c9fbd20ad2"
+    },
+    {
+      "pair": "gulf_music_v2_163/emirati_music_v2_082",
+      "hash": "b46de4d8d948da2fa2b756948f9fccb21fbc8736598ef24ab6a413282c70db55"
+    },
+    {
+      "pair": "gulf_music_v2_163/emirati_music_v2_180",
+      "hash": "d7e6850f7e0c9abd964b4efcee01951898919407879fd9509ded9e738078319d"
+    },
+    {
+      "pair": "gulf_music_v2_166/emirati_music_v2_114",
+      "hash": "64bece6f7ed1d46d5cca5f7de4666b413388cf250bf3480e2985dfe42bdbce06"
+    },
+    {
+      "pair": "gulf_music_v2_166/emirati_music_v2_150",
+      "hash": "7f2bcc9f0404d517c7cfe3929af8e9be1e654cda811a49574b56aed18cc5eec6"
+    },
+    {
+      "pair": "gulf_music_v2_166/emirati_music_v2_172",
+      "hash": "c0b6a0b0a36eadf3ab16c315d2d11ef3d445eff05e78eeff6a773242ea056ee0"
+    },
+    {
+      "pair": "gulf_music_v2_166/emirati_music_v2_174",
+      "hash": "c1e1e1454abf82283e209758ce750b62391aba12321776e1a0af7e6eef4bd59d"
+    },
+    {
+      "pair": "gulf_music_v2_166/emirati_music_v2_184",
+      "hash": "b8f4fb230892ca04278194347d49de2e86cbd76ecf84406ada971ca93f455b28"
+    },
+    {
+      "pair": "gulf_music_v2_166/emirati_music_v2_187",
+      "hash": "15582bd8765352eda8f9ac67cb45119dab6021e313277446ceb2e6aedbdc9a65"
+    },
+    {
+      "pair": "gulf_music_v2_169/emirati_music_v2_079",
+      "hash": "6d09e68f1d5f2a40a7f778eb16d12c7f94ac2e2cc32f59ffcf73c1767acd623c"
+    },
+    {
+      "pair": "gulf_music_v2_169/emirati_music_v2_082",
+      "hash": "6f31e1f2bba0862312ea6360e1c4751a584ea6d91d570aa46c226ca0671ff1fe"
+    },
+    {
+      "pair": "gulf_music_v2_169/emirati_music_v2_180",
+      "hash": "be716a3f6babd8de08709436ee5dcf0c9f9f9d75b6b840dc66f4127ffa46cb88"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_079",
+      "hash": "f1bf35ac9bc384417d59ff07780ef67bd5854060bb76fdc8d621f1061082803d"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_082",
+      "hash": "352884344e0a99dce148ac673a158adfdc3c77d8661b199a3cc2fdde02c1a741"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_114",
+      "hash": "9fc31c867d3d648a3ee3283990c0f6a30ecc823e06e82ba96c9877cfa18552dc"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_150",
+      "hash": "33494136a2adaaf7260497ca2da78ce8e1c428423de45e8fdc5f7ac0318d6897"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_159",
+      "hash": "1d7d7ed841224decf5bcd647bfa7edf59ea6aa43461e3bfac16e74a0788b1152"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_172",
+      "hash": "f7f6cbaa29a1c1a60b63f2c7e472fc29a4d79fca07f04f9662c64f1de7b59d67"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_174",
+      "hash": "59aa9d5d911c3af766366efcfc24007ebd54428a6f2e7d7013c7797f7a9c2496"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_180",
+      "hash": "5172d2051d03964c9ba65b24e411fb9b21ccf756c173dedf0d5a01ccb7a2148c"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_183",
+      "hash": "64c6b0137a8b025057b47795efff492fec39a687dac89b714717976497b6071c"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_184",
+      "hash": "ca40d04759411882f29c323f3ed691c26a9d6dd6606e76c885d084f215bda07e"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_187",
+      "hash": "da0576240320d5e652d61b8c85d8d6d70a2d1cdbf28a4bc014a53c4cb8f8faad"
+    },
+    {
+      "pair": "gulf_music_v2_171/emirati_music_v2_199",
+      "hash": "98c1694f3165a92a1f88c2fdd2a976f37ac6280de7018e0a3648b079bd9bd1c5"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_079",
+      "hash": "2caea482e98cac75e364fc3e0a03bef442ac0b8e07dc49b574aba6952d7d9529"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_082",
+      "hash": "b7941f78a2e86173d03de50d7486ffd78153361fcd5212e875c367a4a5118def"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_097",
+      "hash": "23b8e41937d4dbe9d157174bf3a30a0eb490cb9bc1d7b602106be74a0e92715d"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_114",
+      "hash": "fe176e69eb325635b17df091f2e4bf2cf251a1183cfde2d075cb747ff3a1da30"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_146",
+      "hash": "5fa26e4322bdba430a90d0141b2e7a881b9c1b220d53d8f8d295dfec721de049"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_148",
+      "hash": "90f508e3984cabcf10a0dc3a257de7e3f5e897f6ceaf5ecd344f54e93986c123"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_171",
+      "hash": "f3c2f6e0f47bed5f3b9d348a1c8620d038d193912a6b1e64fd9d04af4fac42f2"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_172",
+      "hash": "632adf5750acaacb101659dd141a0c4f74456594222e88aca85edce7ec6a5c8e"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_174",
+      "hash": "354948703140706fcad1a653d0111747f56785984319c2018f61e0624114ac7c"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_175",
+      "hash": "47a04441f915bf0a0d47ad69232e96961615085db524f153e27210fb7b68aa09"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_180",
+      "hash": "4d6476843655e9954123f84c53b9c9b10b2ddd4e47ee41dacb5a7c84581456d6"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_181",
+      "hash": "b7666b3c1ae2e45cff413002cb904d88c3cda16b690c845cd85023c72e9d86a7"
+    },
+    {
+      "pair": "gulf_music_v2_174/emirati_music_v2_190",
+      "hash": "a94d7c748efea24ab70fa1d2319c81fda8f588b117d9784af8e66d4703ad5176"
+    },
+    {
+      "pair": "gulf_music_v2_183/emirati_music_v2_079",
+      "hash": "6bdbf98f37fb869c642c809621758e0425a2855b6c1f0562c1f3ebdfc3c625b5"
+    },
+    {
+      "pair": "gulf_music_v2_183/emirati_music_v2_082",
+      "hash": "aeacb5e56eed9ea24ba6bb04d0123f4423fbf4d3702039bb80d9eb052806e67f"
+    },
+    {
+      "pair": "gulf_music_v2_183/emirati_music_v2_180",
+      "hash": "76c7774bd79f12a173b8fe82f3ccbc8e20fd9cd5eaae51c1dee3fd0d31ed802a"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_079",
+      "hash": "f5f6676e694069fc33271694fda408596e4901e7c8fd44b05f4b01ffa4ca3ba2"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_082",
+      "hash": "2e024e48bc7e414c891fca4f49eeb24936c9889ca542294507cba36270c29aa8"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_114",
+      "hash": "f70072db1874c016c586b937339b1feaf59b59890b04e1ef15b23f54e762a9d0"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_150",
+      "hash": "817a7ac28c827df6d6c4202f17ec404f6a932c18b1dcc217d6e78554bf31e746"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_159",
+      "hash": "262ed817cd7f808f78e46fb810f8764c4246be4d97842e6396db0498ee758dc6"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_172",
+      "hash": "2ad53b40c1337092595db3c0982abb41a6bf3eb14510ffcea2f343a55a470c48"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_174",
+      "hash": "8f6e7782667132ef57df7bf556fd974db944530cfe354394ce8918c92a89b509"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_180",
+      "hash": "fa01957e503c5079c67e1670c36877f508c2fc0180327824e3afb07d93ac2404"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_183",
+      "hash": "855cc27b2cd7b0b2df7c2cf995ffe6a11ddb274f9aa4b1f54e3e2277ea04248a"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_184",
+      "hash": "e0db138dad6989accb85571fc298dc7cfef680ade4c9a11461be06cbe4abe4b3"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_187",
+      "hash": "1e0a8538ef9bb8bf9c647dfde63c4ff1d1649fc76dc50851ba27f88a2f4b5679"
+    },
+    {
+      "pair": "gulf_music_v2_184/emirati_music_v2_199",
+      "hash": "1afa08cf5293abc6f816cb11459be466cc9fb11da53e9e7b00c0d3d43dbc0dae"
+    },
+    {
+      "pair": "gulf_music_v2_185/emirati_music_v2_114",
+      "hash": "8468459b08622dda65dfeea50afb6fa6eac7cfb5fe7e9ceb4e3f019127d27d5e"
+    },
+    {
+      "pair": "gulf_music_v2_185/emirati_music_v2_172",
+      "hash": "ee090517ac13321944dbc332de7df237e9447e485f4b423e78f43b92e2a1a1e5"
+    },
+    {
+      "pair": "gulf_music_v2_185/emirati_music_v2_174",
+      "hash": "c50243406724713c2e6c70d46f5e6334b0aacf98aa52b50a13c4aecc56707667"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_114",
+      "hash": "c9b7f8e39dc3fbdc88c5e2c4b7eac8eece56d4a7826c19c4ec3a344b322dd8ef"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_150",
+      "hash": "a2e3b7062ed073d900194aa81210b24747fbbfcf1af5778ce839732710923a6d"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_172",
+      "hash": "3221043a563c8f43ffcccb22a5fea5567558584e1b6f350be591a704ad67b822"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_174",
+      "hash": "ee50520bdcc7d14ec3bc2ede7f7beb7d0bbfab5915b849971ec04a75cd3bdd71"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_184",
+      "hash": "2558be62d4528b4d78099799d1c0a263a3e9179f3501fd58b1ab9c930c7a3f06"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_187",
+      "hash": "cb791aca712d06cbbf89149c3c5d608110441cb66233a09db7b918446d8d3614"
+    },
+    {
+      "pair": "gulf_music_v2_190/emirati_music_v2_114",
+      "hash": "99c160fa312769caf25b429a18e26b86a13ea0eb52a5a2b8b556d4e6960a87b2"
+    },
+    {
+      "pair": "gulf_music_v2_190/emirati_music_v2_172",
+      "hash": "e9e17e9c6ed0138b9a956f3055391401a526e69ef1daafc96324293fa150cd23"
+    },
+    {
+      "pair": "gulf_music_v2_190/emirati_music_v2_174",
+      "hash": "d927b6bc8aef409584b39e6fed134e71127146b54cbd85ba6a00d835cf48d6de"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_114",
+      "hash": "c0de50bbed1bfd942d2d865e53fe5fb4335bb88c9398a87d4d1064f7d39ecf2a"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_146",
+      "hash": "f9bd1177203f515c6f59f83ea3a9781fafd9d318f23a641370af32946b37f9d4"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_150",
+      "hash": "9ebbb34e77cf44fa45c9b6bea3bf893142a8d6f58f93bb727cbededd17d6034a"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_171",
+      "hash": "1661a4fac30b2d6fa61c83b9e034554f05bc4723bf5763c7d8f11d1eb65f422a"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_172",
+      "hash": "d5290196254e16f4f7329db0f9bbcc37625912ff5b4a5da3e9c76b4af0ed72af"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_174",
+      "hash": "f4eaed8053af0facbe391cc4851f2d7453dfff30b5645e247215d298148df225"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_184",
+      "hash": "1d1011c5c59ddd772ed4bf9406d75dc25cad491b12ff0c5a63ff457994a2f26e"
+    },
+    {
+      "pair": "gulf_music_v2_193/emirati_music_v2_187",
+      "hash": "83248d4dcc81d55316814b8d6d9db2319c68719499759245ba0c83244f0dac6c"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_079",
+      "hash": "bd9f0cdced0bae01a68834a338e769d7d26ef8c648f7d9027dc0964ac6178327"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_082",
+      "hash": "a60cf476e81e7578f0a9242a0998414e59f1207c84fa661c2fea02a19d43cc2a"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_097",
+      "hash": "30c59e7d88a31daaddcf48565f9c21bf4056e3be61f3db38ac1b00461e3881c4"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_114",
+      "hash": "3c499667326b77b9b716ff15668cec4c4893f0da55339098d7c50cebbc74d3b9"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_146",
+      "hash": "e60427ce4f310482d63e1bc4ee1b62001a3b1af1590e397a1c2b713d63fe397b"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_148",
+      "hash": "775aa988d61432dc516c35d30f4c28c4c8d5da3a943fc4b61c2ff17e10b65c10"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_171",
+      "hash": "43f4472501db134ded92c2f6fe1ece355bea260894def6f5e575ede0fcf0c012"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_172",
+      "hash": "fad7dce779e1919c5f678be28a5102e1f02c2a2d8830d4e41ee063502f13aea2"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_174",
+      "hash": "783aafd27f63a4be48250ead95d13da80e0be69d8b72d48ed8c806b73e81ad41"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_175",
+      "hash": "a15cba7cecfd69a08110b10be19ab3e10a159746bfe9488759c54c832792fa3f"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_180",
+      "hash": "e9ad1b0c6b9ced938b1dbccea8e0080dd2720da6a2ce92f91a68c2e17ac7117e"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_181",
+      "hash": "97009af2ba3a33d186c1e3797cc9c2c231825f9e7a39b909ca1813d9e40a71f1"
+    },
+    {
+      "pair": "gulf_music_v2_194/emirati_music_v2_190",
+      "hash": "cdc8e7da23be4f6df50aabdb4a71e06022549f319e6c8695908521e0efb62ed7"
+    },
+    {
+      "pair": "gulf_music_v2_196/emirati_music_v2_079",
+      "hash": "b55ffa73e952823e38d99a5ec9a3bce504d1ccae027627598515e7c51e08dbff"
+    },
+    {
+      "pair": "gulf_music_v2_196/emirati_music_v2_082",
+      "hash": "f23c3ef4ffb928f64b7005ad1e7ef30832f9bf792f8e47d3a0561970ed883a74"
+    },
+    {
+      "pair": "gulf_music_v2_196/emirati_music_v2_180",
+      "hash": "a1c2a91c087a5bd6a1e519d87ea4f957907272cca33723716428df1d797c5b2c"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_079",
+      "hash": "6b6266f75d5680cf61ef2dd38fc41644648df5ce12020bd19fd720d4d7d1f0a4"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_082",
+      "hash": "6fa3f3235d2a1880b88781f3b073489c3bc220facec0fb28ffec3cd2004ff2d8"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_097",
+      "hash": "621f9836b638e0054151e30a8996fae785bd95851615123d0b1f1298f85b3c21"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_114",
+      "hash": "65bf115aaa9b4a6116236dabfb6c6712898c91ddfe76c5055b63f434ca91b736"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_146",
+      "hash": "382440689a1512b7e4ff9e20ed7763d4ab0e796a0c51801665820d95f3e53921"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_148",
+      "hash": "c999a76ae58e694c12b4e1869cd1f7d9a2dee11e7347a651475bfc84bbb3b3c0"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_171",
+      "hash": "63b5434db07495ffdc1bea736689c8a04e3642bae0f6976c9d7d482b020ca756"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_172",
+      "hash": "967c3f4d11097e33342811dbd98e4137c4c6d4c983288f738c99174a71cadb5e"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_174",
+      "hash": "8309b67464ca9269a62e54cd4930b65fb9ca2b41b113136b6b8f440a7051c203"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_175",
+      "hash": "6015369c35bc3fcbeb2c0c33554b2c566110168349d3846fd4cc68874e18f56f"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_180",
+      "hash": "cfee893437272ed0c3463a9691c77c8088f25bfb4659ef4b7a2286f06743096d"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_181",
+      "hash": "c1bcb168c121f9124371d2d16f604072093214d9e011a5d959d9e753e1166a67"
+    },
+    {
+      "pair": "gulf_music_v2_197/emirati_music_v2_190",
+      "hash": "77f8dfa4855803ec11a3c933407acbae2762071c7c10c06912cda6b25061d75b"
+    },
+    {
+      "pair": "gulf_music_v2_199/emirati_music_v2_079",
+      "hash": "91cffcc165f38f0cb2b585427df07e3ca9ef0db7441161a4ae69cfeb743005aa"
+    },
+    {
+      "pair": "gulf_music_v2_199/emirati_music_v2_082",
+      "hash": "c367e87ac8aa6117e9ab154476a7cb7162ca1a96e591cebb2a951d5c8fb27bc7"
+    },
+    {
+      "pair": "gulf_music_v2_199/emirati_music_v2_180",
+      "hash": "df0b43d480aa924d0233ed3edbe1d1e69e193f2a6e5d34b5390c197a26ccf821"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_079",
+      "hash": "b5baa4a8b941eb61cf0aad1ad77fc95107cd6bd6eb9355e59bb6c60dfe404d36"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_082",
+      "hash": "4ee4611d7b7730cad0481185e44d4449258583e823ad28e7e1baa6ef75990fa5"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_097",
+      "hash": "399e12596be453181c2dfbfe0376a580d88b715b478c255a7f76d2a4b6421b49"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_114",
+      "hash": "c28ef9c1b3aa0fc9e5be73b134db01c3a4cb74b0b4e0fc9bf9b593c50fb1afa9"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_146",
+      "hash": "4ee57d14f6f2bc0e4439dc4de12def65d23fdabbbe0a849f3fcfa44fb482e7b2"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_148",
+      "hash": "90cccf78e799e119a3270c820dc028bbbc8ded16b020fb8a7397377e10a23d87"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_171",
+      "hash": "a78e0ebe8657b827b76424777b6b35ec7f56dab6a6480a9a5a6bfc3db1bfa0ae"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_172",
+      "hash": "3d8216ac7c8d067fb87ee493f3009ce093f082ed4e38c68eb22d099760e7e8d8"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_174",
+      "hash": "0e26488bdbb9123683d67e3911e580f3dc99c348a5c1b9dffbb17aaec547c6d1"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_175",
+      "hash": "d5eb25f0d673b6a570ef017b7c730f94dc22fcf496430824a4f4716158297459"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_180",
+      "hash": "49d10a53815a699ea33b4ec6e3e44638ee8ea18905bf4b87d729ae851975ce27"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_181",
+      "hash": "21c4cef0494c7e076a91c3fd70b515e07c68ad7e7113f3adb11dfa402b4e768e"
+    },
+    {
+      "pair": "gulf_music_v2_203/emirati_music_v2_190",
+      "hash": "06850ea11cb5d96a32c48571b5c217411420ace96681c877d2c1fce33dd67022"
+    }
+  ],
+  "shared": [
+    {
+      "pair": "gulf_music_v2_007/uae_football_v2_050",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "Which team faced the UAE in the 2007 Gulf Cup final?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/uae_general_v2_159",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "With which country did the UAE jointly inscribe Al Ayyala at UNESCO in 2014?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/gulf_culture_v2_004",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "In which Gulf country is a dagger worn on a belt a prominent part of traditional dress?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/gulf_culture_v2_012",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "In which Gulf country are the UNESCO-listed Land of Frankincense sites?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/gulf_culture_v2_024",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "Al-Barah is a traditional performing art of which Gulf country?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/gulf_culture_v2_038",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "In which Gulf country is the UNESCO-listed horse-and-camel Ardhah practised?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/gulf_culture_v2_057",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "Which Gulf country is novelist Jokha Alharthi from?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/gulf_culture_v2_084",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "In which Gulf country are the archaeological sites of Bat, Al-Khutm and Al-Ayn?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_074/gulf_culture_v2_183",
+      "qA": "Which Bahraini musician taught Mohammed Zuwaid to play the oud?",
+      "qB": "Which Bahraini musician helped popularize Sawt in the 1930s?",
+      "answer": "Mohammed bin Faris"
+    },
+    {
+      "pair": "gulf_music_v2_084/gulf_culture_v2_105",
+      "qA": "In which Doha cultural village is Qatar Music Academy located?",
+      "qB": "In which Doha cultural complex is Al Thuraya Planetarium?",
+      "answer": "Katara Cultural Village"
+    },
+    {
+      "pair": "gulf_music_v2_013/kuwait_general_v2_033",
+      "qA": "Which Kuwaiti singer performs Ya Shams?",
+      "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+      "answer": "Nabeel Shuail"
+    },
+    {
+      "pair": "gulf_music_v2_036/kuwait_general_v2_033",
+      "qA": "Which singer recorded Sikka Safar and released its album in 1982?",
+      "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+      "answer": "Nabeel Shuail"
+    },
+    {
+      "pair": "gulf_music_v2_048/kuwait_general_v2_033",
+      "qA": "Who sang Ygolon in its 2021 release?",
+      "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+      "answer": "Nabeel Shuail"
+    },
+    {
+      "pair": "gulf_music_v2_058/kuwait_general_v2_033",
+      "qA": "Which singer released the 1998 album Ma Aroak?",
+      "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+      "answer": "Nabeel Shuail"
+    },
+    {
+      "pair": "gulf_music_v2_015/saudi_general_v2_032",
+      "qA": "Which singer performs Al Amaken?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "gulf_music_v2_049/saudi_general_v2_032",
+      "qA": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "gulf_music_v2_052/saudi_general_v2_032",
+      "qA": "Which singer recorded Mozhela?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "gulf_music_v2_102/saudi_general_v2_032",
+      "qA": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "gulf_music_v2_152/saudi_general_v2_130",
+      "qA": "Who wrote the lyrics of Rashed Al Majid's Al Musafir?",
+      "qB": "Which Saudi poet was known by the nickname Word Engineer?",
+      "answer": "Badr bin Abdulmohsen"
+    },
+    {
+      "pair": "gulf_music_v2_152/saudi_general_v2_181",
+      "qA": "Who wrote the lyrics of Rashed Al Majid's Al Musafir?",
+      "qB": "Who wrote the poem Fawq Ham Al-Sahab sung by Mohammed Abdu?",
+      "answer": "Badr bin Abdulmohsen"
+    },
+    {
+      "pair": "gulf_music_v2_007/uae_pro_league_v2_023",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "Which Gulf national team did former Bani Yas midfielder Fawzi Bashir represent?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_007/premier_league_v2_042",
+      "qA": "Which country's musical heritage is celebrated by the Royal Opera House's Rhythm of Life exhibition?",
+      "qB": "Which Gulf country did Ali Al-Habsi represent, the goalkeeper who played for Bolton and Wigan?",
+      "answer": "Oman"
+    },
+    {
+      "pair": "gulf_music_v2_093/emirati_music_v2_014",
+      "qA": "Who composed Dalia Mubarak's Men Al Akher?",
+      "qB": "Who sang Dig Hewa in the video released by Fayez Al Saeed Sound and Media?",
+      "answer": "Fayez Al Saeed"
+    },
+    {
+      "pair": "gulf_music_v2_093/emirati_music_v2_046",
+      "qA": "Who composed Dalia Mubarak's Men Al Akher?",
+      "qB": "Which Emirati composer and singer is known as the Ambassador of Melodies?",
+      "answer": "Fayez Al Saeed"
+    },
+    {
+      "pair": "gulf_music_v2_093/emirati_music_v2_048",
+      "qA": "Who composed Dalia Mubarak's Men Al Akher?",
+      "qB": "Who sang Selfie in its official 2014 music video?",
+      "answer": "Fayez Al Saeed"
+    },
+    {
+      "pair": "gulf_music_v2_093/emirati_music_v2_095",
+      "qA": "Who composed Dalia Mubarak's Men Al Akher?",
+      "qB": "Which Emirati composer wrote the music for Ahlam's WeMestaghrb?",
+      "answer": "Fayez Al Saeed"
+    },
+    {
+      "pair": "gulf_music_v2_093/emirati_music_v2_103",
+      "qA": "Who composed Dalia Mubarak's Men Al Akher?",
+      "qB": "Who composed Eida Al Menhali's Maktoum Onwani?",
+      "answer": "Fayez Al Saeed"
+    },
+    {
+      "pair": "gulf_music_v2_093/emirati_music_v2_130",
+      "qA": "Who composed Dalia Mubarak's Men Al Akher?",
+      "qB": "Who composed Balqees's Mabrouk?",
+      "answer": "Fayez Al Saeed"
+    },
+    {
+      "pair": "gulf_music_v2_103/emirati_music_v2_083",
+      "qA": "Who composed Rabeh Saqer's 2022 song Wajed?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "gulf_music_v2_106/emirati_music_v2_083",
+      "qA": "What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "gulf_music_v2_149/emirati_music_v2_093",
+      "qA": "Who wrote the lyrics of Fahad Al Kubaisi's Batalna?",
+      "qB": "Who wrote the lyrics of Talaa Asheq for Mansour Zayed?",
+      "answer": "Saad Al Mosallam"
+    },
+    {
+      "pair": "gulf_music_v2_178/emirati_music_v2_201",
+      "qA": "Who arranged Rashed Al Majid's original 1996 recording of Wahashtny Swalifk?",
+      "qB": "Who led Ahlam's accompanying orchestra for Hatha Ana at the Royal Opera House in 2019?",
+      "answer": "Amir Abdel Meguid"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_082",
+      "qA": "Who wrote the lyrics of Nabeel Shuail's Ygolon?",
+      "qB": "Who wrote the lyrics of Hussain Al Jassmi's Ahebak?",
+      "answer": "Ahmad Al Sanea"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_184",
+      "qA": "Who wrote the lyrics of Nabeel Shuail's Ygolon?",
+      "qB": "Who wrote the lyrics of Shamma Hamdan's Moajaba?",
+      "answer": "Ahmad Al Sanea"
+    },
+    {
+      "pair": "gulf_music_v2_186/emirati_music_v2_199",
+      "qA": "Who wrote the lyrics of Nabeel Shuail's Ygolon?",
+      "qB": "Who wrote the lyrics of Shamma Hamdan's 2016 Ahebk?",
+      "answer": "Ahmad Al Sanea"
+    }
+  ]
+}

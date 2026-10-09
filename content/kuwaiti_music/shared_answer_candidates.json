@@ -1,0 +1,608 @@
+[
+  {
+    "pair": "kuwaiti_music_v2_100/uae_football_v2_090",
+    "qA": "From which country did Sulaiman Al Qassar draw inspiration for Dazza before adapting it for Kuwaiti weddings?",
+    "qB": "In which country did the UAE win the 2013 Gulf Cup?",
+    "answer": "Bahrain"
+  },
+  {
+    "pair": "kuwaiti_music_v2_058/gulf_culture_v2_025",
+    "qA": "Which string instrument is Kuwaiti artist Rashed Al Hemli known for playing?",
+    "qB": "Which string instrument accompanies the mirwas in Gulf Sawt music?",
+    "answer": "The oud"
+  },
+  {
+    "pair": "kuwaiti_music_v2_100/gulf_culture_v2_003",
+    "qA": "From which country did Sulaiman Al Qassar draw inspiration for Dazza before adapting it for Kuwaiti weddings?",
+    "qB": "Fjiri, a performance linked to pearl diving, belongs to which Gulf country's heritage?",
+    "answer": "Bahrain"
+  },
+  {
+    "pair": "kuwaiti_music_v2_100/gulf_culture_v2_059",
+    "qA": "From which country did Sulaiman Al Qassar draw inspiration for Dazza before adapting it for Kuwaiti weddings?",
+    "qB": "Which GCC country consists of an archipelago of islands?",
+    "answer": "Bahrain"
+  },
+  {
+    "pair": "kuwaiti_music_v2_007/kuwait_general_v2_033",
+    "qA": "Which Kuwaiti singer performs Ya Assal on the album Shuail 2012?",
+    "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_035/kuwait_general_v2_061",
+    "qA": "Which Kuwaiti singer performs the classic recording of Sidrat Al Oshaq?",
+    "qB": "What is Kuwaiti singer Abdulaziz Al-Mufarrej's stage name?",
+    "answer": "Shadi Al Khaleej"
+  },
+  {
+    "pair": "kuwaiti_music_v2_038/kuwait_general_v2_033",
+    "qA": "Which Kuwaiti singer performs Ma Yeshbehak?",
+    "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_063/kuwait_general_v2_033",
+    "qA": "Who sings Sabah Al Khair Ya Mudallal?",
+    "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_064/kuwait_general_v2_033",
+    "qA": "Who sings Mansak on the Shuail 2000 album?",
+    "qB": "Which Kuwaiti singer is nicknamed Bulbul Al-Khaleej (Nightingale of the Gulf)?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_078/saudi_general_v2_180",
+    "qA": "In which city did Mustafa Ahmed record Wayed Wayed in 1965?",
+    "qB": "Shubra Palace in Taif drew its design and name from a palace in the Shubra district of which Arab capital?",
+    "answer": "Cairo"
+  },
+  {
+    "pair": "kuwaiti_music_v2_100/saudi_general_v2_021",
+    "qA": "From which country did Sulaiman Al Qassar draw inspiration for Dazza before adapting it for Kuwaiti weddings?",
+    "qB": "Which country does King Fahd Causeway take you to when leaving Saudi Arabia?",
+    "answer": "Bahrain"
+  },
+  {
+    "pair": "kuwaiti_music_v2_078/uae_pro_league_v2_022",
+    "qA": "In which city did Mustafa Ahmed record Wayed Wayed in 1965?",
+    "qB": "Which Egyptian city hosted the UAE Super Cup between Al Ahli and Al Jazira in 2016?",
+    "answer": "Cairo"
+  },
+  {
+    "pair": "kuwaiti_music_v2_008/emirati_music_v2_077",
+    "qA": "Which Kuwaiti singer released Alaqtna in 2016?",
+    "qB": "Who composed Balqees's Entaha?",
+    "answer": "Abdulaziz Louis"
+  },
+  {
+    "pair": "kuwaiti_music_v2_017/emirati_music_v2_077",
+    "qA": "Who sang and composed Ajmal Bent Fi Al Dunya?",
+    "qB": "Who composed Balqees's Entaha?",
+    "answer": "Abdulaziz Louis"
+  },
+  {
+    "pair": "kuwaiti_music_v2_044/emirati_music_v2_101",
+    "qA": "Which string instrument was Youssef Al Mutrif known for playing alongside his singing?",
+    "qB": "Which instrument did Mehad Hamad give actor Tyrese during their 2014 meeting in Abu Dhabi?",
+    "answer": "Oud"
+  },
+  {
+    "pair": "kuwaiti_music_v2_044/emirati_music_v2_119",
+    "qA": "Which string instrument was Youssef Al Mutrif known for playing alongside his singing?",
+    "qB": "Which instrument is Emirati musician Saif Al Naqbi a specialist in playing?",
+    "answer": "Oud"
+  },
+  {
+    "pair": "kuwaiti_music_v2_069/emirati_music_v2_163",
+    "qA": "Who composed AbdulKarim AbdulQader's Ajor Elsoot?",
+    "qB": "Who composed the original recording of Ahlam's Wsh Zkrk?",
+    "answer": "Anwar Abdullah"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_003",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Which Emirati singer performed the original 1996 recording of Tadry Leesh?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_005",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Which Emirati singer became known as a judge on Arab Idol?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_030",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Who sang the original 1995 recording of Wsh Zkrk?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_040",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Who sang the 2016 release of WeMestaghrb?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_042",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Who sang Hazeen at the 2023 Diamond Night concert?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_053",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Which female singer performs Haza Eli Shayef Nafsa?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_060",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Which female singer performs Yalazemni Khayalak?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_089/emirati_music_v2_067",
+    "qA": "Which female singer joined Bashar Al Shatti on the 2017 duet Ya Al Watan Ya Al Zibriqan?",
+    "qB": "Who sang Hatha Ana at the Royal Opera House Muscat in 2019?",
+    "answer": "Ahlam"
+  },
+  {
+    "pair": "kuwaiti_music_v2_098/emirati_music_v2_147",
+    "qA": "Who composed Ibrahim Dashti's Sual Saghir?",
+    "qB": "Who composed Talaa Asheq for Mansour Zayed?",
+    "answer": "Fahad Al Nasser"
+  },
+  {
+    "pair": "kuwaiti_music_v2_115/emirati_music_v2_147",
+    "qA": "Who composed Mutrif Al Mutrif's Fahhmouh?",
+    "qB": "Who composed Talaa Asheq for Mansour Zayed?",
+    "answer": "Fahad Al Nasser"
+  },
+  {
+    "pair": "kuwaiti_music_v2_123/emirati_music_v2_117",
+    "qA": "Who composed Shams's Zahqana Mellait?",
+    "qB": "Who composed Balqees's Wayyak Khedni?",
+    "answer": "Ali Saber"
+  },
+  {
+    "pair": "kuwaiti_music_v2_123/emirati_music_v2_124",
+    "qA": "Who composed Shams's Zahqana Mellait?",
+    "qB": "Who composed Hussain Al Jassmi's Aja Al Lail?",
+    "answer": "Ali Saber"
+  },
+  {
+    "pair": "kuwaiti_music_v2_161/emirati_music_v2_163",
+    "qA": "Who composed the Ala Al Dunya Al Salam theme sung by Mohammed Al Balushi?",
+    "qB": "Who composed the original recording of Ahlam's Wsh Zkrk?",
+    "answer": "Anwar Abdullah"
+  },
+  {
+    "pair": "kuwaiti_music_v2_005/gulf_music_v2_012",
+    "qA": "Which female singer released Al Ard, the album containing Zenat Ayyami and Al Qasaid?",
+    "qB": "Which Kuwaiti female singer performed the original 1985 recording of Tabra?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_005/gulf_music_v2_021",
+    "qA": "Which female singer released Al Ard, the album containing Zenat Ayyami and Al Qasaid?",
+    "qB": "Which female singer recorded Ana El Masoul on her 1998 album?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_005/gulf_music_v2_039",
+    "qA": "Which female singer released Al Ard, the album containing Zenat Ayyami and Al Qasaid?",
+    "qB": "Which female singer recorded Al Quloub Al Sahiya?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_005/gulf_music_v2_045",
+    "qA": "Which female singer released Al Ard, the album containing Zenat Ayyami and Al Qasaid?",
+    "qB": "Which female singer performed Tahadedni at her Bahrain concert in 2023?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_005/gulf_music_v2_057",
+    "qA": "Which female singer released Al Ard, the album containing Zenat Ayyami and Al Qasaid?",
+    "qB": "Which female singer recorded Methl Al Naseem for Jalsat Wanasah 2017?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_006/gulf_music_v2_017",
+    "qA": "Which Kuwaiti singer performs Lee Mar El Helow?",
+    "qB": "Which Kuwaiti singer performs Rahalty?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_006/gulf_music_v2_037",
+    "qA": "Which Kuwaiti singer performs Lee Mar El Helow?",
+    "qB": "Which singer recorded Dunia Al Walah?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_006/gulf_music_v2_063",
+    "qA": "Which Kuwaiti singer performs Lee Mar El Helow?",
+    "qB": "Which singer is nicknamed the Ambassador of Gulf Song?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_007/gulf_music_v2_013",
+    "qA": "Which Kuwaiti singer performs Ya Assal on the album Shuail 2012?",
+    "qB": "Which Kuwaiti singer performs Ya Shams?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_007/gulf_music_v2_036",
+    "qA": "Which Kuwaiti singer performs Ya Assal on the album Shuail 2012?",
+    "qB": "Which singer recorded Sikka Safar and released its album in 1982?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_007/gulf_music_v2_048",
+    "qA": "Which Kuwaiti singer performs Ya Assal on the album Shuail 2012?",
+    "qB": "Who sang Ygolon in its 2021 release?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_007/gulf_music_v2_058",
+    "qA": "Which Kuwaiti singer performs Ya Assal on the album Shuail 2012?",
+    "qB": "Which singer released the 1998 album Ma Aroak?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_016/gulf_music_v2_012",
+    "qA": "Which female singer performs Akou Mislek?",
+    "qB": "Which Kuwaiti female singer performed the original 1985 recording of Tabra?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_016/gulf_music_v2_021",
+    "qA": "Which female singer performs Akou Mislek?",
+    "qB": "Which female singer recorded Ana El Masoul on her 1998 album?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_016/gulf_music_v2_039",
+    "qA": "Which female singer performs Akou Mislek?",
+    "qB": "Which female singer recorded Al Quloub Al Sahiya?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_016/gulf_music_v2_045",
+    "qA": "Which female singer performs Akou Mislek?",
+    "qB": "Which female singer performed Tahadedni at her Bahrain concert in 2023?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_016/gulf_music_v2_057",
+    "qA": "Which female singer performs Akou Mislek?",
+    "qB": "Which female singer recorded Methl Al Naseem for Jalsat Wanasah 2017?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_019/gulf_music_v2_031",
+    "qA": "Who wrote, composed and sang Ya Tir, featuring Daffy on rap?",
+    "qB": "Who sang with Bader Al Shuaibi on the 2019 duet Masooma?",
+    "answer": "Bashar Al Shatti"
+  },
+  {
+    "pair": "kuwaiti_music_v2_031/gulf_music_v2_129",
+    "qA": "Which Kuwaiti composer sang Ya Nab Al Wafa himself?",
+    "qB": "Who composed Abdullah Al Rowaished's Ay Mezza?",
+    "answer": "Sulaiman Al Mulla"
+  },
+  {
+    "pair": "kuwaiti_music_v2_038/gulf_music_v2_013",
+    "qA": "Which Kuwaiti singer performs Ma Yeshbehak?",
+    "qB": "Which Kuwaiti singer performs Ya Shams?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_038/gulf_music_v2_036",
+    "qA": "Which Kuwaiti singer performs Ma Yeshbehak?",
+    "qB": "Which singer recorded Sikka Safar and released its album in 1982?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_038/gulf_music_v2_048",
+    "qA": "Which Kuwaiti singer performs Ma Yeshbehak?",
+    "qB": "Who sang Ygolon in its 2021 release?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_038/gulf_music_v2_058",
+    "qA": "Which Kuwaiti singer performs Ma Yeshbehak?",
+    "qB": "Which singer released the 1998 album Ma Aroak?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_039/gulf_music_v2_017",
+    "qA": "Which Kuwaiti singer performs Ma Qelt Lak?",
+    "qB": "Which Kuwaiti singer performs Rahalty?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_039/gulf_music_v2_037",
+    "qA": "Which Kuwaiti singer performs Ma Qelt Lak?",
+    "qB": "Which singer recorded Dunia Al Walah?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_039/gulf_music_v2_063",
+    "qA": "Which Kuwaiti singer performs Ma Qelt Lak?",
+    "qB": "Which singer is nicknamed the Ambassador of Gulf Song?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_040/gulf_music_v2_017",
+    "qA": "Who sang and composed Abeek, performed at Jalsat Wanasah 2017?",
+    "qB": "Which Kuwaiti singer performs Rahalty?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_040/gulf_music_v2_037",
+    "qA": "Who sang and composed Abeek, performed at Jalsat Wanasah 2017?",
+    "qB": "Which singer recorded Dunia Al Walah?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_040/gulf_music_v2_063",
+    "qA": "Who sang and composed Abeek, performed at Jalsat Wanasah 2017?",
+    "qB": "Which singer is nicknamed the Ambassador of Gulf Song?",
+    "answer": "Abdullah Al Rowaished"
+  },
+  {
+    "pair": "kuwaiti_music_v2_049/gulf_music_v2_012",
+    "qA": "Which singer performs Al Shoug Jabak?",
+    "qB": "Which Kuwaiti female singer performed the original 1985 recording of Tabra?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_049/gulf_music_v2_021",
+    "qA": "Which singer performs Al Shoug Jabak?",
+    "qB": "Which female singer recorded Ana El Masoul on her 1998 album?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_049/gulf_music_v2_039",
+    "qA": "Which singer performs Al Shoug Jabak?",
+    "qB": "Which female singer recorded Al Quloub Al Sahiya?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_049/gulf_music_v2_045",
+    "qA": "Which singer performs Al Shoug Jabak?",
+    "qB": "Which female singer performed Tahadedni at her Bahrain concert in 2023?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_049/gulf_music_v2_057",
+    "qA": "Which singer performs Al Shoug Jabak?",
+    "qB": "Which female singer recorded Methl Al Naseem for Jalsat Wanasah 2017?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_056/gulf_music_v2_034",
+    "qA": "Who sang Alam Al Oshaq with Khaled Al Mudhaffar?",
+    "qB": "Who sang Nasetni on Luxury's original 2016 release?",
+    "answer": "Ayed"
+  },
+  {
+    "pair": "kuwaiti_music_v2_060/gulf_music_v2_012",
+    "qA": "Who sings the famous Gulf song Tadri Wala Ma Tadri?",
+    "qB": "Which Kuwaiti female singer performed the original 1985 recording of Tabra?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_060/gulf_music_v2_021",
+    "qA": "Who sings the famous Gulf song Tadri Wala Ma Tadri?",
+    "qB": "Which female singer recorded Ana El Masoul on her 1998 album?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_060/gulf_music_v2_039",
+    "qA": "Who sings the famous Gulf song Tadri Wala Ma Tadri?",
+    "qB": "Which female singer recorded Al Quloub Al Sahiya?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_060/gulf_music_v2_045",
+    "qA": "Who sings the famous Gulf song Tadri Wala Ma Tadri?",
+    "qB": "Which female singer performed Tahadedni at her Bahrain concert in 2023?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_060/gulf_music_v2_057",
+    "qA": "Who sings the famous Gulf song Tadri Wala Ma Tadri?",
+    "qB": "Which female singer recorded Methl Al Naseem for Jalsat Wanasah 2017?",
+    "answer": "Nawal"
+  },
+  {
+    "pair": "kuwaiti_music_v2_063/gulf_music_v2_013",
+    "qA": "Who sings Sabah Al Khair Ya Mudallal?",
+    "qB": "Which Kuwaiti singer performs Ya Shams?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_063/gulf_music_v2_036",
+    "qA": "Who sings Sabah Al Khair Ya Mudallal?",
+    "qB": "Which singer recorded Sikka Safar and released its album in 1982?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_063/gulf_music_v2_048",
+    "qA": "Who sings Sabah Al Khair Ya Mudallal?",
+    "qB": "Who sang Ygolon in its 2021 release?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_063/gulf_music_v2_058",
+    "qA": "Who sings Sabah Al Khair Ya Mudallal?",
+    "qB": "Which singer released the 1998 album Ma Aroak?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_064/gulf_music_v2_013",
+    "qA": "Who sings Mansak on the Shuail 2000 album?",
+    "qB": "Which Kuwaiti singer performs Ya Shams?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_064/gulf_music_v2_036",
+    "qA": "Who sings Mansak on the Shuail 2000 album?",
+    "qB": "Which singer recorded Sikka Safar and released its album in 1982?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_064/gulf_music_v2_048",
+    "qA": "Who sings Mansak on the Shuail 2000 album?",
+    "qB": "Who sang Ygolon in its 2021 release?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_064/gulf_music_v2_058",
+    "qA": "Who sings Mansak on the Shuail 2000 album?",
+    "qB": "Which singer released the 1998 album Ma Aroak?",
+    "answer": "Nabeel Shuail"
+  },
+  {
+    "pair": "kuwaiti_music_v2_068/gulf_music_v2_031",
+    "qA": "Who sings Mint Mithammil, composed by Majed Al Mukhaini?",
+    "qB": "Who sang with Bader Al Shuaibi on the 2019 duet Masooma?",
+    "answer": "Bashar Al Shatti"
+  },
+  {
+    "pair": "kuwaiti_music_v2_076/gulf_music_v2_104",
+    "qA": "Who composed Nabeel Shuail's Ya Assal?",
+    "qB": "Who composed Rashed Al Majid's Methel Qalbk?",
+    "answer": "Nawaf Abdullah"
+  },
+  {
+    "pair": "kuwaiti_music_v2_097/gulf_music_v2_031",
+    "qA": "Who wrote and composed Abdulaziz Al Duwaihi's Hataytak Brasi?",
+    "qB": "Who sang with Bader Al Shuaibi on the 2019 duet Masooma?",
+    "answer": "Bashar Al Shatti"
+  },
+  {
+    "pair": "kuwaiti_music_v2_102/gulf_music_v2_104",
+    "qA": "Who composed Mesaed Al Baloushy's Mistajela?",
+    "qB": "Who composed Rashed Al Majid's Methel Qalbk?",
+    "answer": "Nawaf Abdullah"
+  },
+  {
+    "pair": "kuwaiti_music_v2_108/gulf_music_v2_081",
+    "qA": "Who composed Abdullah Al Rowaished's Ma Qelt Lak?",
+    "qB": "Who composed Mohammed Abdu's Al Amaken?",
+    "answer": "Nasser Al Saleh"
+  },
+  {
+    "pair": "kuwaiti_music_v2_108/gulf_music_v2_086",
+    "qA": "Who composed Abdullah Al Rowaished's Ma Qelt Lak?",
+    "qB": "Who composed Nawal's Ana El Masoul?",
+    "answer": "Nasser Al Saleh"
+  },
+  {
+    "pair": "kuwaiti_music_v2_109/gulf_music_v2_135",
+    "qA": "Who wrote the lyrics of Abdullah Al Rowaished's Abeek?",
+    "qB": "Who wrote the lyrics of Nabeel Shuail's Sikka Safar?",
+    "answer": "Abdul Latif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_109/gulf_music_v2_150",
+    "qA": "Who wrote the lyrics of Abdullah Al Rowaished's Abeek?",
+    "qB": "Who wrote the lyrics of Nawal's Tabra?",
+    "answer": "Abdul Latif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_109/gulf_music_v2_151",
+    "qA": "Who wrote the lyrics of Abdullah Al Rowaished's Abeek?",
+    "qB": "Who wrote the lyrics of Nabeel Shuail's Ya Shams?",
+    "answer": "Abdul Latif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_109/gulf_music_v2_154",
+    "qA": "Who wrote the lyrics of Abdullah Al Rowaished's Abeek?",
+    "qB": "Who wrote the lyrics of Abdullah Al Rowaished's Rahalty?",
+    "answer": "Abdul Latif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_110/gulf_music_v2_129",
+    "qA": "Who composed Maram's Mughroura?",
+    "qB": "Who composed Abdullah Al Rowaished's Ay Mezza?",
+    "answer": "Sulaiman Al Mulla"
+  },
+  {
+    "pair": "kuwaiti_music_v2_121/gulf_music_v2_080",
+    "qA": "Who composed Abdul Karim Abdul Qader's Ana Raddait?",
+    "qB": "Who composed Rashed Al Majid's Al Musafir?",
+    "answer": "Abdul Rab Idris"
+  },
+  {
+    "pair": "kuwaiti_music_v2_121/gulf_music_v2_100",
+    "qA": "Who composed Abdul Karim Abdul Qader's Ana Raddait?",
+    "qB": "Who composed Rashed Al Majid's 1996 song Wahashtny Swalifk?",
+    "answer": "Abdul Rab Idris"
+  },
+  {
+    "pair": "kuwaiti_music_v2_137/gulf_music_v2_135",
+    "qA": "Who wrote the lyrics of AbdulKarim AbdulQader's Ajor Elsoot?",
+    "qB": "Who wrote the lyrics of Nabeel Shuail's Sikka Safar?",
+    "answer": "AbdulLatif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_137/gulf_music_v2_150",
+    "qA": "Who wrote the lyrics of AbdulKarim AbdulQader's Ajor Elsoot?",
+    "qB": "Who wrote the lyrics of Nawal's Tabra?",
+    "answer": "AbdulLatif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_137/gulf_music_v2_151",
+    "qA": "Who wrote the lyrics of AbdulKarim AbdulQader's Ajor Elsoot?",
+    "qB": "Who wrote the lyrics of Nabeel Shuail's Ya Shams?",
+    "answer": "AbdulLatif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_137/gulf_music_v2_154",
+    "qA": "Who wrote the lyrics of AbdulKarim AbdulQader's Ajor Elsoot?",
+    "qB": "Who wrote the lyrics of Abdullah Al Rowaished's Rahalty?",
+    "answer": "AbdulLatif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_151/gulf_music_v2_088",
+    "qA": "Who composed Mustafa Ahmed's Sara Layli?",
+    "qB": "Who composed Talal Maddah's Maqadir?",
+    "answer": "Siraj Omar"
+  },
+  {
+    "pair": "kuwaiti_music_v2_151/gulf_music_v2_132",
+    "qA": "Who composed Mustafa Ahmed's Sara Layli?",
+    "qB": "Who composed Mohammed Abdu's Martni Al Dunya?",
+    "answer": "Siraj Omar"
+  },
+  {
+    "pair": "kuwaiti_music_v2_197/gulf_music_v2_135",
+    "qA": "Who wrote the lyrics of Abdul Karim Abdul Qader's Ana Raddait?",
+    "qB": "Who wrote the lyrics of Nabeel Shuail's Sikka Safar?",
+    "answer": "Abdul Latif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_197/gulf_music_v2_150",
+    "qA": "Who wrote the lyrics of Abdul Karim Abdul Qader's Ana Raddait?",
+    "qB": "Who wrote the lyrics of Nawal's Tabra?",
+    "answer": "Abdul Latif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_197/gulf_music_v2_151",
+    "qA": "Who wrote the lyrics of Abdul Karim Abdul Qader's Ana Raddait?",
+    "qB": "Who wrote the lyrics of Nabeel Shuail's Ya Shams?",
+    "answer": "Abdul Latif Al Bannai"
+  },
+  {
+    "pair": "kuwaiti_music_v2_197/gulf_music_v2_154",
+    "qA": "Who wrote the lyrics of Abdul Karim Abdul Qader's Ana Raddait?",
+    "qB": "Who wrote the lyrics of Abdullah Al Rowaished's Rahalty?",
+    "answer": "Abdul Latif Al Bannai"
+  }
+]

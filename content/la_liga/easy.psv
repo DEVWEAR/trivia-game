@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|history:liga:firstchampion|earlyliga|أي نادٍ فاز بأول بطولة للدوري الإسباني عام 1929؟|Which club won the first Spanish league championship in 1929?|برشلونة|Barcelona
+002|record:career:messigoals|messicareer|من الهداف التاريخي للدوري الإسباني برصيد 474 هدفاً؟|Who is La Liga's all-time leading goalscorer with 474 goals?|ليونيل ميسي|Lionel Messi
+003|derby:clasico:clubs|derbies|أي ناديين يتواجهان في «الكلاسيكو» الإسباني؟|Which two clubs contest Spain's El Clasico?|ريال مدريد وبرشلونة|Real Madrid and Barcelona
+004|derby:seville:clubs|derbies|أي ناديين يتواجهان في ديربي إشبيلية المعروف بـ«إل غران ديربي»؟|Which two clubs contest Seville's El Gran Derbi?|ريال بيتيس وإشبيلية|Real Betis and Sevilla
+005|derby:basque:clubs|derbies|أي ناديين يتواجهان في ديربي الباسك الأشهر؟|Which two clubs contest the main Basque derby?|أتلتيك بلباو وريال سوسيداد|Athletic Club and Real Sociedad
+006|venue:madrid:presidentnamesake|bernabeuname|ما ملعب ريال مدريد الذي يحمل اسم أحد رؤساء النادي التاريخيين؟|Which Real Madrid stadium is named after one of the club's historic presidents?|سانتياغو برنابيو|Santiago Bernabeu
+007|venue:barcelona:campnou|campnou|ما اسم ملعب برشلونة الشهير الذي افتُتح عام 1957؟|What is Barcelona's famous stadium, opened in 1957, called?|كامب نو|Camp Nou
+008|award:pichichi:scorerprize|pichichi|ما اسم الجائزة الشهيرة التي تُمنح لهداف الدوري الإسباني؟|What is the famous award given to the Spanish league's top goalscorer called?|جائزة بيتشيتشي|The Pichichi Trophy
+009|venue:valencia:home|mestalla|ما اسم ملعب فالنسيا التاريخي؟|What is Valencia's historic home stadium called?|ميستايا|Mestalla
+010|crest:valencia:animal|valenciabat|ما الحيوان الذي يظهر أعلى شعار فالنسيا؟|Which animal appears above Valencia's crest?|الخفاش|A bat
+011|nickname:villarreal:submarine|villarrealnickname|أي نادٍ إسباني يُلقّب بـ«الغواصة الصفراء»؟|Which Spanish club is nicknamed the Yellow Submarine?|فياريال|Villarreal
+012|kit:osasuna:red|rojillos|ما اللون الأساسي لقميص أوساسونا التقليدي؟|What is the main colour of Osasuna's traditional shirt?|الأحمر|Red
+013|kit:celta:skyblue|celtakit|ما اللون التقليدي لقميص سيلتا فيغو على أرضه؟|What is the traditional colour of Celta Vigo's home shirt?|الأزرق السماوي|Sky blue
+014|player:hugosanchez:country|hugosanchez|ما جنسية مهاجم ريال مدريد الشهير هوغو سانشيز؟|What nationality is famous Real Madrid striker Hugo Sanchez?|مكسيكي|Mexican
+015|player:villa:nickname|villa|أي مهاجم إسباني لعب لفالنسيا وبرشلونة واشتهر بلقب «إل غواخي»؟|Which Spanish striker played for Valencia and Barcelona and was known as El Guaje?|دافيد فيا|David Villa
+016|player:forlan:spanishclubs|forlan|أي مهاجم أوروغوياني فاز بجائزة بيتشيتشي مع فياريال ثم أتلتيكو مدريد؟|Which Uruguayan striker won the Pichichi Trophy with Villarreal and then Atletico Madrid?|دييغو فورلان|Diego Forlan
+017|player:raul:madridnumber|raul|ما رقم القميص الذي اشتهر به راؤول مع ريال مدريد؟|Which shirt number was Raul famous for at Real Madrid?|7|7
+018|kit:rayo:diagonalstripe|raysash|أي فريق إسباني يشتهر بقميص أبيض تتوسطه شريطة حمراء مائلة؟|Which Spanish team is famous for a white shirt crossed by a diagonal red sash?|رايو فاييكانو|Rayo Vallecano
+019|nickname:espanyol:pericos|pericos|أي نادٍ من برشلونة يُعرف بلقب «الببغاوات»؟|Which Barcelona-based club is nicknamed the Parakeets?|إسبانيول|Espanyol
+020|player:mostovoi:nickname|mostovoi|أي نجم روسي لسيلتا فيغو اشتهر بلقب «قيصر بالايدوس»؟|Which Russian Celta Vigo star was known as the Tsar of Balaidos?|ألكسندر موستوفوي|Aleksandr Mostovoi
+021|match:rivaldo2001:bicyclehat|rivaldo2001|من أكمل هاتريك لبرشلونة بضربة خلفية شهيرة أمام فالنسيا في يونيو 2001؟|Who completed a Barcelona hat-trick with a famous bicycle kick against Valencia in June 2001?|ريفالدو|Rivaldo
+022|transfer:benzema2009:origin|benzema2009|من أي نادٍ فرنسي انتقل كريم بنزيما إلى ريال مدريد عام 2009؟|From which French club did Karim Benzema join Real Madrid in 2009?|أولمبيك ليون|Olympique Lyonnais
+023|award:zamora:keeperprize|zamorarule|ما اسم جائزة حراس المرمى الشهيرة في الدوري الإسباني؟|What is the famous Spanish league goalkeeping award called?|جائزة زامورا|The Zamora Trophy
+024|player:kanoute:internationalcountry|kanoute|أي منتخب أفريقي مثّل مهاجم إشبيلية فريديريك كانوتيه؟|Which African national team did Sevilla striker Frederic Kanoute represent?|مالي|Mali
+025|award:bellingham2024:bestplayer|bellingham2024|أي نجم إنجليزي لريال مدريد فاز بجائزة أفضل لاعب في الدوري الإسباني موسم 2023-2024؟|Which English Real Madrid star won La Liga's Player of the Year award for 2023-24?|جود بيلينغهام|Jude Bellingham
+026|award:lewa2023:pichichi|lewa2023|أي مهاجم بولندي تصدر هدافي الدوري الإسباني في أول موسم له مع برشلونة عام 2022-2023؟|Which Polish striker topped the Spanish league scoring chart in his first Barcelona season in 2022-23?|روبرت ليفاندوفسكي|Robert Lewandowski
+027|coach:aragones:nickname|aragones|من أسطورة أتلتيكو مدريد الذي اشتهر بلقب «حكيم أورتاليثا»؟|Which Atletico Madrid legend was known as the Wise Man of Hortaleza?|لويس أراغونيس|Luis Aragones
+028|venue:sevilla:home|sevillafive|ما اسم ملعب إشبيلية الذي يحمل اسم أحد رؤساء النادي؟|What is Sevilla's home stadium, named after a club president, called?|رامون سانشيز بيزخوان|Ramon Sanchez-Pizjuan
+029|venue:athletic:cathedral|athleticfive|أي ملعب لأتلتيك بلباو يُعرف بلقب «الكاتدرائية»؟|Which Athletic Club stadium is known as The Cathedral?|سان ماميس|San Mames
+030|kit:elche:greenstripe|elchefive|ما لون الشريط الأفقي المميز على قميص إلتشي الأبيض؟|What colour is the distinctive horizontal stripe on Elche's white shirt?|الأخضر|Green
+031|venue:malaga:home|rosaleda|ما ملعب مالقة الذي يرتبط اسمه بحديقة الورود؟|What is Malaga's stadium whose name is associated with a rose garden called?|لا روساليدا|La Rosaleda
+032|player:stoichkov:country|stoichkov|ما جنسية نجم برشلونة خريستو ستويتشكوف؟|What nationality is Barcelona star Hristo Stoichkov?|بلغاري|Bulgarian
+033|player:quinta:namesake|quinta|من لاعب ريال مدريد الذي استُلهم من لقبه اسم جيل «كوينتا ديل بويتري»؟|Which Real Madrid player's nickname gave the Quinta del Buitre generation its name?|إيميليو بوتراغينيو|Emilio Butragueno
+034|player:distefano:nickname|distefano|أي أسطورة لريال مدريد لُقّب بـ«السهم الأشقر»؟|Which Real Madrid legend was nicknamed the Blond Arrow?|ألفريدو دي ستيفانو|Alfredo Di Stefano
+035|player:puskas:country|puskas|ما البلد الذي ينتمي إليه أسطورة ريال مدريد فيرينتس بوشكاش؟|Which country is Real Madrid legend Ferenc Puskas from?|المجر|Hungary
+036|coach:cruyff:dreamteam|cruyffcoach|من المدرب الذي بنى «دريم تيم» برشلونة في أوائل التسعينيات؟|Which coach built Barcelona's Dream Team in the early 1990s?|يوهان كرويف|Johan Cruyff
+037|player:naybet:country|naybet|ما جنسية مدافع ديبورتيفو لاكورونيا نور الدين النيبت؟|What nationality is Deportivo La Coruna defender Noureddine Naybet?|مغربي|Moroccan
+038|player:feghouli:country|feghouli|أي منتخب عربي مثّل نجم فالنسيا سفيان فيغولي؟|Which Arab national team did Valencia star Sofiane Feghouli represent?|الجزائر|Algeria
+039|player:kameni:country|kameni|ما جنسية حارس إسبانيول ومالقة كارلوس كاميني؟|What nationality is Espanyol and Malaga goalkeeper Carlos Kameni?|كاميروني|Cameroonian
+040|coach:simeone:nickname|simeonenick|من مدرب أتلتيكو مدريد الذي اشتهر بلقب «التشولو»؟|Which Atletico Madrid coach is known as El Cholo?|دييغو سيميوني|Diego Simeone
+041|academy:barca:lamasia|lamasia|ما اسم مدرسة برشلونة الشهيرة التي تخرّج فيها ميسي وتشافي وإنييستا؟|What is Barcelona's famous youth school that developed Messi, Xavi and Iniesta called?|لا ماسيا|La Masia
+042|nickname:atletico:colchoneros|colchoneros|أي نادٍ إسباني يُعرف بلقب «كولتشونيروس» المرتبط بصنّاع المراتب؟|Which Spanish club is known as the Colchoneros, a nickname linked to mattress makers?|أتلتيكو مدريد|Atletico Madrid
+043|history:barca:founder|gamper|من الرياضي السويسري الذي أسس برشلونة عام 1899؟|Which Swiss sportsman founded Barcelona in 1899?|جوان غامبر|Joan Gamper
+044|language:barca:blaugranacolours|clasiconicknames|إلى أي لونين يشير لقب برشلونة «بلاوغرانا»؟|Which two colours does Barcelona's nickname Blaugrana refer to?|الأزرق والعنابي|Blue and claret
+045|player:ronaldo-phenomenon-nickname|ronaldosigning|أي نجم برازيلي تألق مع برشلونة في موسم 1996–1997 واشتهر بلقب «الظاهرة»؟|Which Brazilian star shone for Barcelona in 1996–97 and was nicknamed 'The Phenomenon'?|رونالدو نازاريو|Ronaldo Nazario
+046|player:xabi-alonso-first-laliga-club|xabifive|مع أي نادٍ بدأ تشابي ألونسو مشواره في الدوري الإسباني قبل انتقاله لاحقًا إلى ريال مدريد؟|With which club did Xabi Alonso begin his La Liga career before later joining Real Madrid?|ريال سوسيداد|Real Sociedad
+047|kit:mallorca-bermellones-colour|mallorcacolour|أي لون تشير إليه كلمة «بيرميّونيس»، لقب لاعبي ريال مايوركا المرتبط بقميصهم؟|Which colour does 'bermellones', the shirt-related nickname of RCD Mallorca's players, refer to?|الأحمر المائل إلى البرتقالي|Vermilion, an orange-red colour
+048|venue:valladolid-home-zorrilla|zorrillafive|أي نادٍ إسباني يستضيف مبارياته على ملعب خوسيه زوريّا؟|Which Spanish club plays its home matches at the Jose Zorrilla stadium?|ريال بلد الوليد|Real Valladolid
+049|club:las-palmas-island-gran-canaria|laspalmashistory|على أي جزيرة من جزر الكناري يقع نادي لاس بالماس؟|On which Canary Island is UD Las Palmas based?|غران كناريا|Gran Canaria
+050|club:las-palmas-mascot-canary|laspalmashistory|أي طائر تمثله شخصية «بيو بيو»، تميمة نادي لاس بالماس؟|Which bird is represented by UD Las Palmas' mascot, Pio-Pio?|الكناري|Canary
+051|player:kempes-matador-nickname|kempesprofile|أي أسطورة أرجنتينية لفالنسيا اشتهرت بلقب «الماتادور»؟|Which Argentine Valencia legend was nicknamed 'El Matador'?|ماريو كيمبس|Mario Kempes
+052|nickname:alaves-glorioso-nickname|alaveshistory|أي نادٍ باسكي يُعرف بلقب «إل غلوريوسو» ويلعب في فيتوريا؟|Which Basque club is known as 'El Glorioso' and plays in Vitoria?|ديبورتيفو ألافيس|Deportivo Alaves
+053|player:barca-msn-trio|suarezprofile|من هم المهاجمون الثلاثة الذين شكّلوا ثلاثي «MSN» الشهير في برشلونة؟|Which three forwards formed Barcelona's famous 'MSN' trio?|ميسي وسواريز ونيمار|Messi, Suarez and Neymar
+054|player:ferran-torres-shark-nickname|ferraninterview|أي مهاجم لبرشلونة تبنّى لقب «القرش» ليعبّر عن عقليته وإصراره؟|Which Barcelona forward adopted the 'Shark' nickname to express his mentality and determination?|فيران توريس|Ferran Torres
+055|record:yamal-youngest-laliga-scorer-2023|yamal2023|أي موهبة من برشلونة أصبحت أصغر هداف في تاريخ الدوري الإسباني بتسجيلها أمام غرناطة في أكتوبر 2023؟|Which Barcelona talent became La Liga's youngest-ever goalscorer against Granada in October 2023?|لامين يامال|Lamine Yamal
+056|coach:mourinho-madrid-2012-coach|madrid2012|من درّب ريال مدريد في موسم الدوري التاريخي 2011–2012 الذي أنهاه الفريق بمئة نقطة؟|Who coached Real Madrid in its historic 100-point La Liga season of 2011–12?|جوزيه مورينيو|Jose Mourinho
+057|player:torres-el-nino-nickname|torresnino|أي مهاجم نشأ في أتلتيكو مدريد واشتهر بلقب «إل نينيو»، أي «الطفل»؟|Which Atletico Madrid academy striker became known as 'El Nino', meaning 'The Kid'?|فرناندو توريس|Fernando Torres
+058|player:zamorano-bam-bam-nickname|zamoranoofficial|أي مهاجم تشيلي لعب لإشبيلية وريال مدريد واشتهر بلقب «بام بام»؟|Which Chilean striker played for Sevilla and Real Madrid and was nicknamed 'Bam Bam'?|إيفان زامورانو|Ivan Zamorano
+059|player:williams-brothers-athletic|williamsbrothers|أي شقيقين يحملان اسم ويليامز اشتهرا باللعب معًا في هجوم أتلتيك بلباو؟|Which two Williams brothers became known for playing together in Athletic Club's attack?|إينياكي ونيكو ويليامز|Inaki and Nico Williams
+060|player:modric-national-team-croatia|modric2018|أي منتخب قاده نجم ريال مدريد لوكا مودريتش إلى نهائي كأس العالم 2018؟|Which national team did Real Madrid star Luka Modric captain to the 2018 World Cup final?|كرواتيا|Croatia
+061|coach:flick-barca-title-2025|barca2025|أي مدرب ألماني قاد برشلونة للقب الدوري الإسباني في موسمه الأول مع النادي، 2024–2025؟|Which German coach led Barcelona to the La Liga title in his first season at the club, 2024–25?|هانزي فليك|Hansi Flick
+062|match:ronaldinho-bernabeu-ovation-2005|ronaldinhoovation|أي نجم برازيلي لبرشلونة نال تصفيق جماهير برنابيو بعد تألقه في كلاسيكو نوفمبر 2005؟|Which Brazilian Barcelona star earned applause from Bernabeu fans after his display in the November 2005 Clasico?|رونالدينيو|Ronaldinho
+063|award:benzema-ballon-dor-2022|benzemaballondor|أي مهاجم فرنسي لريال مدريد فاز بالكرة الذهبية لعام 2022؟|Which French Real Madrid striker won the 2022 Ballon d'Or?|كريم بنزيما|Karim Benzema
+064|player:casillas-madrid-goalkeeper-1999-2015|casillaslegend|من هو الحارس الإسباني الذي مثّل ريال مدريد من 1999 إلى 2015 ولعب معه 725 مباراة رسمية؟|Which Spanish goalkeeper represented Real Madrid from 1999 to 2015 and played 725 official matches for the club?|إيكر كاسياس|Iker Casillas
+065|player:zidane-zizou-nickname|zidanelegend|أي أسطورة فرنسية لعبت لريال مدريد ثم درّبته واشتهرت باسم «زيزو»؟|Which French legend played for Real Madrid and later coached it, and is widely known as 'Zizou'?|زين الدين زيدان|Zinedine Zidane
+066|nickname:madrid-merengues-dessert-meaning|clasiconicknames|إلى أي نوع من الحلوى يشير لقب «ميرينغيس» لريال مدريد، المرتبط بلون قميصه الأبيض؟|Which dessert does Real Madrid's white-shirt nickname 'Merengues' refer to?|الميرينغ|Meringue
+067|club:athletic-basque-eligibility-region|athleticpolicy|بأي منطقة يرتبط شرط أتلتيك بلباو بأن يكون اللاعب مولودًا فيها أو متكوّنًا في أنديتها؟|Which region is central to Athletic Club's requirement that players be born there or developed at its clubs?|بلاد الباسك|The Basque Country
+068|venue:levante-ciutat-home-stadium|levanteground|ما اسم الملعب الذي يستضيف مباريات ليفانتي على أرضه؟|What is the name of Levante's home stadium?|سيوداد دي فالنسيا|Ciutat de Valencia

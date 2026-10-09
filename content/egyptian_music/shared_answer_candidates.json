@@ -1,0 +1,194 @@
+[
+  {
+    "pair": "egyptian_music_v2_110/premier_league_v2_088",
+    "qA": "What is the title of Cairokee's 2022 album containing Ana Negm?",
+    "qB": "From which Italian club did Mohamed Salah join Liverpool in 2017?",
+    "answer": "Roma"
+  },
+  {
+    "pair": "egyptian_music_v2_080/emirati_music_v2_070",
+    "qA": "Who composed Mohamed Hamaki's Ahla Haga Feeki?",
+    "qB": "Who composed Hussain Al Jassmi's Boshret Kheir?",
+    "answer": "Amr Mostafa"
+  },
+  {
+    "pair": "egyptian_music_v2_106/emirati_music_v2_091",
+    "qA": "Who arranged Ali El Haggar's El Zein Wel Zeina?",
+    "qB": "Who arranged Mohamed Al Mazam's Ahebak?",
+    "answer": "Hamid Al Shaeri"
+  },
+  {
+    "pair": "egyptian_music_v2_108/emirati_music_v2_078",
+    "qA": "Who composed Mohamed Fouad's Ana Law Habibak?",
+    "qB": "Who composed Hussain Al Jassmi's Seta El Sobah?",
+    "answer": "Walid Saad"
+  },
+  {
+    "pair": "egyptian_music_v2_111/emirati_music_v2_070",
+    "qA": "Who composed Moustafa Amar's Monaya?",
+    "qB": "Who composed Hussain Al Jassmi's Boshret Kheir?",
+    "answer": "Amr Mostafa"
+  },
+  {
+    "pair": "egyptian_music_v2_113/emirati_music_v2_070",
+    "qA": "Who composed Amr Diab's Leily Nahary?",
+    "qB": "Who composed Hussain Al Jassmi's Boshret Kheir?",
+    "answer": "Amr Mostafa"
+  },
+  {
+    "pair": "egyptian_music_v2_114/emirati_music_v2_070",
+    "qA": "Who composed Amr Diab's We Malo?",
+    "qB": "Who composed Hussain Al Jassmi's Boshret Kheir?",
+    "answer": "Amr Mostafa"
+  },
+  {
+    "pair": "egyptian_music_v2_131/emirati_music_v2_078",
+    "qA": "Who composed Amal Maher's Seket El Salama?",
+    "qB": "Who composed Hussain Al Jassmi's Seta El Sobah?",
+    "answer": "Walid Saad"
+  },
+  {
+    "pair": "egyptian_music_v2_035/gulf_music_v2_115",
+    "qA": "Which Egyptian composer and singer performed Al Gondol?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_035/gulf_music_v2_131",
+    "qA": "Which Egyptian composer and singer performed Al Gondol?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_069/gulf_music_v2_115",
+    "qA": "Who composed Umm Kulthum's Enta Omri?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_069/gulf_music_v2_131",
+    "qA": "Who composed Umm Kulthum's Enta Omri?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_073/gulf_music_v2_115",
+    "qA": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_073/gulf_music_v2_131",
+    "qA": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_099/gulf_music_v2_115",
+    "qA": "Who composed Abdel Halim Hafez's Ahwak?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_099/gulf_music_v2_131",
+    "qA": "Who composed Abdel Halim Hafez's Ahwak?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_101/gulf_music_v2_115",
+    "qA": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_101/gulf_music_v2_131",
+    "qA": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab"
+  },
+  {
+    "pair": "egyptian_music_v2_001/kuwaiti_music_v2_083",
+    "qA": "Which Egyptian female singer made the famous recording of Enta Omri?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_002/kuwaiti_music_v2_083",
+    "qA": "Which Egyptian female singer performed Al Atlal?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_003/kuwaiti_music_v2_083",
+    "qA": "Which Egyptian female singer performs Siret El Hob?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_004/kuwaiti_music_v2_083",
+    "qA": "Who sings the classic Egyptian recording of Alf Leila Wa Leila?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_005/kuwaiti_music_v2_083",
+    "qA": "Which Egyptian female singer performed Aghadan Alqak?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_006/kuwaiti_music_v2_083",
+    "qA": "Which Egyptian female singer performs Ya Msaharni?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_015/kuwaiti_music_v2_141",
+    "qA": "Who performs the official acoustic version of Dari Ya Alby?",
+    "qB": "Who arranged and mixed Humood AlKhudher's Kun Anta?",
+    "answer": "Hamza Namira"
+  },
+  {
+    "pair": "egyptian_music_v2_040/kuwaiti_music_v2_141",
+    "qA": "Who sings Fady Shewaya?",
+    "qB": "Who arranged and mixed Humood AlKhudher's Kun Anta?",
+    "answer": "Hamza Namira"
+  },
+  {
+    "pair": "egyptian_music_v2_053/kuwaiti_music_v2_083",
+    "qA": "Which Egyptian singer was nicknamed the Star of the East?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_055/kuwaiti_music_v2_083",
+    "qA": "Which singer is commemorated by the museum adjoining Manasterli Palace in Cairo?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum"
+  },
+  {
+    "pair": "egyptian_music_v2_084/kuwaiti_music_v2_141",
+    "qA": "Who composed Hamza Namira's Dari Ya Alby?",
+    "qB": "Who arranged and mixed Humood AlKhudher's Kun Anta?",
+    "answer": "Hamza Namira"
+  },
+  {
+    "pair": "egyptian_music_v2_070/saudi_music_v2_101",
+    "qA": "Who composed Al Atlal for Umm Kulthum?",
+    "qB": "Which Egyptian composer set Wadaa for Ibtisam Lotfi?",
+    "answer": "Riad Al Sunbati"
+  },
+  {
+    "pair": "egyptian_music_v2_091/saudi_music_v2_193",
+    "qA": "Who composed Sherine's Kadabeen?",
+    "qB": "Who arranged Rabeh Saqer's Wain Kent?",
+    "answer": "Khaled Ezz"
+  },
+  {
+    "pair": "egyptian_music_v2_141/saudi_music_v2_175",
+    "qA": "Who wrote the lyrics of Umm Kulthum's Ya Msaharni?",
+    "qB": "Who wrote Wadaa, sung by Ibtisam Lotfi to Riad Al Sunbati's composition?",
+    "answer": "Ahmed Rami"
+  }
+]

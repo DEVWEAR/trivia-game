@@ -1,0 +1,298 @@
+[
+  {
+    "pair": "arabic_music_v2_038/premier_league_v2_043",
+    "qA": "In which Arab country did Rai music originate?",
+    "qB": "Which Arab national team does Riyad Mahrez represent, the Premier League champion with Leicester and Manchester City?",
+    "answer": "Algeria",
+    "decision": "distinct",
+    "reason": "Assistant inspected In which Arab country did Rai music originate? against Which Arab national team does Riyad Mahrez represent, the Premier League champion with Leicester and Manchester City?; common answer Algeria. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_038/la_liga_v2_038",
+    "qA": "In which Arab country did Rai music originate?",
+    "qB": "Which Arab national team did Valencia star Sofiane Feghouli represent?",
+    "answer": "Algeria",
+    "decision": "distinct",
+    "reason": "Assistant inspected In which Arab country did Rai music originate? against Which Arab national team did Valencia star Sofiane Feghouli represent?; common answer Algeria. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_037/bundesliga_v2_045",
+    "qA": "Which Arab country is associated with Gnawa music?",
+    "qB": "Which national team does Achraf Hakimi, who played on loan at Dortmund, represent?",
+    "answer": "Morocco",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Arab country is associated with Gnawa music? against Which national team does Achraf Hakimi, who played on loan at Dortmund, represent?; common answer Morocco. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_039/bundesliga_v2_045",
+    "qA": "Which Arab country is the band Nass El Ghiwane from?",
+    "qB": "Which national team does Achraf Hakimi, who played on loan at Dortmund, represent?",
+    "answer": "Morocco",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Arab country is the band Nass El Ghiwane from? against Which national team does Achraf Hakimi, who played on loan at Dortmund, represent?; common answer Morocco. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_037/world_cup_v2_023",
+    "qA": "Which Arab country is associated with Gnawa music?",
+    "qB": "Which team became the first African side to reach a World Cup semi-final in 2022?",
+    "answer": "Morocco",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Arab country is associated with Gnawa music? against Which team became the first African side to reach a World Cup semi-final in 2022?; common answer Morocco. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_039/world_cup_v2_023",
+    "qA": "Which Arab country is the band Nass El Ghiwane from?",
+    "qB": "Which team became the first African side to reach a World Cup semi-final in 2022?",
+    "answer": "Morocco",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Arab country is the band Nass El Ghiwane from? against Which team became the first African side to reach a World Cup semi-final in 2022?; common answer Morocco. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_012/emirati_music_v2_101",
+    "qA": "What is Tunisian musician Anouar Brahem's principal instrument?",
+    "qB": "Which instrument did Mehad Hamad give actor Tyrese during their 2014 meeting in Abu Dhabi?",
+    "answer": "Oud",
+    "decision": "distinct",
+    "reason": "Assistant inspected What is Tunisian musician Anouar Brahem's principal instrument? against Which instrument did Mehad Hamad give actor Tyrese during their 2014 meeting in Abu Dhabi?; common answer Oud. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_012/emirati_music_v2_119",
+    "qA": "What is Tunisian musician Anouar Brahem's principal instrument?",
+    "qB": "Which instrument is Emirati musician Saif Al Naqbi a specialist in playing?",
+    "answer": "Oud",
+    "decision": "distinct",
+    "reason": "Assistant inspected What is Tunisian musician Anouar Brahem's principal instrument? against Which instrument is Emirati musician Saif Al Naqbi a specialist in playing?; common answer Oud. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_016/emirati_music_v2_007",
+    "qA": "Which Iraqi singer released Ma Dareet with music he composed himself?",
+    "qB": "Which singer duetted with Balqees on Momken in 2021?",
+    "answer": "Saif Nabeel",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Iraqi singer released Ma Dareet with music he composed himself? against Which singer duetted with Balqees on Momken in 2021?; common answer Saif Nabeel. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_075/emirati_music_v2_070",
+    "qA": "Who composed Samira Said and Cheb Mami's Youm Wara Youm duet?",
+    "qB": "Who composed Hussain Al Jassmi's Boshret Kheir?",
+    "answer": "Amr Mostafa",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Samira Said and Cheb Mami's Youm Wara Youm duet? against Who composed Hussain Al Jassmi's Boshret Kheir?; common answer Amr Mostafa. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_082/emirati_music_v2_117",
+    "qA": "Who composed Rahma Riad's Waed Menni?",
+    "qB": "Who composed Balqees's Wayyak Khedni?",
+    "answer": "Ali Saber",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Rahma Riad's Waed Menni? against Who composed Balqees's Wayyak Khedni?; common answer Ali Saber. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_082/emirati_music_v2_124",
+    "qA": "Who composed Rahma Riad's Waed Menni?",
+    "qB": "Who composed Hussain Al Jassmi's Aja Al Lail?",
+    "answer": "Ali Saber",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Rahma Riad's Waed Menni? against Who composed Hussain Al Jassmi's Aja Al Lail?; common answer Ali Saber. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_119/emirati_music_v2_078",
+    "qA": "Who composed Wael Jassar's Ma Tgheebsh Sawani?",
+    "qB": "Who composed Hussain Al Jassmi's Seta El Sobah?",
+    "answer": "Walid Saad",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Wael Jassar's Ma Tgheebsh Sawani? against Who composed Hussain Al Jassmi's Seta El Sobah?; common answer Walid Saad. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_166/emirati_music_v2_091",
+    "qA": "According to Nawal El Zoghbi, who introduced her to Mohammed Rahim before recording El Layali?",
+    "qB": "Who arranged Mohamed Al Mazam's Ahebak?",
+    "answer": "Hamid Al Shaeri",
+    "decision": "distinct",
+    "reason": "Assistant inspected According to Nawal El Zoghbi, who introduced her to Mohammed Rahim before recording El Layali? against Who arranged Mohamed Al Mazam's Ahebak?; common answer Hamid Al Shaeri. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_012/kuwaiti_music_v2_044",
+    "qA": "What is Tunisian musician Anouar Brahem's principal instrument?",
+    "qB": "Which string instrument was Youssef Al Mutrif known for playing alongside his singing?",
+    "answer": "Oud",
+    "decision": "distinct",
+    "reason": "Assistant inspected What is Tunisian musician Anouar Brahem's principal instrument? against Which string instrument was Youssef Al Mutrif known for playing alongside his singing?; common answer Oud. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_082/kuwaiti_music_v2_123",
+    "qA": "Who composed Rahma Riad's Waed Menni?",
+    "qB": "Who composed Shams's Zahqana Mellait?",
+    "answer": "Ali Saber",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Rahma Riad's Waed Menni? against Who composed Shams's Zahqana Mellait?; common answer Ali Saber. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_012/saudi_music_v2_100",
+    "qA": "What is Tunisian musician Anouar Brahem's principal instrument?",
+    "qB": "Which musical instrument did Toha receive from her father, describing it as Yemeni?",
+    "answer": "Oud",
+    "decision": "distinct",
+    "reason": "Assistant inspected What is Tunisian musician Anouar Brahem's principal instrument? against Which musical instrument did Toha receive from her father, describing it as Yemeni?; common answer Oud. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_082/saudi_music_v2_132",
+    "qA": "Who composed Rahma Riad's Waed Menni?",
+    "qB": "Who composed Majid Al Mohandis's Akh Qalbi?",
+    "answer": "Ali Saber",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Rahma Riad's Waed Menni? against Who composed Majid Al Mohandis's Akh Qalbi?; common answer Ali Saber. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_075/egyptian_music_v2_080",
+    "qA": "Who composed Samira Said and Cheb Mami's Youm Wara Youm duet?",
+    "qB": "Who composed Mohamed Hamaki's Ahla Haga Feeki?",
+    "answer": "Amr Mostafa",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Samira Said and Cheb Mami's Youm Wara Youm duet? against Who composed Mohamed Hamaki's Ahla Haga Feeki?; common answer Amr Mostafa. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_075/egyptian_music_v2_111",
+    "qA": "Who composed Samira Said and Cheb Mami's Youm Wara Youm duet?",
+    "qB": "Who composed Moustafa Amar's Monaya?",
+    "answer": "Amr Mostafa",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Samira Said and Cheb Mami's Youm Wara Youm duet? against Who composed Moustafa Amar's Monaya?; common answer Amr Mostafa. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_075/egyptian_music_v2_113",
+    "qA": "Who composed Samira Said and Cheb Mami's Youm Wara Youm duet?",
+    "qB": "Who composed Amr Diab's Leily Nahary?",
+    "answer": "Amr Mostafa",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Samira Said and Cheb Mami's Youm Wara Youm duet? against Who composed Amr Diab's Leily Nahary?; common answer Amr Mostafa. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_075/egyptian_music_v2_114",
+    "qA": "Who composed Samira Said and Cheb Mami's Youm Wara Youm duet?",
+    "qB": "Who composed Amr Diab's We Malo?",
+    "answer": "Amr Mostafa",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Samira Said and Cheb Mami's Youm Wara Youm duet? against Who composed Amr Diab's We Malo?; common answer Amr Mostafa. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_076/egyptian_music_v2_120",
+    "qA": "Which poet wrote Kalimat, performed by Majida El Roumi?",
+    "qB": "Who wrote Resala Men Taht El Maa, performed by Abdel Halim Hafez?",
+    "answer": "Nizar Qabbani",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which poet wrote Kalimat, performed by Majida El Roumi? against Who wrote Resala Men Taht El Maa, performed by Abdel Halim Hafez?; common answer Nizar Qabbani. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_086/egyptian_music_v2_112",
+    "qA": "Who composed George Wassouf's Kalam El Nas?",
+    "qB": "Who composed Warda's Betwanes Beek?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed George Wassouf's Kalam El Nas? against Who composed Warda's Betwanes Beek?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_086/egyptian_music_v2_118",
+    "qA": "Who composed George Wassouf's Kalam El Nas?",
+    "qB": "Who composed Mohamed Fouad's Fakrak Ya Nasini?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed George Wassouf's Kalam El Nas? against Who composed Mohamed Fouad's Fakrak Ya Nasini?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_099/egyptian_music_v2_130",
+    "qA": "Who composed Nawal El Zoghbi's El Layali?",
+    "qB": "Who both composed and arranged Mohamed Tharwat's Ya Mestaagel Feraqi?",
+    "answer": "Mohammed Rahim",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nawal El Zoghbi's El Layali? against Who both composed and arranged Mohamed Tharwat's Ya Mestaagel Feraqi?; common answer Mohammed Rahim. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_119/egyptian_music_v2_108",
+    "qA": "Who composed Wael Jassar's Ma Tgheebsh Sawani?",
+    "qB": "Who composed Mohamed Fouad's Ana Law Habibak?",
+    "answer": "Walid Saad",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Wael Jassar's Ma Tgheebsh Sawani? against Who composed Mohamed Fouad's Ana Law Habibak?; common answer Walid Saad. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_119/egyptian_music_v2_131",
+    "qA": "Who composed Wael Jassar's Ma Tgheebsh Sawani?",
+    "qB": "Who composed Amal Maher's Seket El Salama?",
+    "answer": "Walid Saad",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Wael Jassar's Ma Tgheebsh Sawani? against Who composed Amal Maher's Seket El Salama?; common answer Walid Saad. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_121/egyptian_music_v2_086",
+    "qA": "Who wrote both the lyrics and music for Joseph Attieh's Al Baghdada?",
+    "qB": "Who composed Angham's Hala Khasa Gedan?",
+    "answer": "Aziz El Shafie",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote both the lyrics and music for Joseph Attieh's Al Baghdada? against Who composed Angham's Hala Khasa Gedan?; common answer Aziz El Shafie. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_138/egyptian_music_v2_170",
+    "qA": "Who wrote the lyrics of Nancy Ajram's Inta Eih?",
+    "qB": "Who wrote the lyrics of Mohamed Fouad's Ana Law Habibak?",
+    "answer": "Mostafa Morsi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Nancy Ajram's Inta Eih? against Who wrote the lyrics of Mohamed Fouad's Ana Law Habibak?; common answer Mostafa Morsi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_141/egyptian_music_v2_175",
+    "qA": "Who wrote the lyrics of Samira Said and Cheb Mami's Youm Wara Youm duet?",
+    "qB": "Who wrote the lyrics of Amr Diab's Leily Nahary?",
+    "answer": "Khaled Tag El Din",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Samira Said and Cheb Mami's Youm Wara Youm duet? against Who wrote the lyrics of Amr Diab's Leily Nahary?; common answer Khaled Tag El Din. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_141/egyptian_music_v2_176",
+    "qA": "Who wrote the lyrics of Samira Said and Cheb Mami's Youm Wara Youm duet?",
+    "qB": "Who wrote the lyrics of Amr Diab's We Malo?",
+    "answer": "Khaled Tag El Din",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Samira Said and Cheb Mami's Youm Wara Youm duet? against Who wrote the lyrics of Amr Diab's We Malo?; common answer Khaled Tag El Din. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_154/egyptian_music_v2_182",
+    "qA": "Who wrote the lyrics of George Wassouf's Kalam El Nas?",
+    "qB": "Who wrote the lyrics of Mohamed Fouad's Fakrak Ya Nasini?",
+    "answer": "Ahmed Sheta",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of George Wassouf's Kalam El Nas? against Who wrote the lyrics of Mohamed Fouad's Fakrak Ya Nasini?; common answer Ahmed Sheta. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_166/egyptian_music_v2_106",
+    "qA": "According to Nawal El Zoghbi, who introduced her to Mohammed Rahim before recording El Layali?",
+    "qB": "Who arranged Ali El Haggar's El Zein Wel Zeina?",
+    "answer": "Hamid Al Shaeri",
+    "decision": "distinct",
+    "reason": "Assistant inspected According to Nawal El Zoghbi, who introduced her to Mohammed Rahim before recording El Layali? against Who arranged Ali El Haggar's El Zein Wel Zeina?; common answer Hamid Al Shaeri. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_187/egyptian_music_v2_175",
+    "qA": "Who wrote the lyrics for Wael Jassar's Ma Tgheebsh Sawani?",
+    "qB": "Who wrote the lyrics of Amr Diab's Leily Nahary?",
+    "answer": "Khaled Tag El Din",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics for Wael Jassar's Ma Tgheebsh Sawani? against Who wrote the lyrics of Amr Diab's Leily Nahary?; common answer Khaled Tag El Din. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_187/egyptian_music_v2_176",
+    "qA": "Who wrote the lyrics for Wael Jassar's Ma Tgheebsh Sawani?",
+    "qB": "Who wrote the lyrics of Amr Diab's We Malo?",
+    "answer": "Khaled Tag El Din",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics for Wael Jassar's Ma Tgheebsh Sawani? against Who wrote the lyrics of Amr Diab's We Malo?; common answer Khaled Tag El Din. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "arabic_music_v2_192/egyptian_music_v2_143",
+    "qA": "Who wrote the lyrics for Diana Haddad and Khaled's Mas Wloli?",
+    "qB": "Who wrote the lyrics of Sherine Abdel Wahab's Mashaer?",
+    "answer": "Ahmed Marzouk",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics for Diana Haddad and Khaled's Mas Wloli? against Who wrote the lyrics of Sherine Abdel Wahab's Mashaer?; common answer Ahmed Marzouk. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  }
+]

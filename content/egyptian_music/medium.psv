@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+069|song:entaomri:composer|entomri|من لحّن أغنية أم كلثوم «إنت عمري»؟|Who composed Umm Kulthum's Enta Omri?|محمد عبدالوهاب|Mohammed Abdel Wahab
+070|song:alatlal:composer|atlal|من لحّن قصيدة «الأطلال» لأم كلثوم؟|Who composed Al Atlal for Umm Kulthum?|رياض السنباطي|Riad Al Sunbati
+071|song:siretelhob:composer|siret|من لحّن أغنية أم كلثوم «سيرة الحب»؟|Who composed Umm Kulthum's Siret El Hob?|بليغ حمدي|Baligh Hamdi
+072|song:alflayla:composer|alflayla|من لحّن أغنية أم كلثوم «ألف ليلة وليلة»؟|Who composed Umm Kulthum's Alf Leila Wa Leila?|بليغ حمدي|Baligh Hamdi
+073|song:aghadanalqak:composer|aghadan|من لحّن قصيدة «أغدًا ألقاك» لأم كلثوم؟|Who composed Aghadan Alqak for Umm Kulthum?|محمد عبدالوهاب|Mohammed Abdel Wahab
+074|song:yamsaharni:composer|yamsaharni|من لحّن أغنية أم كلثوم «يا مسهرني»؟|Who composed Umm Kulthum's Ya Msaharni?|سيد مكاوي|Sayed Mekawy
+075|song:tamallymaak:composer|tamallycredits|من لحّن أغنية عمرو دياب «تملي معاك»؟|Who composed Amr Diab's Tamally Maak?|شريف تاج|Sherif Tag
+076|song:mashaer:composer|mashaer|من لحّن أغنية شيرين عبدالوهاب «مشاعر»؟|Who composed Sherine Abdel Wahab's Mashaer?|محمد رحيم|Mohamed Rahim
+077|album:tamallymaak:year|tamallyalbum|في أي عام صدر ألبوم عمرو دياب «تملي معاك» وفق موقعه الرسمي؟|In which year was Amr Diab's Tamally Maak album released, according to his official website?|2000|2000
+078|song:alatlal:poet|atlal|من الشاعر الذي كتب قصيدة «الأطلال» التي غنّتها أم كلثوم؟|Which poet wrote Al Atlal, performed by Umm Kulthum?|إبراهيم ناجي|Ibrahim Nagi
+079|song:eishbeshoak:composer|eish|من لحّن أغنية تامر حسني «عيش بشوقك»؟|Who composed Tamer Hosny's Eish Beshoak?|بلال سرور|Bilal Sorour
+080|song:ahlahagafeeki:composer|ahlahaga|من لحّن أغنية محمد حماقي «أحلى حاجة فيكي»؟|Who composed Mohamed Hamaki's Ahla Haga Feeki?|عمرو مصطفى|Amr Mostafa
+081|song:shagarellamoon:composer|shagar|من لحّن أغنية محمد منير «شجر الليمون»؟|Who composed Mohamed Mounir's Shagar El Lamoon?|أحمد منيب|Ahmed Mounib
+082|song:yastar:composer|yastar|من لحّن أغنية حماقي «يا ستار»؟|Who composed Hamaki's Ya Sattar?|محمد يحيى|Mohamed Yehia
+083|song:sidiwesalak:composer|sidi|من لحّن أغنية أنغام «سيدي وصالك»؟|Who composed Angham's Sidi Wesalak?|شريف تاج|Sherif Tag
+084|song:dariyaalby:composer|dari|من لحّن أغنية حمزة نمرة «داري يا قلبي»؟|Who composed Hamza Namira's Dari Ya Alby?|حمزة نمرة|Hamza Namira
+085|song:noqtabeida:lyricist|noqta|من كتب كلمات «نقطة بيضا» لفرقة كايروكي؟|Who wrote the lyrics of Cairokee's Noqta Beida?|أمير عيد|Amir Eid
+086|song:halakhasagedan:composer|hala|من لحّن أغنية أنغام «حالة خاصة جدًا»؟|Who composed Angham's Hala Khasa Gedan?|عزيز الشافعي|Aziz El Shafie
+087|song:ymkenkher:composer|ymken|من لحّن أغنية رامي صبري «يمكن خير»؟|Who composed Ramy Sabry's Ymken Kher?|رامي صبري|Ramy Sabry
+088|song:nassay:composer|nassay|من لحّن أغنية شيرين «نساي»؟|Who composed Sherine's Nassay?|تامر علي|Tamer Ali
+089|song:hobboganna:composer|hobbo|من لحّن أغنية شيرين «حبه جنة»؟|Who composed Sherine's Hobbo Ganna?|مدين|Madian
+090|song:watarhassas:composer|watar|من لحّن أغنية شيرين «الوتر الحساس»؟|Who composed Sherine's El Watar El Hassas?|محمد رحيم|Mohamed Rahim
+091|song:kadabeen:composer|watar|من لحّن أغنية شيرين «كدابين»؟|Who composed Sherine's Kadabeen?|خالد عز|Khaled Ezz
+092|song:oloosamah:composer|oloosamah|من لحّن أغنية تامر عاشور «قولوله سماح»؟|Who composed Tamer Ashour's Oloolo Samah?|مصطفى العسال|Mostafa El Assal
+093|song:wasawasa:composer|wasa3|من لحّن أغنية أحمد سعد «وسع وسع»؟|Who composed Ahmed Saad's Wasa Wasa?|أحمد سعد|Ahmed Saad
+094|song:qareatelfengan:composer|qareat|من لحّن «قارئة الفنجان» لعبدالحليم حافظ؟|Who composed Qareat El Fengan for Abdel Halim Hafez?|محمد الموجي|Mohamed El Mougy
+095|song:ganaelhawa:composer|ganahawa|من لحّن أغنية عبدالحليم حافظ «جانا الهوى»؟|Who composed Abdel Halim Hafez's Gana El Hawa?|بليغ حمدي|Baligh Hamdi
+096|song:oyounelalb:composer|oyoun|من لحّن أغنية نجاة الصغيرة «عيون القلب»؟|Who composed Nagat El Saghira's Oyoun El Alb?|محمد الموجي|Mohamed El Mougy
+097|song:yahabibtiyamasr:composer|yamasr|من لحّن أغنية شادية «يا حبيبتي يا مصر»؟|Who composed Shadia's Ya Habibti Ya Masr?|بليغ حمدي|Baligh Hamdi
+098|song:sawah:composer|sawah|من لحّن أغنية عبدالحليم حافظ «سواح»؟|Who composed Abdel Halim Hafez's Sawwah?|بليغ حمدي|Baligh Hamdi
+099|song:ahwak:composer|ahwak|من لحّن أغنية عبدالحليم حافظ «أهواك»؟|Who composed Abdel Halim Hafez's Ahwak?|محمد عبدالوهاب|Mohammed Abdel Wahab
+100|song:resalamen:composer|resala|من لحّن «رسالة من تحت الماء» لعبدالحليم حافظ؟|Who composed Resala Men Taht El Maa for Abdel Halim Hafez?|محمد الموجي|Mohamed El Mougy
+101|song:setelhabayeb:composer|sethabayeb|من لحّن أغنية «ست الحبايب» التي اشتهرت بصوت فايزة أحمد؟|Who composed Set El Habayeb, famously recorded by Fayza Ahmed?|محمد عبدالوهاب|Mohammed Abdel Wahab
+102|song:qalbidalili:composer|qalbidalili|من لحّن أغنية ليلى مراد «أنا قلبي دليلي»؟|Who composed Leila Mourad's Ana Albi Dalili?|محمد القصبجي|Mohamed El Qasabgi
+103|song:shahatelgharam:composer|shahat|من لحّن دويتو «شحات الغرام» لمحمد فوزي وليلى مراد؟|Who composed Mohammed Fawzi and Leila Mourad's Shahat El Gharam duet?|محمد فوزي|Mohammed Fawzi
+104|song:algondol:poet|gondol|من الشاعر المصري الذي كتب قصيدة «الجندول» التي غنّاها محمد عبدالوهاب؟|Which Egyptian poet wrote Al Gondol, performed by Mohammed Abdel Wahab?|علي محمود طه|Ali Mahmoud Taha
+105|song:anabastannak:composer|bastannak|من لحّن أغنية نجاة الصغيرة «أنا بستناك»؟|Who composed Nagat El Saghira's Ana Bastannak?|بليغ حمدي|Baligh Hamdi
+106|song:elzeinwelzeina:arranger|zein|من تولّى توزيع أغنية علي الحجار «الزين والزينة»؟|Who arranged Ali El Haggar's El Zein Wel Zeina?|حميد الشاعري|Hamid Al Shaeri
+107|song:saaf:composer|saaf|من لحّن أغنية رامي جمال «سقف»؟|Who composed Ramy Gamal's Saaf?|بلال سرور|Bilal Sorour
+108|song:analawhabibak:composer|fouadhits|من لحّن أغنية محمد فؤاد «أنا لو حبيبك»؟|Who composed Mohamed Fouad's Ana Law Habibak?|وليد سعد|Walid Saad
+109|song:fadyshewaya:album|fady|في أي ألبوم لحمزة نمرة صدرت أغنية «فاضي شوية»؟|On which Hamza Namira album was Fady Shewaya released?|مولود سنة 80|Mawlood Sanat 80
+110|song:ananegm:album|ananegm|ما اسم ألبوم كايروكي الصادر عام 2022 الذي يضم «أنا نجم»؟|What is the title of Cairokee's 2022 album containing Ana Negm?|روما|Roma
+111|song:monaya:composer|monaya|من لحّن أغنية مصطفى قمر «منايا»؟|Who composed Moustafa Amar's Monaya?|عمرو مصطفى|Amr Mostafa
+112|song:betwanesbeek:composer|betwanes|من لحّن أغنية وردة «بتونس بيك»؟|Who composed Warda's Betwanes Beek?|صلاح الشرنوبي|Salah El Sharnouby
+113|song:leilynahary:composer|leily|من لحّن أغنية عمرو دياب «ليلي نهاري»؟|Who composed Amr Diab's Leily Nahary?|عمرو مصطفى|Amr Mostafa
+114|song:wemalo:composer|wemalo|من لحّن أغنية عمرو دياب «وماله»؟|Who composed Amr Diab's We Malo?|عمرو مصطفى|Amr Mostafa
+115|song:amarain:composer|amarain|من لحّن أغنية عمرو دياب «قمرين»؟|Who composed Amr Diab's Amarain?|شريف تاج|Sherif Tag
+116|song:kamannana:film|fouadhits|في أي فيلم غنّى محمد فؤاد «كامننا»؟|In which film did Mohamed Fouad perform Kamannana?|إسماعيلية رايح جاي|Ismailia Rayeh Gay
+117|song:elhobelhaqiqi:composer|fouadhits|من لحّن أغنية محمد فؤاد «الحب الحقيقي» الصادرة عام 1998؟|Who composed Mohamed Fouad's 1998 song El Hob El Haqiqi?|عصام إسماعيل|Essam Ismail
+118|song:fakrakyanasini:composer|fouadhits|من لحّن أغنية محمد فؤاد «فاكرك يا ناسيني»؟|Who composed Mohamed Fouad's Fakrak Ya Nasini?|صلاح الشرنوبي|Salah El Sharnouby
+119|artist:abdelhalim:radioinstrument|halimhistory|ما الآلة التي عزف عليها عبدالحليم حافظ في فرقة الإذاعة الموسيقية قبل شهرته مطربًا؟|Which instrument did Abdel Halim Hafez play in the radio orchestra before becoming famous as a singer?|الأوبوا|Oboe
+120|song:resalamen:poet|resala|من كتب قصيدة «رسالة من تحت الماء» التي غنّاها عبدالحليم حافظ؟|Who wrote Resala Men Taht El Maa, performed by Abdel Halim Hafez?|نزار قباني|Nizar Qabbani
+121|artist:abdelwahab:firstfilm|wahabhistory|ما أول فيلم غنائي قام ببطولته محمد عبدالوهاب؟|What was Mohammed Abdel Wahab's first starring musical film?|الوردة البيضاء|Al Warda Al Beida
+122|artist:abdelwahab:poetmentor|wahabhistory|أي شاعر تبنّى موهبة محمد عبدالوهاب وساعد في صقل ثقافته؟|Which poet mentored Mohammed Abdel Wahab and helped develop his cultural education?|أحمد شوقي|Ahmed Shawqi
+123|artist:ummkulthum:firstfilm|ummhistory|ما أول فيلم سينمائي قامت ببطولته أم كلثوم؟|What was Umm Kulthum's first starring film?|وداد|Wedad
+124|artist:ummkulthum:lastfilm|ummhistory|ما آخر فيلم سينمائي قامت ببطولته أم كلثوم؟|What was Umm Kulthum's last starring film?|فاطمة|Fatma
+125|venue:arabsinginghouse:palace|singinghouse|في أي قصر بالقاهرة يوجد بيت الغناء العربي؟|In which Cairo palace is the House of Arabic Singing located?|قصر الأمير بشتاك|Prince Bashtak Palace
+126|label:misrphone:founder|fawzilabel|أي مطرب وملحن مصري أسّس شركة «مصرفون» لإنتاج الأسطوانات؟|Which Egyptian singer and composer founded the Misrphone record company?|محمد فوزي|Mohammed Fawzi
+127|operetta:elleilaelkebira:composer|leilak|من لحّن أوبريت العرائس «الليلة الكبيرة»؟|Who composed the puppet operetta El Leila El Kebira?|سيد مكاوي|Sayed Mekawy
+128|song:yahlowsabbah:composer|nouiraprog|من لحّن الأغنية الكلاسيكية «يا حلو صبح»؟|Who composed the classic song Ya Helw Sabbah?|محمد الموجي|Mohammed El Mougy
+129|artist:hassanabousoud:instrument|hassanbio|بالعزف على أي آلة اشتهر حسن أبو السعود قبل اتساع شهرته ملحنًا؟|Which instrument was Hassan Abu El Soud known for playing before his wider fame as a composer?|الأكورديون|Accordion
+130|song:yamestaagelferaqi:composer|tharwat|من لحّن ووزّع أغنية محمد ثروت «يا مستعجل فراقي»؟|Who both composed and arranged Mohamed Tharwat's Ya Mestaagel Feraqi?|محمد رحيم|Mohammed Rahim
+131|song:seketelsalama:composer|seketsalama|من لحّن أغنية آمال ماهر «سكة السلامة»؟|Who composed Amal Maher's Seket El Salama?|وليد سعد|Walid Saad
+132|song:mnalbibaghany:composer|mnalbi|من لحّن أغنية محمد حماقي «من قلبي بغني»؟|Who composed Mohamed Hamaki's Mn Albi Baghany?|أحمد صلاح حسني|Ahmed Salah Hosny
+133|song:elbakht:producer|elbakht|من المنتج الموسيقي لتسجيل ويجز «البخت» الصادر عام 2022؟|Who produced the music for Wegz's 2022 recording of El Bakht?|رحال|Rahal
+134|song:monaya:reversefilming|monayainterview|بحسب مصطفى قمر، ما الذي اضطره إلى غناء «منايا» بالمقلوب أثناء تصوير الكليب؟|According to Moustafa Amar, why did he have to sing Monaya backwards during the video shoot?|لأن أحداث الكليب تسير إلى الخلف|Because the video's events run backwards
+135|operetta:elleilaelkebira:lyricist|leilak|من كتب كلمات أوبريت «الليلة الكبيرة»؟|Who wrote the lyrics of El Leila El Kebira?|صلاح جاهين|Salah Jahin
+136|song:anaalbiileikmayyal:composer|fayzahits|من لحّن أغنية فايزة أحمد «أنا قلبي إليك ميال»؟|Who composed Fayza Ahmed's Ana Albi Ileik Mayyal?|محمد الموجي|Mohammed El Mougy

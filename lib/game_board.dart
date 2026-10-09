@@ -3,18 +3,12 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'data/question_model.dart';
-import 'data/questions/uae_general_final.dart';
-import 'data/questions/uae_football_final.dart';
-import 'data/questions/general_knowledge_final.dart';
-import 'data/questions/brain_final.dart';
-import 'data/questions/gaming_final.dart';
-import 'data/questions/no_words_final.dart';
-import 'data/questions/two_pics_final.dart';
+import 'data/playable_category_registry.dart';
 import 'question_visual.dart';
 
 class BoardCategory{BoardCategory({required this.id,required this.ar,required this.en,required this.icon,required this.questions});final int id;final String ar,en,icon;final List<TriviaQuestion> questions;}
 class BoardSlot{BoardSlot({required this.category,required this.points,required this.question});final BoardCategory category;final int points;final TriviaQuestion question;bool used=false;}
-BoardCategory categoryForIndex(int i)=>switch(i){0=>BoardCategory(id:0,ar:'الإمارات',en:'UAE',icon:'🇦🇪',questions:uaeGeneralFinalQuestions),1=>BoardCategory(id:1,ar:'كرة القدم الإماراتية',en:'UAE Football',icon:'⚽',questions:uaeFootballFinalQuestions),2=>BoardCategory(id:2,ar:'معلومات عامة',en:'General Knowledge',icon:'💡',questions:generalKnowledgeFinalQuestions),3=>BoardCategory(id:3,ar:'ألغاز وذكاء',en:'Brain & Riddles',icon:'🧠',questions:brainFinalQuestions),4=>BoardCategory(id:4,ar:'ألعاب الفيديو',en:'Gaming',icon:'🎮',questions:gamingFinalQuestions),5=>BoardCategory(id:5,ar:'ولا كلمة',en:'No Words',icon:'🎯',questions:noWordsFinalQuestions),6=>BoardCategory(id:6,ar:'صورتين كلمة واحدة',en:'Two Pics One Word',icon:'🖼️',questions:twoPicsFinalQuestions),_=>throw ArgumentError('Unknown category index: $i')};
+BoardCategory categoryForIndex(int i){if(i<0||i>=playableCategories.length)throw ArgumentError('Unknown category index: $i');final c=playableCategories[i];return BoardCategory(id:i,ar:c.ar,en:c.en,icon:c.icon,questions:c.questions);}
 List<BoardCategory> categoriesForIndexes(List<int>x)=>x.map(categoryForIndex).toList();
 List<BoardSlot> makeSlots(BoardCategory c){final out=<BoardSlot>[];for(final d in QuestionDifficulty.values){final p=c.questions.where((q)=>q.difficulty==d).toList()..shuffle(Random.secure());if(c.id==6&&d==QuestionDifficulty.easy200){final test=p.where((q)=>q.id=='two_pics_001').toList();final rest=p.where((q)=>q.id!='two_pics_001').toList();final chosen=<TriviaQuestion>[...test,...rest].take(2);out.addAll(chosen.map((q)=>BoardSlot(category:c,points:d.points,question:q)));}else{out.addAll(p.take(2).map((q)=>BoardSlot(category:c,points:d.points,question:q)));}}return out;}
 class TriviaBoardScreen extends StatefulWidget{const TriviaBoardScreen({super.key,required this.ar,required this.categoryIndexes,required this.teamA,required this.teamB});final bool ar;final List<int>categoryIndexes;final String teamA,teamB;@override State<TriviaBoardScreen>createState()=>_BoardState();}

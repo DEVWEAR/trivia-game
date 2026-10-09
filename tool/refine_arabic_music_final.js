@@ -1,0 +1,12 @@
+const fs=require('fs');
+const read=t=>fs.readFileSync(`content/arabic_music/${t}.psv`,'utf8').trim().split(/\r?\n/).map(l=>l.split('|'));
+const tables=Object.fromEntries(['easy','medium','hard'].map(t=>[t,read(t)]));
+const edits={'047':['من المطربة صاحبة أغنية «حفلة»؟','Which female singer performs Hafla?'],'055':['من المطربة صاحبة أغنية «المطلقة»؟','Which female singer performs El Motallaqa?']};
+for(const rows of Object.values(tables))for(const a of rows){if(edits[a[0]])[a[3],a[4]]=edits[a[0]];a[3]=a[3].replace('لـنجوى','لنجوى').replace('لـجوزيف','لجوزيف').replace('قدّاس الطيور','مرثية الطيور');}
+// Difficulty review: the familiar poet attribution belongs at 400;
+// the exact release year of a specialist instrumental album belongs at 600.
+function swap(mid,hid){const mi=tables.medium.findIndex(a=>a[0]===mid),hi=tables.hard.findIndex(a=>a[0]===hid);const m=tables.medium[mi],h=tables.hard[hi];m[0]=hid;h[0]=mid;tables.medium[mi]=h;tables.hard[hi]=m;}
+swap('132','155');swap('135','195');swap('126','204');
+for(const [t,rows]of Object.entries(tables))fs.writeFileSync(`content/arabic_music/${t}.psv`,rows.map(a=>a.join('|')).join('\n')+'\n');
+let s=fs.readFileSync('content/arabic_music/sources.psv','utf8').replace('Only the explicit composer credit is questioned; no inferred language-specific writing attribution.','Only explicit composer and keyboard credits are questioned; no inferred language-specific writing attribution.').replace(', known as Ben Mohamed.','.') ;fs.writeFileSync('content/arabic_music/sources.psv',s);
+for(const [file,type]of [['lib/data/question_bank.dart','bank'],['lib/data/playable_category_registry.dart','registry']]){let s=fs.readFileSync(file,'utf8');const marker="import 'questions/egyptian_music_final.dart';";if(!s.includes(marker))throw Error('No import marker');s=s.replace(marker,marker+"\nimport 'questions/arabic_music_final.dart';");if(type==='bank')s=s.replace("  'egyptian_music': egyptian_musicFinalQuestions,","  'egyptian_music': egyptian_musicFinalQuestions,\n  'arabic_music': arabic_musicFinalQuestions,");else s=s.replace("  PlayableCategory('egyptian_music', '🎙️', 'أغاني مصرية', 'Egyptian Music', egyptian_musicFinalQuestions),","  PlayableCategory('egyptian_music', '🎙️', 'أغاني مصرية', 'Egyptian Music', egyptian_musicFinalQuestions),\n  PlayableCategory('arabic_music', '🎼', 'أغاني عربية', 'Arabic Music', arabic_musicFinalQuestions),");fs.writeFileSync(file,s);}

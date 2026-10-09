@@ -1,17 +1,17 @@
 import '../question_model.dart';
-import 'uae_football_questions_001_020.dart';
-import 'uae_football_questions_021_040.dart';
-import 'uae_football_questions_041_060.dart';
-import 'uae_football_questions_061_080.dart';
-import 'uae_football_questions_081_100.dart';
-import 'uae_football_questions_101_102.dart';
+import 'uae_football/easy_1.dart';
+import 'uae_football/easy_2.dart';
+import 'uae_football/medium_1.dart';
+import 'uae_football/medium_2.dart';
+import 'uae_football/hard_1.dart';
+import 'uae_football/hard_2.dart';
 
-/// Production UAE Football bank — 102 questions.
+/// UAE Football: 204 verified bilingual questions, 68 per difficulty.
 final uaeFootballFinalQuestions = <TriviaQuestion>[
-  ...uaeFootballQuestions001To020,
-  ...uaeFootballQuestions021To040,
-  ...uaeFootballQuestions041To060,
-  ...uaeFootballQuestions061To080,
-  ...uaeFootballQuestions081To100,
-  ...uaeFootballQuestions101To102,
+  ...uaeFootballEasy1,
+  ...uaeFootballEasy2,
+  ...uaeFootballMedium1,
+  ...uaeFootballMedium2,
+  ...uaeFootballHard1,
+  ...uaeFootballHard2,
 ];

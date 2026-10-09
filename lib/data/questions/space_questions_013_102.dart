@@ -19,7 +19,6 @@ const _ceres='https://science.nasa.gov/dwarf-planets/ceres/facts/';
 const _asteroids='https://science.nasa.gov/solar-system/asteroids/facts/';
 const _comets='https://science.nasa.gov/solar-system/comets/facts/';
 const _galaxy='https://science.nasa.gov/universe/galaxies/';
-const _stars='https://science.nasa.gov/universe/stars/';
 
 /// Space questions 013–102. Together with 001–012 this yields exactly
 /// 34 easy (200), 34 medium (400), and 34 hard (600) questions.

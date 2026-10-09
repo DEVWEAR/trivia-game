@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|song:entaomri:singer|entomri|من المطربة المصرية صاحبة التسجيل الشهير لأغنية «إنت عمري»؟|Which Egyptian female singer made the famous recording of Enta Omri?|أم كلثوم|Umm Kulthum
+002|song:alatlal:singer|atlal|من المطربة المصرية التي غنّت قصيدة «الأطلال»؟|Which Egyptian female singer performed Al Atlal?|أم كلثوم|Umm Kulthum
+003|song:siretelhob:singer|siret|من المطربة المصرية صاحبة أغنية «سيرة الحب»؟|Which Egyptian female singer performs Siret El Hob?|أم كلثوم|Umm Kulthum
+004|song:alflayla:singer|alflayla|من صاحبة التسجيل الكلاسيكي المصري لأغنية «ألف ليلة وليلة»؟|Who sings the classic Egyptian recording of Alf Leila Wa Leila?|أم كلثوم|Umm Kulthum
+005|song:aghadanalqak:singer|aghadan|من المطربة المصرية التي غنّت قصيدة «أغدًا ألقاك»؟|Which Egyptian female singer performed Aghadan Alqak?|أم كلثوم|Umm Kulthum
+006|song:yamsaharni:singer|yamsaharni|من المطربة المصرية صاحبة أغنية «يا مسهرني»؟|Which Egyptian female singer performs Ya Msaharni?|أم كلثوم|Umm Kulthum
+007|song:tamallymaak:singer|tamallycredits|من المطرب المصري صاحب أغنية «تملي معاك»؟|Which Egyptian singer performs Tamally Maak?|عمرو دياب|Amr Diab
+008|song:nourelain:singer|nouralbum|من صاحب أغنية وألبوم «نور العين»؟|Who is the artist behind the song and album Nour El Ain?|عمرو دياب|Amr Diab
+009|song:mashaer:singer|mashaer|من المطربة المصرية التي غنّت «مشاعر» لمسلسل «حكاية حياة»؟|Which Egyptian female singer performed Mashaer for Hekayet Hayah?|شيرين عبدالوهاب|Sherine Abdel Wahab
+010|song:eishbeshoak:singer|eish|من صاحب أغنية وألبوم «عيش بشوقك»؟|Who is the artist behind the song and album Eish Beshoak?|تامر حسني|Tamer Hosny
+011|song:ahlahagafeeki:singer|ahlahaga|من المطرب المصري صاحب أغنية «أحلى حاجة فيكي»؟|Which Egyptian singer performs Ahla Haga Feeki?|محمد حماقي|Mohamed Hamaki
+012|song:shagarellamoon:singer|shagar|من صاحب التسجيل الأصلي لأغنية «شجر الليمون» الذي صدر عام 1981؟|Who sings the original 1981 recording of Shagar El Lamoon?|محمد منير|Mohamed Mounir
+013|song:yastar:singer|yastar|من المطرب المصري صاحب أغنية «يا ستار» الصادرة عام 2019؟|Which Egyptian singer performs the 2019 song Ya Sattar?|محمد حماقي|Mohamed Hamaki
+014|song:sidiwesalak:singer|sidi|من المطربة المصرية صاحبة أغنية «سيدي وصالك»؟|Which Egyptian female singer performs Sidi Wesalak?|أنغام|Angham
+015|song:dariyaalby:singer|dari|من صاحب أغنية «داري يا قلبي» في نسختها الرسمية على الجيتار؟|Who performs the official acoustic version of Dari Ya Alby?|حمزة نمرة|Hamza Namira
+016|song:noqtabeida:band|noqta|أي فرقة مصرية قدّمت «نقطة بيضا» مع عبدالرحمن رشدي في جلسات عام 2017؟|Which Egyptian band performed Noqta Beida with Abdelrahman Roshdy in its 2017 sessions?|كايروكي|Cairokee
+017|song:halakhasagedan:singer|hala|من المطربة المصرية صاحبة أغنية «حالة خاصة جدًا»؟|Which Egyptian female singer performs Hala Khasa Gedan?|أنغام|Angham
+018|song:ymkenkher:singer|ymken|من المطرب المصري صاحب أغنية «يمكن خير»؟|Which Egyptian singer performs Ymken Kher?|رامي صبري|Ramy Sabry
+019|song:nassay:singer|nassay|من المطربة المصرية صاحبة أغنية وألبوم «نساي»؟|Which Egyptian female singer released the song and album Nassay?|شيرين عبدالوهاب|Sherine Abdel Wahab
+020|song:hobboganna:singer|hobbo|من المطربة المصرية صاحبة أغنية «حبه جنة»؟|Which Egyptian female singer performs Hobbo Ganna?|شيرين عبدالوهاب|Sherine Abdel Wahab
+021|song:watarhassas:singer|watar|من المطربة المصرية صاحبة أغنية «الوتر الحساس»؟|Which Egyptian female singer performs El Watar El Hassas?|شيرين عبدالوهاب|Sherine Abdel Wahab
+022|song:kadabeen:singer|watar|من المطربة المصرية صاحبة أغنية «كدابين» في ألبوم «نساي»؟|Which Egyptian female singer performs Kadabeen on the album Nassay?|شيرين عبدالوهاب|Sherine Abdel Wahab
+023|song:oloosamah:singer|oloosamah|من المطرب المصري صاحب أغنية «قولوله سماح»؟|Which Egyptian singer performs Oloolo Samah?|تامر عاشور|Tamer Ashour
+024|song:wasawasa:singer|wasa3|من المطرب المصري صاحب أغنية «وسع وسع» الصادرة عام 2022؟|Which Egyptian singer performs the 2022 song Wasa Wasa?|أحمد سعد|Ahmed Saad
+025|song:qareatelfengan:singer|qareat|من المطرب المصري الذي غنّى قصيدة «قارئة الفنجان»؟|Which Egyptian singer performed Qareat El Fengan?|عبدالحليم حافظ|Abdel Halim Hafez
+026|song:ganaelhawa:singer|ganahawa|من صاحب التسجيل الكلاسيكي لأغنية «جانا الهوى»؟|Who sings the classic recording of Gana El Hawa?|عبدالحليم حافظ|Abdel Halim Hafez
+027|song:oyounelalb:singer|oyoun|من صاحبة التسجيل الكلاسيكي لأغنية «عيون القلب»؟|Who sings the classic recording of Oyoun El Alb?|نجاة الصغيرة|Nagat El Saghira
+028|song:yahabibtiyamasr:singer|yamasr|من صاحبة الأغنية الوطنية «يا حبيبتي يا مصر»؟|Who sings the patriotic song Ya Habibti Ya Masr?|شادية|Shadia
+029|song:sawah:singer|sawah|من المطرب المصري صاحب أغنية «سواح» في تسجيلها الكلاسيكي؟|Which Egyptian singer made the classic recording of Sawwah?|عبدالحليم حافظ|Abdel Halim Hafez
+030|song:ahwak:singer|ahwak|من المطرب المصري صاحب التسجيل الكلاسيكي لأغنية «أهواك»؟|Which Egyptian singer made the classic recording of Ahwak?|عبدالحليم حافظ|Abdel Halim Hafez
+031|song:resalamen:singer|resala|من المطرب المصري الذي غنّى قصيدة «رسالة من تحت الماء»؟|Which Egyptian singer performed Resala Men Taht El Maa?|عبدالحليم حافظ|Abdel Halim Hafez
+032|song:setelhabayeb:singer|sethabayeb|من المطربة صاحبة التسجيل الشهير لأغنية عيد الأم «ست الحبايب»؟|Which female singer made the celebrated recording of the Mother's Day song Set El Habayeb?|فايزة أحمد|Fayza Ahmed
+033|song:qalbidalili:singer|qalbidalili|من صاحبة التسجيل الكلاسيكي لأغنية «أنا قلبي دليلي»؟|Who sings the classic recording of Ana Albi Dalili?|ليلى مراد|Leila Mourad
+034|song:shahatelgharam:originalduo|shahat|من الثنائي الذي غنّى «شحات الغرام» في تسجيلها الأصلي؟|Which duo performed the original recording of Shahat El Gharam?|محمد فوزي وليلى مراد|Mohammed Fawzi and Leila Mourad
+035|song:algondol:singer|gondol|من الموسيقار المصري الذي غنّى قصيدة «الجندول»؟|Which Egyptian composer and singer performed Al Gondol?|محمد عبدالوهاب|Mohammed Abdel Wahab
+036|song:anabastannak:singer|bastannak|من صاحبة التسجيل الكلاسيكي لأغنية «أنا بستناك»؟|Who sings the classic recording of Ana Bastannak?|نجاة الصغيرة|Nagat El Saghira
+037|song:elzeinwelzeina:singer|zein|من صاحب أغنية «الزين والزينة» المعروفة في حفلات الزفاف؟|Who sings El Zein Wel Zeina, a song often associated with weddings?|علي الحجار|Ali El Haggar
+038|song:saaf:singer|saaf|من المطرب الذي قدّم أغنية «سقف» بكليب شارك فيه عدد كبير من النجوم؟|Which singer released Saaf with a video featuring many celebrities?|رامي جمال|Ramy Gamal
+039|song:analawhabibak:singer|fouadhits|من المطرب المصري صاحب أغنية «أنا لو حبيبك»؟|Which Egyptian singer performs Ana Law Habibak?|محمد فؤاد|Mohamed Fouad
+040|song:fadyshewaya:singer|fady|من صاحب أغنية «فاضي شوية»؟|Who sings Fady Shewaya?|حمزة نمرة|Hamza Namira
+041|song:ananegm:band|ananegm|أي فرقة مصرية قدّمت أغنية «أنا نجم»؟|Which Egyptian band released Ana Negm?|كايروكي|Cairokee
+042|song:monaya:singer|monaya|من المطرب صاحب أغنية «منايا»؟|Who sings Monaya?|مصطفى قمر|Moustafa Amar
+043|song:betwanesbeek:singer|betwanes|من صاحبة التسجيل الشهير لأغنية «بتونس بيك»؟|Who sings the famous recording of Betwanes Beek?|وردة|Warda
+044|song:leilynahary:singer|leily|من المطرب الذي أصدر أغنية «ليلي نهاري» عبر روتانا؟|Which singer released Leily Nahary through Rotana?|عمرو دياب|Amr Diab
+045|song:wemalo:singer|wemalo|من صاحب أغنية «وماله»؟|Who sings We Malo?|عمرو دياب|Amr Diab
+046|song:amarain:singer|amarain|من المطرب الذي غنّى «قمرين»؟|Which singer performs Amarain?|عمرو دياب|Amr Diab
+047|song:tetragafeya:singer|tetraga|من المطرب المصري صاحب أغنية «تترجي فيا»؟|Which Egyptian singer performs Tetraga Feya?|إيهاب توفيق|Ehab Tawfik
+048|song:narinarein:singer|nari|من المطرب المصري الذي اشتهر بأغنية «ناري نارين»؟|Which Egyptian singer is known for Nari Narein?|هشام عباس|Hisham Abbas
+049|song:kamannana:singer|fouadhits|من المطرب الذي غنّى «كامننا» في تسجيلها الأصلي؟|Which singer performed the original recording of Kamannana?|محمد فؤاد|Mohamed Fouad
+050|song:elhobelhaqiqi:singer|fouadhits|من صاحب أغنية «الحب الحقيقي» الصادرة عام 1998؟|Who sings the song El Hob El Haqiqi released in 1998?|محمد فؤاد|Mohamed Fouad
+051|song:fakrakyanasini:singer|fouadhits|من صاحب أغنية «فاكرك يا ناسيني»؟|Who sings Fakrak Ya Nasini?|محمد فؤاد|Mohamed Fouad
+052|artist:abdelhalim:nickname|halimhistory|أي مطرب مصري اشتهر بلقب «العندليب الأسمر»؟|Which Egyptian singer was nicknamed the Brown Nightingale?|عبدالحليم حافظ|Abdel Halim Hafez
+053|artist:ummkulthum:nickname|ummhistory|أي مطربة مصرية اشتهرت بلقب «كوكب الشرق»؟|Which Egyptian singer was nicknamed the Star of the East?|أم كلثوم|Umm Kulthum
+054|nationalanthem:egypt:title|sayedhistory|ما اسم النشيد الذي لحّنه سيد درويش وأصبح النشيد الوطني لمصر؟|What is the title of the anthem composed by Sayed Darwish that became Egypt's national anthem?|بلادي بلادي|Bilady Bilady
+055|venue:ummmuseum:honouree|ummmuseum|أي مطربة يخلّدها المتحف الملحق بقصر المانسترلي في القاهرة؟|Which singer is commemorated by the museum adjoining Manasterli Palace in Cairo?|أم كلثوم|Umm Kulthum
+056|operetta:elleilaelkebira:performanceform|leilak|اشتهر أوبريت «الليلة الكبيرة» بعروض أي نوع من المسرح؟|El Leila El Kebira is especially famous as a production of which form of theatre?|مسرح العرائس|Puppet theatre
+057|programme:ghawwas:presenter|ammarhistory|من الموسيقار الذي قدّم برنامج «غواص في بحر النغم»؟|Which composer presented the programme Ghawwas Fi Bahr El Nagham?|عمار الشريعي|Ammar El Sherei
+058|song:zahmayadonya:singer|adaweya|من المطرب الشعبي صاحب أغنية «زحمة يا دنيا زحمة»؟|Which shaabi singer performs Zahma Ya Donya Zahma?|أحمد عدوية|Ahmed Adaweya
+059|song:anaalbiileikmayyal:singer|fayzahits|من صاحبة التسجيل الكلاسيكي لأغنية «أنا قلبي إليك ميال»؟|Who sings the classic recording of Ana Albi Ileik Mayyal?|فايزة أحمد|Fayza Ahmed
+060|song:yahlowsabbah:singer|qandilconcert|من المطرب المرتبط بالتسجيل الكلاسيكي لأغنية «يا حلو صبح»؟|Which singer is associated with the classic recording of Ya Helw Sabbah?|محمد قنديل|Mohammed Qandil
+061|song:yamestaagelferaqi:singer|tharwat|من صاحب أغنية «يا مستعجل فراقي» الصادرة عام 2021؟|Who sings Ya Mestaagel Feraqi, released in 2021?|محمد ثروت|Mohamed Tharwat
+062|song:seketelsalama:singer|seketsalama|من المطربة التي أصدرت «سكة السلامة» ضمن ألبوم «ولاد النهاردة»؟|Which singer released Seket El Salama on the album Welad El Naharda?|آمال ماهر|Amal Maher
+063|song:ahyaeinyyaleil:singer|louayconcert|من المطرب المصري صاحب أغنية «آه يا عيني يا ليل»؟|Which Egyptian singer performs Ah Ya Einy Ya Leil?|لؤي|Louay
+064|song:gouba:band|louayconcert|أي فرقة مصرية تضم أعمالها أغنية «جوبا»؟|Which Egyptian band's repertoire includes the song Gouba?|بلاك تيما|Black Theama
+065|song:ghaba:performer|ghaba|من مغني الراب المصري الذي أطلق كليب «غابة» عام 2021؟|Which Egyptian rapper released the Ghaba music video in 2021?|مروان بابلو|Marwan Pablo
+066|song:elbakht:performer|elbakht|من مغني الراب المصري صاحب أغنية «البخت»؟|Which Egyptian rapper performs El Bakht?|ويجز|Wegz
+067|song:mnalbibaghany:singer|mnalbi|من المطرب صاحب أغنية «من قلبي بغني» التي حمل ألبومه اسمها؟|Which singer performs Mn Albi Baghany, the title track of his album?|محمد حماقي|Mohamed Hamaki
+068|song:yamaelqamaralbab:singer|fayzahits|من صاحبة الأغنية الكلاسيكية «ياما القمر ع الباب»؟|Who sings the classic song Yama El Qamar Al Bab?|فايزة أحمد|Fayza Ahmed

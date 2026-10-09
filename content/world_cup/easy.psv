@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|worldcup:trophy1966:dogfinder|pickles|ما اسم الكلب الذي عثر على كأس العالم المسروقة قبل مونديال 1966؟|What was the name of the dog that found the stolen World Cup trophy before the 1966 tournament?|بيكلز|Pickles
+002|worldcup:final1958:champion|pele58|أي منتخب فاز بنهائي كأس العالم 1958 على السويد بنتيجة 5–2؟|Which team beat Sweden 5–2 in the 1958 World Cup final?|البرازيل|Brazil
+003|worldcup:final1970:opponent|final70|أي منتخب واجه البرازيل في نهائي كأس العالم 1970؟|Which team faced Brazil in the 1970 World Cup final?|إيطاليا|Italy
+004|worldcup:final1978:champion|final78|أي منتخب فاز على هولندا في نهائي كأس العالم 1978؟|Which team beat the Netherlands in the 1978 World Cup final?|الأرجنتين|Argentina
+005|worldcup:fontaine1958:goaltotal|fontaine|كم هدفاً سجل جوست فونتين في كأس العالم 1958؟|How many goals did Just Fontaine score at the 1958 World Cup?|13 هدفاً|13 goals
+006|worldcup:maradona1986:solohero|maradona86|من صاحب «هدف القرن» في مرمى إنجلترا بكأس العالم 1986؟|Who scored the Goal of the Century against England at the 1986 World Cup?|دييغو مارادونا|Diego Maradona
+007|worldcup:final2002:brace|ronaldo02|من سجل هدفي البرازيل في نهائي كأس العالم 2002؟|Who scored both Brazil goals in the 2002 World Cup final?|رونالدو|Ronaldo
+008|worldcup:final2010:winner|iniesta10|من سجل هدف فوز إسبانيا في نهائي كأس العالم 2010؟|Who scored Spain's winning goal in the 2010 World Cup final?|أندريس إنييستا|Andres Iniesta
+009|worldcup:semifinal2014:score|klose14|بأي نتيجة فازت ألمانيا على البرازيل في نصف نهائي كأس العالم 2014؟|By what score did Germany beat Brazil in the 2014 World Cup semi-final?|7–1|7–1
+010|worldcup:bronze2018:team|bronze18|أي منتخب احتل المركز الثالث في كأس العالم 2018 بعد فوزه على إنجلترا؟|Which team finished third at the 2018 World Cup after beating England?|بلجيكا|Belgium
+011|worldcup:final2022:champion|final22|أي منتخب تُوج بطلاً لكأس العالم 2022 بعد ركلات الترجيح في النهائي؟|Which team won the 2022 World Cup after a penalty shoot-out in the final?|الأرجنتين|Argentina
+012|worldcup:awards2022:goldenboot|awards22|من فاز بالحذاء الذهبي لهداف كأس العالم 2022؟|Who won the Golden Boot at the 2022 World Cup?|كيليان مبابي|Kylian Mbappe
+013|worldcup:awards2018:goldenball|awards18|أي نجم كرواتي اختير أفضل لاعب في مونديال روسيا 2018 ونال الكرة الذهبية؟|Which Croatian star received the Golden Ball at Russia 2018?|لوكا مودريتش|Luka Modric
+014|worldcup:final2022:stadium|final22|في أي ملعب أُقيم نهائي كأس العالم 2022؟|At which stadium was the 2022 World Cup final played?|استاد لوسيل|Lusail Stadium
+015|worldcup:ball1970:manufacturer|balls|أي شركة صنعت كرة تيلستار الرسمية لكأس العالم 1970؟|Which company made the official Telstar ball for the 1970 World Cup?|أديداس|adidas
+016|worldcup:cards:introduction|cards|في أي نسخة من كأس العالم استُخدمت البطاقتان الصفراء والحمراء للمرة الأولى؟|At which World Cup were yellow and red cards first used?|المكسيك 1970|Mexico 1970
+017|worldcup:cameroon1990:keeperdispossessed|milla90|من الحارس الكولومبي الذي خطف روجيه ميلا الكرة منه وسجل في مونديال 1990؟|Which Colombian goalkeeper had the ball stolen by Roger Milla before he scored at the 1990 World Cup?|رينيه هيغيتا|Rene Higuita
+018|worldcup:russia1994:fivegoalhero|salenko94|من اللاعب الروسي الذي سجل خمسة أهداف في مباراة واحدة بكأس العالم 1994؟|Which Russian player scored five goals in one match at the 1994 World Cup?|أوليغ سالينكو|Oleg Salenko
+019|worldcup:inaugural1930:champion|uruguay30|أي منتخب فاز بأول نسخة من كأس العالم عام 1930؟|Which team won the first World Cup in 1930?|أوروغواي|Uruguay
+020|worldcup:final1966:champion|final66|أي منتخب تُوج بكأس العالم 1966 على ملعب ويمبلي؟|Which team won the 1966 World Cup at Wembley?|إنجلترا|England
+021|worldcup:final1998:headers|zidane98|من سجل هدفين بالرأس لفرنسا في نهائي كأس العالم 1998؟|Who scored two headers for France in the 1998 World Cup final?|زين الدين زيدان|Zinedine Zidane
+022|worldcup:final2014:winner|gotze14|من سجل هدف فوز ألمانيا في نهائي كأس العالم 2014؟|Who scored Germany's winning goal in the 2014 World Cup final?|ماريو غوتزه|Mario Gotze
+023|worldcup:morocco2022:africanfirst|morocco22|أي منتخب أصبح أول فريق أفريقي يبلغ نصف نهائي كأس العالم عام 2022؟|Which team became the first African side to reach a World Cup semi-final in 2022?|المغرب|Morocco
+024|worldcup:senegal2002:openingupset|senegal02|أي منتخب أفريقي هزم فرنسا حاملة اللقب في افتتاح كأس العالم 2002؟|Which African team beat defending champions France in the opening match of the 2002 World Cup?|السنغال|Senegal
+025|worldcup:final1966:hat-trick|final66|من سجل ثلاثية لإنجلترا في نهائي كأس العالم 1966؟|Who scored a hat-trick for England in the 1966 World Cup final?|جيوف هيرست|Geoff Hurst
+026|worldcup:ghana2010:handball|ghana10|من لاعب أوروغواي الذي طُرد للمسه الكرة بيده على خط المرمى أمام غانا في مونديال 2010؟|Which Uruguay player was sent off for handling on the goal line against Ghana at the 2010 World Cup?|لويس سواريز|Luis Suarez
+027|worldcup:final1954:champion|final54|أي منتخب حقق «معجزة برن» بالفوز على المجر في نهائي مونديال 1954؟|Which team achieved the Miracle of Bern by beating Hungary in the 1954 World Cup final?|ألمانيا الغربية|West Germany
+028|worldcup:belgium2018:comebackopponent|chadli18|أي منتخب تقدّم على بلجيكا بهدفين قبل أن يخسر 3–2 في دور الـ16 بمونديال 2018؟|Which team led Belgium by two goals before losing 3–2 in the round of 16 at the 2018 World Cup?|اليابان|Japan
+029|womensworldcup:inaugural1991:champion|women91|أي منتخب فاز بأول كأس عالم للسيدات عام 1991؟|Which team won the first Women's World Cup in 1991?|الولايات المتحدة|United States
+030|womensworldcup:inaugural1991:host|women91|أي دولة استضافت أول كأس عالم للسيدات عام 1991؟|Which country hosted the first Women's World Cup in 1991?|الصين|China
+031|womensworldcup:final2011:champion|women11|أي منتخب آسيوي فاز بكأس العالم للسيدات عام 2011؟|Which Asian team won the Women's World Cup in 2011?|اليابان|Japan
+032|womensworldcup:final2023:champion|women23|أي منتخب فاز بكأس العالم للسيدات عام 2023 على حساب إنجلترا؟|Which team won the 2023 Women's World Cup by beating England?|إسبانيا|Spain
+033|worldcup:spain2014:divingheader|vanpersie14|من سجل لهولندا هدفه الشهير بالرأس وهو طائر أمام إسبانيا في مونديال 2014؟|Who scored the famous flying header for the Netherlands against Spain at the 2014 World Cup?|روبن فان بيرسي|Robin van Persie
+034|worldcup:england2002:freekick|ronaldinho02|من سجل للبرازيل الركلة الحرة الشهيرة فوق ديفيد سيمان في مونديال 2002؟|Who scored Brazil's famous free-kick over David Seaman at the 2002 World Cup?|رونالدينيو|Ronaldinho
+035|worldcup:spain2018:hat-trick|ronaldo18|من سجل ثلاثية للبرتغال أمام إسبانيا في كأس العالم 2018؟|Who scored a hat-trick for Portugal against Spain at the 2018 World Cup?|كريستيانو رونالدو|Cristiano Ronaldo
+036|worldcup:serbia2022:bicyclekick|richarlison22|من سجل هدف البرازيل بالمقصية أمام صربيا الذي اختير أجمل أهداف مونديال 2022؟|Who scored Brazil's bicycle kick against Serbia that was voted Goal of the Tournament at the 2022 World Cup?|ريتشارليسون|Richarlison
+037|worldcup:england2010:disallowedshot|lampard10|من صاحب التسديدة التي تجاوزت خط مرمى ألمانيا ولم تُحتسب هدفاً لإنجلترا في مونديال 2010؟|Whose shot crossed Germany's goal line but was not awarded as an England goal at the 2010 World Cup?|فرانك لامبارد|Frank Lampard
+038|worldcup:inaugural1930:year|uruguay30|في أي عام أُقيم أول نهائي لكأس العالم بين أوروغواي والأرجنتين؟|In which year was the first World Cup final between Uruguay and Argentina played?|1930|1930
+039|worldcup:egypt:firstafrican|morocco86|أي دولة عربية كانت أول دولة أفريقية تتأهل إلى كأس العالم؟|Which Arab country was the first African country to qualify for the World Cup?|مصر|Egypt
+040|worldcup:champions2006:team|klose06|أي منتخب فاز بكأس العالم 2006 في ألمانيا؟|Which team won the 2006 World Cup in Germany?|إيطاليا|Italy
+041|worldcup:final2010:opponent|iniesta10|أي منتخب خسر نهائي كأس العالم 2010 أمام إسبانيا؟|Which team lost the 2010 World Cup final to Spain?|هولندا|Netherlands
+042|worldcup:final2014:venue|gotze14|أي ملعب برازيلي استضاف نهائي كأس العالم 2014؟|Which Brazilian stadium hosted the 2014 World Cup final?|ماراكانا|Maracana
+043|worldcup:final1966:venue|final66|في أي ملعب أُقيم نهائي كأس العالم 1966؟|At which stadium was the 1966 World Cup final played?|ويمبلي|Wembley
+044|worldcup:final2018:score|final18|بأي نتيجة انتهى نهائي كأس العالم 2018 بين فرنسا وكرواتيا؟|What was the score in the 2018 World Cup final between France and Croatia?|4–2 لفرنسا|4–2 to France
+045|worldcup:final2022:extra-timescore|final22|ما نتيجة نهائي كأس العالم 2022 بين الأرجنتين وفرنسا بعد الوقت الإضافي وقبل الترجيح؟|What was the score after extra time, before the shoot-out, in the 2022 World Cup final between Argentina and France?|3–3|3–3
+046|worldcup:korea2018:upsetopponent|korea18|أي منتخب حامل للقب هزمته كوريا الجنوبية 2–0 في مونديال 2018؟|Which defending champion did Korea Republic beat 2–0 at the 2018 World Cup?|ألمانيا|Germany
+047|worldcup:spain2022:decisivekick|hakimi22|من سجل ركلة الترجيح الحاسمة للمغرب أمام إسبانيا في مونديال 2022؟|Who scored Morocco's decisive shoot-out kick against Spain at the 2022 World Cup?|أشرف حكيمي|Achraf Hakimi
+048|worldcup:brazil2022:eliminator|petkovic22|أي منتخب أقصى البرازيل بركلات الترجيح في ربع نهائي مونديال 2022؟|Which team eliminated Brazil on penalties in the 2022 World Cup quarter-final?|كرواتيا|Croatia
+049|worldcup:spain2022:moroccokeeper|bono22|من حارس المغرب الذي تصدى لركلتي ترجيح أمام إسبانيا في مونديال 2022؟|Which Morocco goalkeeper saved two penalties against Spain at the 2022 World Cup?|ياسين بونو|Yassine Bounou
+050|worldcup:france1998:coach|blanc98|من كان مدرب فرنسا عند فوزها بكأس العالم 1998؟|Who coached France when they won the 1998 World Cup?|إيمي جاكيه|Aime Jacquet
+051|worldcup:final1970:score|final70|بأي نتيجة فازت البرازيل على إيطاليا في نهائي كأس العالم 1970؟|By what score did Brazil beat Italy in the 1970 World Cup final?|4–1|4–1
+052|worldcup:final2002:score|ronaldo02|بأي نتيجة فازت البرازيل على ألمانيا في نهائي كأس العالم 2002؟|By what score did Brazil beat Germany in the 2002 World Cup final?|2–0|2–0
+053|worldcup:final1998:score|zidane98|بأي نتيجة فازت فرنسا على البرازيل في نهائي كأس العالم 1998؟|By what score did France beat Brazil in the 1998 World Cup final?|3–0|3–0
+054|worldcup:schedule:interval|rimetvision|كم سنة تفصل عادةً بين نسختين من كأس العالم للرجال؟|How many years usually separate editions of the men's World Cup?|أربع سنوات|Four years
+055|worldcup:africa2010:firsthost|tshabalala10|أي دولة كانت أول دولة أفريقية تستضيف كأس العالم؟|Which country was the first African country to host the World Cup?|جنوب أفريقيا|South Africa
+056|worldcup:asia2002:cohosts|asiahosts|ما الدولتان اللتان استضافتا كأس العالم 2002 معاً؟|Which two countries co-hosted the 2002 World Cup?|كوريا الجنوبية واليابان|Korea Republic and Japan
+057|worldcup:host2018:country|russiahost|أي دولة استضافت كأس العالم 2018؟|Which country hosted the 2018 World Cup?|روسيا|Russia
+058|worldcup:host1986:country|mexicohost|أي دولة استضافت كأس العالم 1986 التي تُوجت بها الأرجنتين؟|Which country hosted the 1986 World Cup won by Argentina?|المكسيك|Mexico
+059|worldcup:host1998:country|teamcounts|أي دولة استضافت كأس العالم 1998؟|Which country hosted the 1998 World Cup?|فرنسا|France
+060|worldcup:host2006:country|teamcounts|أي دولة استضافت كأس العالم 2006؟|Which country hosted the 2006 World Cup?|ألمانيا|Germany
+061|worldcup:host1994:country|teamcounts|أي دولة استضافت كأس العالم 1994؟|Which country hosted the 1994 World Cup?|الولايات المتحدة|United States
+062|worldcup:host2014:country|teamcounts|أي دولة استضافت كأس العالم 2014؟|Which country hosted the 2014 World Cup?|البرازيل|Brazil
+063|worldcup:uruguay2014:volleyhero|james14|من سجل لكولومبيا تسديدته الطائرة الشهيرة أمام أوروغواي في كأس العالم 2014؟|Who scored Colombia's famous volley against Uruguay at the 2014 World Cup?|خاميس رودريغيز|James Rodriguez
+064|worldcup:qualifying2014:portugalhat-trick|ronaldoqualify|من سجل ثلاثية في السويد ليقود البرتغال إلى كأس العالم 2014 عبر الملحق؟|Who scored a hat-trick in Sweden to take Portugal to the 2014 World Cup through the play-off?|كريستيانو رونالدو|Cristiano Ronaldo
+065|worldcup:awards2022:goldenball|awards22|أي قائد للأرجنتين نال الكرة الذهبية لأفضل لاعب في مونديال قطر 2022؟|Which Argentina captain received the best-player Golden Ball at Qatar 2022?|ليونيل ميسي|Lionel Messi
+066|worldcup:awards2018:youngplayer|awards18|من فاز بجائزة أفضل لاعب شاب في كأس العالم 2018؟|Who won the Young Player Award at the 2018 World Cup?|كيليان مبابي|Kylian Mbappe
+067|worldcup:trophy1970:permanentholder|final70|أي منتخب احتفظ بكأس جول ريميه نهائياً بعد تتويجه الثالث عام 1970؟|Which team kept the Jules Rimet Trophy permanently after its third title in 1970?|البرازيل|Brazil
+068|worldcup:pele:threetitles|pelethree|من اللاعب البرازيلي الذي تُوج بكأس العالم في أعوام 1958 و1962 و1970؟|Which Brazilian player won the World Cup in 1958, 1962 and 1970?|بيليه|Pele

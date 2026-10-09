@@ -1,0 +1,278 @@
+{
+  "la_liga_v2_006/la_liga_v2_028": {
+    "hash": "6afeedab502eca74d5976f036c06bf931e667f330bf3a43b18281371cb461d8e",
+    "reason": "Different club stadiums and namesakes: Santiago Bernabeu versus Ramon Sanchez-Pizjuan. The shared wording does not repeat an entity/fact."
+  },
+  "la_liga_v2_009/la_liga_v2_074": {
+    "hash": "3afeeba35ab67897ea40102eb89dce0e7881eb09038fecb99cd423e033c65dc2",
+    "reason": "Different club stadiums and namesakes: Mestalla versus El Sadar. The shared wording does not repeat an entity/fact."
+  },
+  "la_liga_v2_009/la_liga_v2_094": {
+    "hash": "d9ac3ce3bd88ca27d74884cc588dfdd5a8a7e3c4b5843a3cc1f36c6a5c7ff1fc",
+    "reason": "Different club stadiums and namesakes: Mestalla versus Montilivi. The shared wording does not repeat an entity/fact."
+  },
+  "la_liga_v2_012/la_liga_v2_013": {
+    "hash": "b34c3c87a30cff7bd9e9079179fc65e467ee09b31bcdc9ed782ce12cddc19691",
+    "reason": "Osasuna red and Celta sky-blue shirts belong to different clubs."
+  },
+  "la_liga_v2_068/la_liga_v2_074": {
+    "hash": "afa4ff8c4fde7aaac919579b25d6835f7b6a4efb110d63d53baa9e26cc218bb6",
+    "reason": "Different club stadiums and namesakes: Ciutat de Valencia versus El Sadar. The shared wording does not repeat an entity/fact."
+  },
+  "la_liga_v2_074/la_liga_v2_087": {
+    "hash": "b3c18c478741f66bbcbe4c91297ea3d324a571657dbb4a2085dc03e211723bb9",
+    "reason": "Different club stadiums and namesakes: El Sadar versus Ipurua. The shared wording does not repeat an entity/fact."
+  },
+  "la_liga_v2_074/la_liga_v2_094": {
+    "hash": "87650cbffbb3a2d166ea260452c12ae9043776cdaaaf90c662a93f0ffe166941",
+    "reason": "Different club stadiums and namesakes: El Sadar versus Montilivi. The shared wording does not repeat an entity/fact."
+  },
+  "la_liga_v2_080/la_liga_v2_127": {
+    "hash": "47c96474bab7057f6553724f4add2423141daaefa9d6169bd5899294090f9c6e",
+    "reason": "Villa two goals for Barcelona in 2010 and Zamorano three goals for Madrid in 1995 are different players, clubs and matches."
+  },
+  "la_liga_v2_087/la_liga_v2_094": {
+    "hash": "ff2bc9c64d50865b52e7e4f7535d62fd5acd422e20c870fb368005edcf8ede51",
+    "reason": "Different club stadiums and namesakes: Ipurua versus Montilivi. The shared wording does not repeat an entity/fact."
+  },
+  "la_liga_v2_110/la_liga_v2_131": {
+    "hash": "3bddf48474a61900140369b26983423cb5333e5647f26a00d061deb3d8ec15dd",
+    "reason": "Isco Malaga-to-Madrid 2013 and Ramos Sevilla-to-Madrid 2005 are different moves."
+  },
+  "la_liga_v2_005/uae_football_v2_028": {
+    "hash": "d7a08954598a72e270fded7a38447bc758ad499602453ce44a2def6e7afcde70",
+    "reason": "Distinct clubs/regions and attributes: derby:basque:clubs compared with bur-dubai-derby:clubs. Answers Athletic Club and Real Sociedad / Al Nasr and Al Wasl refer to different subjects."
+  },
+  "la_liga_v2_009/uae_football_v2_021": {
+    "hash": "a95416fd553eb56ffb21107f76e1e2eda37249a6c9cb6bbc7cf6ec177bd2b4f8",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with al-wasl:home:stadium. Answers Mestalla / Zabeel Stadium refer to different subjects."
+  },
+  "la_liga_v2_009/uae_football_v2_023": {
+    "hash": "910c5392b43e9713e4b4b945256a7772fef5a820daeb301d1a8eb91d0ac4b2c7",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with al-jazira:home:stadium. Answers Mestalla / Mohammed bin Zayed Stadium refer to different subjects."
+  },
+  "la_liga_v2_009/uae_football_v2_025": {
+    "hash": "20f1b4be7e9c5e368962a29c65f5d4936136fd6e83b2045a2fb3dbe48f5616f1",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with ajman:home:stadium. Answers Mestalla / Rashid bin Saeed Stadium refer to different subjects."
+  },
+  "la_liga_v2_009/uae_football_v2_027": {
+    "hash": "5257571bf409f9b6d4d7b17f5384046c4976166013d351daf5ed858263c2f5f6",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with khorfakkan:home:stadium. Answers Mestalla / Saqr bin Mohammed Al Qassimi Stadium refer to different subjects."
+  },
+  "la_liga_v2_009/uae_football_v2_067": {
+    "hash": "1a11bee344c92e59e2a99df6ba248b6e57dce0404f7a3b669b4e855231ce29ce",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with kalba:home:stadium. Answers Mestalla / Kalba Stadium refer to different subjects."
+  },
+  "la_liga_v2_011/uae_football_v2_032": {
+    "hash": "219ef7d3ca72809e32178be2af9f51b32e02f58597cc3a81d39e3238817f80ea",
+    "reason": "Distinct clubs/regions and attributes: nickname:villarreal:submarine compared with sharjah:nickname. Answers Villarreal / Sharjah refer to different subjects."
+  },
+  "la_liga_v2_012/uae_football_v2_029": {
+    "hash": "6bbc91e9bf57b5a9af7072ada227ff5f4f188f34fdadbf926f8ed6fc66e8cd9f",
+    "reason": "Distinct clubs/regions and attributes: kit:osasuna:red compared with al-wasl:kit:primary-colour. Answers Red / Yellow refer to different subjects."
+  },
+  "la_liga_v2_019/uae_football_v2_032": {
+    "hash": "971162307f87faee77e654df48e101df7e26a290b25cbe40c21a21625d15e8fb",
+    "reason": "Distinct clubs/regions and attributes: nickname:espanyol:pericos compared with sharjah:nickname. Answers Espanyol / Sharjah refer to different subjects."
+  },
+  "la_liga_v2_068/uae_football_v2_020": {
+    "hash": "d2d3c762af15edf2851b4619a8bd076380901999cda9c5f441df7f1ce6b6b069",
+    "reason": "Distinct clubs/regions and attributes: venue:levante-ciutat-home-stadium compared with al-nasr:home:stadium. Answers Ciutat de Valencia / Al Maktoum Stadium refer to different subjects."
+  },
+  "la_liga_v2_068/uae_football_v2_021": {
+    "hash": "1d995aa3f1870fea385b2bd64995d8b18609c92da89524e8fb869a5db8aa68bc",
+    "reason": "Distinct clubs/regions and attributes: venue:levante-ciutat-home-stadium compared with al-wasl:home:stadium. Answers Ciutat de Valencia / Zabeel Stadium refer to different subjects."
+  },
+  "la_liga_v2_074/uae_football_v2_021": {
+    "hash": "6379780b2fd9a80e1fd4aa15b453629d3050f9ab2a799ecb077bd2d2b8c942e0",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with al-wasl:home:stadium. Answers El Sadar / Zabeel Stadium refer to different subjects."
+  },
+  "la_liga_v2_074/uae_football_v2_023": {
+    "hash": "0cfcd912cb40846ba2c14e5a6c99a6e7f218d0a8d7ed14f8c65c6aed4b529d65",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with al-jazira:home:stadium. Answers El Sadar / Mohammed bin Zayed Stadium refer to different subjects."
+  },
+  "la_liga_v2_074/uae_football_v2_025": {
+    "hash": "02f72fa9a831f465ec1facb716a9e757d2fb0541dec0efb2b0edf6d8809ddf85",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with ajman:home:stadium. Answers El Sadar / Rashid bin Saeed Stadium refer to different subjects."
+  },
+  "la_liga_v2_074/uae_football_v2_027": {
+    "hash": "80e41426cd13534dacf5609a0eb19eeb21cf1d0e63e7227c5ed588e25960fa1e",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with khorfakkan:home:stadium. Answers El Sadar / Saqr bin Mohammed Al Qassimi Stadium refer to different subjects."
+  },
+  "la_liga_v2_074/uae_football_v2_067": {
+    "hash": "3000ca064419ff7642b80dbfd475e22ccdd53d4b378f4373dc8d7798d2959153",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with kalba:home:stadium. Answers El Sadar / Kalba Stadium refer to different subjects."
+  },
+  "la_liga_v2_087/uae_football_v2_021": {
+    "hash": "8599e80fce7cdc837be7c708f59f15277cdd36b313a1ecfccaa6449f688e34e1",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with al-wasl:home:stadium. Answers Ipurua / Zabeel Stadium refer to different subjects."
+  },
+  "la_liga_v2_087/uae_football_v2_023": {
+    "hash": "1c7c648a0f7cab28d715e9b6cb451aa73bfd3e0ce53ce36396f1ee371de0a2df",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with al-jazira:home:stadium. Answers Ipurua / Mohammed bin Zayed Stadium refer to different subjects."
+  },
+  "la_liga_v2_087/uae_football_v2_025": {
+    "hash": "275c4151d3f32c3d64c837d58f46e32753d691ef15050f3f83c4c7b360cb79bd",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with ajman:home:stadium. Answers Ipurua / Rashid bin Saeed Stadium refer to different subjects."
+  },
+  "la_liga_v2_087/uae_football_v2_027": {
+    "hash": "54d3fc8c4cbabdda27e120f0085e46a2ad718af968adb183dd1cd26aa8ed3f93",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with khorfakkan:home:stadium. Answers Ipurua / Saqr bin Mohammed Al Qassimi Stadium refer to different subjects."
+  },
+  "la_liga_v2_087/uae_football_v2_067": {
+    "hash": "9f5558e863ffe7c0a3d219c96fb2428ff0dccff831aa99a3b333511567819cd4",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with kalba:home:stadium. Answers Ipurua / Kalba Stadium refer to different subjects."
+  },
+  "la_liga_v2_094/uae_football_v2_021": {
+    "hash": "e4e6e52ee6901ceca5ce5a47d005e0dd128dfda960e643aeccc4e33136144739",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with al-wasl:home:stadium. Answers Montilivi / Zabeel Stadium refer to different subjects."
+  },
+  "la_liga_v2_094/uae_football_v2_023": {
+    "hash": "29e1c56d83658d52fc8f38770c0c080a4785bc473007d2324216fd9ac2c1924e",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with al-jazira:home:stadium. Answers Montilivi / Mohammed bin Zayed Stadium refer to different subjects."
+  },
+  "la_liga_v2_094/uae_football_v2_025": {
+    "hash": "dabb59c50d9a1b69f4d2040133f2188ea80fe83a09998c3d2297c9ea2debb56b",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with ajman:home:stadium. Answers Montilivi / Rashid bin Saeed Stadium refer to different subjects."
+  },
+  "la_liga_v2_094/uae_football_v2_027": {
+    "hash": "d53f9ca6a28ba62ad494851b9b96c8d2b69c9b0ef8d5aee2077aba04f4033c31",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with khorfakkan:home:stadium. Answers Montilivi / Saqr bin Mohammed Al Qassimi Stadium refer to different subjects."
+  },
+  "la_liga_v2_094/uae_football_v2_067": {
+    "hash": "0aef43f51f244c8d41a7d06d1ae15dd0a5b5bab12e79015e1b8fad399943f560",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with kalba:home:stadium. Answers Montilivi / Kalba Stadium refer to different subjects."
+  },
+  "la_liga_v2_144/uae_football_v2_103": {
+    "hash": "4d176b2e76580698b88ac921f18b323160ce45f8dc6e8e83dfc2650783fa29a8",
+    "reason": "Osasuna 1920 Sportiva/New Club merger differs from Al Jazira 1974 Al Khalidiya/Al Bateen merger."
+  },
+  "la_liga_v2_019/uae_pro_league_v2_055": {
+    "hash": "669299c0d7c48ca2a287bad6bb94d635a96d97cdd5c7f7b311c323c7383d9469",
+    "reason": "Distinct clubs/regions and attributes: nickname:espanyol:pericos compared with club:emirates:emirate. Answers Espanyol / Ras Al Khaimah refer to different subjects."
+  },
+  "la_liga_v2_029/uae_pro_league_v2_012": {
+    "hash": "ad7017181348a422a1f8132e51ce503f6a4686ff22cb58c7c031d74e680e3360",
+    "reason": "Distinct clubs/regions and attributes: venue:athletic:cathedral compared with identity:hatta:nickname. Answers San Mames / Hatta refer to different subjects."
+  },
+  "la_liga_v2_029/uae_pro_league_v2_013": {
+    "hash": "388cee7a2c48bd10e6b81f2f62959ee7a9227ad547b35cb5e72d0d91d1c9d660",
+    "reason": "Distinct clubs/regions and attributes: venue:athletic:cathedral compared with identity:emirates:nickname. Answers San Mames / Emirates Club refer to different subjects."
+  },
+  "la_liga_v2_068/uae_pro_league_v2_083": {
+    "hash": "f0a6f5781468bb1d8b4796e81893da8bbbb7873fca133d1d3e4e9b2f369d4232",
+    "reason": "Distinct clubs/regions and attributes: venue:levante-ciutat-home-stadium compared with venue:hatta:homestadium. Answers Ciutat de Valencia / Hamdan Bin Rashid Al Maktoum Stadium refer to different subjects."
+  },
+  "la_liga_v2_074/uae_pro_league_v2_083": {
+    "hash": "3a49dc6cb31c667aadad9f95d07f68618103f7bdadb6a9d85fbd2696dc34cb1f",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with venue:hatta:homestadium. Answers El Sadar / Hamdan Bin Rashid Al Maktoum Stadium refer to different subjects."
+  },
+  "la_liga_v2_084/uae_pro_league_v2_162": {
+    "hash": "5ade23f1755ab0af0decae7e6f654789ed6788d9e0d6fac7c632cd8c786bf523",
+    "reason": "Raul first Madrid league goal against Atletico differs from Ahmed Khalil first Al Ahli goal against Al Wahda."
+  },
+  "la_liga_v2_089/uae_pro_league_v2_092": {
+    "hash": "cc30cf9b67429686670e84ff94c0b54b3e06a833696ac45239098c61599cdad8",
+    "reason": "Antic Atletico 1996 double differs from Abel Braga coaching a different UAE club in a different title campaign."
+  },
+  "la_liga_v2_089/uae_pro_league_v2_136": {
+    "hash": "bc59215d3e382f30d1a4060f323b833c57be0f5d60d1afb124f62d5c4c10f5a0",
+    "reason": "Antic Atletico 1996 double differs from Vladimir Ivic coaching a different UAE club in a different title campaign."
+  },
+  "la_liga_v2_177/uae_pro_league_v2_019": {
+    "hash": "524ff68afb6bf212fa3dd88b8eb61767005cc2e5e730dcf33c7ed32af2ea6077",
+    "reason": "Koke Jorge Resurreccion Merodio differs from Kaku Alejandro Romero; different players and full names."
+  },
+  "la_liga_v2_005/premier_league_v2_035": {
+    "hash": "a8cb3436e79268b5c9cb36d4651456a17e2166994b54c060f3749a8325f13071",
+    "reason": "Distinct clubs/regions and attributes: derby:basque:clubs compared with derby:northlondon:clubs. Answers Athletic Club and Real Sociedad / Arsenal and Tottenham Hotspur refer to different subjects."
+  },
+  "la_liga_v2_005/premier_league_v2_036": {
+    "hash": "36af44c2200181c99873fcfd381a2b54b5341e8ba1c256a4663bf94647d34398",
+    "reason": "Distinct clubs/regions and attributes: derby:basque:clubs compared with derby:merseyside:clubs. Answers Athletic Club and Real Sociedad / Liverpool and Everton refer to different subjects."
+  },
+  "la_liga_v2_005/premier_league_v2_105": {
+    "hash": "853a6a533c8db739c967485294195ef917255d8a34bb56396d3266078a334825",
+    "reason": "Distinct clubs/regions and attributes: derby:basque:clubs compared with derby:blackcountry:clubs. Answers Athletic Club and Real Sociedad / Wolverhampton Wanderers and West Bromwich Albion refer to different subjects."
+  },
+  "la_liga_v2_009/premier_league_v2_064": {
+    "hash": "9a67ccaacde4e1873d52c8bb3bb614f35cd1d0d1ceaafbf070ff688a08e8f2b1",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with club:newcastle:home. Answers Mestalla / St James' Park refer to different subjects."
+  },
+  "la_liga_v2_009/premier_league_v2_065": {
+    "hash": "f61cb5e9fd8ce302fec31517ce0750a3f22a3fbad1aac60030ccae413d5b7a39",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with club:villa:home. Answers Mestalla / Villa Park refer to different subjects."
+  },
+  "la_liga_v2_009/premier_league_v2_133": {
+    "hash": "a30356b070feb58bb24b018b39d49fb015e212efcafaa9eff56b8698539e2d00",
+    "reason": "Distinct clubs/regions and attributes: venue:valencia:home compared with club:ipswich:home. Answers Mestalla / Portman Road refer to different subjects."
+  },
+  "la_liga_v2_011/premier_league_v2_040": {
+    "hash": "74fc06d642ef1902ccefd6f6856fcd249503aab2a4d39eb659d54bebfd00cfaa",
+    "reason": "Distinct clubs/regions and attributes: nickname:villarreal:submarine compared with club:westham:nickname. Answers Villarreal / West Ham United refer to different subjects."
+  },
+  "la_liga_v2_011/premier_league_v2_051": {
+    "hash": "884a9eb032d52af4b6b2597bba717dc4ff1a1637df298ac62da655103efe711e",
+    "reason": "Distinct clubs/regions and attributes: nickname:villarreal:submarine compared with club:brentford:nickname. Answers Villarreal / Brentford refer to different subjects."
+  },
+  "la_liga_v2_011/premier_league_v2_067": {
+    "hash": "653df6c5d01db8b0c8f095962e5dd52e25ed622c005e0f5ee50c75f3eff3a972",
+    "reason": "Distinct clubs/regions and attributes: nickname:villarreal:submarine compared with club:hull:nickname. Answers Villarreal / Hull City refer to different subjects."
+  },
+  "la_liga_v2_019/premier_league_v2_040": {
+    "hash": "e14bc8e50b39d42686cf781e273fb424ae3eec9ef4f2596b6ad956f1166720af",
+    "reason": "Distinct clubs/regions and attributes: nickname:espanyol:pericos compared with club:westham:nickname. Answers Espanyol / West Ham United refer to different subjects."
+  },
+  "la_liga_v2_019/premier_league_v2_051": {
+    "hash": "991c192fe13133040a00851dd907845eafb978d4d3e94aa43b759bb17ed33b08",
+    "reason": "Distinct clubs/regions and attributes: nickname:espanyol:pericos compared with club:brentford:nickname. Answers Espanyol / Brentford refer to different subjects."
+  },
+  "la_liga_v2_019/premier_league_v2_067": {
+    "hash": "c67bb79e93ec2de283a3ff180bde820d33bc25701945d0730f26639458c8daca",
+    "reason": "Distinct clubs/regions and attributes: nickname:espanyol:pericos compared with club:hull:nickname. Answers Espanyol / Hull City refer to different subjects."
+  },
+  "la_liga_v2_068/premier_league_v2_054": {
+    "hash": "7cc18ea8ceb59ec798e96cf2f2a194eff98b1b76ea71af78f0b8725692e8b047",
+    "reason": "Distinct clubs/regions and attributes: venue:levante-ciutat-home-stadium compared with club:liverpool:home. Answers Ciutat de Valencia / Anfield refer to different subjects."
+  },
+  "la_liga_v2_069/premier_league_v2_001": {
+    "hash": "c907a9e11e4981ae990397d8ee38d3f98df7eccfba5eb0670784687e3c6c54eb",
+    "reason": "Spanish league founded 1929 differs from English Premier League inaugurated 1992-93."
+  },
+  "la_liga_v2_074/premier_league_v2_064": {
+    "hash": "e02a2abc8d613e6919c631cfa5b23d23e2a45818275fc081a7ecda72ae871c65",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with club:newcastle:home. Answers El Sadar / St James' Park refer to different subjects."
+  },
+  "la_liga_v2_074/premier_league_v2_065": {
+    "hash": "a5aa651126793589257f48de0605f1a3c90ee0e6b1e3cab83b3a305f8c5109ce",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with club:villa:home. Answers El Sadar / Villa Park refer to different subjects."
+  },
+  "la_liga_v2_074/premier_league_v2_133": {
+    "hash": "2752186131f48c1accda0e0bc9af5c12f9954c11373e5a48d4e78c15157c45eb",
+    "reason": "Distinct clubs/regions and attributes: venue:osasuna:home compared with club:ipswich:home. Answers El Sadar / Portman Road refer to different subjects."
+  },
+  "la_liga_v2_087/premier_league_v2_064": {
+    "hash": "c675906d7c997274c4d98a55ba5d7146fde89a087ca7c77afd51bfbfb1e63093",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with club:newcastle:home. Answers Ipurua / St James' Park refer to different subjects."
+  },
+  "la_liga_v2_087/premier_league_v2_065": {
+    "hash": "96993ac08c6e39d9aa8cea2b2dc6f7cb46284cbb9f209661e474d1e279d89f31",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with club:villa:home. Answers Ipurua / Villa Park refer to different subjects."
+  },
+  "la_liga_v2_087/premier_league_v2_133": {
+    "hash": "eb641e8638cd127395afa62f7c8df1764ca1af6d8412110b77d226d25d77e969",
+    "reason": "Distinct clubs/regions and attributes: venue:eibar:home compared with club:ipswich:home. Answers Ipurua / Portman Road refer to different subjects."
+  },
+  "la_liga_v2_094/premier_league_v2_064": {
+    "hash": "eaf0fad701e9ef4fdae980407f99fe5b32b977128e70f3866afbfb8c9247c9ad",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with club:newcastle:home. Answers Montilivi / St James' Park refer to different subjects."
+  },
+  "la_liga_v2_094/premier_league_v2_065": {
+    "hash": "fcf33a5881b3b4e7b0caddfc53885bd067d7eb3c05250d3330039800dbe2bfa8",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with club:villa:home. Answers Montilivi / Villa Park refer to different subjects."
+  },
+  "la_liga_v2_094/premier_league_v2_133": {
+    "hash": "f00b1dfb54c2e88adacf389db826c0bbacaa08ba7badcb64aafc26680b143214",
+    "reason": "Distinct clubs/regions and attributes: venue:girona:home compared with club:ipswich:home. Answers Montilivi / Portman Road refer to different subjects."
+  }
+}

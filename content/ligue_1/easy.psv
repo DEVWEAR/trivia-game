@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|history:1933:firstchampion|first_champion|أي نادٍ فاز بأول بطولة احترافية للدوري الفرنسي عام 1933؟|Which club won the first professional French league championship in 1933?|أولمبيك ليلوا|Olympique Lillois
+002|record:onnis:career299|scoring_records|من الهداف التاريخي للدوري الفرنسي برصيد 299 هدفاً؟|Who is the French top flight's all-time leading scorer with 299 goals?|ديليو أونيس|Delio Onnis
+003|record:lyon:sevenconsecutive|lyon_dynasty|أي نادٍ فاز بسبعة ألقاب متتالية للدوري الفرنسي بين 2002 و2008؟|Which club won seven consecutive French league titles between 2002 and 2008?|أولمبيك ليون|Olympique Lyonnais
+004|identity:lens:sangetor|lens_preview|أي نادٍ فرنسي يُعرف بلقب «سانغ إيه أور»، أي الدم والذهب؟|Which French club is known as Sang et Or, meaning Blood and Gold?|لانس|Lens
+005|identity:nantes:canaries|nantes_preview|أي نادٍ فرنسي يُلقب بـ«الكناري» ويرتدي الأصفر والأخضر؟|Which French club is nicknamed the Canaries and wears yellow and green?|نانت|Nantes
+006|identity:lille:dogues|lille_preview|أي نادٍ فرنسي يُعرف بلقب «لي دوغ»، أي كلاب الماستيف؟|Which French club is known as Les Dogues, meaning the mastiffs?|ليل|Lille
+007|player:david:canada|lille_preview|أي منتخب يمثله جوناثان ديفيد الذي تألق مهاجماً مع ليل؟|Which national team does Jonathan David, who starred as a Lille striker, represent?|كندا|Canada
+008|coach:bordeaux2009:blanc|gourcuff2009|من قاد بوردو إلى لقب الدوري الفرنسي عام 2009؟|Who coached Bordeaux to the French league title in 2009?|لوران بلان|Laurent Blanc
+009|player:juninho:freekicks|juninho|من أسطورة ليون البرازيلي الشهير بتسديداته من الركلات الحرة؟|Who is Lyon's Brazilian legend famous for his free kicks?|جونينيو بيرنامبوكانو|Juninho Pernambucano
+010|player:mbappe:firstleagueclub|mbappe_emergence|مع أي نادٍ خاض كيليان مبابي أول مباراة له في الدوري الفرنسي؟|With which club did Kylian Mbappe make his French league debut?|موناكو|Monaco
+011|coach:monaco2017:jardim|monaco_portuguese|من المدرب البرتغالي الذي قاد موناكو إلى لقب الدوري عام 2017؟|Which Portuguese coach led Monaco to the league title in 2017?|ليوناردو جارديم|Leonardo Jardim
+012|history:montpellier2012:champion|montpellier2012|أي نادٍ حقق مفاجأة التتويج بالدوري الفرنسي عام 2012؟|Which club surprised France by winning the league in 2012?|مونبلييه|Montpellier
+013|identity:asse:verts|asse_preview|أي نادٍ فرنسي تشتهر جماهيره بلقب «لي فير»، أي الخضر؟|Which French club is famous as Les Verts, meaning the Greens?|سانت إتيان|Saint-Etienne
+014|identity:toulouse:violets|toulouse_preview|أي نادٍ فرنسي يُعرف بلقب «لي فيوليه»، أي البنفسجيين؟|Which French club is known as Les Violets, meaning the Purples?|تولوز|Toulouse
+015|identity:nice:aiglons|nice_preview|أي نادٍ على الريفييرا الفرنسية يُلقب بـ«لي زيغلون»، أي صغار النسور؟|Which French Riviera club is nicknamed Les Aiglons, meaning the Eaglets?|نيس|Nice
+016|player:dante:nice:brazil|nice_preview|أي منتخب مثّله دانتي، المدافع المخضرم الذي ارتبط اسمه بنيس؟|Which national team did Dante, the veteran defender associated with Nice, represent?|البرازيل|Brazil
+017|history:psg:foundingyear|psg_foundation|في أي عام تأسس باريس سان جيرمان؟|In which year was Paris Saint-Germain founded?|1970|1970
+018|identity:dimaria:elfideo|psg_dimaria|أي جناح أرجنتيني تألق مع باريس سان جيرمان واشتهر بلقب «إل فيديو»؟|Which Argentine winger starred for Paris Saint-Germain and was known as El Fideo?|أنخيل دي ماريا|Angel Di Maria
+019|player:rai:brazil|psg_rai|من نجم باريس البرازيلي في التسعينيات الذي كان قائد منتخب بلاده عند انتقاله للنادي عام 1993؟|Which Brazilian Paris star of the 1990s was his country's captain when he joined the club in 1993?|راي|Rai
+020|kit:messi:psg30|psg_messi_number|ما رقم القميص الذي ارتداه ليونيل ميسي مع باريس سان جيرمان؟|Which shirt number did Lionel Messi wear at Paris Saint-Germain?|30|30
+021|identity:pauleta:azoreseagle|psg_pauleta_nickname|من مهاجم باريس البرتغالي المعروف بلقب «نسر جزر الأزور»؟|Which Portuguese Paris striker is known as the Eagle of the Azores?|بيدرو باوليتا|Pedro Pauleta
+022|identity:ginola:elmagnifico|psg1994|أي نجم باريس في التسعينيات لقبته الصحافة الإسبانية «إل ماغنيفيكو»؟|Which Paris star of the 1990s did the Spanish press nickname El Magnifico?|دافيد جينولا|David Ginola
+023|player:falcao:colombia|falcao_monaco|ما جنسية راداميل فالكاو، مهاجم موناكو المتوج بالدوري عام 2017؟|What nationality is Radamel Falcao, Monaco's title-winning striker in 2017?|كولومبي|Colombian
+024|player:hazard:lilleacademy|hazard_extension|أي نادٍ فرنسي تخرج إيدين هازارد من أكاديميته؟|Which French club's academy produced Eden Hazard?|ليل|Lille
+025|record:papin:fiveconsecutive|scoring_records|من مهاجم مارسيليا الذي تصدر هدافي الدوري الفرنسي خمس مرات متتالية من 1988 إلى 1992؟|Which Marseille striker led the French league scoring charts five times in a row from 1988 to 1992?|جان بيير بابان|Jean-Pierre Papin
+026|player:yilmaz:turkey|lille2021_history|ما جنسية بوراك يلماز، أحد أبرز مهاجمي ليل بطل الدوري عام 2021؟|What nationality is Burak Yilmaz, a leading striker for Lille's 2021 champions?|تركي|Turkish
+027|coach:marseille:2010deschamps|om_veterans|من قاد مارسيليا تدريبياً إلى لقب الدوري الفرنسي عام 2010؟|Who coached Marseille to the French league title in 2010?|ديدييه ديشان|Didier Deschamps
+028|coach:lille:2021galtier|lille2021_clinch|من مدرب ليل الذي توج بالدوري الفرنسي عام 2021؟|Who was Lille's coach when they won the French league in 2021?|كريستوف غالتييه|Christophe Galtier
+029|rivalry:olympico:clubs|olympico2024|ما الناديان اللذان يتواجهان في مباراة «الأولمبيكو» الفرنسية؟|Which two clubs meet in France's Olympico fixture?|ليون ومارسيليا|Lyon and Marseille
+030|scorer:benzema:2008lyon|scorers_seasons|من نجم ليون الذي تصدر هدافي الدوري الفرنسي عام 2008 قبل انتقاله لاحقاً إلى ريال مدريد؟|Which Lyon star topped the French league scoring charts in 2008 before later joining Real Madrid?|كريم بنزيما|Karim Benzema
+031|rivalry:classique:clubs|classique_history|ما طرفا المواجهة الفرنسية المعروفة باسم «لو كلاسيك»؟|Which two clubs contest the French fixture known as Le Classique?|باريس سان جيرمان ومارسيليا|Paris Saint-Germain and Marseille
+032|rivalry:rhone:clubs|rhone_derby|ليون يواجه أي نادٍ في ديربي الرون الشهير؟|Which club faces Lyon in the famous Rhone derby?|سانت إتيان|Saint-Etienne
+033|legend:fontaine:reims|reims_legends|مع أي نادٍ فرنسي تألق جوست فونتين في أواخر الخمسينيات إلى جانب ريمون كوبا؟|For which French club did Just Fontaine star alongside Raymond Kopa in the late 1950s?|ستاد ريمس|Stade de Reims
+034|player:zidane:firstleagueclub|zidane_birthday|مع أي نادٍ ظهر زين الدين زيدان لأول مرة في الدوري الفرنسي؟|For which club did Zinedine Zidane make his French league debut?|كان|Cannes
+035|player:zidane:bordeaux1992|zidane_birthday|إلى أي نادٍ فرنسي انتقل زيدان من كان عام 1992؟|Which French club did Zidane join from Cannes in 1992?|بوردو|Bordeaux
+036|stadium:marseille:velodrome|marseille_preview|ما ملعب أولمبيك مارسيليا الشهير؟|What is Olympique de Marseille's famous home stadium?|فيلودروم|Stade Velodrome
+037|stadium:monaco:louisii|monaco_preview|ما الملعب الذي يحمل اسم أمير ويستضيف مباريات موناكو؟|Which stadium named after a prince hosts Monaco's home matches?|لويس الثاني|Stade Louis II
+038|identity:nice:liveeagle|nice_mefi|أي طائر يحلق في ملعب نيس قبل مبارياته على أرضه؟|Which bird flies around Nice's stadium before their home matches?|نسر|An eagle
+039|identity:tamari:firstjordanian|tamari_ambassador|من أول لاعب أردني شارك في الدوري الفرنسي؟|Who was the first Jordanian player to appear in the French league?|موسى التعمري|Mousa Al-Taamari
+040|identity:cavani:matador|cavani_retrospective|أي مهاجم أوروغواياني تألق مع باريس واشتهر بلقب «الماتادور»؟|Which Uruguayan striker starred for Paris and was known as El Matador?|إدينسون كافاني|Edinson Cavani
+041|match:lyonom:2009score|big_scores|ما نتيجة التعادل الشهير بين ليون ومارسيليا في الدوري عام 2009؟|What was the score in Lyon and Marseille's famous league draw in 2009?|5–5|5–5
+042|family:ayew:abedifather|football_families|من أسطورة مارسيليا الذي أنجب أندريه وجوردان أيو؟|Which Marseille legend is the father of Andre and Jordan Ayew?|عبيدي بيليه|Abedi Pele
+043|family:thuram:lilianfather|football_families|ماركوس وكيفرين تورام هما ابنا أي مدافع فرنسي لعب لموناكو؟|Marcus and Khephren Thuram are the sons of which French defender who played for Monaco?|ليليان تورام|Lilian Thuram
+044|identity:brest:pirates|brest_preview|أي نادٍ من بريتاني يعرف بلقب «القراصنة»؟|Which Brittany club is nicknamed the Pirates?|بريست|Brest
+045|coach:marseille:bielsa2014|om_coaches|أي مدرب أرجنتيني تولى تدريب مارسيليا عام 2014؟|Which Argentine coach took charge of Marseille in 2014?|مارسيلو بيلسا|Marcelo Bielsa
+046|player:lehavre:koukaegypt|lehavre_winter|ما جنسية أحمد حسن «كوكا»، الذي انضم إلى لوهافر عام 2025؟|What nationality is Ahmed Hassan Kouka, who joined Le Havre in 2025?|مصري|Egyptian
+047|player:klinsmann:monacoclub|germans_history|مع أي نادٍ فرنسي لعب يورغن كلينسمان بين إنتر ميلان وتوتنهام؟|For which French club did Jurgen Klinsmann play between Inter Milan and Tottenham?|موناكو|Monaco
+048|player:voller:marseilleclub|germans_history|مع أي نادٍ فرنسي لعب رودي فولر بعد رحيله عن روما عام 1992؟|For which French club did Rudi Voller play after leaving Roma in 1992?|مارسيليا|Marseille
+049|competition:supercup:identity|trophy_hosts|ما اسم مباراة السوبر الفرنسية التي تجمع بطل الدوري ببطل كأس فرنسا؟|What is the name of the French Super Cup match between the league champion and the French Cup winner?|كأس الأبطال «تروفي دي شامبيون»|Trophee des Champions
+050|competition:supercup:2025city|trophy_hosts|في أي مدينة خليجية أقيمت مباراة كأس الأبطال الفرنسية يوم 5 يناير 2025؟|Which Gulf city hosted the French Trophee des Champions match on 5 January 2025?|الدوحة|Doha
+051|competition:ligue1:formername|east_derby|ما الاسم الذي كان يُستخدم للدوري الفرنسي قبل تسميته «ليغ 1» عام 2002؟|What was the French top division called before it was renamed Ligue 1 in 2002?|ديفيزيون 1|Division 1
+052|competition:ligue1:2023teams|league_size|كم نادياً يشارك في الدوري الفرنسي منذ موسم 2023–2024؟|How many clubs compete in Ligue 1 from the 2023–2024 season onward?|18 نادياً|18 clubs
+053|player:doue:rennesorigin|unfp2025|من أي نادٍ فرنسي انتقل ديزيريه دويه إلى باريس سان جيرمان في صيف 2024؟|From which French club did Desire Doue join Paris Saint-Germain in summer 2024?|رين|Rennes
+054|coach:wenger:1988title|wenger_france|مع أي نادٍ فاز أرسين فينغر بلقب الدوري الفرنسي عام 1988؟|With which club did Arsene Wenger win the French league title in 1988?|موناكو|Monaco
+055|player:weah:firsteuropeanclub|weah_monaco|ما أول نادٍ أوروبي لعب له جورج ويا، حين وصل إلى فرنسا عام 1988؟|What was George Weah's first European club when he arrived in France in 1988?|موناكو|Monaco
+056|club:lorient:nickname|lorient_identity|أي نادٍ فرنسي يُلقب بـ«الميرلو»، نسبةً إلى سمك النازلي؟|Which French club is nicknamed Les Merlus, meaning the hake?|لوريان|Lorient
+057|coach:roux:legendclub|auxerre_history|بأي نادٍ فرنسي ارتبطت المسيرة التدريبية الطويلة لغي رو؟|Which French club is associated with Guy Roux's long managerial career?|أوكسير|Auxerre
+058|player:camavinga:2019rennes|camavinga_rennes|مع أي نادٍ تألق إدواردو كامافينغا بعمر 16 عاماً أمام باريس سان جيرمان في أغسطس 2019؟|With which club did sixteen-year-old Eduardo Camavinga star against Paris Saint-Germain in August 2019?|رين|Rennes
+059|stadium:reims:delaune|reims_preview|ما اسم ملعب ستاد ريمس؟|What is Stade de Reims's home ground called?|أوغوست دولون|Stade Auguste Delaune
+060|player:salifkeita:nationality|foreign_scorers|أي بلد إفريقي مثّله ساليف كيتا، نجم سانت إتيان التاريخي؟|Which African country did historic Saint-Etienne star Salif Keita represent?|مالي|Mali
+061|coach:luisenrique:2025award|coach_awards|من المدرب الإسباني لباريس سان جيرمان الذي نال جائزة أفضل مدرب في الدوري الفرنسي عام 2025؟|Which Spanish Paris Saint-Germain coach won Ligue 1 Coach of the Year in 2025?|لويس إنريكي|Luis Enrique
+062|player:balotelli:2016niceclub|balotelli_nice|إلى أي نادٍ فرنسي انتقل ماريو بالوتيلي عام 2016 بعد تجربته مع ليفربول؟|Which French club did Mario Balotelli join in 2016 after his spell at Liverpool?|نيس|Nice
+063|match:fekir:2017shirtcelebration|fekir_derby|من قائد ليون الذي رفع قميصه أمام جمهور سانت إتيان بعد التسجيل في ديربي نوفمبر 2017؟|Which Lyon captain held up his shirt toward Saint-Etienne fans after scoring in the November 2017 derby?|نبيل فقير|Nabil Fekir
+064|player:lille:2021goalkeeper|lille2021_history|من حارس مرمى ليل الأساسي في موسم الفوز بالدوري الفرنسي 2020–2021؟|Who was Lille's first-choice goalkeeper in their 2020–2021 French league title season?|مايك مينيان|Mike Maignan
+065|player:marquinhos:2025captain|unfp2025|من المدافع البرازيلي الذي حمل شارة قيادة باريس سان جيرمان في موسم 2024–2025؟|Which Brazilian defender captained Paris Saint-Germain in the 2024–2025 season?|ماركينيوس|Marquinhos
+066|record:niang:2010topscorer|niang_history|من مهاجم مارسيليا السنغالي الذي أنهى موسم 2009–2010 هدافاً للدوري الفرنسي؟|Which Senegalese Marseille striker finished 2009–2010 as the French league's top scorer?|مامادو نيانغ|Mamadou Niang
+067|player:edmilson:2004destination|lyon_brazilians|إلى أي نادٍ إسباني انتقل إدميلسون بعد أربع سنوات مع ليون؟|Which Spanish club did Edmilson join after four years at Lyon?|برشلونة|Barcelona
+068|player:pacho:2024origin|unfp2025|من أي نادٍ ألماني ضم باريس سان جيرمان المدافع ويليان باتشو في صيف 2024؟|From which German club did Paris Saint-Germain sign defender Willian Pacho in summer 2024?|آينتراخت فرانكفورت|Eintracht Frankfurt

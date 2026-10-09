@@ -1,0 +1,69 @@
+id|factKey|topic|source|questionAr|questionEn|answerAr|answerEn
+001|state:capital:city|National identity|emirates|ما عاصمة دولة الإمارات العربية المتحدة؟|What is the capital of the United Arab Emirates?|أبوظبي|Abu Dhabi
+002|state:federation:emirates-count|National identity|emirates|من كم إمارة يتكوّن اتحاد دولة الإمارات؟|How many emirates make up the UAE federation?|سبع إمارات|Seven
+003|state:union:proclamation-date|National history|union|في أي يوم وشهر وسنة أُعلن قيام دولة الإمارات؟|On what day, month and year was the UAE proclaimed?|2 ديسمبر 1971|2 December 1971
+004|state:president:first|National history|union|من أول رئيس لدولة الإمارات العربية المتحدة؟|Who was the first President of the UAE?|الشيخ زايد بن سلطان آل نهيان|Sheikh Zayed bin Sultan Al Nahyan
+005|money:currency:name|National identity|facts|ما اسم العملة الرسمية لدولة الإمارات؟|What is the UAE's official currency called?|الدرهم الإماراتي|UAE dirham
+006|money:dirham:fils-count|National identity|facts|كم فلساً يساوي الدرهم الإماراتي الواحد؟|How many fils equal one UAE dirham?|100 فلس|100 fils
+007|emirates:area:largest|Geography|emirates|ما أكبر إمارة في الدولة من حيث المساحة؟|Which UAE emirate is the largest by area?|أبوظبي|Abu Dhabi
+008|emirates:area:smallest|Geography|emirates|ما أصغر إمارة في الدولة من حيث المساحة؟|Which UAE emirate is the smallest by area?|عجمان|Ajman
+009|state:anthem:title|National identity|facts|ما اسم النشيد الوطني الإماراتي؟|What is the title of the UAE national anthem?|عيشي بلادي|Ishy Bilady
+010|state:flag:colours|National identity|facts|ما الألوان الأربعة الموجودة في علم الإمارات؟|Which four colours appear on the UAE flag?|الأحمر والأخضر والأبيض والأسود|Red, green, white and black
+011|state:emblem:bird|National identity|facts|أي طائر يظهر في شعار دولة الإمارات؟|Which bird appears on the UAE coat of arms?|الصقر|Falcon
+012|nature:ghaf:national-tree|Environment|ghaf|ما الشجرة الوطنية لدولة الإمارات؟|What is the national tree of the UAE?|الغاف|Ghaf
+013|geography:uae:peninsula|Geography|facts|تقع الإمارات في الجزء الجنوبي الشرقي من أي شبه جزيرة؟|The UAE lies in the southeastern part of which peninsula?|شبه الجزيرة العربية|Arabian Peninsula
+014|geography:uae:land-neighbours|Geography|facts|ما الدولتان اللتان تشتركان مع الإمارات في حدود برية؟|Which two countries share land borders with the UAE?|السعودية وسلطنة عمان|Saudi Arabia and Oman
+015|geography:fujairah:coast|Geography|emirates|على أي خليج تقع سواحل إمارة الفجيرة؟|On which gulf does Fujairah's coast lie?|خليج عمان|Gulf of Oman
+016|geography:empty-quarter:arabic-name|Geography|emptyquarter|ما الاسم العربي للصحراء التي تُعرف بالإنجليزية باسم Empty Quarter وتمتد إلى أبوظبي؟|What is the Arabic name of the Empty Quarter desert that extends into Abu Dhabi?|الربع الخالي|Rub Al Khali
+017|geography:hatta:emirate|Geography|hatta|تتبع منطقة حتا الجبلية أي إمارة؟|Which emirate does the mountain town of Hatta belong to?|دبي|Dubai
+018|geography:khorfakkan:emirate|Geography|khorfakkan|تتبع مدينة خورفكان الساحلية أي إمارة؟|Which emirate does the coastal city of Khorfakkan belong to?|الشارقة|Sharjah
+019|building:burj-khalifa:height|Landmarks|dubaiguide|كم يبلغ الارتفاع المعروف لبرج خليفة بالمتر؟|What is Burj Khalifa's stated height in metres?|828 متراً|828 metres
+020|building:burj-arab:silhouette|Landmarks|burjarab|يشبه التصميم الخارجي لفندق برج العرب أي جزء من السفينة؟|Which part of a ship does Burj Al Arab's exterior resemble?|الشراع|A sail
+021|state:religion:official|National identity|constitution|ما الدين الرسمي لدولة الإمارات بحسب الدستور؟|What is the UAE official religion under its constitution?|الإسلام|Islam
+022|building:dubai-frame:name|Landmarks|dubaiguide|ما اسم المعلم في حديقة زعبيل الذي يشبه إطار صورة عملاقاً؟|What is the landmark in Zabeel Park that resembles a giant picture frame?|برواز دبي|Dubai Frame
+023|transport:dubai-creek:traditional-boat|Transport|dubaiguide|ما اسم القارب الخشبي التقليدي المستخدم لعبور خور دبي؟|What is the traditional wooden boat used to cross Dubai Creek called?|العبرة|Abra
+024|building:louvre:emirate|Arts and landmarks|louvre|في أي إمارة يقع متحف اللوفر الإماراتي؟|In which emirate is the UAE's Louvre museum located?|أبوظبي|Abu Dhabi
+025|building:qasr-watan:function|Landmarks|qasrwatan|قصر الوطن في أبوظبي قصرٌ رسمي من أي نوع؟|What type of working official palace is Qasr Al Watan in Abu Dhabi?|قصر رئاسي|A presidential palace
+026|building:hosn:oldest-standing-abudhabi|National history|hosn|ما اسم أقدم مبنى قائم في مدينة أبوظبي؟|What is the oldest standing building in Abu Dhabi city called?|قصر الحصن|Qasr Al Hosn
+027|attraction:ferrari-world:island|Landmarks|yas|على أي جزيرة في أبوظبي يقع عالم فيراري؟|On which Abu Dhabi island is Ferrari World located?|جزيرة ياس|Yas Island
+028|culture:sharjah:book-capital-title|Arts and culture|book|ما اللقب العالمي المرتبط بالكتب الذي حملته الشارقة عام 2019؟|What international title associated with books did Sharjah hold in 2019?|العاصمة العالمية للكتاب|World Book Capital
+029|space:hope:planet|Science|hope|أي كوكب يدرسه مسبار الأمل الإماراتي؟|Which planet does the UAE's Hope probe study?|المريخ|Mars
+030|space:hazza:first-emirati|Science|astronauts|من أول إماراتي وصل إلى الفضاء؟|Who was the first Emirati to travel into space?|هزاع المنصوري|Hazza Al Mansoori
+031|space:sultan:spacewalk-person|Science|spacewalk|من رائد الفضاء الإماراتي الذي نفّذ سيراً في الفضاء عام 2023؟|Which Emirati astronaut performed a spacewalk in 2023?|سلطان النيادي|Sultan Al Neyadi
+032|space:nora:astronaut-selection|Science|astronauts|من الإماراتية التي اختيرت عام 2021 لتصبح أول رائدة فضاء عربية؟|Which Emirati woman was selected in 2021 to become the first female Arab astronaut?|نورا المطروشي|Nora Al Matrooshi
+033|energy:barakah:energy-type|Energy|barakah|ما نوع الطاقة الذي تستخدمه محطة براكة لتوليد الكهرباء؟|What type of energy does the Barakah plant use to generate electricity?|الطاقة النووية|Nuclear energy
+034|transport:emirates:home-city|Transport|emiratesair|من أي مدينة انطلقت أولى رحلات طيران الإمارات؟|From which city did Emirates operate its first flights?|دبي|Dubai
+035|transport:etihad:home-city|Transport|etihadair|أي مدينة تتخذها الاتحاد للطيران مقراً لها؟|Which city is Etihad Airways based in?|أبوظبي|Abu Dhabi
+036|transport:metro:line-colours|Transport|metromap|ما لونا الخطين الرئيسيين لمترو دبي؟|What are the colours of Dubai Metro's two main lines?|الأحمر والأخضر|Red and green
+037|event:expo2020:host-city|Major events|expo|أي مدينة إماراتية استضافت إكسبو 2020؟|Which UAE city hosted Expo 2020?|دبي|Dubai
+038|event:cop28:purpose|Major events|cop|مؤتمر COP28 الذي استضافته الإمارات عام 2023 يختص بأي قضية عالمية؟|COP28, hosted by the UAE in 2023, addresses which global issue?|تغيّر المناخ|Climate change
+039|sport:olympic:first-gold-person|Sport beyond football|olympic|من حقق أول ميدالية ذهبية أولمبية للإمارات؟|Who won the UAE's first Olympic gold medal?|الشيخ أحمد بن حشر آل مكتوم|Sheikh Ahmed bin Hasher Al Maktoum
+040|education:uaeu:city|Education|uaeu|في أي مدينة يقع الحرم الرئيسي لجامعة الإمارات العربية المتحدة؟|In which city is the main campus of United Arab Emirates University located?|العين|Al Ain
+041|state:language:official|National identity|constitution|ما اللغة الرسمية لدولة الإمارات؟|What is the official language of the UAE?|العربية|Arabic
+042|culture:ayyala:art-identification|Arts and culture|ayyala|ما الفن الإماراتي الذي يقف فيه الرجال في صفين متقابلين ويحملون عصياً رفيعة مع إيقاع الطبول؟|Which Emirati performing art features men in two facing rows holding thin sticks to drum rhythms?|العيالة|Al Ayyala
+043|culture:talli:craft-type|Arts and culture|talli|التلي في التراث الإماراتي نوع من أي حرفة؟|In Emirati heritage, Talli is a form of which craft?|التطريز|Embroidery
+044|culture:sadu:craft-type|Arts and culture|sadu|السدو الإماراتي التقليدي يرتبط بأي حرفة نسيجية؟|Traditional Emirati Sadu is associated with which textile craft?|النسج|Weaving
+045|nature:sir-bani-yas:park-island|Environment|wildlifepark|على أي جزيرة يقع منتزه الحياة البرية العربية في أبوظبي؟|On which island is Abu Dhabi's Arabian Wildlife Park located?|صير بني ياس|Sir Bani Yas
+046|state:flag-day:annual-date|National identity|flagday|في أي يوم وشهر يُحتفل بيوم العلم الإماراتي سنوياً؟|On what day and month is UAE Flag Day celebrated each year?|3 نوفمبر|3 November
+047|state:internet:domain|National identity|facts|ما نطاق الإنترنت الوطني المكوّن من حرفين لدولة الإمارات؟|What is the UAE's two-letter national internet domain?|.ae|.ae
+048|state:time:utc-offset|National identity|facts|كم ساعة يسبق توقيت الإمارات التوقيت العالمي UTC؟|How many hours ahead of UTC is UAE time?|أربع ساعات|Four hours
+049|money:currency:international-code|National identity|facts|ما رمز الدرهم الإماراتي المكوّن من ثلاثة أحرف في التعاملات الدولية؟|What is the three-letter international code for the UAE dirham?|AED|AED
+050|geography:uae:climate-type|Geography|facts|ما نوع المناخ السائد في الإمارات؟|What is the UAE's prevailing climate type?|مناخ صحراوي|Desert climate
+051|geography:uae:northern-gulf|Geography|facts|على أي خليج تطل السواحل الشمالية والشمالية الغربية للإمارات؟|Which gulf borders the UAE's northern and northwestern coasts?|الخليج العربي|Arabian Gulf
+052|nature:ghaf:2019-symbol|Environment|ghaf|اختيرت شجرة الغاف رمزاً لأي «عام» وطني إماراتي في 2019؟|The ghaf tree was chosen as the symbol of which UAE national year in 2019?|عام التسامح|Year of Tolerance
+053|landmark:union-house:museum-complex|National history|etihadmuseum|أي متحف في دبي يضم دار الاتحاد التي شهدت توقيع الدستور عام 1971؟|Which Dubai museum includes Union House, where the constitution was signed in 1971?|متحف الاتحاد|Etihad Museum
+054|landmark:atlantis-palm:location-section|Landmarks|palm|يقع فندق أتلانتس النخلة على الجذع أم الهلال الخارجي لنخلة جميرا؟|Is Atlantis The Palm on Palm Jumeirah's trunk or outer crescent?|الهلال الخارجي|The outer crescent
+055|geography:hatta:mountain-range|Geography|hatta|ضمن أي سلسلة جبلية تقع حتا؟|Within which mountain range is Hatta located?|جبال الحجر|Hajar Mountains
+056|activity:hatta-dam:kayaking|Geography|hatta|أي نشاط تجديف تشتهر به مياه سد حتا الهادئة؟|Which paddling activity are the calm waters of Hatta Dam known for?|التجديف بقوارب الكاياك|Kayaking
+057|geography:masfout:emirate|Geography|masfout|تتبع مصفوت الجبلية أي إمارة؟|Which emirate does mountainous Masfout belong to?|عجمان|Ajman
+058|heritage:dhayah:emirate|National history|dhayah|في أي إمارة تقع قلعة ضاية المرتفعة فوق تل؟|In which emirate is the hilltop Dhayah Fort located?|رأس الخيمة|Ras Al Khaimah
+059|heritage:jazeera-hamra:traditional-economy|National history|jazeera|بأي نشاط بحري اقتصادي اشتهرت قرية الجزيرة الحمراء قبل عصر النفط؟|Which maritime economic activity was Al Jazeera Al Hamra known for before the oil era?|الغوص لاستخراج اللؤلؤ|Pearl diving
+060|building:ajman-museum:original-type|National history|ajmanmuseum|متحف عجمان قائم داخل أي نوع من المباني التاريخية؟|Ajman Museum occupies what type of historic building?|حصن|A fort
+061|transport:dxb:airport-name|Transport|dxb|أي مطار إماراتي يُعرف بالرمز DXB؟|Which UAE airport is known by the code DXB?|مطار دبي الدولي|Dubai International Airport
+062|transport:air-arabia:launch-airport|Transport|shjairport|من أي مطار انطلقت الرحلة الأولى للعربية للطيران عام 2003؟|From which airport did Air Arabia's inaugural flight depart in 2003?|مطار الشارقة|Sharjah Airport
+063|energy:shams-dubai:panel-type|Energy|shams|أي نوع من الألواح يركّبه أصحاب المباني لتوليد الكهرباء في مبادرة «شمس دبي»؟|What type of panels do building owners install to generate electricity under Shams Dubai?|الألواح الشمسية الكهروضوئية|Photovoltaic solar panels
+064|literature:ousha:poet-name|Literature|ousha|من الشاعرة الإماراتية المعروفة بلقب «فتاة العرب»؟|Which Emirati poet is known as Fatat Al Arab?|عوشة بنت خليفة السويدي|Ousha bint Khalifa Al Suwaidi
+065|space:mbzsat:honouree|Science|mbzsat|يحمل القمر MBZ-SAT اسمه تكريماً لأي رئيس إماراتي؟|MBZ-SAT is named in honour of which UAE President?|الشيخ محمد بن زايد آل نهيان|Sheikh Mohamed bin Zayed Al Nahyan
+066|event:expo2020:opening-year|Major events|expo|رغم اسم «إكسبو 2020»، في أي عام فُتحت أبوابه للزوار؟|Despite the name Expo 2020, in which year did it open to visitors?|2021|2021
+067|nature:dugong:local-name|Environment|dugong|بأي اسم شائع يُعرف حيوان الأطوم البحري في الإمارات؟|By what common name is the dugong known in the UAE?|بقرة البحر|Sea cow
+068|geography:khorfakkan:surrounding-emirate|Geography|khorfakkan|أي إمارة تحيط بمدينة خورفكان من جهة البر؟|Which emirate surrounds Khorfakkan on its landward side?|الفجيرة|Fujairah

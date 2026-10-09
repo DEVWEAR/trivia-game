@@ -1,0 +1,154 @@
+[
+  {
+    "pair": "serie_a_v2_022/uae_pro_league_v2_093",
+    "qA": "Which club won the Italian league unbeaten in 2012 under Antonio Conte?",
+    "qB": "From which Italian club did Al Nasr sign Luca Toni in January 2012?",
+    "answer": "Juventus",
+    "decision": "distinct",
+    "reason": "Juventus unbeaten 2012 title is independent of Luca Toni or Vucinic later moving from Juventus to a UAE club."
+  },
+  {
+    "pair": "serie_a_v2_022/uae_pro_league_v2_109",
+    "qA": "Which club won the Italian league unbeaten in 2012 under Antonio Conte?",
+    "qB": "From which Italian club did Mirko Vucinic move to Al Jazira?",
+    "answer": "Juventus",
+    "decision": "distinct",
+    "reason": "Juventus unbeaten 2012 title is independent of Luca Toni or Vucinic later moving from Juventus to a UAE club."
+  },
+  {
+    "pair": "serie_a_v2_035/uae_pro_league_v2_041",
+    "qA": "What is Fiorentina's traditional shirt colour, reflected in the nickname Viola?",
+    "qB": "Which distinctive colour did Al Ain adopt in 1977 and become famous for?",
+    "answer": "Purple",
+    "decision": "distinct",
+    "reason": "Fiorentina traditional purple and Al Ain adopting purple in 1977 concern different club identities."
+  },
+  {
+    "pair": "serie_a_v2_057/uae_pro_league_v2_093",
+    "qA": "Which Italian giant played in Serie B in 2006–2007 following Calciopoli?",
+    "qB": "From which Italian club did Al Nasr sign Luca Toni in January 2012?",
+    "answer": "Juventus",
+    "decision": "distinct",
+    "reason": "Juventus 2006 Calciopoli relegation differs from subsequent player transfers to UAE clubs."
+  },
+  {
+    "pair": "serie_a_v2_057/uae_pro_league_v2_109",
+    "qA": "Which Italian giant played in Serie B in 2006–2007 following Calciopoli?",
+    "qB": "From which Italian club did Mirko Vucinic move to Al Jazira?",
+    "answer": "Juventus",
+    "decision": "distinct",
+    "reason": "Juventus 2006 Calciopoli relegation differs from subsequent player transfers to UAE clubs."
+  },
+  {
+    "pair": "serie_a_v2_156/uae_pro_league_v2_085",
+    "qA": "Which club did Grande Torino face in their last friendly in Lisbon before the Superga disaster?",
+    "qB": "From which Portuguese club did Al Wasl sign Haris Seferovic permanently in 2023?",
+    "answer": "Benfica",
+    "decision": "distinct",
+    "reason": "Benfica as Torino last friendly opponent before Superga is unrelated to Seferovic or Taarabt moving from Benfica to UAE clubs."
+  },
+  {
+    "pair": "serie_a_v2_156/uae_pro_league_v2_106",
+    "qA": "Which club did Grande Torino face in their last friendly in Lisbon before the Superga disaster?",
+    "qB": "From which Portuguese club did Adel Taarabt move to Al Nasr in September 2022?",
+    "answer": "Benfica",
+    "decision": "distinct",
+    "reason": "Benfica as Torino last friendly opponent before Superga is unrelated to Seferovic or Taarabt moving from Benfica to UAE clubs."
+  },
+  {
+    "pair": "serie_a_v2_017/premier_league_v2_131",
+    "qA": "With which club did Gianluigi Buffon make his professional debut?",
+    "qB": "From which Italian club did Gianfranco Zola join Chelsea in 1996?",
+    "answer": "Parma",
+    "decision": "distinct",
+    "reason": "Buffon professional debut at Parma is a different career event from Zola transfer Parma-to-Chelsea."
+  },
+  {
+    "pair": "serie_a_v2_020/premier_league_v2_016",
+    "qA": "Which Portuguese coach led Inter in their historic treble season in 2010?",
+    "qB": "Which Portuguese Chelsea manager described himself as the Special One?",
+    "answer": "Jose Mourinho",
+    "decision": "distinct",
+    "reason": "Mourinho Inter treble 2010 differs from Chelsea Special One introduction and Real Madrid 100-point title 2012."
+  },
+  {
+    "pair": "serie_a_v2_068/premier_league_v2_131",
+    "qA": "Which Italian club won the 1999 UEFA Cup with a team featuring Buffon, Cannavaro, Thuram and Crespo?",
+    "qB": "From which Italian club did Gianfranco Zola join Chelsea in 1996?",
+    "answer": "Parma",
+    "decision": "distinct",
+    "reason": "Parma 1999 UEFA Cup winning team differs from Zola leaving Parma for Chelsea in 1996."
+  },
+  {
+    "pair": "serie_a_v2_111/premier_league_v2_115",
+    "qA": "Which AC Milan coach moved Andrea Pirlo from an advanced playmaker role into a deep-lying playmaker role?",
+    "qB": "Who managed Chelsea to the 2009-10 Premier League title when the team scored 103 goals?",
+    "answer": "Carlo Ancelotti",
+    "decision": "distinct",
+    "reason": "Ancelotti tactical use of Pirlo at Milan differs from Ancelotti Chelsea 2009/10 league title."
+  },
+  {
+    "pair": "serie_a_v2_127/premier_league_v2_160",
+    "qA": "Which Roma striker won the 2016–2017 Serie A scoring title with 29 goals?",
+    "qB": "Who scored Manchester City's stoppage-time equaliser against Queens Park Rangers before Aguero's decisive goal in 2012?",
+    "answer": "Edin Dzeko",
+    "decision": "distinct",
+    "reason": "Dzeko Roma 2017 scoring title differs from his Manchester City 2012 QPR equaliser."
+  },
+  {
+    "pair": "serie_a_v2_190/premier_league_v2_131",
+    "qA": "From which club did Sacchi move to coach AC Milan in 1987?",
+    "qB": "From which Italian club did Gianfranco Zola join Chelsea in 1996?",
+    "answer": "Parma",
+    "decision": "distinct",
+    "reason": "Sacchi move Parma-to-Milan as coach differs from Zola move Parma-to-Chelsea as player."
+  },
+  {
+    "pair": "serie_a_v2_014/la_liga_v2_096",
+    "qA": "Who coached Roma when they won the 2001 Italian league title?",
+    "qB": "Which Italian coach won the league with Real Madrid in both 1996-97 and 2006-07?",
+    "answer": "Fabio Capello",
+    "decision": "distinct",
+    "reason": "Capello Roma league title 2001 differs from his Real Madrid league titles in 1997 and 2007."
+  },
+  {
+    "pair": "serie_a_v2_020/la_liga_v2_056",
+    "qA": "Which Portuguese coach led Inter in their historic treble season in 2010?",
+    "qB": "Who coached Real Madrid in its historic 100-point La Liga season of 2011–12?",
+    "answer": "Jose Mourinho",
+    "decision": "distinct",
+    "reason": "Mourinho Inter treble 2010 differs from Chelsea Special One introduction and Real Madrid 100-point title 2012."
+  },
+  {
+    "pair": "serie_a_v2_049/la_liga_v2_058",
+    "qA": "Which Inter striker famously wore a shirt marked 1+8?",
+    "qB": "Which Chilean striker played for Sevilla and Real Madrid and was nicknamed 'Bam Bam'?",
+    "answer": "Ivan Zamorano",
+    "decision": "distinct",
+    "reason": "Zamorano Inter 1+8 shirt differs from his Bam Bam nickname and Real Madrid Clasico hat-trick in 1995."
+  },
+  {
+    "pair": "serie_a_v2_049/la_liga_v2_127",
+    "qA": "Which Inter striker famously wore a shirt marked 1+8?",
+    "qB": "Who scored a hat-trick for Real Madrid in its 5–0 win over Barcelona in January 1995?",
+    "answer": "Ivan Zamorano",
+    "decision": "distinct",
+    "reason": "Zamorano Inter 1+8 shirt differs from his Bam Bam nickname and Real Madrid Clasico hat-trick in 1995."
+  },
+  {
+    "pair": "serie_a_v2_060/la_liga_v2_001",
+    "qA": "From which Spanish club did Diego Maradona join Napoli in 1984?",
+    "qB": "Which club won the first Spanish league championship in 1929?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Barcelona as Maradona transfer origin in 1984 differs from first Spanish champion 1929 and Riquelme Villarreal transfer origin 2005."
+  },
+  {
+    "pair": "serie_a_v2_060/la_liga_v2_158",
+    "qA": "From which Spanish club did Diego Maradona join Napoli in 1984?",
+    "qB": "From which club did Villarreal buy Riquelme permanently in 2005 after his loan spell?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Barcelona as Maradona transfer origin in 1984 differs from first Spanish champion 1929 and Riquelme Villarreal transfer origin 2005."
+  }
+]

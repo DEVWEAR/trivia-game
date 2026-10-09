@@ -1,0 +1,1386 @@
+[
+  {
+    "pair": "old_school_music_v2_144/gulf_culture_v2_071",
+    "qA": "In which maqam is Modnak Jafahu Marqaduhu notated in the Arabic Music Library score?",
+    "qB": "In which Saudi region is the UNESCO-listed traditional Almezmar practised?",
+    "answer": "Hijaz",
+    "decision": "distinct",
+    "reason": "Assistant inspected In which maqam is Modnak Jafahu Marqaduhu notated in the Arabic Music Library score? against In which Saudi region is the UNESCO-listed traditional Almezmar practised?; common answer Hijaz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_008/gulf_music_v2_115",
+    "qA": "Which singer made the classic recording of Modnak Jafahu Marqaduhu?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer made the classic recording of Modnak Jafahu Marqaduhu? against Which composer gave Talal Maddah the nickname Ziryab?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_008/gulf_music_v2_131",
+    "qA": "Which singer made the classic recording of Modnak Jafahu Marqaduhu?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer made the classic recording of Modnak Jafahu Marqaduhu? against Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_068/gulf_music_v2_115",
+    "qA": "Who sings the original film recording of Ya Mesafer Wahdak?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of Ya Mesafer Wahdak? against Which composer gave Talal Maddah the nickname Ziryab?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_068/gulf_music_v2_131",
+    "qA": "Who sings the original film recording of Ya Mesafer Wahdak?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of Ya Mesafer Wahdak? against Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_069/gulf_music_v2_115",
+    "qA": "Who composed Ayazon for Najat Al Saghira?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ayazon for Najat Al Saghira? against Which composer gave Talal Maddah the nickname Ziryab?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_069/gulf_music_v2_131",
+    "qA": "Who composed Ayazon for Najat Al Saghira?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ayazon for Najat Al Saghira? against Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_104/gulf_music_v2_115",
+    "qA": "Who composed Sakan Al Lail as recorded by Fairuz?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sakan Al Lail as recorded by Fairuz? against Which composer gave Talal Maddah the nickname Ziryab?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_104/gulf_music_v2_131",
+    "qA": "Who composed Sakan Al Lail as recorded by Fairuz?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sakan Al Lail as recorded by Fairuz? against Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_110/gulf_music_v2_115",
+    "qA": "Who composed Daret El Ayyam, sung by Umm Kulthum?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Daret El Ayyam, sung by Umm Kulthum? against Which composer gave Talal Maddah the nickname Ziryab?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_110/gulf_music_v2_131",
+    "qA": "Who composed Daret El Ayyam, sung by Umm Kulthum?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Daret El Ayyam, sung by Umm Kulthum? against Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_112/gulf_music_v2_115",
+    "qA": "Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?",
+    "qB": "Which composer gave Talal Maddah the nickname Ziryab?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez? against Which composer gave Talal Maddah the nickname Ziryab?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_112/gulf_music_v2_131",
+    "qA": "Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?",
+    "qB": "Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez? against Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/kuwaiti_music_v2_083",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/kuwaiti_music_v2_083",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which Egyptian female singer influenced Awadh Doukhi's fusion of Kuwaiti and Egyptian music?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_141/saudi_music_v2_175",
+    "qA": "Who wrote the lyrics of Asmahan's Layali El Ons Fi Vienna?",
+    "qB": "Who wrote Wadaa, sung by Ibtisam Lotfi to Riad Al Sunbati's composition?",
+    "answer": "Ahmed Rami",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Asmahan's Layali El Ons Fi Vienna? against Who wrote Wadaa, sung by Ibtisam Lotfi to Riad Al Sunbati's composition?; common answer Ahmed Rami. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_144/saudi_music_v2_021",
+    "qA": "In which maqam is Modnak Jafahu Marqaduhu notated in the Arabic Music Library score?",
+    "qB": "Which Saudi region is the original home of Al Majass singing?",
+    "answer": "Hijaz",
+    "decision": "distinct",
+    "reason": "Assistant inspected In which maqam is Modnak Jafahu Marqaduhu notated in the Arabic Music Library score? against Which Saudi region is the original home of Al Majass singing?; common answer Hijaz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_008/egyptian_music_v2_035",
+    "qA": "Which singer made the classic recording of Modnak Jafahu Marqaduhu?",
+    "qB": "Which Egyptian composer and singer performed Al Gondol?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer made the classic recording of Modnak Jafahu Marqaduhu? against Which Egyptian composer and singer performed Al Gondol?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_008/egyptian_music_v2_069",
+    "qA": "Which singer made the classic recording of Modnak Jafahu Marqaduhu?",
+    "qB": "Who composed Umm Kulthum's Enta Omri?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer made the classic recording of Modnak Jafahu Marqaduhu? against Who composed Umm Kulthum's Enta Omri?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_008/egyptian_music_v2_073",
+    "qA": "Which singer made the classic recording of Modnak Jafahu Marqaduhu?",
+    "qB": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer made the classic recording of Modnak Jafahu Marqaduhu? against Who composed Aghadan Alqak for Umm Kulthum?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_008/egyptian_music_v2_099",
+    "qA": "Which singer made the classic recording of Modnak Jafahu Marqaduhu?",
+    "qB": "Who composed Abdel Halim Hafez's Ahwak?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer made the classic recording of Modnak Jafahu Marqaduhu? against Who composed Abdel Halim Hafez's Ahwak?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_008/egyptian_music_v2_101",
+    "qA": "Which singer made the classic recording of Modnak Jafahu Marqaduhu?",
+    "qB": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer made the classic recording of Modnak Jafahu Marqaduhu? against Who composed Set El Habayeb, famously recorded by Fayza Ahmed?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_035/egyptian_music_v2_028",
+    "qA": "Who performs the famous classic recording of Oulou Lain El Shams?",
+    "qB": "Who sings the patriotic song Ya Habibti Ya Masr?",
+    "answer": "Shadia",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who performs the famous classic recording of Oulou Lain El Shams? against Who sings the patriotic song Ya Habibti Ya Masr?; common answer Shadia. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_001",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which Egyptian female singer made the famous recording of Enta Omri?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which Egyptian female singer made the famous recording of Enta Omri?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_002",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which Egyptian female singer performed Al Atlal?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which Egyptian female singer performed Al Atlal?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_003",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which Egyptian female singer performs Siret El Hob?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which Egyptian female singer performs Siret El Hob?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_004",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Who sings the classic Egyptian recording of Alf Leila Wa Leila?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Who sings the classic Egyptian recording of Alf Leila Wa Leila?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_005",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which Egyptian female singer performed Aghadan Alqak?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which Egyptian female singer performed Aghadan Alqak?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_006",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which Egyptian female singer performs Ya Msaharni?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which Egyptian female singer performs Ya Msaharni?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_053",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which Egyptian singer was nicknamed the Star of the East?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which Egyptian singer was nicknamed the Star of the East?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_042/egyptian_music_v2_055",
+    "qA": "Who sings the well-known classic recording of Daret El Ayyam?",
+    "qB": "Which singer is commemorated by the museum adjoining Manasterli Palace in Cairo?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Daret El Ayyam? against Which singer is commemorated by the museum adjoining Manasterli Palace in Cairo?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_001",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which Egyptian female singer made the famous recording of Enta Omri?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which Egyptian female singer made the famous recording of Enta Omri?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_002",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which Egyptian female singer performed Al Atlal?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which Egyptian female singer performed Al Atlal?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_003",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which Egyptian female singer performs Siret El Hob?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which Egyptian female singer performs Siret El Hob?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_004",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Who sings the classic Egyptian recording of Alf Leila Wa Leila?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Who sings the classic Egyptian recording of Alf Leila Wa Leila?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_005",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which Egyptian female singer performed Aghadan Alqak?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which Egyptian female singer performed Aghadan Alqak?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_006",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which Egyptian female singer performs Ya Msaharni?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which Egyptian female singer performs Ya Msaharni?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_053",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which Egyptian singer was nicknamed the Star of the East?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which Egyptian singer was nicknamed the Star of the East?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_043/egyptian_music_v2_055",
+    "qA": "Who sings the well-known classic recording of Fat El Mead?",
+    "qB": "Which singer is commemorated by the museum adjoining Manasterli Palace in Cairo?",
+    "answer": "Umm Kulthum",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Fat El Mead? against Which singer is commemorated by the museum adjoining Manasterli Palace in Cairo?; common answer Umm Kulthum. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_044/egyptian_music_v2_025",
+    "qA": "Who sings the well-known classic recording of Nebtedi Menein El Hekaya?",
+    "qB": "Which Egyptian singer performed Qareat El Fengan?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Nebtedi Menein El Hekaya? against Which Egyptian singer performed Qareat El Fengan?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_044/egyptian_music_v2_026",
+    "qA": "Who sings the well-known classic recording of Nebtedi Menein El Hekaya?",
+    "qB": "Who sings the classic recording of Gana El Hawa?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Nebtedi Menein El Hekaya? against Who sings the classic recording of Gana El Hawa?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_044/egyptian_music_v2_029",
+    "qA": "Who sings the well-known classic recording of Nebtedi Menein El Hekaya?",
+    "qB": "Which Egyptian singer made the classic recording of Sawwah?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Nebtedi Menein El Hekaya? against Which Egyptian singer made the classic recording of Sawwah?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_044/egyptian_music_v2_030",
+    "qA": "Who sings the well-known classic recording of Nebtedi Menein El Hekaya?",
+    "qB": "Which Egyptian singer made the classic recording of Ahwak?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Nebtedi Menein El Hekaya? against Which Egyptian singer made the classic recording of Ahwak?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_044/egyptian_music_v2_031",
+    "qA": "Who sings the well-known classic recording of Nebtedi Menein El Hekaya?",
+    "qB": "Which Egyptian singer performed Resala Men Taht El Maa?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Nebtedi Menein El Hekaya? against Which Egyptian singer performed Resala Men Taht El Maa?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_044/egyptian_music_v2_052",
+    "qA": "Who sings the well-known classic recording of Nebtedi Menein El Hekaya?",
+    "qB": "Which Egyptian singer was nicknamed the Brown Nightingale?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Nebtedi Menein El Hekaya? against Which Egyptian singer was nicknamed the Brown Nightingale?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_045/egyptian_music_v2_025",
+    "qA": "Who sings the well-known classic recording of Zay El Hawa?",
+    "qB": "Which Egyptian singer performed Qareat El Fengan?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Zay El Hawa? against Which Egyptian singer performed Qareat El Fengan?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_045/egyptian_music_v2_026",
+    "qA": "Who sings the well-known classic recording of Zay El Hawa?",
+    "qB": "Who sings the classic recording of Gana El Hawa?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Zay El Hawa? against Who sings the classic recording of Gana El Hawa?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_045/egyptian_music_v2_029",
+    "qA": "Who sings the well-known classic recording of Zay El Hawa?",
+    "qB": "Which Egyptian singer made the classic recording of Sawwah?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Zay El Hawa? against Which Egyptian singer made the classic recording of Sawwah?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_045/egyptian_music_v2_030",
+    "qA": "Who sings the well-known classic recording of Zay El Hawa?",
+    "qB": "Which Egyptian singer made the classic recording of Ahwak?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Zay El Hawa? against Which Egyptian singer made the classic recording of Ahwak?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_045/egyptian_music_v2_031",
+    "qA": "Who sings the well-known classic recording of Zay El Hawa?",
+    "qB": "Which Egyptian singer performed Resala Men Taht El Maa?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Zay El Hawa? against Which Egyptian singer performed Resala Men Taht El Maa?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_045/egyptian_music_v2_052",
+    "qA": "Who sings the well-known classic recording of Zay El Hawa?",
+    "qB": "Which Egyptian singer was nicknamed the Brown Nightingale?",
+    "answer": "Abdel Halim Hafez",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the well-known classic recording of Zay El Hawa? against Which Egyptian singer was nicknamed the Brown Nightingale?; common answer Abdel Halim Hafez. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_050/egyptian_music_v2_103",
+    "qA": "Who sings the original film recording of the children’s song Zahab El Leil?",
+    "qB": "Who composed Mohammed Fawzi and Leila Mourad's Shahat El Gharam duet?",
+    "answer": "Mohammed Fawzi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of the children’s song Zahab El Leil? against Who composed Mohammed Fawzi and Leila Mourad's Shahat El Gharam duet?; common answer Mohammed Fawzi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_050/egyptian_music_v2_126",
+    "qA": "Who sings the original film recording of the children’s song Zahab El Leil?",
+    "qB": "Which Egyptian singer and composer founded the Misrphone record company?",
+    "answer": "Mohammed Fawzi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of the children’s song Zahab El Leil? against Which Egyptian singer and composer founded the Misrphone record company?; common answer Mohammed Fawzi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_068/egyptian_music_v2_035",
+    "qA": "Who sings the original film recording of Ya Mesafer Wahdak?",
+    "qB": "Which Egyptian composer and singer performed Al Gondol?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of Ya Mesafer Wahdak? against Which Egyptian composer and singer performed Al Gondol?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_068/egyptian_music_v2_069",
+    "qA": "Who sings the original film recording of Ya Mesafer Wahdak?",
+    "qB": "Who composed Umm Kulthum's Enta Omri?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of Ya Mesafer Wahdak? against Who composed Umm Kulthum's Enta Omri?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_068/egyptian_music_v2_073",
+    "qA": "Who sings the original film recording of Ya Mesafer Wahdak?",
+    "qB": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of Ya Mesafer Wahdak? against Who composed Aghadan Alqak for Umm Kulthum?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_068/egyptian_music_v2_099",
+    "qA": "Who sings the original film recording of Ya Mesafer Wahdak?",
+    "qB": "Who composed Abdel Halim Hafez's Ahwak?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of Ya Mesafer Wahdak? against Who composed Abdel Halim Hafez's Ahwak?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_068/egyptian_music_v2_101",
+    "qA": "Who sings the original film recording of Ya Mesafer Wahdak?",
+    "qB": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who sings the original film recording of Ya Mesafer Wahdak? against Who composed Set El Habayeb, famously recorded by Fayza Ahmed?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_069/egyptian_music_v2_035",
+    "qA": "Who composed Ayazon for Najat Al Saghira?",
+    "qB": "Which Egyptian composer and singer performed Al Gondol?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ayazon for Najat Al Saghira? against Which Egyptian composer and singer performed Al Gondol?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_069/egyptian_music_v2_069",
+    "qA": "Who composed Ayazon for Najat Al Saghira?",
+    "qB": "Who composed Umm Kulthum's Enta Omri?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ayazon for Najat Al Saghira? against Who composed Umm Kulthum's Enta Omri?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_069/egyptian_music_v2_073",
+    "qA": "Who composed Ayazon for Najat Al Saghira?",
+    "qB": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ayazon for Najat Al Saghira? against Who composed Aghadan Alqak for Umm Kulthum?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_069/egyptian_music_v2_099",
+    "qA": "Who composed Ayazon for Najat Al Saghira?",
+    "qB": "Who composed Abdel Halim Hafez's Ahwak?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ayazon for Najat Al Saghira? against Who composed Abdel Halim Hafez's Ahwak?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_069/egyptian_music_v2_101",
+    "qA": "Who composed Ayazon for Najat Al Saghira?",
+    "qB": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ayazon for Najat Al Saghira? against Who composed Set El Habayeb, famously recorded by Fayza Ahmed?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_072/egyptian_music_v2_071",
+    "qA": "Who composed El Tair El Mosafer for Najat Al Saghira?",
+    "qB": "Who composed Umm Kulthum's Siret El Hob?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed El Tair El Mosafer for Najat Al Saghira? against Who composed Umm Kulthum's Siret El Hob?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_072/egyptian_music_v2_072",
+    "qA": "Who composed El Tair El Mosafer for Najat Al Saghira?",
+    "qB": "Who composed Umm Kulthum's Alf Leila Wa Leila?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed El Tair El Mosafer for Najat Al Saghira? against Who composed Umm Kulthum's Alf Leila Wa Leila?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_072/egyptian_music_v2_095",
+    "qA": "Who composed El Tair El Mosafer for Najat Al Saghira?",
+    "qB": "Who composed Abdel Halim Hafez's Gana El Hawa?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed El Tair El Mosafer for Najat Al Saghira? against Who composed Abdel Halim Hafez's Gana El Hawa?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_072/egyptian_music_v2_097",
+    "qA": "Who composed El Tair El Mosafer for Najat Al Saghira?",
+    "qB": "Who composed Shadia's Ya Habibti Ya Masr?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed El Tair El Mosafer for Najat Al Saghira? against Who composed Shadia's Ya Habibti Ya Masr?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_072/egyptian_music_v2_098",
+    "qA": "Who composed El Tair El Mosafer for Najat Al Saghira?",
+    "qB": "Who composed Abdel Halim Hafez's Sawwah?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed El Tair El Mosafer for Najat Al Saghira? against Who composed Abdel Halim Hafez's Sawwah?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_072/egyptian_music_v2_105",
+    "qA": "Who composed El Tair El Mosafer for Najat Al Saghira?",
+    "qB": "Who composed Nagat El Saghira's Ana Bastannak?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed El Tair El Mosafer for Najat Al Saghira? against Who composed Nagat El Saghira's Ana Bastannak?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_075/egyptian_music_v2_071",
+    "qA": "Who composed Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who composed Umm Kulthum's Siret El Hob?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ala Remsh Ouyounha for Wadih El Safi? against Who composed Umm Kulthum's Siret El Hob?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_075/egyptian_music_v2_072",
+    "qA": "Who composed Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who composed Umm Kulthum's Alf Leila Wa Leila?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ala Remsh Ouyounha for Wadih El Safi? against Who composed Umm Kulthum's Alf Leila Wa Leila?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_075/egyptian_music_v2_095",
+    "qA": "Who composed Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who composed Abdel Halim Hafez's Gana El Hawa?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ala Remsh Ouyounha for Wadih El Safi? against Who composed Abdel Halim Hafez's Gana El Hawa?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_075/egyptian_music_v2_097",
+    "qA": "Who composed Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who composed Shadia's Ya Habibti Ya Masr?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ala Remsh Ouyounha for Wadih El Safi? against Who composed Shadia's Ya Habibti Ya Masr?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_075/egyptian_music_v2_098",
+    "qA": "Who composed Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who composed Abdel Halim Hafez's Sawwah?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ala Remsh Ouyounha for Wadih El Safi? against Who composed Abdel Halim Hafez's Sawwah?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_075/egyptian_music_v2_105",
+    "qA": "Who composed Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who composed Nagat El Saghira's Ana Bastannak?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Ala Remsh Ouyounha for Wadih El Safi? against Who composed Nagat El Saghira's Ana Bastannak?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_076/egyptian_music_v2_122",
+    "qA": "Who wrote the poem Modnak Jafahu Marqaduhu?",
+    "qB": "Which poet mentored Mohammed Abdel Wahab and helped develop his cultural education?",
+    "answer": "Ahmed Shawqi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the poem Modnak Jafahu Marqaduhu? against Which poet mentored Mohammed Abdel Wahab and helped develop his cultural education?; common answer Ahmed Shawqi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_077/egyptian_music_v2_112",
+    "qA": "Who composed Warda's Haramt Ahebak?",
+    "qB": "Who composed Warda's Betwanes Beek?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Warda's Haramt Ahebak? against Who composed Warda's Betwanes Beek?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_077/egyptian_music_v2_118",
+    "qA": "Who composed Warda's Haramt Ahebak?",
+    "qB": "Who composed Mohamed Fouad's Fakrak Ya Nasini?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Warda's Haramt Ahebak? against Who composed Mohamed Fouad's Fakrak Ya Nasini?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_103/egyptian_music_v2_071",
+    "qA": "Who composed Oulou Lain El Shams as recorded by Shadia?",
+    "qB": "Who composed Umm Kulthum's Siret El Hob?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Oulou Lain El Shams as recorded by Shadia? against Who composed Umm Kulthum's Siret El Hob?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_103/egyptian_music_v2_072",
+    "qA": "Who composed Oulou Lain El Shams as recorded by Shadia?",
+    "qB": "Who composed Umm Kulthum's Alf Leila Wa Leila?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Oulou Lain El Shams as recorded by Shadia? against Who composed Umm Kulthum's Alf Leila Wa Leila?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_103/egyptian_music_v2_095",
+    "qA": "Who composed Oulou Lain El Shams as recorded by Shadia?",
+    "qB": "Who composed Abdel Halim Hafez's Gana El Hawa?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Oulou Lain El Shams as recorded by Shadia? against Who composed Abdel Halim Hafez's Gana El Hawa?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_103/egyptian_music_v2_097",
+    "qA": "Who composed Oulou Lain El Shams as recorded by Shadia?",
+    "qB": "Who composed Shadia's Ya Habibti Ya Masr?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Oulou Lain El Shams as recorded by Shadia? against Who composed Shadia's Ya Habibti Ya Masr?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_103/egyptian_music_v2_098",
+    "qA": "Who composed Oulou Lain El Shams as recorded by Shadia?",
+    "qB": "Who composed Abdel Halim Hafez's Sawwah?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Oulou Lain El Shams as recorded by Shadia? against Who composed Abdel Halim Hafez's Sawwah?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_103/egyptian_music_v2_105",
+    "qA": "Who composed Oulou Lain El Shams as recorded by Shadia?",
+    "qB": "Who composed Nagat El Saghira's Ana Bastannak?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Oulou Lain El Shams as recorded by Shadia? against Who composed Nagat El Saghira's Ana Bastannak?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_104/egyptian_music_v2_035",
+    "qA": "Who composed Sakan Al Lail as recorded by Fairuz?",
+    "qB": "Which Egyptian composer and singer performed Al Gondol?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sakan Al Lail as recorded by Fairuz? against Which Egyptian composer and singer performed Al Gondol?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_104/egyptian_music_v2_069",
+    "qA": "Who composed Sakan Al Lail as recorded by Fairuz?",
+    "qB": "Who composed Umm Kulthum's Enta Omri?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sakan Al Lail as recorded by Fairuz? against Who composed Umm Kulthum's Enta Omri?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_104/egyptian_music_v2_073",
+    "qA": "Who composed Sakan Al Lail as recorded by Fairuz?",
+    "qB": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sakan Al Lail as recorded by Fairuz? against Who composed Aghadan Alqak for Umm Kulthum?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_104/egyptian_music_v2_099",
+    "qA": "Who composed Sakan Al Lail as recorded by Fairuz?",
+    "qB": "Who composed Abdel Halim Hafez's Ahwak?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sakan Al Lail as recorded by Fairuz? against Who composed Abdel Halim Hafez's Ahwak?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_104/egyptian_music_v2_101",
+    "qA": "Who composed Sakan Al Lail as recorded by Fairuz?",
+    "qB": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sakan Al Lail as recorded by Fairuz? against Who composed Set El Habayeb, famously recorded by Fayza Ahmed?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_108/egyptian_music_v2_071",
+    "qA": "Who composed Adawiya as recorded by Mohammed Rushdi?",
+    "qB": "Who composed Umm Kulthum's Siret El Hob?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Adawiya as recorded by Mohammed Rushdi? against Who composed Umm Kulthum's Siret El Hob?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_108/egyptian_music_v2_072",
+    "qA": "Who composed Adawiya as recorded by Mohammed Rushdi?",
+    "qB": "Who composed Umm Kulthum's Alf Leila Wa Leila?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Adawiya as recorded by Mohammed Rushdi? against Who composed Umm Kulthum's Alf Leila Wa Leila?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_108/egyptian_music_v2_095",
+    "qA": "Who composed Adawiya as recorded by Mohammed Rushdi?",
+    "qB": "Who composed Abdel Halim Hafez's Gana El Hawa?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Adawiya as recorded by Mohammed Rushdi? against Who composed Abdel Halim Hafez's Gana El Hawa?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_108/egyptian_music_v2_097",
+    "qA": "Who composed Adawiya as recorded by Mohammed Rushdi?",
+    "qB": "Who composed Shadia's Ya Habibti Ya Masr?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Adawiya as recorded by Mohammed Rushdi? against Who composed Shadia's Ya Habibti Ya Masr?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_108/egyptian_music_v2_098",
+    "qA": "Who composed Adawiya as recorded by Mohammed Rushdi?",
+    "qB": "Who composed Abdel Halim Hafez's Sawwah?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Adawiya as recorded by Mohammed Rushdi? against Who composed Abdel Halim Hafez's Sawwah?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_108/egyptian_music_v2_105",
+    "qA": "Who composed Adawiya as recorded by Mohammed Rushdi?",
+    "qB": "Who composed Nagat El Saghira's Ana Bastannak?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Adawiya as recorded by Mohammed Rushdi? against Who composed Nagat El Saghira's Ana Bastannak?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_109/egyptian_music_v2_071",
+    "qA": "Who composed Zi El Asal as recorded by Sabah?",
+    "qB": "Who composed Umm Kulthum's Siret El Hob?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zi El Asal as recorded by Sabah? against Who composed Umm Kulthum's Siret El Hob?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_109/egyptian_music_v2_072",
+    "qA": "Who composed Zi El Asal as recorded by Sabah?",
+    "qB": "Who composed Umm Kulthum's Alf Leila Wa Leila?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zi El Asal as recorded by Sabah? against Who composed Umm Kulthum's Alf Leila Wa Leila?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_109/egyptian_music_v2_095",
+    "qA": "Who composed Zi El Asal as recorded by Sabah?",
+    "qB": "Who composed Abdel Halim Hafez's Gana El Hawa?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zi El Asal as recorded by Sabah? against Who composed Abdel Halim Hafez's Gana El Hawa?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_109/egyptian_music_v2_097",
+    "qA": "Who composed Zi El Asal as recorded by Sabah?",
+    "qB": "Who composed Shadia's Ya Habibti Ya Masr?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zi El Asal as recorded by Sabah? against Who composed Shadia's Ya Habibti Ya Masr?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_109/egyptian_music_v2_098",
+    "qA": "Who composed Zi El Asal as recorded by Sabah?",
+    "qB": "Who composed Abdel Halim Hafez's Sawwah?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zi El Asal as recorded by Sabah? against Who composed Abdel Halim Hafez's Sawwah?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_109/egyptian_music_v2_105",
+    "qA": "Who composed Zi El Asal as recorded by Sabah?",
+    "qB": "Who composed Nagat El Saghira's Ana Bastannak?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zi El Asal as recorded by Sabah? against Who composed Nagat El Saghira's Ana Bastannak?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_110/egyptian_music_v2_035",
+    "qA": "Who composed Daret El Ayyam, sung by Umm Kulthum?",
+    "qB": "Which Egyptian composer and singer performed Al Gondol?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Daret El Ayyam, sung by Umm Kulthum? against Which Egyptian composer and singer performed Al Gondol?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_110/egyptian_music_v2_069",
+    "qA": "Who composed Daret El Ayyam, sung by Umm Kulthum?",
+    "qB": "Who composed Umm Kulthum's Enta Omri?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Daret El Ayyam, sung by Umm Kulthum? against Who composed Umm Kulthum's Enta Omri?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_110/egyptian_music_v2_073",
+    "qA": "Who composed Daret El Ayyam, sung by Umm Kulthum?",
+    "qB": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Daret El Ayyam, sung by Umm Kulthum? against Who composed Aghadan Alqak for Umm Kulthum?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_110/egyptian_music_v2_099",
+    "qA": "Who composed Daret El Ayyam, sung by Umm Kulthum?",
+    "qB": "Who composed Abdel Halim Hafez's Ahwak?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Daret El Ayyam, sung by Umm Kulthum? against Who composed Abdel Halim Hafez's Ahwak?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_110/egyptian_music_v2_101",
+    "qA": "Who composed Daret El Ayyam, sung by Umm Kulthum?",
+    "qB": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Daret El Ayyam, sung by Umm Kulthum? against Who composed Set El Habayeb, famously recorded by Fayza Ahmed?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_111/egyptian_music_v2_071",
+    "qA": "Who composed Fat El Mead, sung by Umm Kulthum?",
+    "qB": "Who composed Umm Kulthum's Siret El Hob?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Fat El Mead, sung by Umm Kulthum? against Who composed Umm Kulthum's Siret El Hob?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_111/egyptian_music_v2_072",
+    "qA": "Who composed Fat El Mead, sung by Umm Kulthum?",
+    "qB": "Who composed Umm Kulthum's Alf Leila Wa Leila?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Fat El Mead, sung by Umm Kulthum? against Who composed Umm Kulthum's Alf Leila Wa Leila?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_111/egyptian_music_v2_095",
+    "qA": "Who composed Fat El Mead, sung by Umm Kulthum?",
+    "qB": "Who composed Abdel Halim Hafez's Gana El Hawa?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Fat El Mead, sung by Umm Kulthum? against Who composed Abdel Halim Hafez's Gana El Hawa?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_111/egyptian_music_v2_097",
+    "qA": "Who composed Fat El Mead, sung by Umm Kulthum?",
+    "qB": "Who composed Shadia's Ya Habibti Ya Masr?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Fat El Mead, sung by Umm Kulthum? against Who composed Shadia's Ya Habibti Ya Masr?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_111/egyptian_music_v2_098",
+    "qA": "Who composed Fat El Mead, sung by Umm Kulthum?",
+    "qB": "Who composed Abdel Halim Hafez's Sawwah?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Fat El Mead, sung by Umm Kulthum? against Who composed Abdel Halim Hafez's Sawwah?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_111/egyptian_music_v2_105",
+    "qA": "Who composed Fat El Mead, sung by Umm Kulthum?",
+    "qB": "Who composed Nagat El Saghira's Ana Bastannak?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Fat El Mead, sung by Umm Kulthum? against Who composed Nagat El Saghira's Ana Bastannak?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_112/egyptian_music_v2_035",
+    "qA": "Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?",
+    "qB": "Which Egyptian composer and singer performed Al Gondol?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez? against Which Egyptian composer and singer performed Al Gondol?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_112/egyptian_music_v2_069",
+    "qA": "Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Umm Kulthum's Enta Omri?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez? against Who composed Umm Kulthum's Enta Omri?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_112/egyptian_music_v2_073",
+    "qA": "Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Aghadan Alqak for Umm Kulthum?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez? against Who composed Aghadan Alqak for Umm Kulthum?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_112/egyptian_music_v2_099",
+    "qA": "Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Abdel Halim Hafez's Ahwak?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez? against Who composed Abdel Halim Hafez's Ahwak?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_112/egyptian_music_v2_101",
+    "qA": "Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Set El Habayeb, famously recorded by Fayza Ahmed?",
+    "answer": "Mohammed Abdel Wahab",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Nebtedi Menein El Hekaya, sung by Abdel Halim Hafez? against Who composed Set El Habayeb, famously recorded by Fayza Ahmed?; common answer Mohammed Abdel Wahab. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_113/egyptian_music_v2_071",
+    "qA": "Who composed Zay El Hawa, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Umm Kulthum's Siret El Hob?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zay El Hawa, sung by Abdel Halim Hafez? against Who composed Umm Kulthum's Siret El Hob?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_113/egyptian_music_v2_072",
+    "qA": "Who composed Zay El Hawa, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Umm Kulthum's Alf Leila Wa Leila?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zay El Hawa, sung by Abdel Halim Hafez? against Who composed Umm Kulthum's Alf Leila Wa Leila?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_113/egyptian_music_v2_095",
+    "qA": "Who composed Zay El Hawa, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Abdel Halim Hafez's Gana El Hawa?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zay El Hawa, sung by Abdel Halim Hafez? against Who composed Abdel Halim Hafez's Gana El Hawa?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_113/egyptian_music_v2_097",
+    "qA": "Who composed Zay El Hawa, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Shadia's Ya Habibti Ya Masr?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zay El Hawa, sung by Abdel Halim Hafez? against Who composed Shadia's Ya Habibti Ya Masr?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_113/egyptian_music_v2_098",
+    "qA": "Who composed Zay El Hawa, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Abdel Halim Hafez's Sawwah?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zay El Hawa, sung by Abdel Halim Hafez? against Who composed Abdel Halim Hafez's Sawwah?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_113/egyptian_music_v2_105",
+    "qA": "Who composed Zay El Hawa, sung by Abdel Halim Hafez?",
+    "qB": "Who composed Nagat El Saghira's Ana Bastannak?",
+    "answer": "Baligh Hamdi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Zay El Hawa, sung by Abdel Halim Hafez? against Who composed Nagat El Saghira's Ana Bastannak?; common answer Baligh Hamdi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_114/egyptian_music_v2_112",
+    "qA": "Who composed We Hayati Andak, sung by Zekra?",
+    "qB": "Who composed Warda's Betwanes Beek?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed We Hayati Andak, sung by Zekra? against Who composed Warda's Betwanes Beek?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_114/egyptian_music_v2_118",
+    "qA": "Who composed We Hayati Andak, sung by Zekra?",
+    "qB": "Who composed Mohamed Fouad's Fakrak Ya Nasini?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed We Hayati Andak, sung by Zekra? against Who composed Mohamed Fouad's Fakrak Ya Nasini?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_118/egyptian_music_v2_120",
+    "qA": "Who wrote the poem Ayazon performed by Najat Al Saghira?",
+    "qB": "Who wrote Resala Men Taht El Maa, performed by Abdel Halim Hafez?",
+    "answer": "Nizar Qabbani",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the poem Ayazon performed by Najat Al Saghira? against Who wrote Resala Men Taht El Maa, performed by Abdel Halim Hafez?; common answer Nizar Qabbani. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_138/egyptian_music_v2_159",
+    "qA": "Who wrote the lyrics of Sabah's Saat Saat?",
+    "qB": "Who wrote the lyrics of Nagat El Saghira's Oyoun El Alb?",
+    "answer": "Abdel Rahman El Abnoudi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Sabah's Saat Saat? against Who wrote the lyrics of Nagat El Saghira's Oyoun El Alb?; common answer Abdel Rahman El Abnoudi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_139/egyptian_music_v2_138",
+    "qA": "Who wrote the lyrics of Warda's Akdeb Aleik?",
+    "qB": "Who wrote the lyrics of Alf Leila Wa Leila for Umm Kulthum?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Warda's Akdeb Aleik? against Who wrote the lyrics of Alf Leila Wa Leila for Umm Kulthum?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_139/egyptian_music_v2_139",
+    "qA": "Who wrote the lyrics of Warda's Akdeb Aleik?",
+    "qB": "Who wrote the lyrics of Umm Kulthum's Siret El Hob?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Warda's Akdeb Aleik? against Who wrote the lyrics of Umm Kulthum's Siret El Hob?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_139/egyptian_music_v2_191",
+    "qA": "Who wrote the lyrics of Warda's Akdeb Aleik?",
+    "qB": "Who wrote the lyrics of Nagat El Saghira's Ana Bastannak?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Warda's Akdeb Aleik? against Who wrote the lyrics of Nagat El Saghira's Ana Bastannak?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_139/egyptian_music_v2_192",
+    "qA": "Who wrote the lyrics of Warda's Akdeb Aleik?",
+    "qB": "Who wrote the lyrics of the classic song Ya Helw Sabbah?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Warda's Akdeb Aleik? against Who wrote the lyrics of the classic song Ya Helw Sabbah?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_141/egyptian_music_v2_141",
+    "qA": "Who wrote the lyrics of Asmahan's Layali El Ons Fi Vienna?",
+    "qB": "Who wrote the lyrics of Umm Kulthum's Ya Msaharni?",
+    "answer": "Ahmed Rami",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Asmahan's Layali El Ons Fi Vienna? against Who wrote the lyrics of Umm Kulthum's Ya Msaharni?; common answer Ahmed Rami. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_143/egyptian_music_v2_163",
+    "qA": "Who wrote the lyrics of Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who wrote the lyrics of Abdel Halim Hafez's Ahwak?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Ala Remsh Ouyounha for Wadih El Safi? against Who wrote the lyrics of Abdel Halim Hafez's Ahwak?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_143/egyptian_music_v2_165",
+    "qA": "Who wrote the lyrics of Ala Remsh Ouyounha for Wadih El Safi?",
+    "qB": "Who wrote the lyrics of the Mother's Day song Set El Habayeb?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Ala Remsh Ouyounha for Wadih El Safi? against Who wrote the lyrics of the Mother's Day song Set El Habayeb?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_145/egyptian_music_v2_174",
+    "qA": "Who wrote the lyrics of Warda's Haramt Ahebak?",
+    "qB": "Who wrote the lyrics of Warda's Betwanes Beek?",
+    "answer": "Omar Batisha",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Warda's Haramt Ahebak? against Who wrote the lyrics of Warda's Betwanes Beek?; common answer Omar Batisha. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_145/egyptian_music_v2_195",
+    "qA": "Who wrote the lyrics of Warda's Haramt Ahebak?",
+    "qB": "Who wrote the lyrics of Ghareeb Ya Zaman, composed by Mohammed Sultan?",
+    "answer": "Omar Batisha",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Warda's Haramt Ahebak? against Who wrote the lyrics of Ghareeb Ya Zaman, composed by Mohammed Sultan?; common answer Omar Batisha. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_176/egyptian_music_v2_159",
+    "qA": "Who wrote the words of Adawiya, sung by Mohammed Rushdi?",
+    "qB": "Who wrote the lyrics of Nagat El Saghira's Oyoun El Alb?",
+    "answer": "Abdel Rahman El Abnoudi",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the words of Adawiya, sung by Mohammed Rushdi? against Who wrote the lyrics of Nagat El Saghira's Oyoun El Alb?; common answer Abdel Rahman El Abnoudi. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_179/egyptian_music_v2_138",
+    "qA": "Which lyricist wrote Fat El Mead for Umm Kulthum?",
+    "qB": "Who wrote the lyrics of Alf Leila Wa Leila for Umm Kulthum?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which lyricist wrote Fat El Mead for Umm Kulthum? against Who wrote the lyrics of Alf Leila Wa Leila for Umm Kulthum?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_179/egyptian_music_v2_139",
+    "qA": "Which lyricist wrote Fat El Mead for Umm Kulthum?",
+    "qB": "Who wrote the lyrics of Umm Kulthum's Siret El Hob?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which lyricist wrote Fat El Mead for Umm Kulthum? against Who wrote the lyrics of Umm Kulthum's Siret El Hob?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_179/egyptian_music_v2_191",
+    "qA": "Which lyricist wrote Fat El Mead for Umm Kulthum?",
+    "qB": "Who wrote the lyrics of Nagat El Saghira's Ana Bastannak?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which lyricist wrote Fat El Mead for Umm Kulthum? against Who wrote the lyrics of Nagat El Saghira's Ana Bastannak?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_179/egyptian_music_v2_192",
+    "qA": "Which lyricist wrote Fat El Mead for Umm Kulthum?",
+    "qB": "Who wrote the lyrics of the classic song Ya Helw Sabbah?",
+    "answer": "Morsi Gamil Aziz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which lyricist wrote Fat El Mead for Umm Kulthum? against Who wrote the lyrics of the classic song Ya Helw Sabbah?; common answer Morsi Gamil Aziz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_186/egyptian_music_v2_163",
+    "qA": "Who wrote the lyrics of Mohammed Fawzi’s children’s song Zahab El Leil?",
+    "qB": "Who wrote the lyrics of Abdel Halim Hafez's Ahwak?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Mohammed Fawzi’s children’s song Zahab El Leil? against Who wrote the lyrics of Abdel Halim Hafez's Ahwak?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_186/egyptian_music_v2_165",
+    "qA": "Who wrote the lyrics of Mohammed Fawzi’s children’s song Zahab El Leil?",
+    "qB": "Who wrote the lyrics of the Mother's Day song Set El Habayeb?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Mohammed Fawzi’s children’s song Zahab El Leil? against Who wrote the lyrics of the Mother's Day song Set El Habayeb?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_202/egyptian_music_v2_163",
+    "qA": "Who wrote the lyrics of Haret El Saqayeen, recorded by Sharifa Fadel?",
+    "qB": "Who wrote the lyrics of Abdel Halim Hafez's Ahwak?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Haret El Saqayeen, recorded by Sharifa Fadel? against Who wrote the lyrics of Abdel Halim Hafez's Ahwak?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_202/egyptian_music_v2_165",
+    "qA": "Who wrote the lyrics of Haret El Saqayeen, recorded by Sharifa Fadel?",
+    "qB": "Who wrote the lyrics of the Mother's Day song Set El Habayeb?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Haret El Saqayeen, recorded by Sharifa Fadel? against Who wrote the lyrics of the Mother's Day song Set El Habayeb?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_204/egyptian_music_v2_163",
+    "qA": "Who wrote the lyrics of Mohammed Abdel Wahab’s Ya Mesafer Wahdak?",
+    "qB": "Who wrote the lyrics of Abdel Halim Hafez's Ahwak?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Mohammed Abdel Wahab’s Ya Mesafer Wahdak? against Who wrote the lyrics of Abdel Halim Hafez's Ahwak?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_204/egyptian_music_v2_165",
+    "qA": "Who wrote the lyrics of Mohammed Abdel Wahab’s Ya Mesafer Wahdak?",
+    "qB": "Who wrote the lyrics of the Mother's Day song Set El Habayeb?",
+    "answer": "Hussein El Sayed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Mohammed Abdel Wahab’s Ya Mesafer Wahdak? against Who wrote the lyrics of the Mother's Day song Set El Habayeb?; common answer Hussein El Sayed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_006/arabic_music_v2_017",
+    "qA": "Which Syrian singer is known for El Hawa Sultan?",
+    "qB": "Which Syrian singer performs Kalam El Nas?",
+    "answer": "George Wassouf",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Syrian singer is known for El Hawa Sultan? against Which Syrian singer performs Kalam El Nas?; common answer George Wassouf. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_010/arabic_music_v2_001",
+    "qA": "Which singer performs Li Beirut?",
+    "qB": "Which Lebanese singer performs Nassam Alayna El Hawa?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer performs Li Beirut? against Which Lebanese singer performs Nassam Alayna El Hawa?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_010/arabic_music_v2_002",
+    "qA": "Which singer performs Li Beirut?",
+    "qB": "Which Lebanese singer performs Saalouny El Nas?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer performs Li Beirut? against Which Lebanese singer performs Saalouny El Nas?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_010/arabic_music_v2_024",
+    "qA": "Which singer performs Li Beirut?",
+    "qB": "Which Lebanese singer performed Ya Bani Ummi, composed by Zaki Nassif?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer performs Li Beirut? against Which Lebanese singer performed Ya Bani Ummi, composed by Zaki Nassif?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_010/arabic_music_v2_032",
+    "qA": "Which singer performs Li Beirut?",
+    "qB": "Which Lebanese singer made the famous recording of Aateny El Nay Wa Ghanni?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer performs Li Beirut? against Which Lebanese singer made the famous recording of Aateny El Nay Wa Ghanni?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_010/arabic_music_v2_064",
+    "qA": "Which singer performs Li Beirut?",
+    "qB": "Which Lebanese singer is known as Our Ambassador to the Stars?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which singer performs Li Beirut? against Which Lebanese singer is known as Our Ambassador to the Stars?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_036/arabic_music_v2_001",
+    "qA": "Who performs the famous classic recording of Sakan Al Lail?",
+    "qB": "Which Lebanese singer performs Nassam Alayna El Hawa?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who performs the famous classic recording of Sakan Al Lail? against Which Lebanese singer performs Nassam Alayna El Hawa?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_036/arabic_music_v2_002",
+    "qA": "Who performs the famous classic recording of Sakan Al Lail?",
+    "qB": "Which Lebanese singer performs Saalouny El Nas?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who performs the famous classic recording of Sakan Al Lail? against Which Lebanese singer performs Saalouny El Nas?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_036/arabic_music_v2_024",
+    "qA": "Who performs the famous classic recording of Sakan Al Lail?",
+    "qB": "Which Lebanese singer performed Ya Bani Ummi, composed by Zaki Nassif?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who performs the famous classic recording of Sakan Al Lail? against Which Lebanese singer performed Ya Bani Ummi, composed by Zaki Nassif?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_036/arabic_music_v2_032",
+    "qA": "Who performs the famous classic recording of Sakan Al Lail?",
+    "qB": "Which Lebanese singer made the famous recording of Aateny El Nay Wa Ghanni?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who performs the famous classic recording of Sakan Al Lail? against Which Lebanese singer made the famous recording of Aateny El Nay Wa Ghanni?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_036/arabic_music_v2_064",
+    "qA": "Who performs the famous classic recording of Sakan Al Lail?",
+    "qB": "Which Lebanese singer is known as Our Ambassador to the Stars?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who performs the famous classic recording of Sakan Al Lail? against Which Lebanese singer is known as Our Ambassador to the Stars?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_062/arabic_music_v2_040",
+    "qA": "Which Sudanese singer performs Al Jarida?",
+    "qB": "Which Sudanese singer performs Qulna Ma Momkin Tesafir?",
+    "answer": "Mohammed Al Amin",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Sudanese singer performs Al Jarida? against Which Sudanese singer performs Qulna Ma Momkin Tesafir?; common answer Mohammed Al Amin. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_067/arabic_music_v2_001",
+    "qA": "Which Lebanese singer performs Habbaytak Bessayf?",
+    "qB": "Which Lebanese singer performs Nassam Alayna El Hawa?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Lebanese singer performs Habbaytak Bessayf? against Which Lebanese singer performs Nassam Alayna El Hawa?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_067/arabic_music_v2_002",
+    "qA": "Which Lebanese singer performs Habbaytak Bessayf?",
+    "qB": "Which Lebanese singer performs Saalouny El Nas?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Lebanese singer performs Habbaytak Bessayf? against Which Lebanese singer performs Saalouny El Nas?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_067/arabic_music_v2_024",
+    "qA": "Which Lebanese singer performs Habbaytak Bessayf?",
+    "qB": "Which Lebanese singer performed Ya Bani Ummi, composed by Zaki Nassif?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Lebanese singer performs Habbaytak Bessayf? against Which Lebanese singer performed Ya Bani Ummi, composed by Zaki Nassif?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_067/arabic_music_v2_032",
+    "qA": "Which Lebanese singer performs Habbaytak Bessayf?",
+    "qB": "Which Lebanese singer made the famous recording of Aateny El Nay Wa Ghanni?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Lebanese singer performs Habbaytak Bessayf? against Which Lebanese singer made the famous recording of Aateny El Nay Wa Ghanni?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_067/arabic_music_v2_064",
+    "qA": "Which Lebanese singer performs Habbaytak Bessayf?",
+    "qB": "Which Lebanese singer is known as Our Ambassador to the Stars?",
+    "answer": "Fairuz",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which Lebanese singer performs Habbaytak Bessayf? against Which Lebanese singer is known as Our Ambassador to the Stars?; common answer Fairuz. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_070/arabic_music_v2_088",
+    "qA": "Who composed Sabah's Saat Saat?",
+    "qB": "Who composed Samira Said's Aal Gani Baad Youmein?",
+    "answer": "Gamal Salama",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Sabah's Saat Saat? against Who composed Samira Said's Aal Gani Baad Youmein?; common answer Gamal Salama. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_077/arabic_music_v2_086",
+    "qA": "Who composed Warda's Haramt Ahebak?",
+    "qB": "Who composed George Wassouf's Kalam El Nas?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed Warda's Haramt Ahebak? against Who composed George Wassouf's Kalam El Nas?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_114/arabic_music_v2_086",
+    "qA": "Who composed We Hayati Andak, sung by Zekra?",
+    "qB": "Who composed George Wassouf's Kalam El Nas?",
+    "answer": "Salah El Sharnouby",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who composed We Hayati Andak, sung by Zekra? against Who composed George Wassouf's Kalam El Nas?; common answer Salah El Sharnouby. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_118/arabic_music_v2_076",
+    "qA": "Who wrote the poem Ayazon performed by Najat Al Saghira?",
+    "qB": "Which poet wrote Kalimat, performed by Majida El Roumi?",
+    "answer": "Nizar Qabbani",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the poem Ayazon performed by Najat Al Saghira? against Which poet wrote Kalimat, performed by Majida El Roumi?; common answer Nizar Qabbani. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_135/arabic_music_v2_069",
+    "qA": "Which duo composed Fairuz’s Habbaytak Bessayf?",
+    "qB": "Which duo composed Fairuz's Nassam Alayna El Hawa?",
+    "answer": "Assi and Mansour Rahbani",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which duo composed Fairuz’s Habbaytak Bessayf? against Which duo composed Fairuz's Nassam Alayna El Hawa?; common answer Assi and Mansour Rahbani. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_198/arabic_music_v2_175",
+    "qA": "Who wrote the lyrics of Al Jarida, sung by Mohammed Al Amin?",
+    "qB": "Who wrote Nashid October Wahid Wa Ishrin, composed by Mohammed Al Amin?",
+    "answer": "Fadl Allah Mohammed",
+    "decision": "distinct",
+    "reason": "Assistant inspected Who wrote the lyrics of Al Jarida, sung by Mohammed Al Amin? against Who wrote Nashid October Wahid Wa Ishrin, composed by Mohammed Al Amin?; common answer Fadl Allah Mohammed. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_018/international_music_v2_075",
+    "qA": "Which country singer made the original Jolene recording?",
+    "qB": "Who wrote I Will Always Love You before Whitney Houston recorded it?",
+    "answer": "Dolly Parton",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which country singer made the original Jolene recording? against Who wrote I Will Always Love You before Whitney Houston recorded it?; common answer Dolly Parton. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_051/international_music_v2_062",
+    "qA": "Which American singer made the classic Fly Me To The Moon recording with Count Basie’s orchestra?",
+    "qB": "Which singer made the classic My Way recording based on a French melody?",
+    "answer": "Frank Sinatra",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which American singer made the classic Fly Me To The Moon recording with Count Basie’s orchestra? against Which singer made the classic My Way recording based on a French melody?; common answer Frank Sinatra. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  },
+  {
+    "pair": "old_school_music_v2_055/international_music_v2_061",
+    "qA": "Which jazz trumpeter and singer is famous for recording Hello, Dolly!?",
+    "qB": "Which jazz musician and singer made the original What a Wonderful World recording?",
+    "answer": "Louis Armstrong",
+    "decision": "distinct",
+    "reason": "Assistant inspected Which jazz trumpeter and singer is famous for recording Hello, Dolly!? against Which jazz musician and singer made the original What a Wonderful World recording?; common answer Louis Armstrong. The requested relations are distinct: a separate song or recording credit, an artist's professional nickname versus performance credit, a composer credit versus a collaboration or nickname attribution, an arranger credit on a different song, or a music album title versus a football club. Sharing an answer does not equate these facts."
+  }
+]

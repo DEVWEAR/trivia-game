@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|song:bohemian:performer|queen|أي فرقة قدّمت «بوهيميان رابسودي»؟|Which band performs Bohemian Rhapsody?|كوين|Queen
+002|song:dancingqueen:performer|abba|أي فرقة سويدية غنّت «دانسينغ كوين»؟|Which Swedish group sings Dancing Queen?|آبا|ABBA
+003|song:thriller:performer|mj|من المطرب صاحب أغنية «ثريلر» وكليبها الشهير؟|Which singer performs Thriller and stars in its famous video?|مايكل جاكسون|Michael Jackson
+004|song:cometogether:performer|beatles|أي فرقة غنّت «كَم توغيذر» في تسجيلها الأصلي؟|Which band made the original recording of Come Together?|البيتلز|The Beatles
+005|song:rollingdeep:performer|adelecredits|من المطربة صاحبة أغنية «رولينغ إن ذا ديب»؟|Which singer performs Rolling In The Deep?|أديل|Adele
+006|song:shapeofyou:performer|ed|من غنّى «شيب أوف يو»؟|Who sings Shape Of You?|إد شيران|Ed Sheeran
+007|song:iwillalways:performer|whitney|من المطربة التي غنّت «آي ويل أولويز لوف يو» في فيلم «ذا بوديغارد»؟|Which singer performs I Will Always Love You in The Bodyguard?|ويتني هيوستن|Whitney Houston
+008|song:myheart:performer|celine|من المطربة التي غنّت «ماي هارت ويل غو أون»؟|Which singer performs My Heart Will Go On?|سيلين ديون|Celine Dion
+009|song:clocks:performer|coldplay|أي فرقة بريطانية أصدرت أغنية «كلوكس»؟|Which British band released Clocks?|كولدبلاي|Coldplay
+010|song:withwithout:performer|u2|أي فرقة أيرلندية غنّت «ويذ أور ويذاوت يو»؟|Which Irish band sings With Or Without You?|يو تو|U2
+011|song:yoursong:performer|elton|من المطرب صاحب التسجيل الأصلي لأغنية «يور سونغ»؟|Which singer made the original recording of Your Song?|إلتون جون|Elton John
+012|song:heroes:performer|bowie|من المطرب صاحب أغنية «هيروز» الصادرة عام 1977؟|Which singer released Heroes in 1977?|ديفيد بوي|David Bowie
+013|song:teen_spirit:performer|nirvana|أي فرقة غنّت «سميلز لايك تين سبيريت»؟|Which band sings Smells Like Teen Spirit?|نيرفانا|Nirvana
+014|song:hotelcalifornia:performer|eagles|أي فرقة قدّمت التسجيل الشهير لأغنية «هوتيل كاليفورنيا»؟|Which band made the famous recording of Hotel California?|إيغلز|Eagles
+015|album:darkside:artist|pinkfloyd|أي فرقة أصدرت ألبوم «ذا دارك سايد أوف ذا مون»؟|Which band released The Dark Side Of The Moon?|بينك فلويد|Pink Floyd
+016|song:stairway:performer|zeppelin|أي فرقة قدّمت «ستيرواي تو هيفن»؟|Which band performs Stairway To Heaven?|ليد زيبلين|Led Zeppelin
+017|song:entersandman:performer|metallica|أي فرقة ميتال غنّت «إنتر ساندمان»؟|Which metal band sings Enter Sandman?|ميتاليكا|Metallica
+018|song:boulevard:performer|greenday|أي فرقة غنّت «بوليفارد أوف بروكن دريمز»؟|Which band sings Boulevard Of Broken Dreams?|غرين داي|Green Day
+019|song:intheend:performer|linkin|أي فرقة قدّمت «إن ذا إند» على ألبومها الأول؟|Which band released In The End on its debut album?|لينكين بارك|Linkin Park
+020|song:rehab:performer|amy|من المطربة البريطانية صاحبة أغنية «ريهاب»؟|Which British singer performs Rehab?|إيمي واينهاوس|Amy Winehouse
+021|song:shakeitoff:performer|swift|من غنّت «شيك إت أوف» في تسجيلها الأصلي عام 2014؟|Who sings the original 2014 recording of Shake It Off?|تايلور سويفت|Taylor Swift
+022|song:hello:performer|helloprod|من المطربة صاحبة أغنية «هيلو» الصادرة عام 2015؟|Which singer released Hello in 2015?|أديل|Adele
+023|song:badromance:performer|gaga|من المطربة صاحبة أغنية «باد رومانس»؟|Which singer performs Bad Romance?|ليدي غاغا|Lady Gaga
+024|song:halo:performer|halo|من المطربة صاحبة أغنية «هالو» التي فازت بغرامي عام 2010؟|Which singer performs Halo, the 2010 Grammy winner?|بيونسيه|Beyonce
+025|song:umbrella:performer|umbrella|من المطربة صاحبة أغنية «أمبريلا»؟|Which singer performs Umbrella?|ريهانا|Rihanna
+026|song:levitating:performer|dua|من المطربة صاحبة أغنية «ليفيتيتينغ»؟|Which singer performs Levitating?|دوا ليبا|Dua Lipa
+027|song:chandelier:performer|sia|من المطربة الأسترالية صاحبة أغنية «شانديليير»؟|Which Australian singer performs Chandelier?|سيا|Sia
+028|song:badguy:performer|billie|من المطربة صاحبة أغنية «باد غاي»؟|Which singer performs bad guy?|بيلي إيليش|Billie Eilish
+029|song:driverslicense:performer|olivia|من المطربة صاحبة أغنية «درايفرز لايسنس»؟|Which singer performs drivers license?|أوليفيا رودريغو|Olivia Rodrigo
+030|song:notears:performer|ariana|من المطربة صاحبة أغنية «نو تيرز لِفت تو كراي»؟|Which singer performs no tears left to cry?|أريانا غراندي|Ariana Grande
+031|song:blindinglights:performer|weeknd|من المطرب صاحب أغنية «بلايندينغ لايتس»؟|Which singer performs Blinding Lights?|ذا ويكند|The Weeknd
+032|song:asitwas:performer|harry|من المطرب صاحب أغنية «آز إت واز»؟|Which singer performs As It Was?|هاري ستايلز|Harry Styles
+033|song:hipsdontlie:performer|shakira|من المطربة صاحبة أغنية «هيبس دونت لاي»؟|Which singer performs Hips Don't Lie?|شاكيرا|Shakira
+034|song:despacito:performers|fonsi|من الثنائي الذي غنّى النسخة الأصلية من «ديسباسيتو»؟|Which duo performs the original Despacito?|لويس فونسي ودادي يانكي|Luis Fonsi and Daddy Yankee
+035|song:dynamite:performer|bts|أي فرقة كورية غنّت «دايناميت»؟|Which Korean group sings Dynamite?|بي تي إس|BTS
+036|song:howyoulikethat:performer|blackpink|أي فرقة فتيات كورية غنّت «هاو يو لايك ذات»؟|Which Korean girl group sings How You Like That?|بلاكبينك|BLACKPINK
+037|song:loseyourself:performer|eminemoscars|أي رابر اشتهر بأغنية «لوز يورسِلف»؟|Which rapper is known for Lose Yourself?|إيمينيم|Eminem
+038|song:uptownfunk:guestvocalist|uptowncredits|من المطرب الذي شارك مارك رونسون في «أبتاون فانك»؟|Which singer features on Mark Ronson's Uptown Funk?|برونو مارس|Bruno Mars
+039|song:happy:performer|happyfilm|من المطرب صاحب أغنية «هابي»؟|Which singer performs Happy?|فاريل ويليامز|Pharrell Williams
+040|song:getlucky:performer|daftlucky|أي ثنائي إلكتروني أصدر «غِت لاكي»؟|Which electronic duo released Get Lucky?|دافت بانك|Daft Punk
+041|song:wakemeup:artist|aviciitrue|أي دي جي سويدي أصدر «ويك مي أب»؟|Which Swedish DJ released Wake Me Up?|أفيتشي|Avicii
+042|song:titanium:artist|titaniumcredits|من الدي جي صاحب أغنية «تيتانيوم»؟|Which DJ released Titanium?|ديفيد غيتا|David Guetta
+043|song:summer:artist|calvinmotion|أي دي جي أصدر أغنية «سامر» عام 2014؟|Which DJ released Summer in 2014?|كالفن هاريس|Calvin Harris
+044|song:nowomannocry:singer|marleynatty|أي مطرب جامايكي اشتهر بأغنية «نو وومان نو كراي»؟|Which Jamaican singer is known for No Woman No Cry?|بوب مارلي|Bob Marley
+045|song:wonderwall:performer|oasis|أي فرقة بريطانية غنّت «ووندروول»؟|Which British band sings Wonderwall?|أواسيس|Oasis
+046|song:livinprayer:performer|bonjovi|أي فرقة غنّت «ليفين أون أ بريير»؟|Which band sings Livin' On A Prayer?|بون جوفي|Bon Jovi
+047|album:backinblack:artist|acdc|أي فرقة روك أصدرت ألبوم «باك إن بلاك»؟|Which rock band released Back in Black?|إيه سي/دي سي|AC/DC
+048|song:dontstopbelievin:performer|journey|أي فرقة اشتهرت بأغنية «دونت ستوب بيليفين»؟|Which band is known for Don't Stop Believin'?|جورني|Journey
+049|song:sweetchild:performer|guns|أي فرقة غنّت «سويت تشايلد أو ماين»؟|Which band sings Sweet Child O' Mine?|غنز إن روزز|Guns N' Roses
+050|song:everybreath:performer|police|أي فرقة غنّت «إفري بريث يو تيك»؟|Which band sings Every Breath You Take?|ذا بوليس|The Police
+051|song:everybodyhurts:performer|rem|أي فرقة أصدرت «إفري بادي هيرتس»؟|Which band released Everybody Hurts?|آر إي إم|R.E.M.
+052|song:dreams:performer|fleetwood|أي فرقة اشتهرت بأغنية «دريمز» عام 1977؟|Which band is known for the 1977 song Dreams?|فليتوود ماك|Fleetwood Mac
+053|song:gangnamstyle:performer|psy|من الفنان الكوري صاحب «غانغنام ستايل»؟|Which Korean artist performs Gangnam Style?|ساي|PSY
+054|song:livinvidaloca:performer|ricky|من المطرب صاحب «ليفين لا فيدا لوكا»؟|Which singer performs Livin' La Vida Loca?|ريكي مارتن|Ricky Martin
+055|song:comolaflor:performer|selenaalbum|من المطربة صاحبة أغنية «كومو لا فلور»؟|Which singer performs Como La Flor?|سيلينا|Selena
+056|song:camisanegra:performer|juanes|من المطرب الكولومبي صاحب «لا كاميسا نيغرا»؟|Which Colombian singer performs La Camisa Negra?|خوانيس|Juanes
+057|song:dakiti:mainartist|badbunny|أي فنان بورتوريكي أصدر «داكيتي» مع جاي كورتيز؟|Which Puerto Rican artist released Dakiti with Jhay Cortez?|باد باني|Bad Bunny
+058|song:malamente:performer|rosalia|من المطربة الإسبانية صاحبة «مالامينتي»؟|Which Spanish singer performs Malamente?|روساليا|Rosalía
+059|song:alorsondanse:performer|stromae|من الفنان البلجيكي صاحب «ألور أون دانس»؟|Which Belgian artist performs Alors on danse?|ستروماي|Stromae
+060|song:lavieenrose:originalsinger|piafwork|أي مطربة فرنسية اشتهرت بتسجيل «لا في أون روز» الأصلي؟|Which French singer is known for the original La Vie en rose recording?|إديث بياف|Édith Piaf
+061|song:wonderfulworld:performer|armstrong|من عازف الجاز والمغنّي صاحب تسجيل «وات أ ووندرفُل وورلد» الأصلي؟|Which jazz musician and singer made the original What a Wonderful World recording?|لويس أرمسترونغ|Louis Armstrong
+062|song:myway:sinatraversion|sinatra|من المغنّي صاحب تسجيل «ماي واي» الكلاسيكي الذي اقتبس موسيقاه من أغنية فرنسية؟|Which singer made the classic My Way recording based on a French melody?|فرانك سيناترا|Frank Sinatra
+063|song:canthelpfalling:performer|elvis|من غنّى النسخة الأصلية من «كانت هِلب فولينغ إن لاف»؟|Who sang the original Can't Help Falling in Love?|إلفيس بريسلي|Elvis Presley
+064|album:purplerain:artist|prince|من الفنان صاحب ألبوم «بيربل رين»؟|Which artist released Purple Rain?|برنس|Prince
+065|album:kindofblue:artist|miles|أي عازف ترومبيت جاز أصدر ألبوم «كايند أوف بلو»؟|Which jazz trumpeter released Kind of Blue?|مايلز ديفيس|Miles Davis
+066|artist:brubeck:instrument|brubeckpiano|اشتهر ديف بروبيك بالعزف على أي آلة موسيقية؟|Which instrument is Dave Brubeck known for playing?|البيانو|Piano
+067|song:letitgo:film|frozen|في أي فيلم ديزني ظهرت «لِت إت غو» أول مرة؟|In which Disney film did Let It Go first appear?|فروزن|Frozen
+068|song:ihavenothing:performer|havenothingperformer|من المطربة صاحبة أغنية «آي هاف ناثينغ»؟|Which singer performs I Have Nothing?|ويتني هيوستن|Whitney Houston

@@ -1,15 +1,15 @@
 import '../question_model.dart';
 TriviaQuestion _p400(String id,String ar,String en,String photo1,String photo2){
  final n=int.parse(id.split('_').last);
- String localPhoto(int side)=>'assets/two_pics/${n.toString().padLeft(3,'0')}_$side.jpg';
- return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.medium400,questionAr:'صورتان، عبارة واحدة',questionEn:'Two photos, one phrase',answerAr:ar,answerEn:en,sourceName:'Bundled real photographic clue',sourceUrl:'local asset',lastVerified:DateTime(2026,9,30),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
+ String localPhoto(int side)=>'assets/two_pics/redesign/${n.toString().padLeft(3,'0')}_$side.png';
+ return TriviaQuestion(id:id,categoryId:'two_pics',difficulty:QuestionDifficulty.medium400,questionAr:'صورتان، عبارة واحدة',questionEn:'Two photos, one phrase',answerAr:ar,answerEn:en,sourceName:'Original generated clue artwork, visually reviewed',sourceUrl:'internal://original-clue-artwork',lastVerified:DateTime(2026,10,9),mediaType:QuestionMediaType.image,mediaAsset:localPhoto(1),mediaAsset2:localPhoto(2));
 }
 final twoPicsQuestions035To068=<TriviaQuestion>[
 _p400('two_pics_035','عصف ذهني','Brainstorm','human brain','storm clouds'),
-_p400('two_pics_036','قمر صناعي','Satellite','moon','industrial factory'),
-_p400('two_pics_037','عين الصقر','Eagle eye','human eye','eagle'),
-_p400('two_pics_038','لسان البحر','Sea tongue','human tongue','sea'),
-_p400('two_pics_039','بيت العنكبوت','Spider house','spider','house'),
+_p400('two_pics_036','قمر صناعي','Artificial satellite','moon','industrial factory'),
+_p400('two_pics_037','عين الصقر','Falcon eye','human eye','eagle'),
+_p400('two_pics_038','طاقة الرياح','Wind energy','a windsock blown fully sideways beside bending grasses, clear moving air, no turbine, battery or electricity','one unbranded rechargeable battery connected to a glowing small light bulb, no wind or turbine'),
+_p400('two_pics_039','بيت من ورق','House of cards','spider','house'),
 _p400('two_pics_040','ساعة رملية','Hourglass','clock','sand'),
 _p400('two_pics_041','موجة حر','Heat wave','ocean wave','hot sun'),
 _p400('two_pics_042','كرة أرضية','Globe','round ball','planet Earth from space'),
@@ -20,9 +20,9 @@ _p400('two_pics_046','ماء الورد','Rose water','rose','water'),
 _p400('two_pics_047','شجرة العائلة','Family tree','family','tree'),
 _p400('two_pics_048','باب البحر','Sea gate','door','sea'),
 _p400('two_pics_049','قلب الأسد','Lionheart','human heart','lion'),
-_p400('two_pics_050','رأس المال','Capital','human head','money'),
+_p400('two_pics_050','تفاعل متسلسل','Chain reaction','a coiled metal chain with clearly interlinked rounded links, no dominoes or laboratory','a single laboratory flask with two liquids visibly mixing and bubbling, no chain, no sequential containers'),
 _p400('two_pics_051','يد المساعدة','Helping hand','human hand','helping person'),
-_p400('two_pics_052','عين الماء','Water spring','human eye','natural spring'),
+_p400('two_pics_052','مياه جوفية','Groundwater','human eye','natural spring'),
 _p400('two_pics_053','خط النار','Line of fire','straight line','fire'),
 _p400('two_pics_054','جسر معلق','Suspension bridge','bridge','hanging rope'),
 _p400('two_pics_055','كرسي كهربائي','Electric chair','chair','electric spark'),

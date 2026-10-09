@@ -1,0 +1,210 @@
+[
+  {
+    "pair": "bundesliga_v2_014/kuwait_general_v2_012",
+    "qA": "What colour is the distinctive horizontal hoop on Stuttgart's white shirt?",
+    "qB": "What colour is the bottom horizontal stripe of Kuwait's flag?",
+    "answer": "Red",
+    "decision": "distinct",
+    "reason": "Stuttgart shirt hoop differs from Kuwait flag bottom stripe and Osasuna shirt."
+  },
+  {
+    "pair": "bundesliga_v2_004/uae_pro_league_v2_121",
+    "qA": "Which club won 11 consecutive Bundesliga titles from 2012–2013 to 2022–2023?",
+    "qB": "Which German club did Ali Karimi join from Al Ahli Dubai in 2005?",
+    "answer": "Bayern Munich",
+    "decision": "distinct",
+    "reason": "Bayern eleven German titles differs from Karimi Al Ahli-to-Bayern transfer."
+  },
+  {
+    "pair": "bundesliga_v2_018/uae_pro_league_v2_119",
+    "qA": "Which German club is known as Die Werkself, the Factory XI?",
+    "qB": "Which German club transferred Sardar Azmoun to Shabab Al Ahli in 2024 after his loan at Roma?",
+    "answer": "Bayer Leverkusen",
+    "decision": "distinct",
+    "reason": "Leverkusen Factory XI nickname differs from Azmoun departure to UAE and Son transfer to Spurs."
+  },
+  {
+    "pair": "bundesliga_v2_093/uae_pro_league_v2_107",
+    "qA": "Which English club ended Augsburg's first Europa League campaign in the round of 32 in 2016?",
+    "qB": "Which English club sold Oussama Assaidi to Al Ahli in January 2015 after his Stoke City loan ended?",
+    "answer": "Liverpool",
+    "decision": "distinct",
+    "reason": "Liverpool as Augsburg European knockout opponent differs from Assaidi transfer and Gerrard career club."
+  },
+  {
+    "pair": "bundesliga_v2_172/uae_pro_league_v2_080",
+    "qA": "Against which team did Robben and Ribery first play together for Bayern in a 3–0 win in 2009?",
+    "qB": "From which German club did Grafite join Al Ahli Dubai in 2011?",
+    "answer": "Wolfsburg",
+    "decision": "distinct",
+    "reason": "Wolfsburg as Robben-Ribery first joint opponent differs from Grafite transfer origin."
+  },
+  {
+    "pair": "bundesliga_v2_010/premier_league_v2_046",
+    "qA": "Who led Dortmund to the Bundesliga titles in 2011 and 2012?",
+    "qB": "Which manager ended Liverpool's 30-year wait for an English top-flight title in 2020?",
+    "answer": "Jurgen Klopp",
+    "decision": "distinct",
+    "reason": "Klopp Dortmund titles 2011/12 differ from Liverpool 2020 title."
+  },
+  {
+    "pair": "bundesliga_v2_018/premier_league_v2_130",
+    "qA": "Which German club is known as Die Werkself, the Factory XI?",
+    "qB": "From which German club did Son Heung-min join Tottenham in 2015?",
+    "answer": "Bayer Leverkusen",
+    "decision": "distinct",
+    "reason": "Leverkusen Factory XI nickname differs from Azmoun departure to UAE and Son transfer to Spurs."
+  },
+  {
+    "pair": "bundesliga_v2_029/premier_league_v2_006",
+    "qA": "Which Norwegian striker scored a hat-trick after coming off the bench on his Bundesliga debut for Dortmund in 2020?",
+    "qB": "Which Manchester City striker scored 36 goals in the 2022-23 Premier League season?",
+    "answer": "Erling Haaland",
+    "decision": "distinct",
+    "reason": "Haaland Dortmund debut hat-trick differs from City season record and meditation celebration."
+  },
+  {
+    "pair": "bundesliga_v2_029/premier_league_v2_068",
+    "qA": "Which Norwegian striker scored a hat-trick after coming off the bench on his Bundesliga debut for Dortmund in 2020?",
+    "qB": "Which Manchester City striker became known for the Zen celebration, sitting in a meditation pose?",
+    "answer": "Erling Haaland",
+    "decision": "distinct",
+    "reason": "Haaland Dortmund debut hat-trick differs from City season record and meditation celebration."
+  },
+  {
+    "pair": "bundesliga_v2_036/premier_league_v2_138",
+    "qA": "From which English club did Harry Kane join Bayern Munich in 2023?",
+    "qB": "Against which club did Eric Cantona score the Premier League's first hat-trick while playing for Leeds?",
+    "answer": "Tottenham Hotspur",
+    "decision": "distinct",
+    "reason": "Tottenham Kane transfer origin differs from Cantona hat-trick opponent."
+  },
+  {
+    "pair": "bundesliga_v2_093/premier_league_v2_029",
+    "qA": "Which English club ended Augsburg's first Europa League campaign in the round of 32 in 2016?",
+    "qB": "With which club did Steven Gerrard spend his Premier League career?",
+    "answer": "Liverpool",
+    "decision": "distinct",
+    "reason": "Liverpool as Augsburg European knockout opponent differs from Assaidi transfer and Gerrard career club."
+  },
+  {
+    "pair": "bundesliga_v2_124/premier_league_v2_017",
+    "qA": "From which London club's academy did Jamal Musiala join Bayern in 2019?",
+    "qB": "Which English club did Mohamed Salah play for before his spell in Italy and move to Liverpool?",
+    "answer": "Chelsea",
+    "decision": "distinct",
+    "reason": "Chelsea academy Musiala origin differs from Salah senior Chelsea spell."
+  },
+  {
+    "pair": "bundesliga_v2_003/la_liga_v2_117",
+    "qA": "Who coached Bayer Leverkusen to their first Bundesliga title in 2024?",
+    "qB": "Who led Real Sociedad's reserve team to promotion to Spain's second division in 2021?",
+    "answer": "Xabi Alonso",
+    "decision": "distinct",
+    "reason": "Alonso Leverkusen title differs from Sociedad reserves promotion."
+  },
+  {
+    "pair": "bundesliga_v2_014/la_liga_v2_012",
+    "qA": "What colour is the distinctive horizontal hoop on Stuttgart's white shirt?",
+    "qB": "What is the main colour of Osasuna's traditional shirt?",
+    "answer": "Red",
+    "decision": "distinct",
+    "reason": "Stuttgart shirt hoop differs from Kuwait flag bottom stripe and Osasuna shirt."
+  },
+  {
+    "pair": "bundesliga_v2_016/la_liga_v2_061",
+    "qA": "Under which coach did Bayern Munich achieve the six-trophy sweep associated with the 2019–2020 season?",
+    "qB": "Which German coach led Barcelona to the La Liga title in his first season at the club, 2024–25?",
+    "answer": "Hansi Flick",
+    "decision": "distinct",
+    "reason": "Flick Bayern sextuple differs from Barcelona league 2025."
+  },
+  {
+    "pair": "bundesliga_v2_033/la_liga_v2_026",
+    "qA": "Which Bayern striker scored five goals in about nine minutes against Wolfsburg in 2015?",
+    "qB": "Which Polish striker topped the Spanish league scoring chart in his first Barcelona season in 2022-23?",
+    "answer": "Robert Lewandowski",
+    "decision": "distinct",
+    "reason": "Lewa Bayern five goals in nine minutes differs from Barcelona first-season scoring award."
+  },
+  {
+    "pair": "bundesliga_v2_062/la_liga_v2_001",
+    "qA": "From which Spanish club did Thiago Alcantara join Bayern in 2013?",
+    "qB": "Which club won the first Spanish league championship in 1929?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Thiago Barcelona-to-Bayern differs from Riquelme and Maradona moves and Barcelona first title."
+  },
+  {
+    "pair": "bundesliga_v2_062/la_liga_v2_158",
+    "qA": "From which Spanish club did Thiago Alcantara join Bayern in 2013?",
+    "qB": "From which club did Villarreal buy Riquelme permanently in 2005 after his loan spell?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Thiago Barcelona-to-Bayern differs from Riquelme and Maradona moves and Barcelona first title."
+  },
+  {
+    "pair": "bundesliga_v2_088/la_liga_v2_105",
+    "qA": "Which Dutch Bayern striker was nicknamed The Phantom?",
+    "qB": "Which Dutch striker won the European Golden Shoe with Deportivo in 2002-03?",
+    "answer": "Roy Makaay",
+    "decision": "distinct",
+    "reason": "Makaay Phantom nickname differs from Deportivo Golden Shoe."
+  },
+  {
+    "pair": "bundesliga_v2_096/la_liga_v2_187",
+    "qA": "Which Berlin club is nicknamed the Old Lady?",
+    "qB": "Who did UD Las Palmas face in its first European campaign in 1969?",
+    "answer": "Hertha Berlin",
+    "decision": "distinct",
+    "reason": "Hertha Old Lady nickname differs from Las Palmas European opponent."
+  },
+  {
+    "pair": "bundesliga_v2_123/la_liga_v2_025",
+    "qA": "Which Dortmund player became the youngest Bundesliga captain in October 2022 since captaincy records began in 1995?",
+    "qB": "Which English Real Madrid star won La Liga's Player of the Year award for 2023-24?",
+    "answer": "Jude Bellingham",
+    "decision": "distinct",
+    "reason": "Bellingham Dortmund captaincy record differs from Madrid award."
+  },
+  {
+    "pair": "bundesliga_v2_129/la_liga_v2_019",
+    "qA": "Which Spanish club did Leverkusen beat on penalties in the 1988 UEFA Cup final?",
+    "qB": "Which Barcelona-based club is nicknamed the Parakeets?",
+    "answer": "Espanyol",
+    "decision": "distinct",
+    "reason": "Espanyol Leverkusen final opponent differs from nickname and Hierro hat-trick opponent."
+  },
+  {
+    "pair": "bundesliga_v2_129/la_liga_v2_199",
+    "qA": "Which Spanish club did Leverkusen beat on penalties in the 1988 UEFA Cup final?",
+    "qB": "Against which club did Fernando Hierro score his first Real Madrid hat-trick in 1991–92?",
+    "answer": "Espanyol",
+    "decision": "distinct",
+    "reason": "Espanyol Leverkusen final opponent differs from nickname and Hierro hat-trick opponent."
+  },
+  {
+    "pair": "bundesliga_v2_194/la_liga_v2_105",
+    "qA": "Who scored Bayern's 3,000th Bundesliga goal in August 2006?",
+    "qB": "Which Dutch striker won the European Golden Shoe with Deportivo in 2002-03?",
+    "answer": "Roy Makaay",
+    "decision": "distinct",
+    "reason": "Makaay Bayern 3000th goal differs from Deportivo Golden Shoe."
+  },
+  {
+    "pair": "bundesliga_v2_058/serie_a_v2_121",
+    "qA": "Which German striker played for Bremen and Bayern and was known for his somersault celebration and Salto nickname?",
+    "qB": "Who scored five Lazio goals in their 6–0 win over Bologna in May 2013?",
+    "answer": "Miroslav Klose",
+    "decision": "distinct",
+    "reason": "Klose somersault nickname differs from Lazio five-goal match."
+  },
+  {
+    "pair": "bundesliga_v2_062/serie_a_v2_060",
+    "qA": "From which Spanish club did Thiago Alcantara join Bayern in 2013?",
+    "qB": "From which Spanish club did Diego Maradona join Napoli in 1984?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Thiago Barcelona-to-Bayern differs from Riquelme and Maradona moves and Barcelona first title."
+  }
+]

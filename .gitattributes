@@ -1,0 +1,2 @@
+# Preserve audited question/content bytes identically on Windows and Linux.
+* -text

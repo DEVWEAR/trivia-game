@@ -1,0 +1,4704 @@
+{
+  "internal": [
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_003",
+      "hash": "8efc348dcd960193259e35fb925d0ac5bfff1b57cb439ac5b6230dc1e1a876bf"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_010",
+      "hash": "76a871d44c4d0cadc90a1eea78da0100ae59ab114dc9ea73dc1138edf8da9749"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_013",
+      "hash": "8e3ba27566064586225323f6f39b5de698bb8bfb502e05ac2534740e712e01fa"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_023",
+      "hash": "7c1a7c06e198869fb35bcda50a6daa1a364c9c41b180735c7bcea03552f54886"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_025",
+      "hash": "b671f393aa4ba0fd71e200230c0b49c28acdf7dc24eb2f301de1ea7c1e6bc644"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_026",
+      "hash": "bca3bcccec51c56264b440501c0b8a395724ca44bf478405077edd9521f470a9"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_028",
+      "hash": "65e2a4cfc329b39733d38a4948c4dc4920d10325668b6c79add3e3192a51ba22"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_030",
+      "hash": "886c9e2e52cabf90b67b86bcc42c0cea5498365e003dc3c0b68fb2598d4955c6"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_034",
+      "hash": "3a420d2f0af4def75934b01f05c8a51259655b3df3527020931eb9f5a98865bb"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_039",
+      "hash": "ab5d088650a6366d553fce4368ae837b6f755b45683f56ff37611edaa099dfb9"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_042",
+      "hash": "076a3f3b91a79859031edfee4eb1256b7d76222b65ef5de7c0f52dc2694a6e5d"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_046",
+      "hash": "d389a0f094575df0d8cc7617be1a01b82c84a4a9ffed480761eed29479bcb508"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_047",
+      "hash": "e7e44ae5d03bfa9bb22bdf7020b0cada30f5b3379b9a4ce372b65204a871efe4"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_049",
+      "hash": "1e3e3f3418b694338740eb9cae1fd11d321d9f4008d3b3eea9c54ca0cb5dc109"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_054",
+      "hash": "8787ae9b5f3773a3aefc409c42877c167e0980f3c8c35ec38d2b2b0378fdd10f"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_059",
+      "hash": "86726e17224181eb458224a9759c7b8a34d19a2ea076042f489f0913d84cdb1c"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_060",
+      "hash": "b7d90c0ac2848143d06d863419620acda0b07ca6c1c462aa7255a6a57d798d17"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_065",
+      "hash": "1cd7afd5133634a02da9e47f6e9c3e300ff59ad07994390acb35b2ea027a2aa1"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_music_v2_070",
+      "hash": "5869162b2144e54f497fb63e66ef9f8a0944f3a33a50772d42a04eab91982623"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_010",
+      "hash": "2283f16401dc8e961190bb447c2639675599ffb24a687e309d5ca34a95ff15cb"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_023",
+      "hash": "7b5dc5afc36717ed4e56456c556f2fb91e376be67b59cb026c6d1c009545eb1f"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_034",
+      "hash": "20e016c3a90ba19f4f3e8cb95fece96ecf8fef8c5aa12e8579151d4c404b5a39"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_039",
+      "hash": "1ede7ecf6275c0db2ea4d2bb09a61ecc000f2a959b0a38d6043fab586b6011be"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_046",
+      "hash": "905b515ef6c6645c54e507f86086b8362d4ca9ab593af5222571f71f02e88a5a"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_047",
+      "hash": "08f28732e1c734b8b3e1914cd08ae63aabb6b5aa56553b5b221e7f8d1691374c"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_054",
+      "hash": "160b73f502a6e6ed8b2a167dfc5c92e100a0ca8fbc4fdab1183a3b59b63dce04"
+    },
+    {
+      "pair": "saudi_music_v2_003/saudi_music_v2_065",
+      "hash": "965207cc85f08bd53b6e687aec27bbf9f16d977ba7023fa9cc1e1bdb98ad3207"
+    },
+    {
+      "pair": "saudi_music_v2_009/saudi_music_v2_012",
+      "hash": "83fe7d8123f8e95edd07c3528530b960e24340b1519f06dd41324dbeba10202a"
+    },
+    {
+      "pair": "saudi_music_v2_009/saudi_music_v2_073",
+      "hash": "f6a4767a72c7912c2ca7da86e820f977857168ab2f53303c017ebeaad9eeae37"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_013",
+      "hash": "9746646a5f5a87657d5c934d8fa1c23d122031a76e9f0055d93113dd6db9a29f"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_023",
+      "hash": "b3a6a3aaf1f3f25a55c043049923d254b30628e82674b471e1e50e73b4af4d5d"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_025",
+      "hash": "6a7e3afb2f8857370e46cd3a0bd01445292e31fc75a90dc791bddd96efc52e97"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_026",
+      "hash": "9015b4a37405f3ea8672400cd163aae44dec54f633c4771af0bd66208fd22d5f"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_028",
+      "hash": "d6778c35189e3cedd8626573168fb8ebd62ca36d6f3bf2406831cac66983b353"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_030",
+      "hash": "47b5d56b5f10ae78a7a216f1be2938421c9807b4d366081f528d9d19a3940e8d"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_034",
+      "hash": "18a71f3461b1b90473b8615195fb6438d10b431da99a64e7946a451e35f6ab70"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_039",
+      "hash": "87c1c815bf1448bced573cbadfa3af2b8ebb630dced2dc674b1f22f7c2f83892"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_042",
+      "hash": "a0e4f2abdf0ad30acf84d87af9e2c66c492b1c24d18f6efdf080a200956971d6"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_046",
+      "hash": "fc4198b1ee1494b656f169b4791c900e85679db2e9b39bbe02218490f1ce1b59"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_047",
+      "hash": "08bad3d7c1175aef61c71f7f02e0bab2abc95a6362ed7ff5dff392f214e26db6"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_049",
+      "hash": "57c7fb39990ca03cfd579a41ed945c974b2d41e6127f31b10a9d5fb80963bda1"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_054",
+      "hash": "e5868a044e875e7f14b4cf6763ab664bf4ac32ce1317eee9b9c676790141b187"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_059",
+      "hash": "dd4cb52dcdb32a860e254c17d336dbaa65cd753c0878702e185654c8635a3219"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_060",
+      "hash": "2141e24960e4746b088606b83e6b0fe11857e20100a6b45ee9f9d0766d7d42aa"
+    },
+    {
+      "pair": "saudi_music_v2_010/saudi_music_v2_065",
+      "hash": "fc139965e5d27c8997dfc9f8e8e1ae410ac1781cd1a37dc8237e0a73db1f086f"
+    },
+    {
+      "pair": "saudi_music_v2_013/saudi_music_v2_023",
+      "hash": "0d8654fceab34c5dddc396521d1d85f0618cf9b3ed91cb18127c2b7076a679a1"
+    },
+    {
+      "pair": "saudi_music_v2_013/saudi_music_v2_034",
+      "hash": "7621bb52277e01dd43c8cf6d33cc01b552bb7fe484e03199b67cb698b7ad2797"
+    },
+    {
+      "pair": "saudi_music_v2_013/saudi_music_v2_039",
+      "hash": "5d31e4d17ade82cbd451e9e5d618ca3793bf871977d17f46e774d0c6d841ab7d"
+    },
+    {
+      "pair": "saudi_music_v2_013/saudi_music_v2_046",
+      "hash": "d763cd505d1b98097b1dc28be86201eec2debf62cd54b6436ede9a153b83d511"
+    },
+    {
+      "pair": "saudi_music_v2_013/saudi_music_v2_047",
+      "hash": "7255191b0da6b85a8e6322b7ea7728143452256201b950957f80046209c886e0"
+    },
+    {
+      "pair": "saudi_music_v2_013/saudi_music_v2_054",
+      "hash": "942c8dc361e47a65d3cd26a80ff289a4925d574208f6fc252c9d5dc5bcca4746"
+    },
+    {
+      "pair": "saudi_music_v2_013/saudi_music_v2_065",
+      "hash": "7365e95bba686977b1687fb3cb17fce7d3277dfd873d1ab769bf48bb51392c7f"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_025",
+      "hash": "ae40cc334e652e304baefe0d5b916ea3cc12ff491e5a9217154ca8fff50ce903"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_026",
+      "hash": "6cc70c55e016d0ab1b9490e249ddd94a8e17bc1561663cb8798682f6c476e844"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_028",
+      "hash": "7fc8586c8a8cafeae90410c02f909333e0017db557b2ba49f8e83efa01fa31b1"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_030",
+      "hash": "3801f21facaf6b8a5d668589c9e945ba455a4d74d2a475339d8c188108f6d0da"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_034",
+      "hash": "9d90299ea82366238dbdba109b3363b3d47b39d602c1603e7da36de93fce67b9"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_039",
+      "hash": "3f1e104b8511d6ee10cf6e01fc7f237f57fe1fed30a26e5572d735a67b3101dd"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_042",
+      "hash": "7e0732a5772ff91e3f0747908b23bc6cb0b6abd65a5fee625c33dd984e305d44"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_046",
+      "hash": "d3c62ce4a1a8272d703041364ea21ab0035e2b4241233993b92e11c1a4db82a4"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_047",
+      "hash": "310ebc8e3f0cd63ced6f7beb8b9dc68b1cacf55a505a8a83efe4c69520d908fe"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_049",
+      "hash": "6e9f9c0bd8bc33bb60775bed712b2bcb78eb57da312c484a91c492544962b850"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_054",
+      "hash": "4ac3ccd78e1918c13d535852596473cce9d5ca2dede80181d7bbbbffcd071592"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_059",
+      "hash": "bb187333a18fe879d36def688d4c0c6f8e45b239f8a663568a4708cc0d21af90"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_060",
+      "hash": "c8c8992ead6e05dd7cdface9da3568064512599871df26ff17020a7bf565dcf9"
+    },
+    {
+      "pair": "saudi_music_v2_023/saudi_music_v2_065",
+      "hash": "434542d931f3d83f50574e0f1ac7105196c1daafe221a51c68ecddc44e23e209"
+    },
+    {
+      "pair": "saudi_music_v2_025/saudi_music_v2_034",
+      "hash": "405a916555e943c40f30f9861615c7006fc012e5c73fb7e3a2ebd42617b6bf60"
+    },
+    {
+      "pair": "saudi_music_v2_025/saudi_music_v2_039",
+      "hash": "638547ca68d1c7d03a11fcf1e17b54ede45a41c4873d57a938389f7f7f42fa9c"
+    },
+    {
+      "pair": "saudi_music_v2_025/saudi_music_v2_046",
+      "hash": "77f39f9c33d9143dd7fb393d0af7500ecbfd3ef6c1744984ca270f7f72f26956"
+    },
+    {
+      "pair": "saudi_music_v2_025/saudi_music_v2_047",
+      "hash": "0dc913a4e487e2c1057424ad5987bc2976c0251615239eb78d00af722ed71498"
+    },
+    {
+      "pair": "saudi_music_v2_025/saudi_music_v2_054",
+      "hash": "8d0f418c6f765de1a3dc1fc1f6eaf72fc94ce4d856ac5484fce6ebe8e25d2e44"
+    },
+    {
+      "pair": "saudi_music_v2_025/saudi_music_v2_065",
+      "hash": "383455d9c27dce478b83a8bcc6ec3882ae320e9b3e82db29579bd929dc1f1851"
+    },
+    {
+      "pair": "saudi_music_v2_026/saudi_music_v2_034",
+      "hash": "35e5d2866f627140cdc648e1c6fba21d280ace3595b9aad207598822e05d1926"
+    },
+    {
+      "pair": "saudi_music_v2_026/saudi_music_v2_039",
+      "hash": "add2fb87eb3a02e5b904d0cf84d2f201a5e14be827f5dceca471c1d0b7054ce6"
+    },
+    {
+      "pair": "saudi_music_v2_026/saudi_music_v2_046",
+      "hash": "d4b15df19e169c5714fafdd9c8718dbd93734dbe407e199c711e4ef6741a2ff2"
+    },
+    {
+      "pair": "saudi_music_v2_026/saudi_music_v2_047",
+      "hash": "f810e9c32f9ff4464df2e11f9aa7da54a9e33116c8a4f97e16d9587d15c54460"
+    },
+    {
+      "pair": "saudi_music_v2_026/saudi_music_v2_054",
+      "hash": "ef4ac1aa774f5738c136f86956f56be3daa8122c48c0c6f09c4520390ddb9861"
+    },
+    {
+      "pair": "saudi_music_v2_026/saudi_music_v2_065",
+      "hash": "5d72595e32af929e1ba364b9914eac6c743bd79903fffa971e86aa66da4d33e4"
+    },
+    {
+      "pair": "saudi_music_v2_028/saudi_music_v2_034",
+      "hash": "1c562e8a01eef3eb0b0f97ab13f4e10e26efe882c46e1bbbd79fb85ff30b8ad4"
+    },
+    {
+      "pair": "saudi_music_v2_028/saudi_music_v2_039",
+      "hash": "2cd388ba4511685b982a83da6f27cebe1dcb55fdc22265fa847894f7a40a5f85"
+    },
+    {
+      "pair": "saudi_music_v2_028/saudi_music_v2_046",
+      "hash": "edaa175824343fe6c757438a4b0f39d389529e48bbfc2383189a169734e84309"
+    },
+    {
+      "pair": "saudi_music_v2_028/saudi_music_v2_047",
+      "hash": "c8c6eaebfd0253ba9ad5bd4204c4052b6cc53a5316e8314142a8bef851aab420"
+    },
+    {
+      "pair": "saudi_music_v2_028/saudi_music_v2_054",
+      "hash": "576e401b748d60e11b246d4387b38ac7dd6466b6dfa3645ebe6dd0bc815fbb42"
+    },
+    {
+      "pair": "saudi_music_v2_028/saudi_music_v2_065",
+      "hash": "8b6644d7a9dd08ce89313fe9d308b7a14924d2efbe02c9b100989edf243c28ef"
+    },
+    {
+      "pair": "saudi_music_v2_030/saudi_music_v2_034",
+      "hash": "273a43095e8f494840970c2143cda261b9be4841d86d688e93775820ea90e079"
+    },
+    {
+      "pair": "saudi_music_v2_030/saudi_music_v2_039",
+      "hash": "b3e8e7ab2980c736f8daca785b704df93d3739548463cc981d6ac91c9447fc49"
+    },
+    {
+      "pair": "saudi_music_v2_030/saudi_music_v2_046",
+      "hash": "0988a5230bfaeb82a5f7e4632d048cd42ba36e613c6c733c6d8d37bf4572618c"
+    },
+    {
+      "pair": "saudi_music_v2_030/saudi_music_v2_047",
+      "hash": "9bbf26718ceb2d23d8fac0a54689faeec27260417dafa797a7c7a5bf4171b104"
+    },
+    {
+      "pair": "saudi_music_v2_030/saudi_music_v2_054",
+      "hash": "4a0e492b17fcca6e258b0a453dbb6a898990c3ae5273985f82550dc52ea6375b"
+    },
+    {
+      "pair": "saudi_music_v2_030/saudi_music_v2_065",
+      "hash": "6a4cbffc6c4691e589157f0cc421990eacaa50c99cb76bff9f2f53c291e5afb7"
+    },
+    {
+      "pair": "saudi_music_v2_031/saudi_music_v2_040",
+      "hash": "ef71fd5fcdb5e6c9f5aa821e8879a060d76283ef962fa30e739b6d2059bea4ef"
+    },
+    {
+      "pair": "saudi_music_v2_033/saudi_music_v2_095",
+      "hash": "b891c4f0efb4d2e93020d1df915bf4d7a4f078180fb3036f112098daf8743c23"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_039",
+      "hash": "f2da9e2f399a2f7a5cf4cc06951e877e0637f10373110872e14a161ca2d1f8b5"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_042",
+      "hash": "427c4aec266fe51f1fee89627b6e9404e7e29098778bc4d9865b62480eacbb12"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_046",
+      "hash": "32dcdecae2766f66c73872d5a667d4ff5b9003974f8fb65203d12c15ceb4ea2a"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_047",
+      "hash": "117b3d8bce3608a2b5373fd65fbea4ac14666b87afbe1af4bb5de10cd8f9d76e"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_049",
+      "hash": "230605b80f7c1eeef0932c6ec9fffb2224129f2777d049f17ba7c0be70f794b9"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_054",
+      "hash": "e5390faf3c3d967c729c5542dd22416b4ffcaec18303c1b773a912947ae3ead8"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_059",
+      "hash": "2a74e40586ed7d56549b4eefb8149edc591550f68539e4df25efc3fd86193ca0"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_060",
+      "hash": "3b9ea57f6a590063682936f8807103a9ffab2eb16ee11fbb9000af690b793e47"
+    },
+    {
+      "pair": "saudi_music_v2_034/saudi_music_v2_065",
+      "hash": "3832dded3c99993a31d90d6ab3fcf7005988bae04348660d612f50a9ab930862"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_042",
+      "hash": "9dbd930f846e4369f3b744a6065f95d4b7bb6f6157821586838aa6da46a9c123"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_046",
+      "hash": "5f3fdd70b73bc4c26aa4615625766fc78aabbd0b9627a209284eaa4305e86f6a"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_047",
+      "hash": "58cd0f666bcc602ac8c95ab2353c568520c5aff59ed12be68925c9cde5f1231c"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_049",
+      "hash": "05eecbd670a699684ba01267c5afd9a1a7b1cdb5fe7d61218d0e621d11a07871"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_054",
+      "hash": "351c80bc14b47a3b1762587032a0ee2b4afe45763cef15d613a4254281a6f9f0"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_059",
+      "hash": "01e00672a8716ec9329d6ace9f51646fe734435fac59251c605415489b76792d"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_060",
+      "hash": "451dd773a5d3c91d178236c5d0656e6b7ebac14080e469045c9a126871fe4dab"
+    },
+    {
+      "pair": "saudi_music_v2_039/saudi_music_v2_065",
+      "hash": "01e4e9e3ed2ae6e542bed23d5c36d7672ab554d0c292f93cad689e472f1caa9e"
+    },
+    {
+      "pair": "saudi_music_v2_041/saudi_music_v2_102",
+      "hash": "1cd6110881afec2f1e35fff97b92e4c65f7868c320a2c49be1f68a43cabb2d25"
+    },
+    {
+      "pair": "saudi_music_v2_042/saudi_music_v2_046",
+      "hash": "ea55d301823de4af4ae464dbb9b5eeafab23a62b81388aa67465f67fdfee573d"
+    },
+    {
+      "pair": "saudi_music_v2_042/saudi_music_v2_047",
+      "hash": "a6805c04c091687f4e749a52cc97ce13d0beda1511ebbe8ce0b94e7b3331e273"
+    },
+    {
+      "pair": "saudi_music_v2_042/saudi_music_v2_054",
+      "hash": "436a14174d1e55ac5212ae97db21cc43650130851852f8b9afb51b57f7ad3a97"
+    },
+    {
+      "pair": "saudi_music_v2_042/saudi_music_v2_065",
+      "hash": "3b84a7c7ae209eb7bef874bc8106030dc647fc69622047e6226e7b51f75bb162"
+    },
+    {
+      "pair": "saudi_music_v2_042/saudi_music_v2_103",
+      "hash": "974a9e494922f7e7b32e94fce7d39367952f7b1af569546a457fa1b82be44fdd"
+    },
+    {
+      "pair": "saudi_music_v2_043/saudi_music_v2_104",
+      "hash": "97e3161553b276cc19fbc1b6d6eaf7808a6bf564e8bbfd2e2df59f9e2176b10a"
+    },
+    {
+      "pair": "saudi_music_v2_045/saudi_music_v2_105",
+      "hash": "91c0f00db848a180640073d6b422c5e75d6bb6c305a6387671cfbac9a5a26efc"
+    },
+    {
+      "pair": "saudi_music_v2_046/saudi_music_v2_047",
+      "hash": "dfd5eff7d3e03cd8c570929f9bbee2e480c69bb56eaa9da143595c69977e33d6"
+    },
+    {
+      "pair": "saudi_music_v2_046/saudi_music_v2_049",
+      "hash": "9d75f227e305f8cf73a3664e57085f6e7a18546e82583c07dadf8828f419d62c"
+    },
+    {
+      "pair": "saudi_music_v2_046/saudi_music_v2_054",
+      "hash": "541adeeaaff2336b986a2a9d1dd2e30adad1e212faaef61d6514685dd41709f9"
+    },
+    {
+      "pair": "saudi_music_v2_046/saudi_music_v2_059",
+      "hash": "e026c4b8fd7671f044c5069eb7e64af4d57e3388a448978bea72f9071fc4ebc7"
+    },
+    {
+      "pair": "saudi_music_v2_046/saudi_music_v2_060",
+      "hash": "22da6341fd9528b4f02fd8a0803d3ce648436ff629766bd99b7d57fed1d1e4c6"
+    },
+    {
+      "pair": "saudi_music_v2_046/saudi_music_v2_065",
+      "hash": "7b78a54dfe69ec0c556449b3a6265c98dd66a7501efc7d951bffc7ea2a61164a"
+    },
+    {
+      "pair": "saudi_music_v2_047/saudi_music_v2_049",
+      "hash": "444d2778debfe9fe2348d92917c42e351b1d08c0a39b9ad09c25529067988da6"
+    },
+    {
+      "pair": "saudi_music_v2_047/saudi_music_v2_054",
+      "hash": "0e4dc0c1c77d4910aa97e8aec3e47178667622b772ef5c6a180642419ae41adc"
+    },
+    {
+      "pair": "saudi_music_v2_047/saudi_music_v2_059",
+      "hash": "3eb842b4f4cb6ee10211ec3949ac4ef657bfcc6c6fadb1d3aff4c172704ffd31"
+    },
+    {
+      "pair": "saudi_music_v2_047/saudi_music_v2_060",
+      "hash": "d010642e4934849048c9c12464a27f2a45b0b09f6cddcfd4ab52cd5a9aaf7067"
+    },
+    {
+      "pair": "saudi_music_v2_047/saudi_music_v2_065",
+      "hash": "a311cf952d7d90847e5c894233ba9350922b5d1070b7ce39a29c6302f52a933e"
+    },
+    {
+      "pair": "saudi_music_v2_049/saudi_music_v2_054",
+      "hash": "d61ef578ed27bf02695d2acfbc85dfe6e85e81b55be00fa16aa52b467443a295"
+    },
+    {
+      "pair": "saudi_music_v2_049/saudi_music_v2_065",
+      "hash": "68231a08ff5e3ed78ce534acdfb7700b829a73d12ba9423d0776acc449a5c4b0"
+    },
+    {
+      "pair": "saudi_music_v2_051/saudi_music_v2_063",
+      "hash": "c6a16745b3d41e29f4b20683c94df143154ee0e77c1a96bb653392aeec873d69"
+    },
+    {
+      "pair": "saudi_music_v2_051/saudi_music_v2_064",
+      "hash": "7fb60b3de5863cab2db86fda8c2288fdcbad5d4c065a2a0d3a787a92142d82af"
+    },
+    {
+      "pair": "saudi_music_v2_054/saudi_music_v2_059",
+      "hash": "a2ac6fc9e59006f2615c57571a5b3c3a81a69d4bcebb9eb5b28ef0b1c186f112"
+    },
+    {
+      "pair": "saudi_music_v2_054/saudi_music_v2_060",
+      "hash": "b87c49aa453ef6c1c72250e3c1194f556b9f1310a6f2e0062d84ce36d473b5d6"
+    },
+    {
+      "pair": "saudi_music_v2_054/saudi_music_v2_065",
+      "hash": "e79859548c5ca06b1cd529457d449c2834e3a56e4153371f938f36d5934a6380"
+    },
+    {
+      "pair": "saudi_music_v2_056/saudi_music_v2_112",
+      "hash": "e329a620354f4c61ac712f08eb6966272422fab00ca160ff4b7253fa1c761a93"
+    },
+    {
+      "pair": "saudi_music_v2_058/saudi_music_v2_113",
+      "hash": "f49455e2bec5707e347e81408b3fffa937384b208f20dfbf4bc864d0bcfb0ad7"
+    },
+    {
+      "pair": "saudi_music_v2_059/saudi_music_v2_065",
+      "hash": "5e93bd1fbabe63ad6b44801ef4bf19ebad933de308a15792446d4ee403719e9e"
+    },
+    {
+      "pair": "saudi_music_v2_060/saudi_music_v2_065",
+      "hash": "783f208029fab733aa1c5e5980d4473485766866b4340fd95f33e1ad3df5bba2"
+    },
+    {
+      "pair": "saudi_music_v2_061/saudi_music_v2_116",
+      "hash": "1594d31b9562c8fb90eb26cd3e15d9d63e554d8a9aa19e048919e89d8e8e51f8"
+    },
+    {
+      "pair": "saudi_music_v2_063/saudi_music_v2_064",
+      "hash": "c80df41e90743f777f475e3613bf6ebf7359137115733fc35b41c4c90e165077"
+    },
+    {
+      "pair": "saudi_music_v2_063/saudi_music_v2_118",
+      "hash": "19f24eac03e26931ac84597471ede30fa2972828a859a1951858715dc940366d"
+    },
+    {
+      "pair": "saudi_music_v2_068/saudi_music_v2_120",
+      "hash": "463a62dd143f80585c07106fa6f6b28207188b43c1f34557309abe350236fd19"
+    },
+    {
+      "pair": "saudi_music_v2_070/saudi_music_v2_097",
+      "hash": "c39dd780b4efe19c55341ae953e505697f44e8636d6b805c4949bcaf27180661"
+    },
+    {
+      "pair": "saudi_music_v2_070/saudi_music_v2_102",
+      "hash": "c2ecdeb03fb14b3da7fafc169f00a441a30267e52f4ecced5d7084cbdcb7e846"
+    },
+    {
+      "pair": "saudi_music_v2_070/saudi_music_v2_127",
+      "hash": "58fcd051baa72c7800f5b040eb54d0c5a5a1fc82bee1f1dabddeb6bf56ea53bc"
+    },
+    {
+      "pair": "saudi_music_v2_071/saudi_music_v2_090",
+      "hash": "d329f2546d36a878ba6ef19a7c43bc81338db10b5e20760a20c7b03fbe430f78"
+    },
+    {
+      "pair": "saudi_music_v2_071/saudi_music_v2_098",
+      "hash": "237cc4a02b8b6b019adde226105e0a909a9fbe0a8739800b27e629212f5a31d6"
+    },
+    {
+      "pair": "saudi_music_v2_071/saudi_music_v2_106",
+      "hash": "fdc80f4a5b82a7e5a4587b27a87b29ccfbc284fe8fece5421bbd0caa1b367c3d"
+    },
+    {
+      "pair": "saudi_music_v2_073/saudi_music_v2_095",
+      "hash": "2cf0bd91fd9922823ae0d95fcec13b8a50497c11e093fa765ec21d1b42de713b"
+    },
+    {
+      "pair": "saudi_music_v2_073/saudi_music_v2_105",
+      "hash": "ace8e2db9d80a07c7d25d1adac611368953e4a5b49987e146add4bb4e49a82d3"
+    },
+    {
+      "pair": "saudi_music_v2_075/saudi_music_v2_200",
+      "hash": "fca703592ad5eb346f7e41925246a0b0836d6cfbc890e1983c9b37a8fdd25ddb"
+    },
+    {
+      "pair": "saudi_music_v2_077/saudi_music_v2_202",
+      "hash": "2636feef2bf4029bbe70b4312459cdabf76786aad18e991a375f330ac0c6d30f"
+    },
+    {
+      "pair": "saudi_music_v2_087/saudi_music_v2_091",
+      "hash": "c88c4021452ec8b69e9cadd627bb5cd9c4c4ea41e4c859aa542db6069bdb0c22"
+    },
+    {
+      "pair": "saudi_music_v2_087/saudi_music_v2_093",
+      "hash": "8a442e7ba1815a8c4519998cd551fbd38f793f425b538ab1bb062db3255a0143"
+    },
+    {
+      "pair": "saudi_music_v2_089/saudi_music_v2_097",
+      "hash": "21053a0437f01428d500900f7e334a43b2dc26d6e670968800ee22d2f16e3e5d"
+    },
+    {
+      "pair": "saudi_music_v2_089/saudi_music_v2_102",
+      "hash": "62d177bd925ef753193369b90c33566c86dfb91760d784b2c1c179dddf0941f4"
+    },
+    {
+      "pair": "saudi_music_v2_089/saudi_music_v2_116",
+      "hash": "0efec03dd9768a819095a6e6c83b182012adeacb75531ace3b5147de238ad275"
+    },
+    {
+      "pair": "saudi_music_v2_090/saudi_music_v2_098",
+      "hash": "10b939280a613f76b742a9024e5fdd79171941b7dc916cf99b6429def9b10618"
+    },
+    {
+      "pair": "saudi_music_v2_090/saudi_music_v2_106",
+      "hash": "6f59ac0b3942dfbef4e8a8d2e572fa164adc8ca776030c78ca6c8c7b00246276"
+    },
+    {
+      "pair": "saudi_music_v2_091/saudi_music_v2_093",
+      "hash": "98f1a281f2e1c34a3bb1b5fce8b42c3e48cd47099de713817410e15d8d0e7888"
+    },
+    {
+      "pair": "saudi_music_v2_092/saudi_music_v2_120",
+      "hash": "312f7f65e3f0b8c07e2116f8463b8765d0a0e4c7d4142a70d09b0fa128ea0c8c"
+    },
+    {
+      "pair": "saudi_music_v2_095/saudi_music_v2_105",
+      "hash": "f40a0e111f4e40ca0e7d8c08c3f6fc07466d4c2d67d51f613eff17a640c7a4bf"
+    },
+    {
+      "pair": "saudi_music_v2_095/saudi_music_v2_167",
+      "hash": "7c6b9a42329ed24c1260f9ea08246fe477dfc94bba6e7b8fc10374faaab06c13"
+    },
+    {
+      "pair": "saudi_music_v2_097/saudi_music_v2_102",
+      "hash": "571a51948e6e0ff0d93e1f22adcac06eff73b48f8e665836b25b7d8f8cb77dfe"
+    },
+    {
+      "pair": "saudi_music_v2_097/saudi_music_v2_116",
+      "hash": "e7e55c9d8b6ec29af1ead3b82e3b149837a2a65d459b767b1cf1062e194ef973"
+    },
+    {
+      "pair": "saudi_music_v2_097/saudi_music_v2_127",
+      "hash": "17b723faaba0966287d6345c4621eec8508d40384ae0acdc3e20512f06ba7f84"
+    },
+    {
+      "pair": "saudi_music_v2_098/saudi_music_v2_106",
+      "hash": "409c864ab76f00b7bb2fa7e96f31ab75fec3fe3cd3a8504d4ac58f4616a24a3c"
+    },
+    {
+      "pair": "saudi_music_v2_102/saudi_music_v2_116",
+      "hash": "3510f25456a189d8da0fc3af46fdddbc73630fa974f4621b23cf26a59442bfed"
+    },
+    {
+      "pair": "saudi_music_v2_102/saudi_music_v2_127",
+      "hash": "4b3711d3b18c291f65a959028300150c66d697dfc335d8f38fa9459f098dfa68"
+    },
+    {
+      "pair": "saudi_music_v2_103/saudi_music_v2_126",
+      "hash": "456d8775106a794138520e1f4a48f3f607aa72d4cf993b8a2ba845c776014cae"
+    },
+    {
+      "pair": "saudi_music_v2_104/saudi_music_v2_178",
+      "hash": "2a407f5d19e942f9d0c582008bb6ab7a3ca5f7c35a4538560a7022f7370e08cd"
+    },
+    {
+      "pair": "saudi_music_v2_108/saudi_music_v2_119",
+      "hash": "777731223688746ac60d6353f5e5c3bceab18b8992fbafe16876eceb762de5c0"
+    },
+    {
+      "pair": "saudi_music_v2_108/saudi_music_v2_129",
+      "hash": "03928a92234335edb3f7f432f4920ce5ddb8d38e91344f591d1d1d6650692f53"
+    },
+    {
+      "pair": "saudi_music_v2_108/saudi_music_v2_130",
+      "hash": "2ea4e8d239788fe324ecbedf0ab29d557686d9f65f1a9b08fc41f7acae025479"
+    },
+    {
+      "pair": "saudi_music_v2_108/saudi_music_v2_131",
+      "hash": "7bf8924d98081efdbec9c6ebbe8380bb59e9682de7139308cfd10dd44207910e"
+    },
+    {
+      "pair": "saudi_music_v2_108/saudi_music_v2_201",
+      "hash": "3ac6d6c67534ca523ef62af4153975da3394377a2e740f0f8b6325f238d6f4b2"
+    },
+    {
+      "pair": "saudi_music_v2_113/saudi_music_v2_132",
+      "hash": "e2a9cece94cd62ba60317829cbfcf6e77e58cb7538d74c3038af3819f52e5f11"
+    },
+    {
+      "pair": "saudi_music_v2_118/saudi_music_v2_119",
+      "hash": "15cc23819654c47b296a5be3a7cd3daa9e30e93e5a7919585dd7b9a521a611a3"
+    },
+    {
+      "pair": "saudi_music_v2_118/saudi_music_v2_129",
+      "hash": "043ad4d3dd61118614ef2ed75c8591dd50b804cd72440c7154a13ab629849564"
+    },
+    {
+      "pair": "saudi_music_v2_118/saudi_music_v2_130",
+      "hash": "ce4057bac55baf35b1c9c613ee4970a843cf1b4e41b3ca3cb7b59def79565aca"
+    },
+    {
+      "pair": "saudi_music_v2_118/saudi_music_v2_131",
+      "hash": "392980bfe644524241d828e30402df403c9de59f8085e1941caf52f06608e0a4"
+    },
+    {
+      "pair": "saudi_music_v2_118/saudi_music_v2_193",
+      "hash": "95bc50239c828c62ee49353f07286d23ddcbd05c3f5a3a974ebd0c9089ad94a5"
+    },
+    {
+      "pair": "saudi_music_v2_119/saudi_music_v2_129",
+      "hash": "99d4848c2f2f272b8df58ae799259d936815383e418853a49d0a2698c8561068"
+    },
+    {
+      "pair": "saudi_music_v2_119/saudi_music_v2_130",
+      "hash": "68b0fab6a245a304f724ba028e5b907d8ef962377ff52dbb7453c0f360c9c714"
+    },
+    {
+      "pair": "saudi_music_v2_119/saudi_music_v2_131",
+      "hash": "a34494b10279d1fb6fa31534dbff46375fa12f0a7cdcfaca4ddf1ab2dee85502"
+    },
+    {
+      "pair": "saudi_music_v2_129/saudi_music_v2_130",
+      "hash": "bdb2f020c7fbaf237bf1100b9ccfa99dfc86835c78935d7f1b0a3e5f3fdb2356"
+    },
+    {
+      "pair": "saudi_music_v2_129/saudi_music_v2_131",
+      "hash": "c45243aa62353143b117d8df905dbcc25c19f1cab37aa35233abe2f793fefd6c"
+    },
+    {
+      "pair": "saudi_music_v2_130/saudi_music_v2_131",
+      "hash": "7a8c3554248edbcf52448ad69667541eb9f33f687ee585f937e995aa4b83f8ed"
+    },
+    {
+      "pair": "saudi_music_v2_130/saudi_music_v2_181",
+      "hash": "caaa0000ffadca0a2ced4db86a771adaebcc061aa58bfec3b55de3631d2f76b8"
+    },
+    {
+      "pair": "saudi_music_v2_131/saudi_music_v2_188",
+      "hash": "1255b3e214f760203f53df57dbaff98d8c332602d98da4d7f64c5cd311751301"
+    },
+    {
+      "pair": "saudi_music_v2_132/saudi_music_v2_189",
+      "hash": "bdf203b1a6b68ebc20d8b0787c5b0779229a041fc3f1b3d83e4f11eb447568df"
+    },
+    {
+      "pair": "saudi_music_v2_133/saudi_music_v2_150",
+      "hash": "5e47c5545ee609f5efaea97227a698ad6b996b9876664022738acba82b10a535"
+    },
+    {
+      "pair": "saudi_music_v2_133/saudi_music_v2_151",
+      "hash": "5ee1fff6a9fe5d28cc2d7b9ed0d17c72802e0fc532ec3da239b280fbf38ebba7"
+    },
+    {
+      "pair": "saudi_music_v2_138/saudi_music_v2_163",
+      "hash": "e715233db33c568fdeaaa632687e26e435dec6fe81b655f6b5398d749a17b0e8"
+    },
+    {
+      "pair": "saudi_music_v2_138/saudi_music_v2_180",
+      "hash": "80072820e57c5ab9beeb6a653c23f5350520622470e324e4de7957910accb5c1"
+    },
+    {
+      "pair": "saudi_music_v2_138/saudi_music_v2_183",
+      "hash": "78c30cc0f6855ffbde78de3b3b03fd844c627e43fc750eaa9f6c73c2ee866f97"
+    },
+    {
+      "pair": "saudi_music_v2_139/saudi_music_v2_141",
+      "hash": "b82356a54bcff8db8fceffd560cf24a16008e7fe010e462493ece157fc7906ec"
+    },
+    {
+      "pair": "saudi_music_v2_139/saudi_music_v2_187",
+      "hash": "96d76991d58397014eeb71ef409ab46442c763c122630a4ec64c89bd110abc92"
+    },
+    {
+      "pair": "saudi_music_v2_139/saudi_music_v2_191",
+      "hash": "a1720fa763a63b8e415523cca191afdf9e87b41f4972e59808c9b0791e9ad6ab"
+    },
+    {
+      "pair": "saudi_music_v2_139/saudi_music_v2_192",
+      "hash": "13e5f81df0b0a85a71af681523db908ed1e83d242844438db1817b2b4cb53bb4"
+    },
+    {
+      "pair": "saudi_music_v2_141/saudi_music_v2_185",
+      "hash": "dd6e2d62223a5edffb5b89659132ac315002f98945e6193ba8ff74e5431c3e9c"
+    },
+    {
+      "pair": "saudi_music_v2_141/saudi_music_v2_194",
+      "hash": "6f3ae172f6818487306523558330a52d9d14b4d9686195274acd6b4119926a6b"
+    },
+    {
+      "pair": "saudi_music_v2_144/saudi_music_v2_146",
+      "hash": "2d047dc5ea64a904b5066303f60e4cc3e621bca14758f271b1129827edd53392"
+    },
+    {
+      "pair": "saudi_music_v2_144/saudi_music_v2_170",
+      "hash": "b61eb690753c79744c2035159973d581333ffdd4a467a4e2b5943d8fd13c7a92"
+    },
+    {
+      "pair": "saudi_music_v2_144/saudi_music_v2_191",
+      "hash": "ff948412485990603c81aace5a95d8f406f993d7d3eefaa5a5b2208937a42f42"
+    },
+    {
+      "pair": "saudi_music_v2_146/saudi_music_v2_191",
+      "hash": "eddc776c92f3308f56a8d6698806f4fc919db4dbb1243bf7b4f10e4c837ff014"
+    },
+    {
+      "pair": "saudi_music_v2_149/saudi_music_v2_150",
+      "hash": "89be382dfbc4b0aa01b5ca64884726e88fc9b8b13126fac1ba5a7d6831d43494"
+    },
+    {
+      "pair": "saudi_music_v2_149/saudi_music_v2_151",
+      "hash": "d2486afb5443b9c4fa54c7bc3c415833757c15f1d2d9bc25ba6cc457184458e3"
+    },
+    {
+      "pair": "saudi_music_v2_160/saudi_music_v2_164",
+      "hash": "5cc9ce3aafc7492f3a0d5f9bc84ca03ff3e5ac0011c7a266b8afc1a7c0af3af1"
+    },
+    {
+      "pair": "saudi_music_v2_160/saudi_music_v2_166",
+      "hash": "d7fd3fb0d2a97667b026000f260128aa5676fdff1b96d54753c00488cb7ca0f3"
+    },
+    {
+      "pair": "saudi_music_v2_161/saudi_music_v2_181",
+      "hash": "7eaab20f7e091ed495a5e5997467527a94f0ff70764dd4380c92a7417386eb01"
+    },
+    {
+      "pair": "saudi_music_v2_161/saudi_music_v2_188",
+      "hash": "913dd469258d9069931503cb5af8f433fd052f279439c847f86f7c1088302e79"
+    },
+    {
+      "pair": "saudi_music_v2_163/saudi_music_v2_180",
+      "hash": "825cc64dc88115a2349d92591f4b9cb0004acef8ddba14cc5dab96dda7350301"
+    },
+    {
+      "pair": "saudi_music_v2_163/saudi_music_v2_183",
+      "hash": "4d11d1dce61422dcb7a7696505d221f9f32ce5930e9f79151b5be586713c4a4b"
+    },
+    {
+      "pair": "saudi_music_v2_164/saudi_music_v2_166",
+      "hash": "f4ed39a9ab14c3e8ae6a3ea9e6565a8d02d93d320d9979637281c35b2b95a283"
+    },
+    {
+      "pair": "saudi_music_v2_170/saudi_music_v2_191",
+      "hash": "a84ddbc43aa7c419d9eb81745749cb8918bc2dc5e703a4eb6752f1a9cd62771c"
+    },
+    {
+      "pair": "saudi_music_v2_173/saudi_music_v2_198",
+      "hash": "ff9cb8578f9d33aaa0499318fcbfc1b9d2f67150533f985bdb822372cad3836f"
+    },
+    {
+      "pair": "saudi_music_v2_180/saudi_music_v2_183",
+      "hash": "12140c72a0326987b85d5d60caf05fb745c7818a6302ffeea8cc25908a06f315"
+    },
+    {
+      "pair": "saudi_music_v2_181/saudi_music_v2_188",
+      "hash": "c5143c01b41e8ca43d1c4750af26ba237b72376a5871d5120158f94bd13d1e82"
+    },
+    {
+      "pair": "saudi_music_v2_185/saudi_music_v2_194",
+      "hash": "949e0b8f9153744e94b80979c1237dfa05f122ba74d6eb7fa2bb379c10d4219c"
+    },
+    {
+      "pair": "saudi_music_v2_187/saudi_music_v2_192",
+      "hash": "d9ebf17fa31077c89fc5dbcc2fffbc1265f1e44957084c797f42cbbb280105f5"
+    },
+    {
+      "pair": "saudi_music_v2_191/saudi_music_v2_192",
+      "hash": "07de61884322d39ee189496a0b1917b71103e7e8c42cb3a14bf93c6c167a5ebd"
+    }
+  ],
+  "cross": [
+    {
+      "pair": "saudi_music_v2_080/saudi_general_v2_032",
+      "hash": "1cb5909be475add8ec7f23cc0cbd5b73c0cf79f956e8cb1521a534573f402ce8"
+    },
+    {
+      "pair": "saudi_music_v2_173/saudi_general_v2_030",
+      "hash": "d973df0ee22d2ced4993c934a4f2d6bb7e4048c5d92a84651223d0963dc4cff6"
+    },
+    {
+      "pair": "saudi_music_v2_173/saudi_general_v2_032",
+      "hash": "98672138a415c8bff3526b58619cad54b30214ca3d954c103ccc40b42e95202d"
+    },
+    {
+      "pair": "saudi_music_v2_198/saudi_general_v2_030",
+      "hash": "63c5a8c0e6a8ef9d9f1f4c624a6fc7562aa969fdc82dc4f95a3e3bb296baa443"
+    },
+    {
+      "pair": "saudi_music_v2_002/emirati_music_v2_044",
+      "hash": "0ec533dd69e501aed4faa83682196481589256f4d42b8f56789454f278391472"
+    },
+    {
+      "pair": "saudi_music_v2_007/emirati_music_v2_049",
+      "hash": "af15468a162ce59511b11259ac990e9ec1ea736c38cbbade21fc898ba959b2b4"
+    },
+    {
+      "pair": "saudi_music_v2_010/emirati_music_v2_044",
+      "hash": "c609c272b7f7d970495b723bf3b6d8c2b976dd70bc38ea65fe075f0edfcccf51"
+    },
+    {
+      "pair": "saudi_music_v2_015/emirati_music_v2_049",
+      "hash": "89acefd4a3ae0ad99de4d2a65515593c2117813473d326554cdc6860c07944b0"
+    },
+    {
+      "pair": "saudi_music_v2_023/emirati_music_v2_044",
+      "hash": "9b12c45297a385467b80c5917a53014a0a76e7e01e1049518fbc0c97dfd348d9"
+    },
+    {
+      "pair": "saudi_music_v2_034/emirati_music_v2_044",
+      "hash": "54c1b88ecbf86e9c24fbfefcbe0a3d27ff83dc6620a8390c21c8a93e2ddbca90"
+    },
+    {
+      "pair": "saudi_music_v2_039/emirati_music_v2_044",
+      "hash": "9aef101c704a969c65a378706190eb316e4a48e2a6fcddbfb29ba7a624f0c0bc"
+    },
+    {
+      "pair": "saudi_music_v2_041/emirati_music_v2_045",
+      "hash": "c60ca733adc13a8a4128fecfc8a82659fe35971652f2d08a6ab9eb468ffd8709"
+    },
+    {
+      "pair": "saudi_music_v2_046/emirati_music_v2_044",
+      "hash": "e0c0879afae37f3ac6d8f2be00745339876351aa4ce9184a0504fa91037cec0a"
+    },
+    {
+      "pair": "saudi_music_v2_047/emirati_music_v2_044",
+      "hash": "ae2b1206d2ec051d8fa619d512424cdda3e58875f0a18934f2b9d6952d772cdf"
+    },
+    {
+      "pair": "saudi_music_v2_048/emirati_music_v2_049",
+      "hash": "3eb098544132c62c0932707753098e4bc603ef9cba8d04243c29169e7a1d11df"
+    },
+    {
+      "pair": "saudi_music_v2_053/emirati_music_v2_059",
+      "hash": "5b72df7b7833f1397785e6bce80c852d1205fed9f4e0532f4989ab4066ff2ba1"
+    },
+    {
+      "pair": "saudi_music_v2_054/emirati_music_v2_044",
+      "hash": "c4a777643f2cb76fbd4de8fbe7e8f8f0a9a7df4ab366de4b23dbaa218290faf9"
+    },
+    {
+      "pair": "saudi_music_v2_055/emirati_music_v2_049",
+      "hash": "560a1a4249fc7e71a75980786992d85c299d55c50cb137a92b0053e333cb6d2e"
+    },
+    {
+      "pair": "saudi_music_v2_065/emirati_music_v2_044",
+      "hash": "0cba36e36921b0096f31eea0fa9161f69c2f783b7bd5ed38cf8d22a250833b4c"
+    },
+    {
+      "pair": "saudi_music_v2_147/emirati_music_v2_114",
+      "hash": "4f10cdf243f681c4dba16fe9a946ff9bf3d01fe7e8a21ee012710aa5d7e16bf2"
+    },
+    {
+      "pair": "saudi_music_v2_147/emirati_music_v2_172",
+      "hash": "802dd01725c4086c4019ea4c904a2a80d55bbb105d804922c67118f33a13281e"
+    },
+    {
+      "pair": "saudi_music_v2_147/emirati_music_v2_174",
+      "hash": "37c2a1baee26a29bc1c9a367d63955c963c744e0b35273011fe33a83c7a4ea67"
+    },
+    {
+      "pair": "saudi_music_v2_161/emirati_music_v2_079",
+      "hash": "62a701c46050a14c5bd08ed14413b591c928f37f88fcf2c02c8b0c32a767f6ea"
+    },
+    {
+      "pair": "saudi_music_v2_161/emirati_music_v2_082",
+      "hash": "ad6ea8af1a9f6689113bba2f0ad6a4e847a81c123037bdf19b0e64fc4461ef19"
+    },
+    {
+      "pair": "saudi_music_v2_161/emirati_music_v2_180",
+      "hash": "be6a9b59988023cc2191f492a3e5b60b7c03455ccedfff21efd0f52ffafa3810"
+    },
+    {
+      "pair": "saudi_music_v2_173/emirati_music_v2_141",
+      "hash": "2e6e95a0c2af7e7cdbc2ef0134a7bce0f04ebbeae244897d6ef7c095d883d45e"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_079",
+      "hash": "6d649463a9ace99512638ef01c2bda3533d6f137995fc5fe21c28398b26de062"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_082",
+      "hash": "b1857da1c717ac2b5d734db559559c4880b1f0e6bfc128fc66fe6a27a0e70ddf"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_097",
+      "hash": "63d996f69e85a5596a054a1fa9fc1c9d61e4937efb9811d533ba99d556b3e0b9"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_114",
+      "hash": "525a0dc14306b3da06eb732d824475cfb9ed0f8559349c0d8f5cb4b5baa347bd"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_146",
+      "hash": "63ff2e3fe694be8a734400ec604820a77580f2b66c5dcfef772bf084a2d17869"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_148",
+      "hash": "4df32a76c4c9803ec6e5d63b4d0b79ce78d4672cb5b4a81d6b254076e3d20b7a"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_171",
+      "hash": "d6f9323256563f21560826dcef71f9939a6dc82c579f7823e246337a03fb6f8b"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_172",
+      "hash": "3d62de7891a641b7b91194d5ff008da976a9979cd6d5518ce7bae1c3ca525f06"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_174",
+      "hash": "575a1c6211a8f49a39ea68bad578fd29fc9fcbcc3b0e8e0c4be3ca5715f74dfd"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_175",
+      "hash": "2f9199baf10e7bf05250c9460a73908c3f007fb5b980fe0a3412763eb58192d6"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_180",
+      "hash": "6c37eb1a3d6a3d2d0bb5ba4bf0ecccfec81850658491a4228ad1b99c6b347ac2"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_181",
+      "hash": "4dd6944420678f8fba49cd02c4429b498bc4ef5be51fb53d9de3b9f5bfe38154"
+    },
+    {
+      "pair": "saudi_music_v2_180/emirati_music_v2_190",
+      "hash": "0ecf8edfa7c98601bb2f15d56718e01cac34d623871fad1f89959fd6cbe1366f"
+    },
+    {
+      "pair": "saudi_music_v2_183/emirati_music_v2_079",
+      "hash": "8b3150487b8aa7fbc81c2cb6197252b7618a7c783ecfb0647ce0107dbc8073b0"
+    },
+    {
+      "pair": "saudi_music_v2_183/emirati_music_v2_082",
+      "hash": "4a1198530ee45df8ca8a1e1d9d15dd884e92f18631ba278b616155cb17b55bca"
+    },
+    {
+      "pair": "saudi_music_v2_183/emirati_music_v2_180",
+      "hash": "11291e11d9c50ff3a235a6fe1edc72abf6ee47bfb70d23fff8cdfbfa54de0156"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_079",
+      "hash": "424d7d446b7e6dfee960d13edf76e1c30077b534f54efb8adb22ad4ba1e4598d"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_082",
+      "hash": "60820bfe5077dffce28f99a20915d31389dcfc2d35e248de4ca52d02c9598e26"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_097",
+      "hash": "23dcb5310a97e86be061c123fd19ca6c4cdf4ceb7dd2bff4b69321169cd52e38"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_114",
+      "hash": "1428b3829739734f1cac044a147c7f180e5c7e5195ea209eb13f06d10e39ea42"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_146",
+      "hash": "4bf31ee07bee39a04bcae39b81d7aeea875e955a90273000b0374a85ea2fa82b"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_148",
+      "hash": "3a4ba290f83ab9a94d7cd4ce37faa58436144acd7908f12ddbcb06b508b21974"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_171",
+      "hash": "f89b969490b6bd7aebdee14f801ef4d0acb9c32466e6772f14416746f6aba032"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_172",
+      "hash": "2d976f5235338e229ea376d369d493492c21fd99ad6832e9ed601f9cc055501a"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_174",
+      "hash": "55533acb3304099d7d6dadc20112eea55d3476d6592a63b6f54d6332ac8865be"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_175",
+      "hash": "eb7d579d12215330514f11ec47718df3027c83fa7cd867dec905460c5ea162ee"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_180",
+      "hash": "0e48bd7a6ac7b3d5e43f093758cb6f3dd0585a42943cf99a4ae1879a9f4c70d9"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_181",
+      "hash": "552a57214cd494382f46922e54964a651cba69d51c0d179660f380fdc06c0345"
+    },
+    {
+      "pair": "saudi_music_v2_186/emirati_music_v2_190",
+      "hash": "25bd1f90961b0ea90f0cb6a47eccbc19bcb0308da356d996622e02ae974edfa5"
+    },
+    {
+      "pair": "saudi_music_v2_188/emirati_music_v2_114",
+      "hash": "8a6ac8c8156e4aa5b4be2bc8acad2e8ef059082fb861ebb30a147c0a6440ef9b"
+    },
+    {
+      "pair": "saudi_music_v2_188/emirati_music_v2_172",
+      "hash": "e06e8ad9f213a6a988a29bb3ac93fb7b4e200a7dd0cb393b0712c250c85fb6d2"
+    },
+    {
+      "pair": "saudi_music_v2_188/emirati_music_v2_174",
+      "hash": "d05783c47f33e55f8278ca45c41137505119eeceb38871409421f5a85709e5ae"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_002",
+      "hash": "19dfa250843b5ec96b5098c4490291863d318fbcf9f8f556dccbbb7c42d44b33"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_015",
+      "hash": "5e43aa6c7a281cfef88dfc1984712b21f248c849e83829cb685cbbc799962b03"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_016",
+      "hash": "6b3007f5a749932e073b32a3b9538f9f6f21088819b30ce71903f4a22f6f7b19"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_017",
+      "hash": "ffa0bb6119205c50c0b7e6c2b49b3d047c059c31984f4482ecac5b5cbbf1c855"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_022",
+      "hash": "5a6cd3f21bdb7cb7dcb5fab3e31a6b39eb1ebb5498e8ab1e640b9fd41423a54a"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_037",
+      "hash": "4959dc3344683c3145116d792a1abb8c301f42a1e1d83df1ab20f2908534dd0c"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_052",
+      "hash": "ce7fec76afc9c6e17855994ad379a30d8744443f5efd4f0f1c91e8286262277c"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_056",
+      "hash": "db30ab6d79f2782dbd075012359a282ac76f10b93f075c6dffbb3ae00654a2c4"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_066",
+      "hash": "4972ec183414b24ed0efeb53bf2ef959164b9ed6d61eedbdee15a818131fffaa"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_015",
+      "hash": "60952b3dacb84a0f0661be3865c3f02539d39215f4e826e4406d6a8592f4d273"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_052",
+      "hash": "a47c896304f4f3e8ef486912844c39fdbd2306d495b62a13234920829c8d797d"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_066",
+      "hash": "636251151e9f3b069d9a443db3eed6a2bb0c0c6a4e011a2660e3fca6a0f7ce6b"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_002",
+      "hash": "d8e0c62c23350ab8af74fb850d87c23e42eb4aa196b7cc9570b841305fc60152"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_015",
+      "hash": "614785faf3f6c9c9437f282c05192c4ac065c14b55dcb145f5b9f0a0ff593075"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_016",
+      "hash": "c37c6dcd43a81d0ad4c2e96854d93f871dd6be7752c2bda8b693b17e4fe0a650"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_017",
+      "hash": "302e8481489a4820c0b3ca75a4696eacc0c2b36e82d28687d2480e9531a0aaed"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_022",
+      "hash": "f0d38134950fc64327e3b7ceec46c5c998baa983352a8727d6d4ad2765a5612d"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_037",
+      "hash": "27ac27275d239f1cce3fae9e1b7cbe2d2bc7fb27d5852a015fa44d7f76c70501"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_052",
+      "hash": "07466a20fdef9ecd563ca37fa7b27f91bec09ddafab8e647a651f3825472fbab"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_056",
+      "hash": "51f2a9fb5ee2801be1636be5b5890f264c79caeca1399a4d29925ae8b0b62771"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_066",
+      "hash": "cebbf024f4ff4a48be80b1463002161611daa17c6178df1d85e40cff4794c722"
+    },
+    {
+      "pair": "saudi_music_v2_011/gulf_music_v2_013",
+      "hash": "022c5c4bc1f690ca2d5199cd2e03acd0ae6c0741467fb4d9413a5d9ac13e0b8e"
+    },
+    {
+      "pair": "saudi_music_v2_011/gulf_music_v2_016",
+      "hash": "cd13aa72941f82ccb3ae301c36b5c0b8786b87f0978eec6bece4732adee031af"
+    },
+    {
+      "pair": "saudi_music_v2_013/gulf_music_v2_015",
+      "hash": "f822e819695ab5d77654bf8da2c9ff3a56daadc168c24417a2fa7b1e5b71e458"
+    },
+    {
+      "pair": "saudi_music_v2_013/gulf_music_v2_052",
+      "hash": "6ba4cada2921bcb5fa4776c1b7c707545efc04dc6462b6b641197ac94349f439"
+    },
+    {
+      "pair": "saudi_music_v2_013/gulf_music_v2_066",
+      "hash": "43c26077ad2f5523d87a495430da882e35d3dac7e4dfc12fa8038fb57a56a381"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_002",
+      "hash": "38716820741d57216ea39eb4f579f42b7e5b252b6c7d4490e9d03848ff42cbb1"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_015",
+      "hash": "0e20c070bc6180ad97cdd0c0e399b5063149fb4fb4e7464b6bfb491f685a38eb"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_016",
+      "hash": "32ea9e0d698050c6b65f814a7713061449e64a4d1ad258d1c792a50953d80444"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_017",
+      "hash": "3fcc29de153f3e887debe5cc770da9fc4e9b11c579d6cea7f4111f14f80c0c34"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_022",
+      "hash": "a489be25233ca3d15fd053647a1663e154aa9fd9f8be1ad2b28d790d59ccdddf"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_037",
+      "hash": "06ad16c856f6a80e7b8496c9a0d11c96e984f35fc316d805a922d143438aa943"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_052",
+      "hash": "6b0ac169899747a6f62836d8aeae3bf4e8f95f357aeaab5d99884bff0b7169e4"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_056",
+      "hash": "23e4ec24a073a9b7c347a549947aa6c496d0319b79fa0bfde6293be20b8fe451"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_066",
+      "hash": "94bce5598f623b011198534d92a8bbeb62ceee497af088c341450896c8eb8381"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_015",
+      "hash": "bc5676e59c07be99ccf8d8947d3cdb09d30267cfc36e073cfee533aa2ccad452"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_052",
+      "hash": "2fc3b586f5e685b625190aa7b1b3445618ae54729b19ac1f9d5802e6ddfe3508"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_066",
+      "hash": "5d39a3a56c332c9dcbd1bdfcfb907aafc4cf7e6d474a0ea1c8cd55dd0fd6cf9a"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_015",
+      "hash": "50ce8cc95a7039ddee24006901658ae59df14969e329db9c3bb3d062fcb0ebff"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_052",
+      "hash": "aa1d73a79c62f187c97eeb3d15a53eae56d208ccba94d3549ce225e70527f475"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_066",
+      "hash": "2e9aead30bfa3c0c2ab0ebea339306bfeb52d82ff704d1053e27ef77b985d9ba"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_015",
+      "hash": "5724aed4d07ec5c101cf4bde97b07d53ae28f8d2e658eaa64bb450ad14cd9d67"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_052",
+      "hash": "929fd9c936f99dfacf78beb62a0ccd69f83e7aa0078ecc0e727efc52b4101199"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_066",
+      "hash": "56bae6ff7c4f933da9e1db7a9b58dd274cc240d2deb000e517222be0b069ecea"
+    },
+    {
+      "pair": "saudi_music_v2_030/gulf_music_v2_015",
+      "hash": "7a4273a21c577c78aebbea30fae68e43fb0df4a4057e5c9e9d6f4a4c5a8054e1"
+    },
+    {
+      "pair": "saudi_music_v2_030/gulf_music_v2_052",
+      "hash": "119606563567652fd6a4228674822afe590d5b0c7716094cbd2ea0ee6cce58a8"
+    },
+    {
+      "pair": "saudi_music_v2_030/gulf_music_v2_066",
+      "hash": "2beef51ff24b5df17d24a2f484a80bd2afd2de191f7c8b683c8b13157f3136b9"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_002",
+      "hash": "63e1ae8cacb1c3a496c4968814ad0d0298058d8f4f8ad5236d4172313976587a"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_015",
+      "hash": "4461281af7dac6d4dcc50181ae9ae7ac10e37d528f7fff0dc0c370d4fed3a50e"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_016",
+      "hash": "8a6397501a488d865599645c64aea09e3fd83bb91299c43ca8339f6c97c6c148"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_017",
+      "hash": "59f1be49d84a29a33174a31d324f74917ebe8d3bacfd4162f2d4efbb8be15d35"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_022",
+      "hash": "0d3dc8eaa94134ebc5a2de3bb53318c26a80f390f17a4be1523a8c898e3542b3"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_037",
+      "hash": "f3397629dc4fb7a5baafdcb2914429a66e68f5bb4b1e2a2ce59fc238805f2310"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_052",
+      "hash": "077eccaccdd33ae6fa953b7e4d21753a570e808424c89343c93c3ba1d8725307"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_056",
+      "hash": "c74035cbdd50806a248263e5e97d953395fcb03a9156dcc2ec88d6ed01deb11b"
+    },
+    {
+      "pair": "saudi_music_v2_034/gulf_music_v2_066",
+      "hash": "8e1c03e3f5b75e52dd2aaeae1115a1f012c2ba232b6559b364c6ce029bc7995b"
+    },
+    {
+      "pair": "saudi_music_v2_037/gulf_music_v2_041",
+      "hash": "fb732567fd0409280d7c77abc8e7394bdcf7685d44826bc1ca7a50f4454ad927"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_002",
+      "hash": "d2904e441b8232e7637734c94c0ffb7aca0b2be1a8430d4b627fef4f82fe382d"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_015",
+      "hash": "9c0b2c759e3d2d6f92528fd42130afd114e10186242f3f4f6cdce737836b3797"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_016",
+      "hash": "a5d9548c0b6ebd09cc47317a0256fc3690a5676631440ed39f9f077f96ad9a7b"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_017",
+      "hash": "1f79223f479e8ed7652a96ebd72ef6215cd9788c82d4ae41c8ba701a314b6b84"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_022",
+      "hash": "d78565c8c7c8c21134cb819c776fdfb62c44955c70bbcccaa07a34c12aefe955"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_037",
+      "hash": "27a6af66483c6425207108c0d06da7d90355d5cf17243566da45feae3884490e"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_052",
+      "hash": "bff6b444547aa1a8f5545b2b35c739998bf1ce5454c3e31c308149845435eef0"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_056",
+      "hash": "3076ae7aec5d86e74a0af124346b1aca2529bfc6334c2ca7b97cfeab734de9e4"
+    },
+    {
+      "pair": "saudi_music_v2_039/gulf_music_v2_066",
+      "hash": "d887582eb709ea50d70b7e8fbdb9485f49e2d4d755b9086765494f163595e407"
+    },
+    {
+      "pair": "saudi_music_v2_041/gulf_music_v2_015",
+      "hash": "00c698cf6b07e50b62f34c0c2e7b4986992d0266eb610fa74c3db4e0ae70ec11"
+    },
+    {
+      "pair": "saudi_music_v2_041/gulf_music_v2_052",
+      "hash": "770f898a18872664fee30617859646287c4c5d1a5537b702e6923944883d2d4a"
+    },
+    {
+      "pair": "saudi_music_v2_041/gulf_music_v2_066",
+      "hash": "89223c951e3b6090fe7557e191a4683f10ecc154ada66e7c944b323c2598404e"
+    },
+    {
+      "pair": "saudi_music_v2_042/gulf_music_v2_015",
+      "hash": "cd3916ad3555814357ac7e40ced2828de926de58d145c722ab960541cfabef1b"
+    },
+    {
+      "pair": "saudi_music_v2_042/gulf_music_v2_052",
+      "hash": "2a3ba520eaa5f12dfcaf3e3418968988577603ce1585b235949544da9a683d5f"
+    },
+    {
+      "pair": "saudi_music_v2_042/gulf_music_v2_066",
+      "hash": "3e655b67c89c6262cf4d883923883912e4724e3675fb1e982f8ef181862a3714"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_002",
+      "hash": "fdc9519bf1b767ad4533d018f689b6731765196f5f09ec86be59c1cc5d7bd6f8"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_015",
+      "hash": "5ed50ac938f3b78612d1c7e75a3c4e49fb876f88ef566fd6ef3ef1e60dcb1dd3"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_016",
+      "hash": "ff6d614bd3e324dbd2030be7ecd22927538ccab3d95125bd1e3c3a4f0561e370"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_017",
+      "hash": "02e1c307d460a60021b029dbc9f9ff50e863c6d6fc67ea95c1170f5d85b2b0a1"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_022",
+      "hash": "a9b429cdfb999d581f6be0c35ea219551a38e67f38b6f220a6fda6d0da31171c"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_037",
+      "hash": "af77069a6899fa9ee7ac4fa9077052d12b5b1c34ca6e6a7d454afe76bb793f2e"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_052",
+      "hash": "34a0f6217df4c28c565d3942bed768bf59583c7db89fa87cdf664b9e256e53ab"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_056",
+      "hash": "0e7f3c17124419bcfdf2b2b0496a89a3d76cbdee23a513e017f4a6148b68b7c5"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_066",
+      "hash": "0a6fc89d09911635da1ede67d1a4ebc66b75da4f16c5c5c1fdb525b11642abbb"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_002",
+      "hash": "81cfc05cb9605b945ebabfbf6c4a04857f24682df6c64f1637e8dd9e4236331a"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_015",
+      "hash": "ab8828eb6ec91c65b43a4d595810db3bc46e1281a2cdea19639a4ad28c614155"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_016",
+      "hash": "3d8fe17f400170bf084fae4e1c48b70529aaa9cd74c7c028037dc8269ef56d15"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_017",
+      "hash": "dc385481971356923a816212e19e08697d8c878514d789810f4088f06b9b3633"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_022",
+      "hash": "f906cb6a0f1472d4f59527af5f2e2154d044d4a636dd15aa173f909860f8d1cd"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_037",
+      "hash": "ebe03c77d0bc4f4db8157cb3af101372de6abecd68da7d6c4bdc6688781b5b84"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_052",
+      "hash": "85fee55900aee47d580d5a34ea81c9b2d968b9480256833fa78f8865e0b3ddde"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_056",
+      "hash": "921fce6c7adb3e0aee136a4ba28ad7d3910e760b3317c28188bd552884b1d209"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_066",
+      "hash": "7afd73d98f7c419ab6f1e815e396ba768a829633776a0543f8484b63e63264ef"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_015",
+      "hash": "8f9bb5c4eece5075ac9808135bb61efd2a90bce32d067142ee1b2abc63f82a15"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_052",
+      "hash": "37cc981c577945891b3e4bf8d54e8642bfba88b352d28dbcd62150011d07dcfc"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_066",
+      "hash": "bebe4b591c41ea3b19a8de5c43dac3516c19ecb094686c6b2b15fd1c7071f521"
+    },
+    {
+      "pair": "saudi_music_v2_052/gulf_music_v2_024",
+      "hash": "fc18d48efef3c74d9f436e88611f26555e91b0a69e62a65c72f617b2cf26df2d"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_002",
+      "hash": "8c1531dccb679f95ed96c29669d4f823188910585510bc8a8131504794be5e1c"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_015",
+      "hash": "ab5b0c45d908f7b55a4e72b15495aba7c90662ac4b65a04577abaf61dab30307"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_016",
+      "hash": "7fb9cd60b7eec49b1aade31ba48688a18d695385bb46a48a2aafbf87fda491d8"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_017",
+      "hash": "3fe6cb8589380bd2403b50aa87b6ac1a94ed6fb68198079b53df4188d5a8865f"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_022",
+      "hash": "8b6f69084bb141b963437d07d698729340f4400c7cc2036608d487541db6c6b7"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_037",
+      "hash": "1f2199747711bc0345019810d2d06dd93d3be7bfb23df5b22446b6b889a1373e"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_052",
+      "hash": "17a5aed495739995b40ac323b67a76acdbd311cfbbbee6afde0292334060ac0c"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_056",
+      "hash": "4c06fa4d7eaf85525a45011ca80441146890cf4770129f1bff9d716008310125"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_066",
+      "hash": "726347c87103b79ef6eaa78c071232dfb92bf14cae184aab7dfd38c87f92c028"
+    },
+    {
+      "pair": "saudi_music_v2_059/gulf_music_v2_015",
+      "hash": "e41fdda28fa10ab9a057542168e49b4f7667deacd7f6104daa6ef5ff3ff0cb20"
+    },
+    {
+      "pair": "saudi_music_v2_059/gulf_music_v2_052",
+      "hash": "d6bf8c700a7403d0a93245e06fb610db5e679a2b559ae06b071184f443265e38"
+    },
+    {
+      "pair": "saudi_music_v2_059/gulf_music_v2_066",
+      "hash": "b406d9ceca84f966e497167307c001aa8c37ff3bde8f14fffa0ad49ed0329868"
+    },
+    {
+      "pair": "saudi_music_v2_060/gulf_music_v2_015",
+      "hash": "6576cfa5d28bbc3400d661626b3a66ad59b1bca8a5cc432e5b30fd7c80db8b3b"
+    },
+    {
+      "pair": "saudi_music_v2_060/gulf_music_v2_052",
+      "hash": "f6cc2757d847e60fe3d652bc7b3fee348248a0df6b37126fc2e01aa335a8ba82"
+    },
+    {
+      "pair": "saudi_music_v2_060/gulf_music_v2_066",
+      "hash": "30ba215311863c28c8184c5dfd62aa7f40031ecd4554d4b65e882e66f20f350d"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_002",
+      "hash": "e88f1774b08e29a538d540d7de0fe35f7394e4e3129e245dfe418fd1ff26a9fc"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_015",
+      "hash": "41b2b73bc807e1810af9162708843e39546e5c93f9acba4cf344f9aa2cb8a130"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_016",
+      "hash": "5d7a4a693e945ae427be92dc7d02f910d64d2a8feddab8dac6d99f5d5074a3ff"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_017",
+      "hash": "e06c475cda4fadeb670fa63830da5884711a69dcca4cf029158ab94e13e581bb"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_022",
+      "hash": "48f776d6166e2b635b6e4bba6ed55b591431cb59610b4d54debbce8dd49c3665"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_037",
+      "hash": "dcae17bfd8d1b3a68009b493a6be3ecef182cf4a3c9b482fa4c5b2ae7627853f"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_052",
+      "hash": "9e91fbeb501f05b2e1ca0e113c3e2163e7b20c5524984da4588f037ad241b40f"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_056",
+      "hash": "f7d0be0220c3c8d726903db65c8c6ac3fdaf7369284fa9ffd0be45f9e6cb5a67"
+    },
+    {
+      "pair": "saudi_music_v2_065/gulf_music_v2_066",
+      "hash": "5204865b3adaae9877d55049ee9133e82cba3a68209d09f77db0e3ae56e67bdf"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_081",
+      "hash": "bbd11015e953dc7e98472c94c87651913619305e464f77c01bdc115b023f782d"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_109",
+      "hash": "e6d4e5bb35f3cbb74f98591a85c65a165adc6d71106eb9da13f07007426ccbae"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_112",
+      "hash": "34957d9c25b3a374f4a7e2755580b4b0136b4161303a9f3380746c4dae31b2e6"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_132",
+      "hash": "d174a72eec8523234bd7edbe460914f5d7857e678cf716df221198572bc6d399"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_080",
+      "hash": "9fe21a0230191df4d2edecd4b88b67d60cc8da6fa248faad3471e16dfcd6eb99"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_087",
+      "hash": "551b5fc2461d9e87e7da8fbc9e1e59217c757d3f7352f246c968c388b7fe72ca"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_100",
+      "hash": "618b4af0750c3c3331712d4cdb825f0a047aad485106ae09f21ad04d3bacffeb"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_104",
+      "hash": "c16f0ea0ba790fc1964bc0eeb23ed1c0093b69fbcbe9864de6f1a20d700f35d0"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_110",
+      "hash": "8501a46a7b79d59caa2b3a48ccce0a646594163342acb74f8e2e8168146f4b9d"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_113",
+      "hash": "2cf7a478c1ae3e6ec0cc86bde96d68a0d5c99319c4196a3774f9200ded22fd4e"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_124",
+      "hash": "081bdfa804e55a52807f0efbbf5866cbd3a8a62d2234d86d86054a6f1750d443"
+    },
+    {
+      "pair": "saudi_music_v2_079/gulf_music_v2_095",
+      "hash": "def3964ba33a988fcea4b9ec090e3367418cb0b555d9fd66b1ea3a29a573e6ba"
+    },
+    {
+      "pair": "saudi_music_v2_087/gulf_music_v2_111",
+      "hash": "694060288a3aa54e91fd9264405604912eb855f7482e49c3867d913448b88c24"
+    },
+    {
+      "pair": "saudi_music_v2_087/gulf_music_v2_133",
+      "hash": "2c69399f7b50c73cd9c47b40b72d931f9bc23c9cbd7790f31b0670f5e27cb024"
+    },
+    {
+      "pair": "saudi_music_v2_089/gulf_music_v2_081",
+      "hash": "6176f19ea1cc691f4706c31f3eed9260d269ea301734c8ef01104c8d73709659"
+    },
+    {
+      "pair": "saudi_music_v2_089/gulf_music_v2_109",
+      "hash": "8e0f4198c8fe8fb4a0c874fe5214a3f1936480521d46feb9b14f079c9ea9c445"
+    },
+    {
+      "pair": "saudi_music_v2_089/gulf_music_v2_112",
+      "hash": "cc71cb34fcbfdcd61f7a38cd30511f7b6fa03fb7e284b2727f397ce4bb675102"
+    },
+    {
+      "pair": "saudi_music_v2_089/gulf_music_v2_132",
+      "hash": "3ea2289173b9ab3c03f4ca465a4f16a635e346675f57e1245de79cb4508948ae"
+    },
+    {
+      "pair": "saudi_music_v2_090/gulf_music_v2_080",
+      "hash": "e1a7be90f9f8eaeed4d11290769a469325bafffa7d2648ebc8ee5aa54ea31289"
+    },
+    {
+      "pair": "saudi_music_v2_090/gulf_music_v2_087",
+      "hash": "0275c01a7f4438d173195d049b6ef8c8cb06925f76fb3acd260ee42c2f41457e"
+    },
+    {
+      "pair": "saudi_music_v2_090/gulf_music_v2_100",
+      "hash": "30957f2243a5ff6632cab196fe7a2f8a59b330441426de0a22be86d38863685f"
+    },
+    {
+      "pair": "saudi_music_v2_090/gulf_music_v2_104",
+      "hash": "a3232131d26872c34b5f0786ec016b09704f756b811b5eb757dc10c116df2a8e"
+    },
+    {
+      "pair": "saudi_music_v2_090/gulf_music_v2_110",
+      "hash": "2f348a34d2f1dc464f1a376caa2ddc46767afacc84bf25bc0c401b147fbd6f92"
+    },
+    {
+      "pair": "saudi_music_v2_090/gulf_music_v2_113",
+      "hash": "2a2e37662f7d73aee1be6f8410db506c2e715fb9b9354f7528f93bfc5fc7e3cb"
+    },
+    {
+      "pair": "saudi_music_v2_090/gulf_music_v2_124",
+      "hash": "d84d0a607d256e9a010bc8a6d474c077885eec28bed29a4411eb90ea92fb3bf2"
+    },
+    {
+      "pair": "saudi_music_v2_091/gulf_music_v2_111",
+      "hash": "71a8421f9691ae920bac9373dfa5d390191c89154d2383d2563d6ee6680d02fc"
+    },
+    {
+      "pair": "saudi_music_v2_091/gulf_music_v2_133",
+      "hash": "2b740c744d6b1cba384a1da1cc119d8106fa0e3c5e8c459dafe1f5b278785796"
+    },
+    {
+      "pair": "saudi_music_v2_092/gulf_music_v2_088",
+      "hash": "6f6dbaea503bc1c1ada5f5fc6e6e7782e7ce2222a9a24424ed5537d12ea6ca72"
+    },
+    {
+      "pair": "saudi_music_v2_093/gulf_music_v2_111",
+      "hash": "c57ec95830cb5dd3f2bd146493193ccd5b69cc8405b2e35ba248163349ac68fe"
+    },
+    {
+      "pair": "saudi_music_v2_093/gulf_music_v2_133",
+      "hash": "e0ed0557ea16cdd7051cb805d31ed79164a7dbf283770d86bfadcca5ca63a518"
+    },
+    {
+      "pair": "saudi_music_v2_097/gulf_music_v2_081",
+      "hash": "ab9cbdfe4882a366fecf2e83d11af8c47f369225735d61515b759e0f1f3da3ec"
+    },
+    {
+      "pair": "saudi_music_v2_097/gulf_music_v2_109",
+      "hash": "967151f12c0d6e040fca05adf6714b0596ec5c9da291daf589c2b82b474466f3"
+    },
+    {
+      "pair": "saudi_music_v2_097/gulf_music_v2_112",
+      "hash": "e50348bcfa540bb2ee5a91e261b40685547b635cd9cd0ab44a74aa6eb185fdff"
+    },
+    {
+      "pair": "saudi_music_v2_097/gulf_music_v2_132",
+      "hash": "856e8c28f4bafc08c5f8df13d2f40936796259161b1fea8d2e43bfffa3fc1301"
+    },
+    {
+      "pair": "saudi_music_v2_098/gulf_music_v2_080",
+      "hash": "9c7056babb7cf0eccf687f17af2ab1d1a561c6401433f8d596399ee9c157ae23"
+    },
+    {
+      "pair": "saudi_music_v2_098/gulf_music_v2_087",
+      "hash": "47c1d2133ae0420682404faeae018fad55d3baafe3e3dc82dbe1ba07a92ccaf2"
+    },
+    {
+      "pair": "saudi_music_v2_098/gulf_music_v2_100",
+      "hash": "454ace0af656647a7655bb7d37a5483f94489ba50fc5b2a3a3e1be2037762c23"
+    },
+    {
+      "pair": "saudi_music_v2_098/gulf_music_v2_104",
+      "hash": "e92c148cadfcc2c2eecd4010fdff24b9b7ab19b8d5825f0a9628b8332cd92fc9"
+    },
+    {
+      "pair": "saudi_music_v2_098/gulf_music_v2_110",
+      "hash": "a10f9fcf0a1e849634a6ec8bedb76fcff483ca10bf212a0186892d111b1720ad"
+    },
+    {
+      "pair": "saudi_music_v2_098/gulf_music_v2_113",
+      "hash": "7139bc3950908b54e88784bc8ccdac2d0197972cac4effecca82562d7ec9d304"
+    },
+    {
+      "pair": "saudi_music_v2_098/gulf_music_v2_124",
+      "hash": "49266d41942dcf77ae3dc65cd65604ddfd49933af00d4bc849a3c39deb0fe541"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_081",
+      "hash": "3fe62b1c238d7894a01d754e3710cc16023ce1e651d3982a3328dec545ac5fce"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_109",
+      "hash": "3aa67a77f7bfbafaeee06808e33582dcd4b5a326a126e8cbf7bf71ed9876d50e"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_112",
+      "hash": "e9c61b84e5e8c2e75116e32af7dda762518a5f364e909812327f31be4821508b"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_132",
+      "hash": "072f2e76ab247d4d2a38759977f0d9c67a1086cf583402f1fe844f3e671c34be"
+    },
+    {
+      "pair": "saudi_music_v2_103/gulf_music_v2_088",
+      "hash": "d7bd044078f3288df6df02404a71bf449f8b22605f6f20aa656bcd8018b5d120"
+    },
+    {
+      "pair": "saudi_music_v2_104/gulf_music_v2_088",
+      "hash": "128f6c6217ceb38fce7c1588820d45dfb3a460cf785e02495ad30f2f8c92d03c"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_080",
+      "hash": "f11045497a882720848c29934b80c4d972d193397619a5f5eba9400837e81290"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_087",
+      "hash": "c4d3690e623d9e1250a206f1e518d9641ec8ae8c27efff2b305dea3bd1ea96e6"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_100",
+      "hash": "17b7b88e8cdf00a765ae86bb195a831812845c759a3161dbf670c4571c42d0ee"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_104",
+      "hash": "bb42754a9af0eba9366fcf24e3edd7d71593b34b0d8d68eaa781fcadee4273bc"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_110",
+      "hash": "359da05907b739ff63e15ac4db59c6d5173c605494db230f46e6ea172e98b11e"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_113",
+      "hash": "828e058802cffc745952c890134b0a7ca458e443254c81891fe5028fbf6deb41"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_124",
+      "hash": "beb6b4f961022350a2d84d9af94081c40a0f6c723a4efbaaf93dad6a5952276b"
+    },
+    {
+      "pair": "saudi_music_v2_108/gulf_music_v2_103",
+      "hash": "e99b53134548c06e037db543eae37a772cee7dfb7dd3338097c38b96e58c12aa"
+    },
+    {
+      "pair": "saudi_music_v2_113/gulf_music_v2_080",
+      "hash": "b21fc0ab24a044f47263d0bf27c5c91370d40e340cad12221bbac6292d869e74"
+    },
+    {
+      "pair": "saudi_music_v2_113/gulf_music_v2_124",
+      "hash": "4e7b4123fd85bbc63c7a054114690d8dcff6184e8be197c4e774364cffe30d27"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_081",
+      "hash": "de85398912d5fa72f67fbea6445c6339041e2ed0bb37f558d6c7711407f20a4f"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_109",
+      "hash": "28adb03c9cae4242c461d76c9fa683340c619f61c78af65809d4a4a5d2f82f47"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_112",
+      "hash": "2e24a740a9879ff862a5dac37ef00a0b63ce6c334772c97cc3c280b71d5417e4"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_132",
+      "hash": "e58256957dce7a2bad153c11094888869291b17820e5f9d1be93fe971dcbe6d5"
+    },
+    {
+      "pair": "saudi_music_v2_118/gulf_music_v2_103",
+      "hash": "523f883529a479e343f361eecb78ea94cd21f9318117031327a5d3867cfb9d63"
+    },
+    {
+      "pair": "saudi_music_v2_119/gulf_music_v2_103",
+      "hash": "53eb3672b7ce77139d6c2f64e8706ee02f0157f0a604b85c92a7cf6997fa546d"
+    },
+    {
+      "pair": "saudi_music_v2_120/gulf_music_v2_088",
+      "hash": "88f6a948a181442a9e755d5b490810d950b256a219612c658e941f08971962ec"
+    },
+    {
+      "pair": "saudi_music_v2_124/gulf_music_v2_088",
+      "hash": "5ba63e835661d0a25d2a7c494433cd3265def15a4e09759a96c019209d32665b"
+    },
+    {
+      "pair": "saudi_music_v2_125/gulf_music_v2_080",
+      "hash": "afdc4339f40dc0ae5a5d9508d64c4eacfc18a7b8a50323bce3a2a7209cfcaa20"
+    },
+    {
+      "pair": "saudi_music_v2_125/gulf_music_v2_087",
+      "hash": "aab80d78576063b6519f2d792d683fdbdf0fb5049e98f940ca426a2ef2dceaaf"
+    },
+    {
+      "pair": "saudi_music_v2_125/gulf_music_v2_104",
+      "hash": "2df36d7e7a4998a5dd6f9a01ee638d85521fc824866d6c238226372ae57df463"
+    },
+    {
+      "pair": "saudi_music_v2_126/gulf_music_v2_088",
+      "hash": "2fc17169dd9c73dffad037625e298dc3e5a8646eca5e2546eef14b1271cbd2c8"
+    },
+    {
+      "pair": "saudi_music_v2_127/gulf_music_v2_081",
+      "hash": "fe0a713592e5d775d3cd7f0684e08e54d3e3e0aee3d3b9fffc498b38357ba13f"
+    },
+    {
+      "pair": "saudi_music_v2_127/gulf_music_v2_109",
+      "hash": "8a70cc5069c9039249e2ec1788fd742513e08816f0ed22a9f111ab53196dff50"
+    },
+    {
+      "pair": "saudi_music_v2_127/gulf_music_v2_112",
+      "hash": "3a653fce60149ad202a5e4f99d37780dbd7d2ac922fc53e833d59eaa1c5df963"
+    },
+    {
+      "pair": "saudi_music_v2_127/gulf_music_v2_132",
+      "hash": "d409d7651df4f8af3c2517644073c52b71ab821b5a274ed0bb212d83b1766633"
+    },
+    {
+      "pair": "saudi_music_v2_129/gulf_music_v2_090",
+      "hash": "349130610aba45c6ba41dd16d57fc0b8600c52bda502ec740dce3714255cce8e"
+    },
+    {
+      "pair": "saudi_music_v2_129/gulf_music_v2_103",
+      "hash": "b353b9a3dd26e900fdf9a76802d1876c16fe2578df332ec856c0facefba6165f"
+    },
+    {
+      "pair": "saudi_music_v2_130/gulf_music_v2_090",
+      "hash": "3d98d18d35a08931ae8e5eb03ead0ba412aa5b01b80abd9eedcf132d274ec8c9"
+    },
+    {
+      "pair": "saudi_music_v2_130/gulf_music_v2_103",
+      "hash": "407a55a44200b5065a6b1cb60ddcc5f3bc15be2441f1b7b2654d047874f3fe74"
+    },
+    {
+      "pair": "saudi_music_v2_131/gulf_music_v2_090",
+      "hash": "2a241c6b000131abf8c6d6a6e73fb92155475170f64f408e8044c1cd45de226d"
+    },
+    {
+      "pair": "saudi_music_v2_131/gulf_music_v2_103",
+      "hash": "d3bd33b8e4331161cfc417d048e1ec56f0e67800c5137d776be0a5e99deaaadd"
+    },
+    {
+      "pair": "saudi_music_v2_132/gulf_music_v2_080",
+      "hash": "661cdff60312f52342ee7f6aec4017885b585c093b6ce4da2651bab27c709159"
+    },
+    {
+      "pair": "saudi_music_v2_132/gulf_music_v2_124",
+      "hash": "2369eda6d8c055cdda4e4ba8f80c855914b1d8a9c8258150d1d47acd8ae61d11"
+    },
+    {
+      "pair": "saudi_music_v2_138/gulf_music_v2_152",
+      "hash": "281f65eb762aae058ea389008f1580cd853566e4b6ca37df85cb8d4af062d3a7"
+    },
+    {
+      "pair": "saudi_music_v2_138/gulf_music_v2_162",
+      "hash": "d447ce163b3d32c6248c3d3d8f38fda0ebac8adc3f121640be47bd3eea5fe272"
+    },
+    {
+      "pair": "saudi_music_v2_138/gulf_music_v2_183",
+      "hash": "66372840cf75bbc803e9231b8d26942b93cc298651bcfa3cdea1c635b5f8819a"
+    },
+    {
+      "pair": "saudi_music_v2_138/gulf_music_v2_194",
+      "hash": "c6f0268cdaf2435fef18a105944e607bb0cf0a3fb88fb68ab03f663276e039c2"
+    },
+    {
+      "pair": "saudi_music_v2_138/gulf_music_v2_203",
+      "hash": "3f2d68f125001f14b0ce58350765eec4ade2d1de630c4455dba1c4a5eafe8d10"
+    },
+    {
+      "pair": "saudi_music_v2_139/gulf_music_v2_179",
+      "hash": "462eca13d31aa0b82ac876e942dba661b22413c9d7dab873f75d83ece924434a"
+    },
+    {
+      "pair": "saudi_music_v2_139/gulf_music_v2_191",
+      "hash": "e716ee07bc75c08ca7278dc3f830034662e25ee588922d9703f011f3eacbb1f5"
+    },
+    {
+      "pair": "saudi_music_v2_144/gulf_music_v2_179",
+      "hash": "43a659d443a61194379c78ef26081840c14f1dc38c63565453d4c9bf402a6337"
+    },
+    {
+      "pair": "saudi_music_v2_144/gulf_music_v2_191",
+      "hash": "9c58dcab3fca1b8fe364e0a758b9f3c9d4539874232e372073f1a472e244a9f1"
+    },
+    {
+      "pair": "saudi_music_v2_145/gulf_music_v2_163",
+      "hash": "f7e410c646bc859e04899cb88822d0dc709e8df4e80ce69ec9a5e6dec32c5ba1"
+    },
+    {
+      "pair": "saudi_music_v2_145/gulf_music_v2_196",
+      "hash": "1250d363470505f70f451ecd31822d6c7bf5c496f90d6677f54e2a9879d2709a"
+    },
+    {
+      "pair": "saudi_music_v2_146/gulf_music_v2_179",
+      "hash": "5900e6e5d88229fff22ba6adec4057bb713302dfa8b1903c5e388a78f7927ff3"
+    },
+    {
+      "pair": "saudi_music_v2_146/gulf_music_v2_191",
+      "hash": "686423cf38a9c0f2b1d182c8d535a219ba43272c18ea984de34cb5956eee2255"
+    },
+    {
+      "pair": "saudi_music_v2_147/gulf_music_v2_150",
+      "hash": "90748ed66a1b1c712b707baf3d4e30e64d5714657e6c3b0b272e7c63c1054b73"
+    },
+    {
+      "pair": "saudi_music_v2_147/gulf_music_v2_171",
+      "hash": "31b9027662704901b65f868a3b01d4d283187947e407065c8cafcd79758b7822"
+    },
+    {
+      "pair": "saudi_music_v2_147/gulf_music_v2_184",
+      "hash": "3a53fd1693460a2a17b031df3cecfa8656e7a78a8c2425d4d7d09d1c010bbe51"
+    },
+    {
+      "pair": "saudi_music_v2_149/gulf_music_v2_175",
+      "hash": "2d7a87fb7925ce729487c4f717bce90ba68e845b86e5b3afc1ccfe32c44624b3"
+    },
+    {
+      "pair": "saudi_music_v2_151/gulf_music_v2_151",
+      "hash": "3172c19092c8aebf2d043099efc9e81a5b474623c484ee4cb600f962db99bb59"
+    },
+    {
+      "pair": "saudi_music_v2_151/gulf_music_v2_175",
+      "hash": "e29aaf6e373fd8abf93642a0d6ed9d192b5c2ee6738feb4ae2975840cbd0db36"
+    },
+    {
+      "pair": "saudi_music_v2_159/gulf_music_v2_166",
+      "hash": "e83514b1d290351a178ddbb4b7953bce4bad6e4c9b1bdc4e9bc3e84380728b2c"
+    },
+    {
+      "pair": "saudi_music_v2_160/gulf_music_v2_106",
+      "hash": "b811542e26c4eacea62b24598c8020f8d3f402696e02ad83ecfcaea2d09b51a8"
+    },
+    {
+      "pair": "saudi_music_v2_160/gulf_music_v2_191",
+      "hash": "f176676e7bad1405d35d3098056a549b3982c4337abddad1d05f21e4f0663bc6"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_147",
+      "hash": "cfeff105c127b510242137f367d68712a5a3bb3c2d89c9c5a37e4759a2d90b79"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_149",
+      "hash": "f59c337826ad78e519ed0a5854a46197bb77cf8560af83a8c6bf03bf60c8ade2"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_152",
+      "hash": "688d65edd24f387b91a84fe99a9471bb8000ea9a215d5c140fadfff150021f52"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_153",
+      "hash": "d47b2b6cb41ec17fbb85e6602d8001823075d3eb43c539e607b6a5b6d3815037"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_154",
+      "hash": "7b8c7a83c8dad75f51be0afdb8f51b719d7469f59f67446ca0d0ce4f8e3ba67a"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_155",
+      "hash": "19784aaa0b70420587eec4a51dece41e14606efcdf86be3d7c3176d763ed18a6"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_174",
+      "hash": "4883980efea93af7724c1b7abedcd389dcd2d46c9b38a37bee8e04278b7d2e4d"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_194",
+      "hash": "2555a7a3c96e8e95d0744e4d68d7ba4bfb021405749e7c381ebf062c3010a62a"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_197",
+      "hash": "cfc5d97c9945b9e11c488212ccd877939b558531e08b1cdca79a96764754b1e3"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_203",
+      "hash": "9727afd764073309330ead9074841a25fe991e97513737aa3ce4fb888a83dda5"
+    },
+    {
+      "pair": "saudi_music_v2_163/gulf_music_v2_152",
+      "hash": "103c8419ea310c359b09bef8a3cefe10c05c1886f234c4188e7870c1b79b9e8b"
+    },
+    {
+      "pair": "saudi_music_v2_163/gulf_music_v2_161",
+      "hash": "6327a43cb63c2ade1113dfb481efd5419de4c6b0d2aa9bed9dc1714778fc3b5e"
+    },
+    {
+      "pair": "saudi_music_v2_163/gulf_music_v2_162",
+      "hash": "8831941da76c836e9147228faffdabe74309751ef43b3d784c755171b4e0ae30"
+    },
+    {
+      "pair": "saudi_music_v2_163/gulf_music_v2_183",
+      "hash": "06f841ac7f92befa9c157a2fda7a2a4cadc04fbfc63b62c51ecf7c06b8f163df"
+    },
+    {
+      "pair": "saudi_music_v2_163/gulf_music_v2_194",
+      "hash": "eb90871ad11c20ecab869875a44504615de341f8a07e7be6c77373a4c6dc4932"
+    },
+    {
+      "pair": "saudi_music_v2_163/gulf_music_v2_203",
+      "hash": "6fdaaab8a1dc8ced54a37ade617fae8e69141104234ccb0d47fa286235a7530d"
+    },
+    {
+      "pair": "saudi_music_v2_164/gulf_music_v2_106",
+      "hash": "6956515ddd867cf7de4f0aadb9b443f3f42025fc670bbf3777c986bea2e5b6bc"
+    },
+    {
+      "pair": "saudi_music_v2_166/gulf_music_v2_106",
+      "hash": "ae7d4919762ee3b118e2877dde68cbc11f572a6079855a9549cdab9abbc3dcb5"
+    },
+    {
+      "pair": "saudi_music_v2_167/gulf_music_v2_163",
+      "hash": "92f40806f109797d1130db3cd85fc767fb7758a7ce6d74fe2b06ace52939160c"
+    },
+    {
+      "pair": "saudi_music_v2_167/gulf_music_v2_196",
+      "hash": "99433035d9411864c144da4c3d6b3bd9261a213d3e55d3cbefeea160fe9c6492"
+    },
+    {
+      "pair": "saudi_music_v2_169/gulf_music_v2_153",
+      "hash": "69be32cfdf26836fccdf58d5f6a3272c88d8558f013a851d6e8dae06a9164729"
+    },
+    {
+      "pair": "saudi_music_v2_169/gulf_music_v2_190",
+      "hash": "6be8a94c505190327c6dd4e0fef8888bc22dd8b0c688cc160d152a8ef3ec3097"
+    },
+    {
+      "pair": "saudi_music_v2_169/gulf_music_v2_193",
+      "hash": "565d01e92e57a7ed172874f5fd43fd2be4fd4a03669dc61e167942b6e97d5fbf"
+    },
+    {
+      "pair": "saudi_music_v2_170/gulf_music_v2_179",
+      "hash": "c3e4af3e47420f118cc39e8fd184b3aafdf6a4dc44ee4776aa153d891aff0991"
+    },
+    {
+      "pair": "saudi_music_v2_170/gulf_music_v2_191",
+      "hash": "3903899de84d0650ee0f25f284290a8369cb7b619f82cafedbebd1180dbf7c1e"
+    },
+    {
+      "pair": "saudi_music_v2_173/gulf_music_v2_077",
+      "hash": "c6bb911e25a869215fc98a7364c8dc7649848c129d6258bc77a76730d32ceacd"
+    },
+    {
+      "pair": "saudi_music_v2_178/gulf_music_v2_166",
+      "hash": "83b2a966d970275a0e2acee574e70c1256b0e8b4c460984871e3593436c78bfc"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_147",
+      "hash": "9ede5fa1e280949d0d8efd09f2cbe329d694bcc7e538ebe7eada351b53e22346"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_149",
+      "hash": "ace4aed0ff9746aac2ee496021d1412d7091dd8c56046f01500165ff91ef439b"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_150",
+      "hash": "e4149fb1069305481e4f00f21b06685dc82973dedf8af6f697fe64dc8e32f647"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_152",
+      "hash": "9ba9877bf68d9c231e6757269fd90f47c5aeb2985e5df0905064244390083471"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_153",
+      "hash": "d7f09f3a8aa912becca8a31cc27e616c15219c5f02ebf56e6373f752f47da2d4"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_154",
+      "hash": "93bd2b73483dae238223b07fbce258ca8e0db8c8d2880e79859c4c497f92e615"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_162",
+      "hash": "39aa28db1ee56e31f67952d7c4136a78aa9b0de32208c22571a069a7552ccc65"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_163",
+      "hash": "00eaedc30e0b690d72b2156a32c3902a6646d0ade5aa8836e30179c58479b5d9"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_169",
+      "hash": "bb3654221938485bcf286ec53a34d04c14ab903cd4df427218b115945e5dd84b"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_171",
+      "hash": "fb4803af3db137970eebed91d0bd41308a22d9ace6305c5d086ee960ae7b863b"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_174",
+      "hash": "86ccf484023842860bdebb6743b56251d9b1d9167cae9e0a55797b0f8f934369"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_183",
+      "hash": "136ba8b01cbb5469887927b99d0a8fa719c40231213feb8afd2d71a5e90e7a8b"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_184",
+      "hash": "29a7550722302d2626dee7bd70e7d51b95ca06195a3e7f6affb1b83316d48abb"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_194",
+      "hash": "ce712796535347e1ed61467ee2c4bb04458e44cc0c4dbface03249c2c2678b1a"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_196",
+      "hash": "8e327b023192342be0b9118f0808f67633160a98fde1fde8ed2dbbffff98a452"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_197",
+      "hash": "069079dbfc7947e7c9fca928d7c5a94d2cd78e043c527377933cd82d6bb31592"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_199",
+      "hash": "3d745f768df3e65af4e53abf47afd6f66ebab9fe690c70e6f894bc2b64218208"
+    },
+    {
+      "pair": "saudi_music_v2_180/gulf_music_v2_203",
+      "hash": "609a087d87d08e1e4947104c888b446503ed09d920c7bba00e965e37108d47c6"
+    },
+    {
+      "pair": "saudi_music_v2_181/gulf_music_v2_155",
+      "hash": "09d36bd279c2cf875501cec0cf7a678bcf746589a10edb90ef6594c5c0a1d2f0"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_147",
+      "hash": "6ec29edbee4ec50ec335f4cc2d2dbb987a19b856a3b4d71fae9dba0450ba6245"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_149",
+      "hash": "5b400ad2a6cc8eb9f7d39584514fef1d6c22e639154506704a7f612f7b73cbe0"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_152",
+      "hash": "5f3d16bdbb369c07abfd2855514c8a3e52792331fc0f3b5144b65309f1db9684"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_153",
+      "hash": "acae059fe74e3607b6439638f923520a4ee9a589ca176cb2be227ed340e67e72"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_154",
+      "hash": "84835fc20acea7454aebadc5800d038a8f590b2e551a173dc2050e229f737b5f"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_162",
+      "hash": "a5ea9ec65601b43a246db48281e70d781b622a20662de0bc9c51b0aa73044b1f"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_174",
+      "hash": "3464cd348f284b1be0ec7a65aa6d956e81968b932d43607800be309a445f7489"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_183",
+      "hash": "7745528c7e40966eba038e07152d348f6cc515f22b75333283517f20fd16966a"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_194",
+      "hash": "66c6de1fa57d422f6d12528aee90814045b56b08f2d71ea6d43fab0a15115e73"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_197",
+      "hash": "f338adbb916d60ab96bef2f74948f56dbf60e30521b0de4de138660a2a930297"
+    },
+    {
+      "pair": "saudi_music_v2_183/gulf_music_v2_203",
+      "hash": "18f47f5c166409088a71439bf551dc81acd72a719420efd76c1284bea317651f"
+    },
+    {
+      "pair": "saudi_music_v2_185/gulf_music_v2_179",
+      "hash": "8d1f0b79d86ee39776d1d8c3d55c09b11ff2ebf3d12a7e679fbff45db861757a"
+    },
+    {
+      "pair": "saudi_music_v2_185/gulf_music_v2_191",
+      "hash": "3a1ca76a189ad1adf0575269b269f4014d44b476dfad2d9d043b1a8c52e0e40f"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_147",
+      "hash": "c071c75ad14ede01b734028f9f4caa6a740bedbb6384a67d0bb270d8de513ccc"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_149",
+      "hash": "c675343a6ee1132ef6a11db26e83722de54d404f024a8555d0f38995e9a45b64"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_150",
+      "hash": "9c418cf9be1a465b49d214552f9b819236f40ef93715de67ba9d5359d8229680"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_152",
+      "hash": "35587dbf498aee0aedcc87d42be6a062ef17bd8f8e4a7894d84c0cc2ac456485"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_153",
+      "hash": "c4c21e8af3ccc9851797166f75bf574ff5d60d0307c372c1791ee963201072d6"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_154",
+      "hash": "66d6df535f8f4a042120e57ec8d1808dfa80ff1343c468a9be581e59826e60cf"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_163",
+      "hash": "cb6ecf21dc8afa044054849bca4085874580dd4fcae7e6070f8d5cb4ff67ebe2"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_169",
+      "hash": "b8aa82c32f7b5c277a863656132cc7a3ab3c76151cacae4236e761d08cb088e1"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_171",
+      "hash": "66e9bc05508220fb428b7e942e02b40af2819c4308c85609776b47537ac6cc28"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_174",
+      "hash": "b689aa1398731417632b5ef6740eab8ef7e72d345ad64f9251280d4e00cb354e"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_183",
+      "hash": "add7c94c5ebf71e50f7f385d7ae59bbbc727010211c4d2ca8dabd84d5aa63f93"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_184",
+      "hash": "fc02da9f7f4a0bd68fa357c60bf53b732e15ec3883000b27fa6f77332290d481"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_194",
+      "hash": "07f523bca5b0aff6c174129a06dafaf179f2ccfaa80c0466ac38989100792d9f"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_196",
+      "hash": "735a01ec30f29f74022d6c5cb705b85922231852ef91977e29b5ae5401e7ae7d"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_197",
+      "hash": "2bf396d0a2c12c68fea54da54c03624703f8e0dfae54026d2f8269153d1767dd"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_199",
+      "hash": "cbf1bb2e1e4fe929b025128a2a40bffb0fcc94dc70e167e1ad7048d18d85f2e0"
+    },
+    {
+      "pair": "saudi_music_v2_186/gulf_music_v2_203",
+      "hash": "32aaa269d1d1db3ce3b25e8ae4b78cffd3dc7c63ae4b99c90674634d6738bf83"
+    },
+    {
+      "pair": "saudi_music_v2_187/gulf_music_v2_191",
+      "hash": "584036cba02fe6d69ae5144b0ed70398ed84ee978be7688ea01fff02f8ebc70a"
+    },
+    {
+      "pair": "saudi_music_v2_188/gulf_music_v2_150",
+      "hash": "d774853346fbae96cbc597b2ea0a8bc11a07e7feb378d0d530fa5c9e6c3c0bfa"
+    },
+    {
+      "pair": "saudi_music_v2_188/gulf_music_v2_155",
+      "hash": "7a53c949ef08ed7673fac97ffe2d18ed77a36cf2810820689d0792b2dc01aad4"
+    },
+    {
+      "pair": "saudi_music_v2_188/gulf_music_v2_171",
+      "hash": "56a8433d4214f2fe5b1e96421dee65dde09725bd932bbb74558b8f1ef426c48d"
+    },
+    {
+      "pair": "saudi_music_v2_188/gulf_music_v2_184",
+      "hash": "af6dc32f537292d7c47e2ae43743fa16bce5ba604a3b2b5c66c789080bd6ecbb"
+    },
+    {
+      "pair": "saudi_music_v2_189/gulf_music_v2_124",
+      "hash": "49001930b03b2e538e334d2a45c891b9d0a508944682c5a710dc689950ba171f"
+    },
+    {
+      "pair": "saudi_music_v2_190/gulf_music_v2_191",
+      "hash": "b10714c42baa8f8a35583c2cc9a5c8925ec73ca1a3eb37712572728d6aaa5e41"
+    },
+    {
+      "pair": "saudi_music_v2_191/gulf_music_v2_179",
+      "hash": "fa62c7bbfb299d710b09616b5907d5bd3739980febb1c8b24e285724aa256e5b"
+    },
+    {
+      "pair": "saudi_music_v2_191/gulf_music_v2_191",
+      "hash": "3a5c86709bf0991730321aa8620ad1421b21440907e03fd9b77562cb836550f2"
+    },
+    {
+      "pair": "saudi_music_v2_192/gulf_music_v2_179",
+      "hash": "372a8f7494278d7998c93a4e3a17a0673ee83385a76140fa4a5f5e66596556c8"
+    },
+    {
+      "pair": "saudi_music_v2_192/gulf_music_v2_191",
+      "hash": "30cb41207e948c4e0a5153ab1eb39aab53e6e4ba6e2ddf6b399802c4bc0a7377"
+    },
+    {
+      "pair": "saudi_music_v2_193/gulf_music_v2_182",
+      "hash": "0d425d7d190025c2a0642b141fe661940adaa3cb79101cf3d129b2b80d7ab614"
+    },
+    {
+      "pair": "saudi_music_v2_194/gulf_music_v2_191",
+      "hash": "14d4c05651303ae9139677d18894f353f79d424c48a869b126221653c0400f7d"
+    },
+    {
+      "pair": "saudi_music_v2_198/gulf_music_v2_077",
+      "hash": "deaf2f7a3bd33c261f439d7aec64f5b779b334686a3fc9ae5e02d2915e4867b3"
+    },
+    {
+      "pair": "saudi_music_v2_201/gulf_music_v2_182",
+      "hash": "95e9d27fff131f91c4ca937d044173da0a1fe4b37577a34b466b7c72fb7bab27"
+    },
+    {
+      "pair": "saudi_music_v2_002/kuwaiti_music_v2_012",
+      "hash": "9662194b84dff8dabdfbf2af5e1e08bbd2dd8add89b5879b4e11c813a387d8bf"
+    },
+    {
+      "pair": "saudi_music_v2_004/kuwaiti_music_v2_045",
+      "hash": "58630afc670e9efa8ca193a6f48e76c6bb6ea1c6a6687b090ade6dd47a4a80e3"
+    },
+    {
+      "pair": "saudi_music_v2_004/kuwaiti_music_v2_053",
+      "hash": "e096a882f8cf8749dc579f1b0f77b73d7d203e829438fccc59a1efc872cd07fe"
+    },
+    {
+      "pair": "saudi_music_v2_010/kuwaiti_music_v2_012",
+      "hash": "8d0b0d276441bd214fe458f5c41ba5d16040d6811099ac9f44ca53f1f1351c2f"
+    },
+    {
+      "pair": "saudi_music_v2_023/kuwaiti_music_v2_012",
+      "hash": "67989073774e13f871bea2c60ae50c560252d9bd93749446ccafe39eaabf685f"
+    },
+    {
+      "pair": "saudi_music_v2_027/kuwaiti_music_v2_045",
+      "hash": "d909e748b274d3a72b4fe0dad3ad650e788d09ea43e46472896af72879d5a07f"
+    },
+    {
+      "pair": "saudi_music_v2_027/kuwaiti_music_v2_053",
+      "hash": "9af3b5af2d22cdfae99bdff28bfbf0804471edb6bc33289c2d4708d8bf2a569f"
+    },
+    {
+      "pair": "saudi_music_v2_033/kuwaiti_music_v2_045",
+      "hash": "cc5f48a5d3d357e3e4aefab12a7c52491f2e7c8eba3cce2be1a74e51e92713fb"
+    },
+    {
+      "pair": "saudi_music_v2_033/kuwaiti_music_v2_053",
+      "hash": "d46ed6b79aeca6aac7c5077a3c1ac4560d501a0070fb9dd8fc2954d51399e2d5"
+    },
+    {
+      "pair": "saudi_music_v2_034/kuwaiti_music_v2_012",
+      "hash": "6468d50deecccb174ae6da043f7418daa6ee84b07a771897d6a93be2e3dfce03"
+    },
+    {
+      "pair": "saudi_music_v2_036/kuwaiti_music_v2_045",
+      "hash": "f110019440fb8588ad0b064c475817a165b3b6e07ec6f659bffa52420ed95010"
+    },
+    {
+      "pair": "saudi_music_v2_036/kuwaiti_music_v2_053",
+      "hash": "e0d462c26ac437d127fb2842f9223e8343212e5d7ed540e7865b7367915824e0"
+    },
+    {
+      "pair": "saudi_music_v2_039/kuwaiti_music_v2_012",
+      "hash": "93dd0ec90f506b1785eb324e5fa6a0c409882c29c44f696c4992361dd854752b"
+    },
+    {
+      "pair": "saudi_music_v2_041/kuwaiti_music_v2_045",
+      "hash": "79b8179878e0c3d288231271a5a736cb728b92126fe4bc073449977aed2767ac"
+    },
+    {
+      "pair": "saudi_music_v2_041/kuwaiti_music_v2_053",
+      "hash": "c6f781ddfe97340d0655783518ffa3c39ac60cb06c1c36400e22a19b4123ea34"
+    },
+    {
+      "pair": "saudi_music_v2_041/kuwaiti_music_v2_061",
+      "hash": "91b43abedc635ec54004807fd44f38a6edad8b03587f1da2e6dcff0279489605"
+    },
+    {
+      "pair": "saudi_music_v2_046/kuwaiti_music_v2_012",
+      "hash": "cde408be73ef9d9261d0e69d19e96c251e29722ae005275ae83d7431ba495b8f"
+    },
+    {
+      "pair": "saudi_music_v2_047/kuwaiti_music_v2_012",
+      "hash": "203de642ba56c2c2b413f8d1cb0f8f17d01e4a2e3f706aa9500b50af5682750e"
+    },
+    {
+      "pair": "saudi_music_v2_054/kuwaiti_music_v2_012",
+      "hash": "66ccb7a7f13ca4240a584f7d207913cb57697be0eb7281cd919f48cd92a91c10"
+    },
+    {
+      "pair": "saudi_music_v2_065/kuwaiti_music_v2_012",
+      "hash": "60f3268882c5dca0294eecb4d7a25e304fd4fb617ae83867c7d8c07609d5802a"
+    },
+    {
+      "pair": "saudi_music_v2_068/kuwaiti_music_v2_045",
+      "hash": "892abd75b19c3c366e70716e700287b5dd0d9d3b68e1f4dcaa37a62a48d04e18"
+    },
+    {
+      "pair": "saudi_music_v2_068/kuwaiti_music_v2_053",
+      "hash": "4597062b936c69f197e51c0f36d240c67a3e678d6f09e5a03a70fdee210c49ef"
+    },
+    {
+      "pair": "saudi_music_v2_097/kuwaiti_music_v2_160",
+      "hash": "1957334fe89a78e4d7fffefaa581231edd513903d14d20e4f0413b60976319d0"
+    },
+    {
+      "pair": "saudi_music_v2_102/kuwaiti_music_v2_160",
+      "hash": "513f897124acadc6fd87439d200a3588b3c37e96b4aa2b5b1c1ba9b79e11fff6"
+    },
+    {
+      "pair": "saudi_music_v2_147/kuwaiti_music_v2_187",
+      "hash": "64bf27be8ecfd98f0dba93f7e33350609192b2886ca86c7fde3fd742822333a4"
+    },
+    {
+      "pair": "saudi_music_v2_151/kuwaiti_music_v2_145",
+      "hash": "e72239c1a5ca147230dc3ffd18754de945a0bb826d845d44502a4ba03eb92fca"
+    },
+    {
+      "pair": "saudi_music_v2_151/kuwaiti_music_v2_157",
+      "hash": "a1f39ec3145e7dfcf4f94a1af7e36bdf1a4e7ab8227c0de37f8dab026e7508f0"
+    },
+    {
+      "pair": "saudi_music_v2_161/kuwaiti_music_v2_109",
+      "hash": "d568c150444934d807952804629c4628371807fe06da54ab60524feb009233b3"
+    },
+    {
+      "pair": "saudi_music_v2_161/kuwaiti_music_v2_179",
+      "hash": "536c4667c4a8e682f5d3bc10139e1a25275345e63a0365fd86f8a144318ab259"
+    },
+    {
+      "pair": "saudi_music_v2_161/kuwaiti_music_v2_190",
+      "hash": "2dc0b0b90795a90c3e11a38f27a157a1dab4b965d922e76356c5484ef87735bd"
+    },
+    {
+      "pair": "saudi_music_v2_161/kuwaiti_music_v2_200",
+      "hash": "e8a5e17f6a337b889158b53fdf7aae611c9e24e76c5e52d76a74f402cb0c351d"
+    },
+    {
+      "pair": "saudi_music_v2_161/kuwaiti_music_v2_202",
+      "hash": "50131a14fd7eca1680b8d0ef490d4821e282120c2c7c86ca58ab407d7610142a"
+    },
+    {
+      "pair": "saudi_music_v2_180/kuwaiti_music_v2_109",
+      "hash": "bd978de0dd60d1b2220fc32a83280a0a356a6ce8c1b56a3f82f930322594ec2a"
+    },
+    {
+      "pair": "saudi_music_v2_180/kuwaiti_music_v2_179",
+      "hash": "098f850d7e86489351d12fb0d96a1f76f14641a2fa183b393b7ecd76ebb2a00d"
+    },
+    {
+      "pair": "saudi_music_v2_180/kuwaiti_music_v2_187",
+      "hash": "e153cf21002a925c98a72ab896fabef6520c464eebe5fd3d564f896d8e204886"
+    },
+    {
+      "pair": "saudi_music_v2_180/kuwaiti_music_v2_190",
+      "hash": "a62485df24ac392b1899d2ddc5be305301f7cf51cacbe6ef63ef6f612abd0910"
+    },
+    {
+      "pair": "saudi_music_v2_180/kuwaiti_music_v2_200",
+      "hash": "b6649fa187610896d2ae0ffe698c485e3fc90a522ce794b91b352ed72d227a1c"
+    },
+    {
+      "pair": "saudi_music_v2_180/kuwaiti_music_v2_202",
+      "hash": "01562f02d47809edcea9c729d17f30d22f803479767cf96d1f3607969fecee6e"
+    },
+    {
+      "pair": "saudi_music_v2_183/kuwaiti_music_v2_109",
+      "hash": "83fb4e93fcae65a5bda973f53453cea1ef068eb561883c4868259028db62c1d8"
+    },
+    {
+      "pair": "saudi_music_v2_183/kuwaiti_music_v2_179",
+      "hash": "1267f5665df4d2d559998a0a5c3d23a255fab6ba61c98662c3b85795c5046376"
+    },
+    {
+      "pair": "saudi_music_v2_183/kuwaiti_music_v2_190",
+      "hash": "42e918c5b3d02b1fedf99a6cb5576382f1e56d093dc96df5c29c4352e1a9228e"
+    },
+    {
+      "pair": "saudi_music_v2_183/kuwaiti_music_v2_200",
+      "hash": "2cd3843f899265aa0883c320834774c7a9c4d884d05d200934e11c12c297ba4b"
+    },
+    {
+      "pair": "saudi_music_v2_183/kuwaiti_music_v2_202",
+      "hash": "0b46579a03c8adba60da8857ffb484530c0908e7ec796d12dbe9c49ba7204a40"
+    },
+    {
+      "pair": "saudi_music_v2_186/kuwaiti_music_v2_109",
+      "hash": "fcc742577fc85b89382bd94d5631f9bfe36cce245b6cae5facc16f27f95e6a1e"
+    },
+    {
+      "pair": "saudi_music_v2_186/kuwaiti_music_v2_179",
+      "hash": "63bf0a08f729fd520e6dfd443a1c4bcf2f8dbcb14cf3c3e7205dd93002edfadc"
+    },
+    {
+      "pair": "saudi_music_v2_186/kuwaiti_music_v2_187",
+      "hash": "df3e7fb3b08ce40ae212cb0403e869379228955999e6f83238efbc00b43724cb"
+    },
+    {
+      "pair": "saudi_music_v2_186/kuwaiti_music_v2_190",
+      "hash": "a4c05b366afdc0b3336576a5d4d9fd55eb5bab3faca12e39b6a2d7347bd62abb"
+    },
+    {
+      "pair": "saudi_music_v2_186/kuwaiti_music_v2_200",
+      "hash": "b4e65a8de6e4263bb07aca1d195a8e049819bf5d33dba3d351338ebdbf612036"
+    },
+    {
+      "pair": "saudi_music_v2_186/kuwaiti_music_v2_202",
+      "hash": "bb401ea1c842d4a3cafea78c8d9d8496f301f1ef860655cfd22e3cbd4c5e04cb"
+    },
+    {
+      "pair": "saudi_music_v2_188/kuwaiti_music_v2_187",
+      "hash": "a65670cf918bc5002beba8ccb31becaa1fa669925f10dd99ffd17a0aa7a31663"
+    }
+  ],
+  "shared": [
+    {
+      "pair": "saudi_music_v2_021/gulf_culture_v2_071",
+      "qA": "Which Saudi region is the original home of Al Majass singing?",
+      "qB": "In which Saudi region is the UNESCO-listed traditional Almezmar practised?",
+      "answer": "Hijaz"
+    },
+    {
+      "pair": "saudi_music_v2_001/saudi_general_v2_032",
+      "qA": "Who sings the well-known self-composed recording of Kel Ma Nasnas?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_002/saudi_general_v2_032",
+      "qA": "Which Saudi singer performs Ikhtalafna?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_024/saudi_general_v2_032",
+      "qA": "Who sings the Saudi classic Lana Allah?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_027/saudi_general_v2_032",
+      "qA": "Who sings Bent El Nour?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_032/saudi_general_v2_032",
+      "qA": "Which Saudi singer performs Wahm, composed by Omar Kedres?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_035/saudi_general_v2_032",
+      "qA": "Who sings the Saudi song Al Maazeem?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_041/saudi_general_v2_032",
+      "qA": "Who sings Al Rasayel?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_050/saudi_general_v2_032",
+      "qA": "Which Saudi singer performed Ya Mostageb Lel Daay in his 2002 Carthage programme?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_061/saudi_general_v2_032",
+      "qA": "Who sings the Saudi song Ala El Bal, written by Aseer Al Shooq?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_062/saudi_general_v2_032",
+      "qA": "Which Saudi singer performed and composed Ya Markeb Al Hind?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_070/saudi_general_v2_032",
+      "qA": "Who composed Mohammed Abdu's Ikhtalafna?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_081/saudi_general_v2_034",
+      "qA": "Which city houses the Tariq Abdulhakim Museum, showcasing Saudi musical history?",
+      "qB": "In which Saudi city is King Fahd's Fountain located?",
+      "answer": "Jeddah"
+    },
+    {
+      "pair": "saudi_music_v2_081/saudi_general_v2_058",
+      "qA": "Which city houses the Tariq Abdulhakim Museum, showcasing Saudi musical history?",
+      "qB": "In which city was Saudi Arabia's first Formula 1 Grand Prix held in 2021?",
+      "answer": "Jeddah"
+    },
+    {
+      "pair": "saudi_music_v2_081/saudi_general_v2_059",
+      "qA": "Which city houses the Tariq Abdulhakim Museum, showcasing Saudi musical history?",
+      "qB": "Which Saudi city hosted the Red Sea International Film Festival in 2025?",
+      "answer": "Jeddah"
+    },
+    {
+      "pair": "saudi_music_v2_081/saudi_general_v2_060",
+      "qA": "Which city houses the Tariq Abdulhakim Museum, showcasing Saudi musical history?",
+      "qB": "In which city did the Saudi restaurant chain Albaik begin?",
+      "answer": "Jeddah"
+    },
+    {
+      "pair": "saudi_music_v2_081/saudi_general_v2_064",
+      "qA": "Which city houses the Tariq Abdulhakim Museum, showcasing Saudi musical history?",
+      "qB": "In which city is King Abdulaziz International Airport located?",
+      "answer": "Jeddah"
+    },
+    {
+      "pair": "saudi_music_v2_082/saudi_general_v2_011",
+      "qA": "In which Saudi city was Talal Maddah born?",
+      "qB": "To which holy city was Jeddah the gateway for pilgrims arriving by sea?",
+      "answer": "Makkah"
+    },
+    {
+      "pair": "saudi_music_v2_082/saudi_general_v2_053",
+      "qA": "In which Saudi city was Talal Maddah born?",
+      "qB": "In which Saudi city are the Clock Towers and their clock tower overlooking the Grand Mosque located?",
+      "answer": "Makkah"
+    },
+    {
+      "pair": "saudi_music_v2_086/saudi_general_v2_073",
+      "qA": "Which Saudi poet wrote Mohammed Abdu's Lana Allah?",
+      "qB": "Which poet wrote the lyrics of the current Saudi national anthem?",
+      "answer": "Ibrahim Khafaji"
+    },
+    {
+      "pair": "saudi_music_v2_102/saudi_general_v2_032",
+      "qA": "Who composed Mohammed Abdu's Al Rasayel?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_116/saudi_general_v2_032",
+      "qA": "Who composed Mohammed Abdu's Ala El Bal?",
+      "qB": "Which Saudi singer is known as the Artist of the Arabs?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_123/saudi_general_v2_011",
+      "qA": "In which city did musician Jameel Mahmoud grow up in Al Misfalah district?",
+      "qB": "To which holy city was Jeddah the gateway for pilgrims arriving by sea?",
+      "answer": "Makkah"
+    },
+    {
+      "pair": "saudi_music_v2_123/saudi_general_v2_053",
+      "qA": "In which city did musician Jameel Mahmoud grow up in Al Misfalah district?",
+      "qB": "In which Saudi city are the Clock Towers and their clock tower overlooking the Grand Mosque located?",
+      "answer": "Makkah"
+    },
+    {
+      "pair": "saudi_music_v2_152/saudi_general_v2_180",
+      "qA": "To which city was Tariq Abdulhakim sent in 1952 to study military-band music?",
+      "qB": "Shubra Palace in Taif drew its design and name from a palace in the Shubra district of which Arab capital?",
+      "answer": "Cairo"
+    },
+    {
+      "pair": "saudi_music_v2_152/uae_pro_league_v2_022",
+      "qA": "To which city was Tariq Abdulhakim sent in 1952 to study military-band music?",
+      "qB": "Which Egyptian city hosted the UAE Super Cup between Al Ahli and Al Jazira in 2016?",
+      "answer": "Cairo"
+    },
+    {
+      "pair": "saudi_music_v2_087/emirati_music_v2_083",
+      "qA": "Who composed Abdul Majeed Abdullah's Entehel Shakhsetak?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_100/emirati_music_v2_101",
+      "qA": "Which musical instrument did Toha receive from her father, describing it as Yemeni?",
+      "qB": "Which instrument did Mehad Hamad give actor Tyrese during their 2014 meeting in Abu Dhabi?",
+      "answer": "Oud"
+    },
+    {
+      "pair": "saudi_music_v2_100/emirati_music_v2_119",
+      "qA": "Which musical instrument did Toha receive from her father, describing it as Yemeni?",
+      "qB": "Which instrument is Emirati musician Saif Al Naqbi a specialist in playing?",
+      "answer": "Oud"
+    },
+    {
+      "pair": "saudi_music_v2_119/emirati_music_v2_083",
+      "qA": "Who composed Rabeh Saqer's Khamees?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_125/emirati_music_v2_083",
+      "qA": "Who composed Rashed Al Fares's Azzah?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_128/emirati_music_v2_083",
+      "qA": "Who composed Rabeh Saqer's Montaha Al Riqqa?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_130/emirati_music_v2_083",
+      "qA": "Who composed Rabeh Saqer's Tahamaltak?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_131/emirati_music_v2_083",
+      "qA": "Who composed Rabeh Saqer's Min Kobraha?",
+      "qB": "By which professional name is the composer of Ahlam's Hazeen known?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_132/emirati_music_v2_117",
+      "qA": "Who composed Majid Al Mohandis's Akh Qalbi?",
+      "qB": "Who composed Balqees's Wayyak Khedni?",
+      "answer": "Ali Saber"
+    },
+    {
+      "pair": "saudi_music_v2_132/emirati_music_v2_124",
+      "qA": "Who composed Majid Al Mohandis's Akh Qalbi?",
+      "qB": "Who composed Hussain Al Jassmi's Aja Al Lail?",
+      "answer": "Ali Saber"
+    },
+    {
+      "pair": "saudi_music_v2_189/emirati_music_v2_173",
+      "qA": "Who arranged Majid Al Mohandis's Akh Qalbi?",
+      "qB": "Who arranged Hussain Al Jassmi's 2019 recording of Mohim Jiddan?",
+      "answer": "Hossam Kamel"
+    },
+    {
+      "pair": "saudi_music_v2_001/gulf_music_v2_015",
+      "qA": "Who sings the well-known self-composed recording of Kel Ma Nasnas?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_001/gulf_music_v2_049",
+      "qA": "Who sings the well-known self-composed recording of Kel Ma Nasnas?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_001/gulf_music_v2_052",
+      "qA": "Who sings the well-known self-composed recording of Kel Ma Nasnas?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_001/gulf_music_v2_102",
+      "qA": "Who sings the well-known self-composed recording of Kel Ma Nasnas?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_015",
+      "qA": "Which Saudi singer performs Ikhtalafna?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_049",
+      "qA": "Which Saudi singer performs Ikhtalafna?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_052",
+      "qA": "Which Saudi singer performs Ikhtalafna?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_002/gulf_music_v2_102",
+      "qA": "Which Saudi singer performs Ikhtalafna?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_016",
+      "qA": "Which Saudi singer performs Roohi Tehebbek?",
+      "qB": "Which singer performs Ya Badohom?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_040",
+      "qA": "Which Saudi singer performs Roohi Tehebbek?",
+      "qB": "Who sang Ya Ibn Alawadem in its 2021 release?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_046",
+      "qA": "Which Saudi singer performs Roohi Tehebbek?",
+      "qB": "Who performed his song Esmaani at his Jeddah concert in 2023?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_051",
+      "qA": "Which Saudi singer performs Roohi Tehebbek?",
+      "qB": "Which singer released Tetanfasak Dunyay in 2022?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_003/gulf_music_v2_064",
+      "qA": "Which Saudi singer performs Roohi Tehebbek?",
+      "qB": "Which Gulf singer is known as the Prince of Tarab?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_005/gulf_music_v2_014",
+      "qA": "Who sings the original Azeem Ehsasi release on his official channel?",
+      "qB": "Which singer performed Al Musafir in its 1996 music video?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_005/gulf_music_v2_022",
+      "qA": "Who sings the original Azeem Ehsasi release on his official channel?",
+      "qB": "Which singer performs Sheratan Al Thahab?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_005/gulf_music_v2_044",
+      "qA": "Who sings the original Azeem Ehsasi release on his official channel?",
+      "qB": "Which singer released Methel Qalbk in 2016?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_005/gulf_music_v2_050",
+      "qA": "Who sings the original Azeem Ehsasi release on his official channel?",
+      "qB": "Who sang the original 2020 recording of Walhan?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_005/gulf_music_v2_053",
+      "qA": "Who sings the original Azeem Ehsasi release on his official channel?",
+      "qB": "Who sang the original 1991 recording of Absher?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_006/gulf_music_v2_034",
+      "qA": "Which Saudi singer performs the Luxury release Rdy?",
+      "qB": "Who sang Nasetni on Luxury's original 2016 release?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_007/gulf_music_v2_030",
+      "qA": "Which Saudi female singer performs Katha Mumkin?",
+      "qB": "Which female singer rose to prominence with Qalabt Al Tawla in 2014?",
+      "answer": "Dalia Mubarak"
+    },
+    {
+      "pair": "saudi_music_v2_008/gulf_music_v2_020",
+      "qA": "Which Saudi artist both sang and composed Enta Malek?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_008/gulf_music_v2_028",
+      "qA": "Which Saudi artist both sang and composed Enta Malek?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_008/gulf_music_v2_043",
+      "qA": "Which Saudi artist both sang and composed Enta Malek?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_008/gulf_music_v2_054",
+      "qA": "Which Saudi artist both sang and composed Enta Malek?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_008/gulf_music_v2_065",
+      "qA": "Which Saudi artist both sang and composed Enta Malek?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_008/gulf_music_v2_164",
+      "qA": "Which Saudi artist both sang and composed Enta Malek?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_009/gulf_music_v2_024",
+      "qA": "Who sings Dukhoon, the title track of one of his albums?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_009/gulf_music_v2_025",
+      "qA": "Who sings Dukhoon, the title track of one of his albums?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_009/gulf_music_v2_056",
+      "qA": "Who sings Dukhoon, the title track of one of his albums?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_009/gulf_music_v2_062",
+      "qA": "Who sings Dukhoon, the title track of one of his albums?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_010/gulf_music_v2_061",
+      "qA": "Which Saudi singer performs Azzah?",
+      "qB": "Which singer performed his song Kent Athon alongside Safi Al Jaw and Theq Tamaman during the Kingdom Tour 2024?",
+      "answer": "Rashed Al Fares"
+    },
+    {
+      "pair": "saudi_music_v2_011/gulf_music_v2_016",
+      "qA": "Which Saudi singer performs Ya Tayeb Alqalb?",
+      "qB": "Which singer performs Ya Badohom?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_011/gulf_music_v2_040",
+      "qA": "Which Saudi singer performs Ya Tayeb Alqalb?",
+      "qB": "Who sang Ya Ibn Alawadem in its 2021 release?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_011/gulf_music_v2_046",
+      "qA": "Which Saudi singer performs Ya Tayeb Alqalb?",
+      "qB": "Who performed his song Esmaani at his Jeddah concert in 2023?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_011/gulf_music_v2_051",
+      "qA": "Which Saudi singer performs Ya Tayeb Alqalb?",
+      "qB": "Which singer released Tetanfasak Dunyay in 2022?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_011/gulf_music_v2_064",
+      "qA": "Which Saudi singer performs Ya Tayeb Alqalb?",
+      "qB": "Which Gulf singer is known as the Prince of Tarab?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_016/gulf_music_v2_038",
+      "qA": "Who sings Rotana's Ya Wesa Sadri?",
+      "qB": "Who sang Shams Bayni Wabaynak in the Saudi Sessions 2019 recording?",
+      "answer": "Aseel Abu Bakr"
+    },
+    {
+      "pair": "saudi_music_v2_017/gulf_music_v2_038",
+      "qA": "Which Saudi singer performs Rotana's Ya Sabr?",
+      "qB": "Who sang Shams Bayni Wabaynak in the Saudi Sessions 2019 recording?",
+      "answer": "Aseel Abu Bakr"
+    },
+    {
+      "pair": "saudi_music_v2_018/gulf_music_v2_034",
+      "qA": "Who sings Lammah on Luxury's 2024 release?",
+      "qB": "Who sang Nasetni on Luxury's original 2016 release?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_019/gulf_music_v2_019",
+      "qA": "Who both sang and composed the Saudi patriotic song Watani Al Habib?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_019/gulf_music_v2_023",
+      "qA": "Who both sang and composed the Saudi patriotic song Watani Al Habib?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_019/gulf_music_v2_055",
+      "qA": "Who both sang and composed the Saudi patriotic song Watani Al Habib?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_019/gulf_music_v2_122",
+      "qA": "Who both sang and composed the Saudi patriotic song Watani Al Habib?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_022/gulf_music_v2_016",
+      "qA": "Who won the favourite male music artist award at Joy Awards 2024?",
+      "qB": "Which singer performs Ya Badohom?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_022/gulf_music_v2_040",
+      "qA": "Who won the favourite male music artist award at Joy Awards 2024?",
+      "qB": "Who sang Ya Ibn Alawadem in its 2021 release?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_022/gulf_music_v2_046",
+      "qA": "Who won the favourite male music artist award at Joy Awards 2024?",
+      "qB": "Who performed his song Esmaani at his Jeddah concert in 2023?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_022/gulf_music_v2_051",
+      "qA": "Who won the favourite male music artist award at Joy Awards 2024?",
+      "qB": "Which singer released Tetanfasak Dunyay in 2022?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_022/gulf_music_v2_064",
+      "qA": "Who won the favourite male music artist award at Joy Awards 2024?",
+      "qB": "Which Gulf singer is known as the Prince of Tarab?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_019",
+      "qA": "Which Saudi singer performs Aghrab?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_023",
+      "qA": "Which Saudi singer performs Aghrab?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_055",
+      "qA": "Which Saudi singer performs Aghrab?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_023/gulf_music_v2_122",
+      "qA": "Which Saudi singer performs Aghrab?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_024/gulf_music_v2_015",
+      "qA": "Who sings the Saudi classic Lana Allah?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_024/gulf_music_v2_049",
+      "qA": "Who sings the Saudi classic Lana Allah?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_024/gulf_music_v2_052",
+      "qA": "Who sings the Saudi classic Lana Allah?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_024/gulf_music_v2_102",
+      "qA": "Who sings the Saudi classic Lana Allah?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_016",
+      "qA": "Which Saudi singer performs Entehel Shakhsetak?",
+      "qB": "Which singer performs Ya Badohom?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_040",
+      "qA": "Which Saudi singer performs Entehel Shakhsetak?",
+      "qB": "Who sang Ya Ibn Alawadem in its 2021 release?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_046",
+      "qA": "Which Saudi singer performs Entehel Shakhsetak?",
+      "qB": "Who performed his song Esmaani at his Jeddah concert in 2023?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_051",
+      "qA": "Which Saudi singer performs Entehel Shakhsetak?",
+      "qB": "Which singer released Tetanfasak Dunyay in 2022?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_025/gulf_music_v2_064",
+      "qA": "Which Saudi singer performs Entehel Shakhsetak?",
+      "qB": "Which Gulf singer is known as the Prince of Tarab?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_020",
+      "qA": "Which Saudi singer performs Montaha Al Riqqa?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_028",
+      "qA": "Which Saudi singer performs Montaha Al Riqqa?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_043",
+      "qA": "Which Saudi singer performs Montaha Al Riqqa?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_054",
+      "qA": "Which Saudi singer performs Montaha Al Riqqa?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_065",
+      "qA": "Which Saudi singer performs Montaha Al Riqqa?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_026/gulf_music_v2_164",
+      "qA": "Which Saudi singer performs Montaha Al Riqqa?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_027/gulf_music_v2_015",
+      "qA": "Who sings Bent El Nour?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_027/gulf_music_v2_049",
+      "qA": "Who sings Bent El Nour?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_027/gulf_music_v2_052",
+      "qA": "Who sings Bent El Nour?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_027/gulf_music_v2_102",
+      "qA": "Who sings Bent El Nour?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_014",
+      "qA": "Which Saudi singer performs Ana Al Abyad?",
+      "qB": "Which singer performed Al Musafir in its 1996 music video?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_022",
+      "qA": "Which Saudi singer performs Ana Al Abyad?",
+      "qB": "Which singer performs Sheratan Al Thahab?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_044",
+      "qA": "Which Saudi singer performs Ana Al Abyad?",
+      "qB": "Which singer released Methel Qalbk in 2016?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_050",
+      "qA": "Which Saudi singer performs Ana Al Abyad?",
+      "qB": "Who sang the original 2020 recording of Walhan?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_028/gulf_music_v2_053",
+      "qA": "Which Saudi singer performs Ana Al Abyad?",
+      "qB": "Who sang the original 1991 recording of Absher?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_029/gulf_music_v2_016",
+      "qA": "Who sings Awal Hekayatna on Aalam Mowazi?",
+      "qB": "Which singer performs Ya Badohom?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_029/gulf_music_v2_040",
+      "qA": "Who sings Awal Hekayatna on Aalam Mowazi?",
+      "qB": "Who sang Ya Ibn Alawadem in its 2021 release?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_029/gulf_music_v2_046",
+      "qA": "Who sings Awal Hekayatna on Aalam Mowazi?",
+      "qB": "Who performed his song Esmaani at his Jeddah concert in 2023?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_029/gulf_music_v2_051",
+      "qA": "Who sings Awal Hekayatna on Aalam Mowazi?",
+      "qB": "Which singer released Tetanfasak Dunyay in 2022?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_029/gulf_music_v2_064",
+      "qA": "Who sings Awal Hekayatna on Aalam Mowazi?",
+      "qB": "Which Gulf singer is known as the Prince of Tarab?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_030/gulf_music_v2_019",
+      "qA": "Which Saudi singer performs Al Mawed Al Thani?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_030/gulf_music_v2_023",
+      "qA": "Which Saudi singer performs Al Mawed Al Thani?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_030/gulf_music_v2_055",
+      "qA": "Which Saudi singer performs Al Mawed Al Thani?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_030/gulf_music_v2_122",
+      "qA": "Which Saudi singer performs Al Mawed Al Thani?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_031/gulf_music_v2_016",
+      "qA": "Who is the artist behind the song and album Ensan Akthar?",
+      "qB": "Which singer performs Ya Badohom?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_031/gulf_music_v2_040",
+      "qA": "Who is the artist behind the song and album Ensan Akthar?",
+      "qB": "Who sang Ya Ibn Alawadem in its 2021 release?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_031/gulf_music_v2_046",
+      "qA": "Who is the artist behind the song and album Ensan Akthar?",
+      "qB": "Who performed his song Esmaani at his Jeddah concert in 2023?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_031/gulf_music_v2_051",
+      "qA": "Who is the artist behind the song and album Ensan Akthar?",
+      "qB": "Which singer released Tetanfasak Dunyay in 2022?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_031/gulf_music_v2_064",
+      "qA": "Who is the artist behind the song and album Ensan Akthar?",
+      "qB": "Which Gulf singer is known as the Prince of Tarab?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_032/gulf_music_v2_015",
+      "qA": "Which Saudi singer performs Wahm, composed by Omar Kedres?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_032/gulf_music_v2_049",
+      "qA": "Which Saudi singer performs Wahm, composed by Omar Kedres?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_032/gulf_music_v2_052",
+      "qA": "Which Saudi singer performs Wahm, composed by Omar Kedres?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_032/gulf_music_v2_102",
+      "qA": "Which Saudi singer performs Wahm, composed by Omar Kedres?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_033/gulf_music_v2_024",
+      "qA": "Who sings Hebr W Warag?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_033/gulf_music_v2_025",
+      "qA": "Who sings Hebr W Warag?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_033/gulf_music_v2_056",
+      "qA": "Who sings Hebr W Warag?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_033/gulf_music_v2_062",
+      "qA": "Who sings Hebr W Warag?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_035/gulf_music_v2_015",
+      "qA": "Who sings the Saudi song Al Maazeem?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_035/gulf_music_v2_049",
+      "qA": "Who sings the Saudi song Al Maazeem?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_035/gulf_music_v2_052",
+      "qA": "Who sings the Saudi song Al Maazeem?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_035/gulf_music_v2_102",
+      "qA": "Who sings the Saudi song Al Maazeem?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_036/gulf_music_v2_014",
+      "qA": "Who sings Tahdooh Al Bashar?",
+      "qB": "Which singer performed Al Musafir in its 1996 music video?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_036/gulf_music_v2_022",
+      "qA": "Who sings Tahdooh Al Bashar?",
+      "qB": "Which singer performs Sheratan Al Thahab?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_036/gulf_music_v2_044",
+      "qA": "Who sings Tahdooh Al Bashar?",
+      "qB": "Which singer released Methel Qalbk in 2016?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_036/gulf_music_v2_050",
+      "qA": "Who sings Tahdooh Al Bashar?",
+      "qB": "Who sang the original 2020 recording of Walhan?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_036/gulf_music_v2_053",
+      "qA": "Who sings Tahdooh Al Bashar?",
+      "qB": "Who sang the original 1991 recording of Absher?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_040/gulf_music_v2_014",
+      "qA": "Who is the artist behind the song and album Ah Ya Qalbi?",
+      "qB": "Which singer performed Al Musafir in its 1996 music video?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_040/gulf_music_v2_022",
+      "qA": "Who is the artist behind the song and album Ah Ya Qalbi?",
+      "qB": "Which singer performs Sheratan Al Thahab?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_040/gulf_music_v2_044",
+      "qA": "Who is the artist behind the song and album Ah Ya Qalbi?",
+      "qB": "Which singer released Methel Qalbk in 2016?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_040/gulf_music_v2_050",
+      "qA": "Who is the artist behind the song and album Ah Ya Qalbi?",
+      "qB": "Who sang the original 2020 recording of Walhan?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_040/gulf_music_v2_053",
+      "qA": "Who is the artist behind the song and album Ah Ya Qalbi?",
+      "qB": "Who sang the original 1991 recording of Absher?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_041/gulf_music_v2_015",
+      "qA": "Who sings Al Rasayel?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_041/gulf_music_v2_049",
+      "qA": "Who sings Al Rasayel?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_041/gulf_music_v2_052",
+      "qA": "Who sings Al Rasayel?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_041/gulf_music_v2_102",
+      "qA": "Who sings Al Rasayel?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_042/gulf_music_v2_019",
+      "qA": "Which Saudi singer performs Sayedi Qum?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_042/gulf_music_v2_023",
+      "qA": "Which Saudi singer performs Sayedi Qum?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_042/gulf_music_v2_055",
+      "qA": "Which Saudi singer performs Sayedi Qum?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_042/gulf_music_v2_122",
+      "qA": "Which Saudi singer performs Sayedi Qum?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_043/gulf_music_v2_019",
+      "qA": "Who sings Ahebbak Law Tekoun Hader?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_043/gulf_music_v2_023",
+      "qA": "Who sings Ahebbak Law Tekoun Hader?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_043/gulf_music_v2_055",
+      "qA": "Who sings Ahebbak Law Tekoun Hader?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_043/gulf_music_v2_122",
+      "qA": "Who sings Ahebbak Law Tekoun Hader?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_044/gulf_music_v2_020",
+      "qA": "Who sings Rotana's Khalas, written by Turki Al Musheiqih?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_044/gulf_music_v2_028",
+      "qA": "Who sings Rotana's Khalas, written by Turki Al Musheiqih?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_044/gulf_music_v2_043",
+      "qA": "Who sings Rotana's Khalas, written by Turki Al Musheiqih?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_044/gulf_music_v2_054",
+      "qA": "Who sings Rotana's Khalas, written by Turki Al Musheiqih?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_044/gulf_music_v2_065",
+      "qA": "Who sings Rotana's Khalas, written by Turki Al Musheiqih?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_044/gulf_music_v2_164",
+      "qA": "Who sings Rotana's Khalas, written by Turki Al Musheiqih?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_045/gulf_music_v2_024",
+      "qA": "Who sings Men Athabi on the album Tal Al Sukoot?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_045/gulf_music_v2_025",
+      "qA": "Who sings Men Athabi on the album Tal Al Sukoot?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_045/gulf_music_v2_056",
+      "qA": "Who sings Men Athabi on the album Tal Al Sukoot?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_045/gulf_music_v2_062",
+      "qA": "Who sings Men Athabi on the album Tal Al Sukoot?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_014",
+      "qA": "Which Saudi singer performs Allamtni?",
+      "qB": "Which singer performed Al Musafir in its 1996 music video?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_022",
+      "qA": "Which Saudi singer performs Allamtni?",
+      "qB": "Which singer performs Sheratan Al Thahab?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_044",
+      "qA": "Which Saudi singer performs Allamtni?",
+      "qB": "Which singer released Methel Qalbk in 2016?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_050",
+      "qA": "Which Saudi singer performs Allamtni?",
+      "qB": "Who sang the original 2020 recording of Walhan?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_046/gulf_music_v2_053",
+      "qA": "Which Saudi singer performs Allamtni?",
+      "qB": "Who sang the original 1991 recording of Absher?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_020",
+      "qA": "Which Saudi singer performs Tahamaltak?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_028",
+      "qA": "Which Saudi singer performs Tahamaltak?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_043",
+      "qA": "Which Saudi singer performs Tahamaltak?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_054",
+      "qA": "Which Saudi singer performs Tahamaltak?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_065",
+      "qA": "Which Saudi singer performs Tahamaltak?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_047/gulf_music_v2_164",
+      "qA": "Which Saudi singer performs Tahamaltak?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_048/gulf_music_v2_030",
+      "qA": "Which Saudi female singer performs Etjammal Lenafsi?",
+      "qB": "Which female singer rose to prominence with Qalabt Al Tawla in 2014?",
+      "answer": "Dalia Mubarak"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_014",
+      "qA": "Which Saudi singer performs Hujjat Al Ghayeb?",
+      "qB": "Which singer performed Al Musafir in its 1996 music video?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_022",
+      "qA": "Which Saudi singer performs Hujjat Al Ghayeb?",
+      "qB": "Which singer performs Sheratan Al Thahab?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_044",
+      "qA": "Which Saudi singer performs Hujjat Al Ghayeb?",
+      "qB": "Which singer released Methel Qalbk in 2016?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_050",
+      "qA": "Which Saudi singer performs Hujjat Al Ghayeb?",
+      "qB": "Who sang the original 2020 recording of Walhan?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_049/gulf_music_v2_053",
+      "qA": "Which Saudi singer performs Hujjat Al Ghayeb?",
+      "qB": "Who sang the original 1991 recording of Absher?",
+      "answer": "Rashed Al Majid"
+    },
+    {
+      "pair": "saudi_music_v2_050/gulf_music_v2_015",
+      "qA": "Which Saudi singer performed Ya Mostageb Lel Daay in his 2002 Carthage programme?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_050/gulf_music_v2_049",
+      "qA": "Which Saudi singer performed Ya Mostageb Lel Daay in his 2002 Carthage programme?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_050/gulf_music_v2_052",
+      "qA": "Which Saudi singer performed Ya Mostageb Lel Daay in his 2002 Carthage programme?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_050/gulf_music_v2_102",
+      "qA": "Which Saudi singer performed Ya Mostageb Lel Daay in his 2002 Carthage programme?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_051/gulf_music_v2_020",
+      "qA": "Who sings Seqa Allah on the album Awjeh Al Maana?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_051/gulf_music_v2_028",
+      "qA": "Who sings Seqa Allah on the album Awjeh Al Maana?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_051/gulf_music_v2_043",
+      "qA": "Who sings Seqa Allah on the album Awjeh Al Maana?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_051/gulf_music_v2_054",
+      "qA": "Who sings Seqa Allah on the album Awjeh Al Maana?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_051/gulf_music_v2_065",
+      "qA": "Who sings Seqa Allah on the album Awjeh Al Maana?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_051/gulf_music_v2_164",
+      "qA": "Who sings Seqa Allah on the album Awjeh Al Maana?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_052/gulf_music_v2_024",
+      "qA": "Who sings Ikhtafat on the album Asdaq Ma Katabt?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_052/gulf_music_v2_025",
+      "qA": "Who sings Ikhtafat on the album Asdaq Ma Katabt?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_052/gulf_music_v2_056",
+      "qA": "Who sings Ikhtafat on the album Asdaq Ma Katabt?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_052/gulf_music_v2_062",
+      "qA": "Who sings Ikhtafat on the album Asdaq Ma Katabt?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_053/gulf_music_v2_034",
+      "qA": "Which Saudi singer performs the 2016 release Faman Allah?",
+      "qB": "Who sang Nasetni on Luxury's original 2016 release?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_020",
+      "qA": "Which Saudi singer performs Min Kobraha?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_028",
+      "qA": "Which Saudi singer performs Min Kobraha?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_043",
+      "qA": "Which Saudi singer performs Min Kobraha?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_054",
+      "qA": "Which Saudi singer performs Min Kobraha?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_065",
+      "qA": "Which Saudi singer performs Min Kobraha?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_054/gulf_music_v2_164",
+      "qA": "Which Saudi singer performs Min Kobraha?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_055/gulf_music_v2_030",
+      "qA": "Which Saudi female singer performs La Taht?",
+      "qB": "Which female singer rose to prominence with Qalabt Al Tawla in 2014?",
+      "answer": "Dalia Mubarak"
+    },
+    {
+      "pair": "saudi_music_v2_057/gulf_music_v2_066",
+      "qA": "Who sings Rotana's 2016 release Akh Qalbi?",
+      "qB": "Which singer recorded Tenadeek?",
+      "answer": "Majid Al Mohandis"
+    },
+    {
+      "pair": "saudi_music_v2_058/gulf_music_v2_066",
+      "qA": "Who sings Rotana's 2015 release Entitharak Saab?",
+      "qB": "Which singer recorded Tenadeek?",
+      "answer": "Majid Al Mohandis"
+    },
+    {
+      "pair": "saudi_music_v2_059/gulf_music_v2_034",
+      "qA": "Which Saudi singer performs Saqi Al Atash?",
+      "qB": "Who sang Nasetni on Luxury's original 2016 release?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_060/gulf_music_v2_034",
+      "qA": "Which Saudi singer performs Estrahet Mohareb?",
+      "qB": "Who sang Nasetni on Luxury's original 2016 release?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_061/gulf_music_v2_015",
+      "qA": "Who sings the Saudi song Ala El Bal, written by Aseer Al Shooq?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_061/gulf_music_v2_049",
+      "qA": "Who sings the Saudi song Ala El Bal, written by Aseer Al Shooq?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_061/gulf_music_v2_052",
+      "qA": "Who sings the Saudi song Ala El Bal, written by Aseer Al Shooq?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_061/gulf_music_v2_102",
+      "qA": "Who sings the Saudi song Ala El Bal, written by Aseer Al Shooq?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_062/gulf_music_v2_015",
+      "qA": "Which Saudi singer performed and composed Ya Markeb Al Hind?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_062/gulf_music_v2_049",
+      "qA": "Which Saudi singer performed and composed Ya Markeb Al Hind?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_062/gulf_music_v2_052",
+      "qA": "Which Saudi singer performed and composed Ya Markeb Al Hind?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_062/gulf_music_v2_102",
+      "qA": "Which Saudi singer performed and composed Ya Markeb Al Hind?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_063/gulf_music_v2_020",
+      "qA": "Who sings Wain Kent on the album Awjeh Al Maana?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_063/gulf_music_v2_028",
+      "qA": "Who sings Wain Kent on the album Awjeh Al Maana?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_063/gulf_music_v2_043",
+      "qA": "Who sings Wain Kent on the album Awjeh Al Maana?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_063/gulf_music_v2_054",
+      "qA": "Who sings Wain Kent on the album Awjeh Al Maana?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_063/gulf_music_v2_065",
+      "qA": "Who sings Wain Kent on the album Awjeh Al Maana?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_063/gulf_music_v2_164",
+      "qA": "Who sings Wain Kent on the album Awjeh Al Maana?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_064/gulf_music_v2_020",
+      "qA": "Who sings Khamees on the album Awjeh Al Maana?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_064/gulf_music_v2_028",
+      "qA": "Who sings Khamees on the album Awjeh Al Maana?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_064/gulf_music_v2_043",
+      "qA": "Who sings Khamees on the album Awjeh Al Maana?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_064/gulf_music_v2_054",
+      "qA": "Who sings Khamees on the album Awjeh Al Maana?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_064/gulf_music_v2_065",
+      "qA": "Who sings Khamees on the album Awjeh Al Maana?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_064/gulf_music_v2_164",
+      "qA": "Who sings Khamees on the album Awjeh Al Maana?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_066/gulf_music_v2_024",
+      "qA": "Who sings Ma Ala Al Dunya Atab on the album Tal Al Sukoot?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_066/gulf_music_v2_025",
+      "qA": "Who sings Ma Ala Al Dunya Atab on the album Tal Al Sukoot?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_066/gulf_music_v2_056",
+      "qA": "Who sings Ma Ala Al Dunya Atab on the album Tal Al Sukoot?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_066/gulf_music_v2_062",
+      "qA": "Who sings Ma Ala Al Dunya Atab on the album Tal Al Sukoot?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_067/gulf_music_v2_016",
+      "qA": "Which Saudi singer performed Fazet Men Nomi at his Riyadh Season concert in 2024?",
+      "qB": "Which singer performs Ya Badohom?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_067/gulf_music_v2_040",
+      "qA": "Which Saudi singer performed Fazet Men Nomi at his Riyadh Season concert in 2024?",
+      "qB": "Who sang Ya Ibn Alawadem in its 2021 release?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_067/gulf_music_v2_046",
+      "qA": "Which Saudi singer performed Fazet Men Nomi at his Riyadh Season concert in 2024?",
+      "qB": "Who performed his song Esmaani at his Jeddah concert in 2023?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_067/gulf_music_v2_051",
+      "qA": "Which Saudi singer performed Fazet Men Nomi at his Riyadh Season concert in 2024?",
+      "qB": "Which singer released Tetanfasak Dunyay in 2022?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_067/gulf_music_v2_064",
+      "qA": "Which Saudi singer performed Fazet Men Nomi at his Riyadh Season concert in 2024?",
+      "qB": "Which Gulf singer is known as the Prince of Tarab?",
+      "answer": "Abdul Majeed Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_068/gulf_music_v2_019",
+      "qA": "Who sings Atni Al Mahabba?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_068/gulf_music_v2_023",
+      "qA": "Who sings Atni Al Mahabba?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_068/gulf_music_v2_055",
+      "qA": "Who sings Atni Al Mahabba?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_068/gulf_music_v2_122",
+      "qA": "Who sings Atni Al Mahabba?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_069/gulf_music_v2_167",
+      "qA": "Which prince and poet wrote Kel Ma Nasnas, sung by Mohammed Abdu?",
+      "qB": "Who wrote the lyrics of Al Tawhid, the operetta Siraj Omar composed for Janadriyah in 1994?",
+      "answer": "Prince Khaled Al Faisal"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_015",
+      "qA": "Who composed Mohammed Abdu's Ikhtalafna?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_049",
+      "qA": "Who composed Mohammed Abdu's Ikhtalafna?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_052",
+      "qA": "Who composed Mohammed Abdu's Ikhtalafna?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_070/gulf_music_v2_102",
+      "qA": "Who composed Mohammed Abdu's Ikhtalafna?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_110",
+      "qA": "Who composed Rashed Al Majid's Azeem Ehsasi?",
+      "qB": "Who composed Rashed Al Majid's 2020 song Walhan?",
+      "answer": "Ahmed Al Harmi"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_111",
+      "qA": "Who composed Rashed Al Majid's Azeem Ehsasi?",
+      "qB": "Who composed Abdul Majeed Abdullah's Tetanfasak Dunyay?",
+      "answer": "Ahmed Al Harmi"
+    },
+    {
+      "pair": "saudi_music_v2_071/gulf_music_v2_124",
+      "qA": "Who composed Rashed Al Majid's Azeem Ehsasi?",
+      "qB": "Who composed Majid Al Mohandis's Tenadeek?",
+      "answer": "Ahmed Al Harmi"
+    },
+    {
+      "pair": "saudi_music_v2_073/gulf_music_v2_024",
+      "qA": "Who composed Abadi Al Johar's Dukhoon?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_073/gulf_music_v2_025",
+      "qA": "Who composed Abadi Al Johar's Dukhoon?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_073/gulf_music_v2_056",
+      "qA": "Who composed Abadi Al Johar's Dukhoon?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_073/gulf_music_v2_062",
+      "qA": "Who composed Abadi Al Johar's Dukhoon?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_074/gulf_music_v2_019",
+      "qA": "Which artist composed Ya Halawa for Abadi Al Johar?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_074/gulf_music_v2_023",
+      "qA": "Which artist composed Ya Halawa for Abadi Al Johar?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_074/gulf_music_v2_055",
+      "qA": "Which artist composed Ya Halawa for Abadi Al Johar?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_074/gulf_music_v2_122",
+      "qA": "Which artist composed Ya Halawa for Abadi Al Johar?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_087/gulf_music_v2_103",
+      "qA": "Who composed Abdul Majeed Abdullah's Entehel Shakhsetak?",
+      "qB": "Who composed Rabeh Saqer's 2022 song Wajed?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_087/gulf_music_v2_106",
+      "qA": "Who composed Abdul Majeed Abdullah's Entehel Shakhsetak?",
+      "qB": "What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_089/gulf_music_v2_081",
+      "qA": "Who composed Mohammed Abdu's Bent El Nour?",
+      "qB": "Who composed Mohammed Abdu's Al Amaken?",
+      "answer": "Nasser Al Saleh"
+    },
+    {
+      "pair": "saudi_music_v2_089/gulf_music_v2_086",
+      "qA": "Who composed Mohammed Abdu's Bent El Nour?",
+      "qB": "Who composed Nawal's Ana El Masoul?",
+      "answer": "Nasser Al Saleh"
+    },
+    {
+      "pair": "saudi_music_v2_092/gulf_music_v2_088",
+      "qA": "Who composed Talal Maddah's Al Mawed Al Thani?",
+      "qB": "Who composed Talal Maddah's Maqadir?",
+      "answer": "Siraj Omar"
+    },
+    {
+      "pair": "saudi_music_v2_092/gulf_music_v2_132",
+      "qA": "Who composed Talal Maddah's Al Mawed Al Thani?",
+      "qB": "Who composed Mohammed Abdu's Martni Al Dunya?",
+      "answer": "Siraj Omar"
+    },
+    {
+      "pair": "saudi_music_v2_095/gulf_music_v2_024",
+      "qA": "Who composed Abadi Al Johar's Hebr W Warag?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_095/gulf_music_v2_025",
+      "qA": "Who composed Abadi Al Johar's Hebr W Warag?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_095/gulf_music_v2_056",
+      "qA": "Who composed Abadi Al Johar's Hebr W Warag?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_095/gulf_music_v2_062",
+      "qA": "Who composed Abadi Al Johar's Hebr W Warag?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_096/gulf_music_v2_167",
+      "qA": "Which prince and poet wrote Abbas Ibrahim's Nadet?",
+      "qB": "Who wrote the lyrics of Al Tawhid, the operetta Siraj Omar composed for Janadriyah in 1994?",
+      "answer": "Prince Khaled Al Faisal"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_015",
+      "qA": "Who composed Mohammed Abdu's Al Rasayel?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_049",
+      "qA": "Who composed Mohammed Abdu's Al Rasayel?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_052",
+      "qA": "Who composed Mohammed Abdu's Al Rasayel?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_102/gulf_music_v2_102",
+      "qA": "Who composed Mohammed Abdu's Al Rasayel?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_103/gulf_music_v2_019",
+      "qA": "Who composed Talal Maddah's Sayedi Qum?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_103/gulf_music_v2_023",
+      "qA": "Who composed Talal Maddah's Sayedi Qum?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_103/gulf_music_v2_055",
+      "qA": "Who composed Talal Maddah's Sayedi Qum?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_103/gulf_music_v2_122",
+      "qA": "Who composed Talal Maddah's Sayedi Qum?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_104/gulf_music_v2_019",
+      "qA": "Who composed Talal Maddah's Ahebbak Law Tekoun Hader?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_104/gulf_music_v2_023",
+      "qA": "Who composed Talal Maddah's Ahebbak Law Tekoun Hader?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_104/gulf_music_v2_055",
+      "qA": "Who composed Talal Maddah's Ahebbak Law Tekoun Hader?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_104/gulf_music_v2_122",
+      "qA": "Who composed Talal Maddah's Ahebbak Law Tekoun Hader?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_105/gulf_music_v2_024",
+      "qA": "Who composed Abadi Al Johar's Men Athabi?",
+      "qB": "Who sang Sikka Taweela on the album Asdaq Ma Katabt?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_105/gulf_music_v2_025",
+      "qA": "Who composed Abadi Al Johar's Men Athabi?",
+      "qB": "Which singer recorded Ouyonak Akher Amaly?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_105/gulf_music_v2_056",
+      "qA": "Who composed Abadi Al Johar's Men Athabi?",
+      "qB": "Which singer recorded Qaloo Tara?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_105/gulf_music_v2_062",
+      "qA": "Who composed Abadi Al Johar's Men Athabi?",
+      "qB": "Which singer is known as the Octopus of the Oud?",
+      "answer": "Abadi Al Johar"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_080",
+      "qA": "Who composed Rashed Al Majid's Allamtni?",
+      "qB": "Who composed Rashed Al Majid's Al Musafir?",
+      "answer": "Abdul Rab Idris"
+    },
+    {
+      "pair": "saudi_music_v2_106/gulf_music_v2_100",
+      "qA": "Who composed Rashed Al Majid's Allamtni?",
+      "qB": "Who composed Rashed Al Majid's 1996 song Wahashtny Swalifk?",
+      "answer": "Abdul Rab Idris"
+    },
+    {
+      "pair": "saudi_music_v2_113/gulf_music_v2_066",
+      "qA": "Who composed Majid Al Mohandis's Entitharak Saab?",
+      "qB": "Which singer recorded Tenadeek?",
+      "answer": "Majid Al Mohandis"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_015",
+      "qA": "Who composed Mohammed Abdu's Ala El Bal?",
+      "qB": "Which singer performs Al Amaken?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_049",
+      "qA": "Who composed Mohammed Abdu's Ala El Bal?",
+      "qB": "Who performed his song Lelat Khamis at February Kuwait 2020?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_052",
+      "qA": "Who composed Mohammed Abdu's Ala El Bal?",
+      "qB": "Which singer recorded Mozhela?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_116/gulf_music_v2_102",
+      "qA": "Who composed Mohammed Abdu's Ala El Bal?",
+      "qB": "Who recorded the song Zaffa with Fouad Abdulwahed in 2015?",
+      "answer": "Mohammed Abdu"
+    },
+    {
+      "pair": "saudi_music_v2_118/gulf_music_v2_020",
+      "qA": "Who composed Rabeh Saqer's Wain Kent?",
+      "qB": "Which singer released the song and album Sedqni in 2008?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_118/gulf_music_v2_028",
+      "qA": "Who composed Rabeh Saqer's Wain Kent?",
+      "qB": "Which singer is known as Musiqar Al Khaleej, the Gulf's Maestro?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_118/gulf_music_v2_043",
+      "qA": "Who composed Rabeh Saqer's Wain Kent?",
+      "qB": "Who sang Wajed on Rotana's 2022 release?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_118/gulf_music_v2_054",
+      "qA": "Who composed Rabeh Saqer's Wain Kent?",
+      "qB": "Who sang with Nawal on the duet Kel Ma Fel Amr?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_118/gulf_music_v2_065",
+      "qA": "Who composed Rabeh Saqer's Wain Kent?",
+      "qB": "Who performed his song Ma A'd Tesa'l at Falcon Night 2024?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_118/gulf_music_v2_164",
+      "qA": "Who composed Rabeh Saqer's Wain Kent?",
+      "qB": "Which singer and composer supervised Abdul Majeed Abdullah's album Ghali?",
+      "answer": "Rabeh Saqer"
+    },
+    {
+      "pair": "saudi_music_v2_119/gulf_music_v2_103",
+      "qA": "Who composed Rabeh Saqer's Khamees?",
+      "qB": "Who composed Rabeh Saqer's 2022 song Wajed?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_119/gulf_music_v2_106",
+      "qA": "Who composed Rabeh Saqer's Khamees?",
+      "qB": "What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_120/gulf_music_v2_019",
+      "qA": "Who composed Talal Maddah's Atni Al Mahabba?",
+      "qB": "Who recorded Zaman Al Samt?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_120/gulf_music_v2_023",
+      "qA": "Who composed Talal Maddah's Atni Al Mahabba?",
+      "qB": "Which singer made the famous recording of Maqadir?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_120/gulf_music_v2_055",
+      "qA": "Who composed Talal Maddah's Atni Al Mahabba?",
+      "qB": "Which Saudi singer is known as Sawt Al Ard, the Voice of the Earth?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_120/gulf_music_v2_122",
+      "qA": "Who composed Talal Maddah's Atni Al Mahabba?",
+      "qB": "Which singer gave Abadi Al Johar the nickname Octopus of the Oud?",
+      "answer": "Talal Maddah"
+    },
+    {
+      "pair": "saudi_music_v2_125/gulf_music_v2_103",
+      "qA": "Who composed Rashed Al Fares's Azzah?",
+      "qB": "Who composed Rabeh Saqer's 2022 song Wajed?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_125/gulf_music_v2_106",
+      "qA": "Who composed Rashed Al Fares's Azzah?",
+      "qB": "What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_126/gulf_music_v2_088",
+      "qA": "Who composed Talal Maddah's Aghrab?",
+      "qB": "Who composed Talal Maddah's Maqadir?",
+      "answer": "Siraj Omar"
+    },
+    {
+      "pair": "saudi_music_v2_126/gulf_music_v2_132",
+      "qA": "Who composed Talal Maddah's Aghrab?",
+      "qB": "Who composed Mohammed Abdu's Martni Al Dunya?",
+      "answer": "Siraj Omar"
+    },
+    {
+      "pair": "saudi_music_v2_128/gulf_music_v2_103",
+      "qA": "Who composed Rabeh Saqer's Montaha Al Riqqa?",
+      "qB": "Who composed Rabeh Saqer's 2022 song Wajed?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_128/gulf_music_v2_106",
+      "qA": "Who composed Rabeh Saqer's Montaha Al Riqqa?",
+      "qB": "What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_129/gulf_music_v2_110",
+      "qA": "Who composed Rabeh Saqer's Khalas?",
+      "qB": "Who composed Rashed Al Majid's 2020 song Walhan?",
+      "answer": "Ahmed Al Harmi"
+    },
+    {
+      "pair": "saudi_music_v2_129/gulf_music_v2_111",
+      "qA": "Who composed Rabeh Saqer's Khalas?",
+      "qB": "Who composed Abdul Majeed Abdullah's Tetanfasak Dunyay?",
+      "answer": "Ahmed Al Harmi"
+    },
+    {
+      "pair": "saudi_music_v2_129/gulf_music_v2_124",
+      "qA": "Who composed Rabeh Saqer's Khalas?",
+      "qB": "Who composed Majid Al Mohandis's Tenadeek?",
+      "answer": "Ahmed Al Harmi"
+    },
+    {
+      "pair": "saudi_music_v2_130/gulf_music_v2_103",
+      "qA": "Who composed Rabeh Saqer's Tahamaltak?",
+      "qB": "Who composed Rabeh Saqer's 2022 song Wajed?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_130/gulf_music_v2_106",
+      "qA": "Who composed Rabeh Saqer's Tahamaltak?",
+      "qB": "What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_131/gulf_music_v2_103",
+      "qA": "Who composed Rabeh Saqer's Min Kobraha?",
+      "qB": "Who composed Rabeh Saqer's 2022 song Wajed?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_131/gulf_music_v2_106",
+      "qA": "Who composed Rabeh Saqer's Min Kobraha?",
+      "qB": "What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?",
+      "answer": "Sahm"
+    },
+    {
+      "pair": "saudi_music_v2_138/gulf_music_v2_192",
+      "qA": "Who wrote the words of Rashed Al Majid's Azeem Ehsasi?",
+      "qB": "Who wrote the lyrics of Abdul Majeed Abdullah's Tetanfasak Dunyay?",
+      "answer": "Anwar Al Mushairi"
+    },
+    {
+      "pair": "saudi_music_v2_138/gulf_music_v2_204",
+      "qA": "Who wrote the words of Rashed Al Majid's Azeem Ehsasi?",
+      "qB": "Who wrote the lyrics of Fouad Abdulwahed's Qalbi El Sagheer?",
+      "answer": "Anwar Al Mushairi"
+    },
+    {
+      "pair": "saudi_music_v2_142/gulf_music_v2_114",
+      "qA": "Who arranged Rabeh Saqer's Enta Malek according to the Music Commission's published score?",
+      "qB": "Who arranged Rabeh Saqer and Nawal's duet Kel Ma Fel Amr?",
+      "answer": "Hisham Al Sakran"
+    },
+    {
+      "pair": "saudi_music_v2_143/gulf_music_v2_193",
+      "qA": "Which prince and poet wrote Abadi Al Johar's Dukhoon?",
+      "qB": "Who wrote the lyrics of Mohammed Abdu's Mozhela?",
+      "answer": "Prince Abdulrahman bin Musaed"
+    },
+    {
+      "pair": "saudi_music_v2_143/gulf_music_v2_196",
+      "qA": "Which prince and poet wrote Abadi Al Johar's Dukhoon?",
+      "qB": "Who wrote the lyrics of Abadi Al Johar's Qaloo Tara?",
+      "answer": "Prince Abdulrahman bin Musaed"
+    },
+    {
+      "pair": "saudi_music_v2_150/gulf_music_v2_104",
+      "qA": "Who composed Aseel Abu Bakr's Ya Wesa Sadri?",
+      "qB": "Who composed Rashed Al Majid's Methel Qalbk?",
+      "answer": "Nawaf Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_159/gulf_music_v2_166",
+      "qA": "Which prince and poet wrote Talal Maddah's Aghrab?",
+      "qB": "Who wrote the lyrics of Talal Maddah's Maqadir?",
+      "answer": "Prince Mohammed Al Abdullah Al Faisal"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_153",
+      "qA": "Who wrote the lyrics of Rabeh Saqer's Montaha Al Riqqa?",
+      "qB": "Who wrote the lyrics of Mohammed Abdu's Al Amaken?",
+      "answer": "Mansour Al Shadi"
+    },
+    {
+      "pair": "saudi_music_v2_161/gulf_music_v2_155",
+      "qA": "Who wrote the lyrics of Rabeh Saqer's Montaha Al Riqqa?",
+      "qB": "Who wrote the lyrics of Rabeh Saqer's Sedqni?",
+      "answer": "Mansour Al Shadi"
+    },
+    {
+      "pair": "saudi_music_v2_181/gulf_music_v2_153",
+      "qA": "Who wrote the words of Rabeh Saqer's Tahamaltak?",
+      "qB": "Who wrote the lyrics of Mohammed Abdu's Al Amaken?",
+      "answer": "Mansour Al Shadi"
+    },
+    {
+      "pair": "saudi_music_v2_181/gulf_music_v2_155",
+      "qA": "Who wrote the words of Rabeh Saqer's Tahamaltak?",
+      "qB": "Who wrote the lyrics of Rabeh Saqer's Sedqni?",
+      "answer": "Mansour Al Shadi"
+    },
+    {
+      "pair": "saudi_music_v2_182/gulf_music_v2_192",
+      "qA": "Who wrote Dalia Mubarak's Etjammal Lenafsi?",
+      "qB": "Who wrote the lyrics of Abdul Majeed Abdullah's Tetanfasak Dunyay?",
+      "answer": "Anwar Al Mushairi"
+    },
+    {
+      "pair": "saudi_music_v2_182/gulf_music_v2_204",
+      "qA": "Who wrote Dalia Mubarak's Etjammal Lenafsi?",
+      "qB": "Who wrote the lyrics of Fouad Abdulwahed's Qalbi El Sagheer?",
+      "answer": "Anwar Al Mushairi"
+    },
+    {
+      "pair": "saudi_music_v2_200/gulf_music_v2_114",
+      "qA": "Who arranged Sultan Al Murshed's Fezt Bek?",
+      "qB": "Who arranged Rabeh Saqer and Nawal's duet Kel Ma Fel Amr?",
+      "answer": "Hisham Al Sakran"
+    },
+    {
+      "pair": "saudi_music_v2_201/gulf_music_v2_119",
+      "qA": "Who arranged Rabeh Saqer's Seqa Allah?",
+      "qB": "Who arranged Salah Al Zadjali's 2018 song Ya Rahleen?",
+      "answer": "Cyrus"
+    },
+    {
+      "pair": "saudi_music_v2_006/kuwaiti_music_v2_056",
+      "qA": "Which Saudi singer performs the Luxury release Rdy?",
+      "qB": "Who sang Alam Al Oshaq with Khaled Al Mudhaffar?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_018/kuwaiti_music_v2_056",
+      "qA": "Who sings Lammah on Luxury's 2024 release?",
+      "qB": "Who sang Alam Al Oshaq with Khaled Al Mudhaffar?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_053/kuwaiti_music_v2_056",
+      "qA": "Which Saudi singer performs the 2016 release Faman Allah?",
+      "qB": "Who sang Alam Al Oshaq with Khaled Al Mudhaffar?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_059/kuwaiti_music_v2_056",
+      "qA": "Which Saudi singer performs Saqi Al Atash?",
+      "qB": "Who sang Alam Al Oshaq with Khaled Al Mudhaffar?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_060/kuwaiti_music_v2_056",
+      "qA": "Which Saudi singer performs Estrahet Mohareb?",
+      "qB": "Who sang Alam Al Oshaq with Khaled Al Mudhaffar?",
+      "answer": "Ayed"
+    },
+    {
+      "pair": "saudi_music_v2_089/kuwaiti_music_v2_108",
+      "qA": "Who composed Mohammed Abdu's Bent El Nour?",
+      "qB": "Who composed Abdullah Al Rowaished's Ma Qelt Lak?",
+      "answer": "Nasser Al Saleh"
+    },
+    {
+      "pair": "saudi_music_v2_092/kuwaiti_music_v2_151",
+      "qA": "Who composed Talal Maddah's Al Mawed Al Thani?",
+      "qB": "Who composed Mustafa Ahmed's Sara Layli?",
+      "answer": "Siraj Omar"
+    },
+    {
+      "pair": "saudi_music_v2_100/kuwaiti_music_v2_044",
+      "qA": "Which musical instrument did Toha receive from her father, describing it as Yemeni?",
+      "qB": "Which string instrument was Youssef Al Mutrif known for playing alongside his singing?",
+      "answer": "Oud"
+    },
+    {
+      "pair": "saudi_music_v2_106/kuwaiti_music_v2_121",
+      "qA": "Who composed Rashed Al Majid's Allamtni?",
+      "qB": "Who composed Abdul Karim Abdul Qader's Ana Raddait?",
+      "answer": "Abdul Rab Idris"
+    },
+    {
+      "pair": "saudi_music_v2_114/kuwaiti_music_v2_028",
+      "qA": "Who composed Ayed's Saqi Al Atash?",
+      "qB": "Who sang and composed the romantic song Mafi Ahad?",
+      "answer": "Hamad Al Qattan"
+    },
+    {
+      "pair": "saudi_music_v2_114/kuwaiti_music_v2_054",
+      "qA": "Who composed Ayed's Saqi Al Atash?",
+      "qB": "Which Kuwaiti singer performed Wen Wen in a 2017 music video?",
+      "answer": "Hamad Al Qattan"
+    },
+    {
+      "pair": "saudi_music_v2_126/kuwaiti_music_v2_151",
+      "qA": "Who composed Talal Maddah's Aghrab?",
+      "qB": "Who composed Mustafa Ahmed's Sara Layli?",
+      "answer": "Siraj Omar"
+    },
+    {
+      "pair": "saudi_music_v2_132/kuwaiti_music_v2_123",
+      "qA": "Who composed Majid Al Mohandis's Akh Qalbi?",
+      "qB": "Who composed Shams's Zahqana Mellait?",
+      "answer": "Ali Saber"
+    },
+    {
+      "pair": "saudi_music_v2_150/kuwaiti_music_v2_076",
+      "qA": "Who composed Aseel Abu Bakr's Ya Wesa Sadri?",
+      "qB": "Who composed Nabeel Shuail's Ya Assal?",
+      "answer": "Nawaf Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_150/kuwaiti_music_v2_102",
+      "qA": "Who composed Aseel Abu Bakr's Ya Wesa Sadri?",
+      "qB": "Who composed Mesaed Al Baloushy's Mistajela?",
+      "answer": "Nawaf Abdullah"
+    },
+    {
+      "pair": "saudi_music_v2_151/kuwaiti_music_v2_145",
+      "qA": "Who wrote the lyrics of Aseel Abu Bakr's Ya Sabr?",
+      "qB": "Who wrote the lyrics of Nabeel Shuail's Ya Assal?",
+      "answer": "Ahmed Alawi"
+    },
+    {
+      "pair": "saudi_music_v2_152/kuwaiti_music_v2_078",
+      "qA": "To which city was Tariq Abdulhakim sent in 1952 to study military-band music?",
+      "qB": "In which city did Mustafa Ahmed record Wayed Wayed in 1965?",
+      "answer": "Cairo"
+    }
+  ]
+}

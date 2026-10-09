@@ -1,0 +1,71 @@
+id|factKey|topic|source|questionAr|questionEn|answerAr|answerEn
+001|uae:world-cup:debut-year|national|wcStory|في أي عام شارك منتخب الإمارات للمرة الأولى في نهائيات كأس العالم؟|In which year did the UAE make their World Cup finals debut?|1990|1990
+002|uae:team:nickname|national|mabkhoutProfile|ما اللقب الشائع لمنتخب الإمارات لكرة القدم المرتبط بلون قميصه؟|What is the UAE football team's familiar nickname, linked to their shirt colour?|الأبيض|The Whites
+003|uae:gulf-cup:first-title-year|gulf|gulf2013|في أي عام أحرز منتخب الإمارات أول لقب له في كأس الخليج؟|In which year did the UAE win their first Gulf Cup title?|2007|2007
+004|uae:gulf-cup:second-title-year|gulf|gulf2013|متى حقق منتخب الإمارات لقبه الثاني في كأس الخليج؟|When did the UAE win their second Gulf Cup title?|2013|2013
+005|gulf:2007:final-winning-scorer|gulf|matarFifa|من سجل هدف فوز الإمارات في نهائي خليجي 18 أمام عُمان؟|Who scored the UAE's winning goal against Oman in the Gulf Cup 18 final?|إسماعيل مطر|Ismail Matar
+006|u20:2003:golden-ball|youth|matarFifa|من اللاعب الإماراتي الفائز بالكرة الذهبية في مونديال الشباب 2003؟|Which Emirati won the Golden Ball at the 2003 World Youth Championship?|إسماعيل مطر|Ismail Matar
+007|asian-cup:2015:top-scorer|players|mabkhoutProfile|من اللاعب الإماراتي الذي تصدر هدافي كأس آسيا 2015؟|Which Emirati finished as the top scorer at the 2015 Asian Cup?|علي مبخوت|Ali Mabkhout
+008|afc-awards:2015:player|players|khalilAward|من فاز بجائزة أفضل لاعب في آسيا عام 2015؟|Who won the AFC Player of the Year award in 2015?|أحمد خليل|Ahmed Khalil
+009|afc-awards:2016:player|players|omarAward|من اللاعب الإماراتي الفائز بجائزة أفضل لاعب في آسيا لعام 2016؟|Which Emirati won the 2016 AFC Player of the Year award?|عمر عبدالرحمن|Omar Abdulrahman
+010|talyani:career:club|players|talyaniIcon|مع أي نادٍ أمضى عدنان الطلياني مسيرته الكروية؟|At which club did Adnan Al Talyani spend his playing career?|الشعب|Al Shaab
+011|acl:2023-24:champion|asia|acl2024|أي نادٍ إماراتي فاز بدوري أبطال آسيا 2023-2024؟|Which UAE club won the 2023-24 AFC Champions League?|العين|Al Ain
+012|acl:2023-24:mvp|players|rahimiAwards|من نجم العين الفائز بجائزة أفضل لاعب في دوري أبطال آسيا 2023-2024؟|Which Al Ain star won the 2023-24 AFC Champions League MVP award?|سفيان رحيمي|Soufiane Rahimi
+013|acl-two:2024-25:champion|asia|sharjahFinal|أي نادٍ إماراتي أحرز لقب دوري أبطال آسيا 2 موسم 2024-2025؟|Which UAE club won the 2024-25 AFC Champions League Two title?|الشارقة|Sharjah
+014|asian-cup:2015:uae-finish|national|asian2015Review|في أي مركز أنهت الإمارات كأس آسيا 2015؟|Where did the UAE finish at the 2015 Asian Cup?|المركز الثالث|Third place
+015|asian-cup:1996:final-opponent|national|asian1996Honour|من واجه منتخب الإمارات في نهائي كأس آسيا 1996؟|Who faced the UAE in the 1996 Asian Cup final?|السعودية|Saudi Arabia
+016|olympics:uae:debut-edition|youth|olympicDraw|في أي دورة أولمبية ظهر منتخب الإمارات لكرة القدم للمرة الأولى؟|At which Olympic Games did the UAE football team make their debut?|لندن 2012|London 2012
+017|u19:uae:title-year|youth|youthFinal|في أي عام توج منتخب الإمارات بكأس آسيا تحت 19 سنة؟|In which year did the UAE win the AFC U-19 Championship?|2008|2008
+018|asian-games:2010:uae-medal|youth|awana|ما الميدالية التي أحرزها منتخب الإمارات لكرة القدم في الألعاب الآسيوية 2010؟|Which medal did the UAE football team win at the 2010 Asian Games?|الفضية|Silver
+019|mabkhout:2015:club|players|mabkhoutProfile|مع أي نادٍ كان علي مبخوت يلعب عندما توج هدافاً لكأس آسيا 2015؟|Which club did Ali Mabkhout play for when he topped the 2015 Asian Cup scoring chart?|الجزيرة|Al Jazira
+020|al-nasr:home:stadium|clubs|nasrClub|ما اسم ملعب نادي النصر في دبي؟|What is the name of Al Nasr's stadium in Dubai?|استاد آل مكتوم|Al Maktoum Stadium
+021|al-wasl:home:stadium|clubs|waslClub|ما اسم الملعب الذي يستضيف مباريات الوصل على أرضه؟|What is Al Wasl's home stadium called?|استاد زعبيل|Zabeel Stadium
+022|al-wahda:home:stadium|clubs|wahdaClub|ما الملعب المعروف بأنه مقر مباريات الوحدة في أبوظبي؟|Which stadium is Al Wahda's home in Abu Dhabi?|استاد آل نهيان|Al Nahyan Stadium
+023|al-jazira:home:stadium|clubs|jaziraClub|ما اسم ملعب نادي الجزيرة؟|What is Al Jazira's home stadium called?|استاد محمد بن زايد|Mohammed bin Zayed Stadium
+024|shabab-al-ahli:home:stadium|clubs|shababProgramme|ما ملعب شباب الأهلي المدرج في دليل دوري أبطال آسيا 2020؟|Which stadium is listed for Shabab Al Ahli in the 2020 AFC Champions League guide?|استاد راشد|Rashid Stadium
+025|ajman:home:stadium|clubs|ajmanClub|ما اسم ملعب نادي عجمان؟|What is Ajman's home stadium called?|استاد راشد بن سعيد|Rashid bin Saeed Stadium
+026|al-dhafra:home:stadium|clubs|dhafraClub|على أي ملعب يخوض نادي الظفرة مبارياته البيتية؟|Which stadium is Al Dhafra's home ground?|استاد حمدان بن زايد|Hamdan bin Zayed Stadium
+027|khorfakkan:home:stadium|clubs|khorClub|ما اسم ملعب نادي خورفكان؟|What is Khorfakkan's home stadium called?|استاد صقر بن محمد القاسمي|Saqr bin Mohammed Al Qassimi Stadium
+028|bur-dubai-derby:clubs|clubs|derby|ما الناديان اللذان يتواجهان في ديربي بر دبي؟|Which two clubs contest the Bur Dubai derby?|النصر والوصل|Al Nasr and Al Wasl
+029|al-wasl:kit:primary-colour|clubs|waslHistory|ما اللون الأساسي المعروف لقميص الوصل؟|What is Al Wasl's traditional primary shirt colour?|الأصفر|Yellow
+030|al-nasr:kit:primary-colour|clubs|nasrHistoryLeague|ما اللون الأساسي المعروف لقميص النصر الإماراتي؟|What is UAE club Al Nasr's traditional primary shirt colour?|الأزرق|Blue
+031|bani-yas:nickname|clubs|baniAfc|أي نادٍ إماراتي يُعرف بلقب «السماوي»؟|Which UAE club is nicknamed the Sky Blues?|بني ياس|Bani Yas
+032|sharjah:nickname|clubs|sharjahCup2022|أي نادٍ إماراتي يُعرف بلقب «الملك»؟|Which UAE club is nicknamed the King?|الشارقة|Sharjah
+033|al-wasl:nickname|clubs|wasl2024|أي نادٍ يُلقب بـ«الإمبراطور» في كرة القدم الإماراتية؟|Which UAE football club is nicknamed the Emperor?|الوصل|Al Wasl
+034|maradona:uae-coaching:wasl|coaches|metsuWasl|أي نادٍ إماراتي دربه دييغو مارادونا قبل أن يخلفه برونو ميتسو؟|Which UAE club did Diego Maradona coach before Bruno Metsu succeeded him?|الوصل|Al Wasl
+035|iniesta:2023:destination|players|iniesta|إلى أي نادٍ إماراتي انضم أندريس إنييستا في 2023؟|Which UAE club did Andres Iniesta join in 2023?|الإمارات|Emirates FC
+036|weah:uae:club|players|jaziraHistory|أي نادٍ إماراتي لعب له جورج ويا؟|Which UAE club did George Weah play for?|الجزيرة|Al Jazira
+037|gyan:nationality|players|gyanAward|أي منتخب كان يمثله أسامواه جيان، هداف العين السابق؟|Which national team did former Al Ain striker Asamoah Gyan represent?|غانا|Ghana
+038|trezeguet:uae:club|players|baniAfc|أي نادٍ إماراتي استقدم المهاجم الفرنسي دافيد تريزيغيه في 2011؟|Which UAE club signed French striker David Trezeguet in 2011?|بني ياس|Bani Yas
+039|pro-league:2023-24:champion|domestic|wasl2024|من بطل الدوري الإماراتي موسم 2023-2024؟|Who won the UAE league in 2023-24?|الوصل|Al Wasl
+040|pro-league:2024-25:champion|domestic|proChampions|أي نادٍ توج بدوري المحترفين الإماراتي موسم 2024-2025؟|Which club won the UAE Pro League in 2024-25?|شباب الأهلي|Shabab Al Ahli
+041|pro-league:2018-19:champion|domestic|proChampions|أي نادٍ فاز بالدوري الإماراتي موسم 2018-2019؟|Which club won the league shield in the 2018-19 UAE Pro League season?|الشارقة|Sharjah
+042|pro-league:2008-09:champion|domestic|proChampions|ما اسم النادي وقت فوزه بأول دوري إماراتي في عصر الاحتراف موسم 2008-2009؟|What was the club called when it won the first professional-era UAE league in 2008-09?|الأهلي، المعروف اليوم بشباب الأهلي|Al Ahli, now known as Shabab Al Ahli
+043|pro-league:2025-26:champion|domestic|ainGolden|من فاز بدوري المحترفين الإماراتي موسم 2025-2026؟|Who won the UAE Pro League in 2025-26?|العين|Al Ain
+044|pro-league:2025-26:top-scorer|players|ainGolden|من تصدر هدافي الدوري الإماراتي موسم 2025-2026؟|Who topped the UAE league scoring chart in 2025-26?|لابا كودجو|Laba Kodjo
+045|presidents-cup:2021-22:champion|domestic|sharjahCup2022|أي نادٍ فاز بكأس رئيس الدولة موسم 2021-2022 بهدف باكو ألكاسير في النهائي؟|Which club won the 2021-22 President's Cup through Paco Alcacer's goal in the final?|الشارقة|Sharjah
+046|league-cup:2024:champion|domestic|cupHonours|أي نادٍ أحرز كأس مصرف أبوظبي الإسلامي عام 2024؟|Which club won the ADIB Cup in 2024?|الوحدة|Al Wahda
+047|league-cup:2013:champion|domestic|cupHonours|من فاز بكأس الرابطة الإماراتية عام 2013؟|Who won the UAE League Cup in 2013?|عجمان|Ajman
+048|league-cup:2025:champion|domestic|cupHonours|من توج بكأس مصرف أبوظبي الإسلامي عام 2025؟|Who won the ADIB Cup in 2025?|الجزيرة|Al Jazira
+049|world-cup:1990:uae-first-scorer|national|firstWcScorer|من سجل أول هدف للإمارات في نهائيات كأس العالم؟|Who scored the UAE's first goal at a World Cup finals?|خالد إسماعيل|Khalid Ismail
+050|gulf:2007:final-opponent|gulf|matarFifa|أي منتخب واجه الإمارات في نهائي كأس الخليج 2007؟|Which team faced the UAE in the 2007 Gulf Cup final?|عُمان|Oman
+051|gulf:2013:final-opponent|gulf|gulf2013|من واجه منتخب الإمارات في نهائي كأس الخليج 2013؟|Who faced the UAE in the 2013 Gulf Cup final?|العراق|Iraq
+052|gulf:2013:final-winning-scorer|gulf|gulf2013|من سجل هدف فوز الإمارات في الوقت الإضافي بنهائي كأس الخليج 2013؟|Who scored the UAE's extra-time winner in the 2013 Gulf Cup final?|إسماعيل الحمادي|Ismail Al Hammadi
+053|uae:2013:head-coach|coaches|gulf2013|من قاد منتخب الإمارات كمدرب إلى لقب كأس الخليج 2013؟|Which head coach led the UAE to the 2013 Gulf Cup title?|مهدي علي|Mahdi Ali
+054|u20:2009:host|youth|khalilQuarterly|في أي دولة خاض شباب الإمارات مونديال تحت 20 سنة عام 2009؟|In which country did the UAE play at the 2009 U-20 World Cup?|مصر|Egypt
+055|club-world-cup:2018:uae-finalist|asia|ainCwcFinal|أي نادٍ إماراتي بلغ نهائي كأس العالم للأندية 2018؟|Which UAE club reached the 2018 Club World Cup final?|العين|Al Ain
+056|club-world-cup:2017:uae-participant|asia|jaziraHistory|أي نادٍ إماراتي احتل المركز الرابع في كأس العالم للأندية 2017؟|Which UAE club finished fourth at the 2017 Club World Cup?|الجزيرة|Al Jazira
+057|acl:2015:uae-finalist|asia|ahliFinal|ما اسم الفريق الإماراتي وقت وصوله إلى نهائي دوري أبطال آسيا 2015؟|What was the UAE club called when it reached the 2015 AFC Champions League final?|الأهلي|Al Ahli
+058|acl:2003:inaugural-winner|asia|acl2003|من النادي الإماراتي بطل النسخة الأولى من دوري أبطال آسيا عام 2003؟|Which UAE club won the inaugural AFC Champions League in 2003?|العين|Al Ain
+059|u19:2008:final-uae-scorer|youth|youthFinal|من سجل هدفي الإمارات في نهائي كأس آسيا تحت 19 سنة عام 2008؟|Who scored both UAE goals in the 2008 AFC U-19 Championship final?|أحمد خليل|Ahmed Khalil
+060|asian-cup:2019:uae-quarter-final-opponent|national|uaeAustralia2019|أي منتخب حامل للقب أقصته الإمارات في ربع نهائي كأس آسيا 2019؟|Which defending champion did the UAE eliminate in the 2019 Asian Cup quarter-finals?|أستراليا|Australia
+061|olympics:2012:uae-first-scorer|youth|uaeUruguay|من سجل أول هدف أولمبي لمنتخب الإمارات في لندن 2012؟|Who scored the UAE's first Olympic football goal at London 2012?|إسماعيل مطر|Ismail Matar
+062|asian-cup:2015:uae-quarter-final-opponent|national|uaeJapan2015|أي منتخب حامل للقب هزمته الإمارات بركلات الترجيح في ربع نهائي كأس آسيا 2015؟|Which defending champion did the UAE beat on penalties in the 2015 Asian Cup quarter-finals?|اليابان|Japan
+063|al-jazira:location:city|clubs|jaziraHistory|في أي مدينة يقع نادي الجزيرة الإماراتي؟|In which city is UAE club Al Jazira based?|أبوظبي|Abu Dhabi
+064|al-nasr:foundation:year|clubs|nasrHistory|في أي عام تأسس نادي النصر الإماراتي؟|In which year was UAE club Al Nasr founded?|1945|1945
+065|al-wasl:location:city|clubs|waslClub|في أي مدينة يقع نادي الوصل؟|In which city is Al Wasl based?|دبي|Dubai
+066|bani-yas:location:emirate|clubs|baniHistory|إلى أي إمارة ينتمي نادي بني ياس؟|In which emirate is Bani Yas based?|أبوظبي|Abu Dhabi
+067|kalba:home:stadium|clubs|kalbaClub|ما اسم الملعب الذي يلعب عليه نادي كلباء مبارياته البيتية؟|What is Kalba's home stadium called?|استاد كلباء|Kalba Stadium
+068|presidents-cup:2025-26:champion|domestic|president2026|أي نادٍ أكمل ثنائية الدوري وكأس رئيس الدولة في موسم 2025-2026؟|Which club completed the league and President's Cup double in 2025-26?|العين|Al Ain
+
+

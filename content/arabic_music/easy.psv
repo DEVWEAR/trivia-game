@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|song:nassamalayna:singer|nassam|من المطربة اللبنانية صاحبة أغنية «نسم علينا الهوى»؟|Which Lebanese singer performs Nassam Alayna El Hawa?|فيروز|Fairuz
+002|song:saalounyelnas:singer|saalouny|من المطربة اللبنانية صاحبة أغنية «سألوني الناس»؟|Which Lebanese singer performs Saalouny El Nas?|فيروز|Fairuz
+003|song:ghabetshamselhaq:singer|ghabet|من المطربة اللبنانية صاحبة أغنية «غابت شمس الحق»؟|Which Lebanese singer performs Ghabet Shams El Haq?|جوليا بطرس|Julia Boutros
+004|song:shouhelou:singer|shouhelou|من المطرب اللبناني الذي غنّى «شو حلو» في فيلم «بالغلط»؟|Which Lebanese singer performed Shou Helou in the film Bel Ghalat?|زياد برجي|Ziad Bourji
+005|song:aabalihabibi:singer|aabali|من المطربة اللبنانية صاحبة أغنية «ع بالي حبيبي»؟|Which Lebanese singer performs Aa Bali Habibi?|إليسا|Elissa
+006|song:intaeih:singer|intaeih|من المطربة اللبنانية صاحبة أغنية «إنت إيه» في تسجيلها الشهير؟|Which Lebanese singer performs the famous recording of Inta Eih?|نانسي عجرم|Nancy Ajram
+007|song:nasinieldonya:singer|nasini|من المطرب اللبناني صاحب أغنية «نسيني الدنيا»؟|Which Lebanese singer performs Nasini El Donya?|راغب علامة|Ragheb Alama
+008|song:youmwarayoum:duo|youmwara|من الثنائي الذي غنّى دويتو «يوم ورا يوم» الأصلي؟|Which duo performed the original Youm Wara Youm duet?|سميرة سعيد والشاب مامي|Samira Said and Cheb Mami
+009|song:sidimansour:singer|sidi|من المطرب التونسي الذي اشتهر بنسخته من أغنية «سيدي منصور» عام 2000؟|Which Tunisian singer became known for his 2000 version of Sidi Mansour?|صابر الرباعي|Saber Rebai
+010|song:lm3allem:singer|lm3allem|من المطرب المغربي صاحب كليب «لمعلم» الشهير؟|Which Moroccan singer released the famous Lm3allem music video?|سعد لمجرد|Saad Lamjarred
+011|song:kalimat:singer|kalimat|من المطربة اللبنانية التي اشتهرت بغناء قصيدة «كلمات»؟|Which Lebanese singer is famous for performing the poem Kalimat?|ماجدة الرومي|Majida El Roumi
+012|artist:anouarbrahem:instrument|bluemaqams|ما الآلة الأساسية التي يعزف عليها الموسيقي التونسي أنور براهم؟|What is Tunisian musician Anouar Brahem's principal instrument?|العود|Oud
+013|song:waedmenni:singer|waed|من المطربة العراقية صاحبة أغنية «وعد مني»؟|Which Iraqi singer performs Waed Menni?|رحمة رياض|Rahma Riad
+014|song:michamtezbat:singer|mich|من المطرب السوري صاحب أغنية «مش عم تظبط معي»؟|Which Syrian singer performs Mich Aam Tezbat Maii?|ناصيف زيتون|Nassif Zeytoun
+015|song:dalliedhaki:singer|dalli|من المطرب اللبناني صاحب أغنية «ضلي اضحكي»؟|Which Lebanese singer performs Dalli Edhaki?|ملحم زين|Melhem Zein
+016|song:madareet:singer|saifnews|من المطرب العراقي الذي أطلق كليب «ما دريت» من ألحانه؟|Which Iraqi singer released Ma Dareet with music he composed himself?|سيف نبيل|Saif Nabeel
+017|song:kalamelnas:singer|kalam|من المطرب السوري صاحب أغنية «كلام الناس»؟|Which Syrian singer performs Kalam El Nas?|جورج وسوف|George Wassouf
+018|song:saharni:singer|saharni|من المطربة اللبنانية صاحبة أغنية وألبوم «سحرني»؟|Which Lebanese singer released the song and album Saharni?|نجوى كرم|Najwa Karam
+019|song:twassafeyi:singer|twassa|من المطربة اللبنانية صاحبة أغنية «توصى فيي»؟|Which Lebanese singer performs Twassa Feyi?|يارا|Yara
+020|song:anawaleila:singer|analeila|من المطرب العراقي صاحب أغنية «أنا وليلى»؟|Which Iraqi singer performs Ana Wa Leila?|كاظم الساهر|Kadim Al Sahir
+021|song:aaljanibaadyoumein:singer|samiraretro|من صاحبة الأغنية الكلاسيكية «قال جاني بعد يومين»؟|Who sings the classic song Aal Gani Baad Youmein?|سميرة سعيد|Samira Said
+022|album:raoui:artist|souaddisc|من المطربة الجزائرية صاحبة ألبوم «راوي» الصادر عام 2001؟|Which Algerian singer released the album Raoui in 2001?|سعاد ماسي|Souad Massi
+023|song:kelmtihorra:singer|kelmtihorra|من المطربة التونسية التي اشتهرت بأغنية «كلمتي حرة»؟|Which Tunisian singer is known for Kelmti Horra?|آمال المثلوثي|Emel Mathlouthi
+024|song:yabaniummi:singer|zakiaub|من المطربة اللبنانية التي غنّت «يا بني أمي» من ألحان زكي ناصيف؟|Which Lebanese singer performed Ya Bani Ummi, composed by Zaki Nassif?|فيروز|Fairuz
+025|song:balamanhess:singer|bala|من المطربة اللبنانية صاحبة أغنية «بلا ما نحس»؟|Which Lebanese singer performs Bala Ma Nhess?|عبير نعمة|Abeer Nehme
+026|song:labidayiwalanihayi:singer|labidayi|من المطربة اللبنانية صاحبة «لا بداية ولا نهاية» في تسجيلها بحفل بعلبك عام 2025؟|Which Lebanese singer performs La Bidayi Wala Nihayi in the 2025 Baalbeck concert recording?|هبة طوجي|Hiba Tawaji
+027|song:ayshalak:singer|ayshalak|من المطربة اللبنانية صاحبة أغنية «عيشالك»؟|Which Lebanese singer performs Ayshalak?|إليسا|Elissa
+028|song:kelelqasayed:singer|qasayed|من المطرب اللبناني صاحب أغنية «كل القصايد»؟|Which Lebanese singer performs Kel El Qasayed?|مروان خوري|Marwan Khoury
+029|song:kheleseldamaa:singer|kheles|من المطرب اللبناني صاحب أغنية «خلص الدمع»؟|Which Lebanese singer performs Kheles El Dame'a?|آدم|Adam
+030|song:omrikellou:singer|omri|من المطرب اللبناني صاحب أغنية «عمري كلو»؟|Which Lebanese singer performs Omri Kellou?|وائل كفوري|Wael Kfoury
+031|song:ellayali:singer|nawallayali|من المطربة صاحبة أغنية «الليالي»؟|Which singer performs El Layali?|نوال الزغبي|Nawal El Zoghbi
+032|song:aatenielnay:singer|aateni|من المطربة اللبنانية صاحبة التسجيل الشهير لقصيدة «أعطني الناي وغنّ»؟|Which Lebanese singer made the famous recording of Aateny El Nay Wa Ghanni?|فيروز|Fairuz
+033|song:etazaltelgharam:singer|etazalt|من المطربة اللبنانية صاحبة أغنية «اعتزلت الغرام»؟|Which Lebanese singer performs Etazalt El Gharam?|ماجدة الرومي|Majida El Roumi
+034|song:majbour:singer|majbour|من المطرب الذي غنّى «مجبور» لمسلسل «الهيبة»؟|Which singer performed Majbour for the series Al Hayba?|ناصيف زيتون|Nassif Zeytoun
+035|song:mabzon:singer|mabzon|من المطرب السوري صاحب أغنية «ما بظن» الصادرة عام 2019؟|Which Syrian singer performs the 2019 song Ma Bzon?|ناصيف زيتون|Nassif Zeytoun
+036|song:alkawkab:singer|alkawkab|من المطربة العراقية صاحبة أغنية «الكوكب» الصادرة عام 2021؟|Which Iraqi singer performs the 2021 song Al Kawkab?|رحمة رياض|Rahma Riad
+037|heritage:gnawa:country|gnawa|بأي بلد عربي ترتبط موسيقى الغناوة؟|Which Arab country is associated with Gnawa music?|المغرب|Morocco
+038|heritage:rai:country|rai|من أي بلد عربي انطلقت موسيقى الراي؟|In which Arab country did Rai music originate?|الجزائر|Algeria
+039|band:nasselghiwane:country|nasshistory|من أي بلد عربي جاءت فرقة «ناس الغيوان»؟|Which Arab country is the band Nass El Ghiwane from?|المغرب|Morocco
+040|song:qulnamamomkin:singer|aminhistory|من المطرب السوداني صاحب أغنية «قلنا ما ممكن تسافر»؟|Which Sudanese singer performs Qulna Ma Momkin Tesafir?|محمد الأمين|Mohammed Al Amin
+041|artist:malouma:country|maloumabio|من أي بلد عربي جاءت المطربة معلومة بنت الميداح؟|Which Arab country is the singer Malouma Mint El Meidah from?|موريتانيا|Mauritania
+042|song:didi:singer|didi|من المطرب الجزائري صاحب أغنية «ديدي»؟|Which Algerian singer performs Didi?|الشاب خالد|Khaled
+043|song:yarayah:tahaperformer|yarayah|من المطرب الجزائري الذي اشتهرت نسخته من «يا الرايح» في ألبوم «ديوان»؟|Which Algerian singer released a famous version of Ya Rayah on the album Diwan?|رشيد طه|Rachid Taha
+044|song:avavainouva:singer|avava|من المطرب الجزائري صاحب أغنية «أفافا إينوفا»؟|Which Algerian singer performs A Vava Inouva?|إيدير|Idir
+045|song:ghirenta:singer|ghir|من المطربة الجزائرية صاحبة أغنية «غير إنت»؟|Which Algerian singer performs Ghir Enta?|سعاد ماسي|Souad Massi
+046|song:aicha:singer|aicha|من المطرب الجزائري صاحب أغنية «عائشة» في تسجيلها الشهير عام 1996؟|Which Algerian singer made the famous 1996 recording of Aicha?|الشاب خالد|Khaled
+047|song:hafla:singer|hafla|من المطربة صاحبة أغنية «حفلة»؟|Which female singer performs Hafla?|نوال الزغبي|Nawal El Zoghbi
+048|song:yelaan:singer|yelaan|من المطربة التي أصدرت «يلعن البعد» عام 2024؟|Which singer released Yelaan El Boed in 2024?|نجوى كرم|Najwa Karam
+049|song:estimara:singer|estimara|من صاحب أغنية «استمارة 6»؟|Who performs Estimara 6?|راغب علامة|Ragheb Alama
+050|song:sahsah:singer|sahsah|أي مطربة لبنانية شاركت مارشميلو في أغنية «صح صح»؟|Which Lebanese singer collaborated with Marshmello on Sah Sah?|نانسي عجرم|Nancy Ajram
+051|song:walafi:singer|walafi|من صاحب أغنية «ولا في الأحلام»؟|Who performs Wala Fi El Ahlam?|وائل جسار|Wael Jassar
+052|song:matgheebsh:singer|matgheebsh|من صاحب أغنية «ما تغيبش ثواني»؟|Who performs Ma Tgheebsh Sawani?|وائل جسار|Wael Jassar
+053|song:kon:singer|kon|من صاحب أغنية «كون»؟|Who performs Kon?|جوزيف عطية|Joseph Attieh
+054|song:baghdada:singer|baghdada|من صاحب أغنية «البغددة»؟|Who performs Al Baghdada?|جوزيف عطية|Joseph Attieh
+055|song:motallaqa:singer|motallaqa|من المطربة صاحبة أغنية «المطلقة»؟|Which female singer performs El Motallaqa?|كارول سماحة|Carole Samaha
+056|song:habibiduo:singer|habibiduo|من الثنائي الذي غنّى «حبيبي» في إصدار عام 2021؟|Which duo performed the 2021 release of Habibi?|عاصي الحلاني والوليد الحلاني|Assi El Hallani and Al Walid El Hallani
+057|song:maswloli:singer|maswloli|من الثنائي الذي قدّم أغنية «ماس ولولي»؟|Which duo performed Mas Wloli?|ديانا حداد والشاب خالد|Diana Haddad and Khaled
+058|song:saken:singer|saken|من المطربة صاحبة أغنية «ساكن»؟|Which singer performs Saken?|ديانا حداد|Diana Haddad
+059|song:wanimarek:singer|wanimarek|من غنّى «وآني مارق مريت»؟|Who sings Wani Marek Marreyt?|عاصي الحلاني|Assi El Hallani
+060|song:yaleilyalein:singer|shami|من المطرب السوري صاحب أغنية «يا ليل ويا العين»؟|Which Syrian singer performs Ya Leil W Yal Ein?|الشامي|Al Shami
+061|song:aashanak:singer|siilawy|من المطرب صاحب أغنية «عشانك»؟|Which singer performs Aashanak?|سيلاوي|Siilawy
+062|song:wbtir:singer|wbtir|من غنّى «وبطير»؟|Who sings W Btir?|زياد برجي|Ziad Bourji
+063|song:howehelhob:singer|howeh|من غنّى «هو الحب»؟|Who sings Howeh El Hob?|أدهم نابلسي|Adham Nabulsi
+064|artist:fairuz:nickname|fairuznickname|أي مطربة لبنانية تُعرف بلقب «سفيرتنا إلى النجوم»؟|Which Lebanese singer is known as Our Ambassador to the Stars?|فيروز|Fairuz
+065|artist:dhaferyoussef:country|dhaferbio|من أي بلد عربي ينتمي الموسيقي ظافر يوسف؟|Which Arab country is musician Dhafer Youssef from?|تونس|Tunisia
+066|song:cestlavie:singer|cestlavie|من المطرب الجزائري صاحب أغنية «سي لا في»؟|Which Algerian singer performs Cest La Vie?|الشاب خالد|Khaled
+067|song:issamhasni:tribute|issam|لأي مطرب راي جزائري قدّم الرابر عصام تحية في أغنيته «حسني»؟|Which Algerian rai singer does rapper ISSAM honor in Hasni?|الشاب حسني|Cheb Hasni
+068|song:tellementnbrick:singer|faudel|من مطرب الراي صاحب أغنية «تلمون نبريك»؟|Which rai singer performs Tellement Nbrick?|الشاب فضيل|Faudel

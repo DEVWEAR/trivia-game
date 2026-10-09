@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|song:kelmanasnas:singer|kelmanasnas|من صاحب أغنية «كل ما نسنس» في تسجيلها المعروف الذي لحّنه بنفسه؟|Who sings the well-known self-composed recording of Kel Ma Nasnas?|محمد عبده|Mohammed Abdu
+002|song:ikhtalafna:singer|ikhtalafna|من المطرب السعودي صاحب أغنية «اختلفنا»؟|Which Saudi singer performs Ikhtalafna?|محمد عبده|Mohammed Abdu
+003|song:roohitehebbek:singer|roohi|من المطرب السعودي صاحب أغنية «روحي تحبك»؟|Which Saudi singer performs Roohi Tehebbek?|عبدالمجيد عبدالله|Abdul Majeed Abdullah
+004|song:weshloonmaghleek:singer|weshloon|من صاحب أغنية «وشلون مغليك»؟|Who sings Weshloon Maghleek?|خالد عبدالرحمن|Khalid Abdulrahman
+005|song:azeemehsasi:singer|azeem|من يغني «عظيم إحساسي» في الإصدار الأصلي المنشور على قناته الرسمية؟|Who sings the original Azeem Ehsasi release on his official channel?|راشد الماجد|Rashed Al Majid
+006|song:rdy:singer|rdy|من المطرب السعودي صاحب أغنية «ردي» الصادرة لدى لاكشري؟|Which Saudi singer performs the Luxury release Rdy?|عايض|Ayed
+007|song:kathamumkin:singer|kathamumkin|من المطربة السعودية صاحبة أغنية «كذا ممكن»؟|Which Saudi female singer performs Katha Mumkin?|داليا مبارك|Dalia Mubarak
+008|song:entamalek:performercomposer|entamalek|من الفنان السعودي الذي غنّى ولحّن «إنت ملك»؟|Which Saudi artist both sang and composed Enta Malek?|رابح صقر|Rabeh Saqer
+009|song:dukhoon:singer|dukhoon|من صاحب أغنية «دخون» التي تحمل اسم أحد ألبوماته؟|Who sings Dukhoon, the title track of one of his albums?|عبادي الجوهر|Abadi Al Johar
+010|song:azzah:singer|azzah|من المطرب السعودي صاحب أغنية «عزاه»؟|Which Saudi singer performs Azzah?|راشد الفارس|Rashed Al Fares
+011|song:ytayeb:singer|ytayeb|من المطرب السعودي صاحب أغنية «يا طيب القلب»؟|Which Saudi singer performs Ya Tayeb Alqalb?|عبدالمجيد عبدالله|Abdul Majeed Abdullah
+012|song:sarheeni:singer|sarheeni|من صاحب أغنية «صارحيني» التي تحمل اسم أحد ألبوماته؟|Who sings Sarheeni, the title track of one of his albums?|خالد عبدالرحمن|Khalid Abdulrahman
+013|song:feztbek:singer|feztbek|من المطرب السعودي صاحب أغنية «فزت بك»؟|Which Saudi singer performs Fezt Bek?|سلطان المرشد|Sultan Al Murshed
+014|song:dehkatayami:singer|dehkat|من يغني «ضحكة أيامي» في إصدار لاكشري لعام 2022؟|Who sings Dehkat Ayami on Luxury's 2022 release?|سلطان المرشد|Sultan Al Murshed
+015|song:wardabaida:singer|wardabaida|من المطربة السعودية صاحبة أغنية «الوردة البيضا»؟|Which Saudi female singer performs Elwarda Elbaida?|زينة عماد|Zena Emad
+016|song:yawesasadri:singer|yawesa|من صاحب أغنية «يا وسع صدري» الصادرة لدى روتانا؟|Who sings Rotana's Ya Wesa Sadri?|أصيل أبو بكر|Aseel Abu Bakr
+017|song:yasabr:singer|yasabr|من المطرب السعودي صاحب أغنية «يا صبر» الصادرة لدى روتانا؟|Which Saudi singer performs Rotana's Ya Sabr?|أصيل أبو بكر|Aseel Abu Bakr
+018|song:lammah:singer|lammah|من صاحب أغنية «لماح» في إصدار لاكشري لعام 2024؟|Who sings Lammah on Luxury's 2024 release?|عايض|Ayed
+019|song:watanialhabib:performercomposer|talalbio|من الفنان الذي غنّى ولحّن الأغنية الوطنية السعودية «وطني الحبيب»؟|Who both sang and composed the Saudi patriotic song Watani Al Habib?|طلال مداح|Talal Maddah
+020|genre:yanbawi:namingcity|yanbawi|من أي مدينة سعودية ساحلية أخذ الفن الينبعاوي اسمه؟|Which Saudi coastal city gives Yanbawi music its name?|ينبع|Yanbu
+021|genre:majass:originregion|majass|بأي منطقة سعودية ارتبط أصل فن «المجس» الغنائي؟|Which Saudi region is the original home of Al Majass singing?|الحجاز|Hijaz
+022|awards:joy2024:favouritemale|abdmajbio|من فاز بجائزة الفنان المفضل عن فئة الموسيقى في «جوي أووردز» 2024؟|Who won the favourite male music artist award at Joy Awards 2024?|عبدالمجيد عبدالله|Abdul Majeed Abdullah
+023|song:aghrab:singer|aghrab|من المطرب السعودي صاحب أغنية «أغراب»؟|Which Saudi singer performs Aghrab?|طلال مداح|Talal Maddah
+024|song:lanaallah:singer|lanaallah|من صاحب الأغنية السعودية الكلاسيكية «لنا الله»؟|Who sings the Saudi classic Lana Allah?|محمد عبده|Mohammed Abdu
+025|song:entehel:singer|entehel|من المطرب السعودي صاحب أغنية «انتحل شخصيتك»؟|Which Saudi singer performs Entehel Shakhsetak?|عبدالمجيد عبدالله|Abdul Majeed Abdullah
+026|song:montaha:singer|montaha|من المطرب السعودي صاحب أغنية «منتهى الرقة»؟|Which Saudi singer performs Montaha Al Riqqa?|رابح صقر|Rabeh Saqer
+027|song:bentelnour:singer|bentelnour|من صاحب أغنية «بنت النور»؟|Who sings Bent El Nour?|محمد عبده|Mohammed Abdu
+028|song:anaalabyad:singer|anaalabyad|من المطرب السعودي صاحب أغنية «أنا الأبيض»؟|Which Saudi singer performs Ana Al Abyad?|راشد الماجد|Rashed Al Majid
+029|song:awalhekaya:singer|awalhekaya|من صاحب أغنية «أول حكايتنا» في ألبوم «عالم موازي»؟|Who sings Awal Hekayatna on Aalam Mowazi?|عبدالمجيد عبدالله|Abdul Majeed Abdullah
+030|song:mawedthani:singer|mawedthani|من المطرب السعودي صاحب أغنية «الموعد الثاني»؟|Which Saudi singer performs Al Mawed Al Thani?|طلال مداح|Talal Maddah
+031|song:insanakthar:singer|insanakthar|من صاحب أغنية وألبوم «إنسان أكثر»؟|Who is the artist behind the song and album Ensan Akthar?|عبدالمجيد عبدالله|Abdul Majeed Abdullah
+032|song:wahm:singer|wahm|من المطرب السعودي صاحب أغنية «وهم» التي لحّنها عمر كدرس؟|Which Saudi singer performs Wahm, composed by Omar Kedres?|محمد عبده|Mohammed Abdu
+033|song:hebrwarag:singer|hebrwarag|من صاحب أغنية «حبر وورق»؟|Who sings Hebr W Warag?|عبادي الجوهر|Abadi Al Johar
+034|song:nadet:singer|nadet|من المطرب السعودي صاحب أغنية «ناديت»؟|Which Saudi singer performs Nadet?|عباس إبراهيم|Abbas Ibrahim
+035|song:maazeem:singer|maazeem|من صاحب الأغنية السعودية «المعازيم»؟|Who sings the Saudi song Al Maazeem?|محمد عبده|Mohammed Abdu
+036|song:tahdooh:singer|tahdooh|من صاحب أغنية «تحدوه البشر»؟|Who sings Tahdooh Al Bashar?|راشد الماجد|Rashed Al Majid
+037|competition:saudiidol:firstwinner|hamsidol|من المطربة التي فازت بالموسم الأول من «سعودي آيدول»؟|Which female singer won the first season of Saudi Idol?|همس فكري|Hams Fikri
+038|song:janyasmar:singer|janyasmar|من المطربة السعودية صاحبة الأغنية الكلاسيكية «جاني الأسمر»؟|Which Saudi female singer performs the classic Jani Al Asmar?|عتاب|Etab
+039|song:radinak:singer|radinak|من المطرب السعودي صاحب أغنية «رضيناك»؟|Which Saudi singer performs Radinak?|طلال سلامة|Talal Salamah
+040|song:ahyaqalbi:singer|ahyaqalbi|من صاحب أغنية وألبوم «آه يا قلبي»؟|Who is the artist behind the song and album Ah Ya Qalbi?|راشد الماجد|Rashed Al Majid
+041|song:rasayel:singer|rasayel|من صاحب أغنية «الرسايل»؟|Who sings Al Rasayel?|محمد عبده|Mohammed Abdu
+042|song:sayedi:singer|sayedi|من المطرب السعودي صاحب أغنية «سيدي قم»؟|Which Saudi singer performs Sayedi Qum?|طلال مداح|Talal Maddah
+043|song:ahebbak:singer|ahebbak|من صاحب أغنية «أحبك لو تكون حاضر»؟|Who sings Ahebbak Law Tekoun Hader?|طلال مداح|Talal Maddah
+044|song:khalas:singer|khalas|من صاحب أغنية «خلاص» في إصدار روتانا الذي كتبه تركي المشيقح؟|Who sings Rotana's Khalas, written by Turki Al Musheiqih?|رابح صقر|Rabeh Saqer
+045|song:menathabi:singer|menathabi|من صاحب أغنية «من عذابي» في ألبوم «طال السكوت»؟|Who sings Men Athabi on the album Tal Al Sukoot?|عبادي الجوهر|Abadi Al Johar
+046|song:allamtni:singer|allamtni|من المطرب السعودي صاحب أغنية «علمتني»؟|Which Saudi singer performs Allamtni?|راشد الماجد|Rashed Al Majid
+047|song:tahamaltak:singer|tahamaltak|من المطرب السعودي صاحب أغنية «تحملتك»؟|Which Saudi singer performs Tahamaltak?|رابح صقر|Rabeh Saqer
+048|song:etjammal:singer|etjammal|من المطربة السعودية صاحبة أغنية «اتجمل لنفسي»؟|Which Saudi female singer performs Etjammal Lenafsi?|داليا مبارك|Dalia Mubarak
+049|song:hujja:singer|hujja|من المطرب السعودي صاحب أغنية «حجة الغايب»؟|Which Saudi singer performs Hujjat Al Ghayeb?|راشد الماجد|Rashed Al Majid
+050|song:mostageb:singer|mostageb|من المطرب السعودي الذي قدّم «يا مستجيب للداعي» ضمن برنامجه في قرطاج عام 2002؟|Which Saudi singer performed Ya Mostageb Lel Daay in his 2002 Carthage programme?|محمد عبده|Mohammed Abdu
+051|song:seqa:singer|seqa|من صاحب أغنية «سقى الله» في ألبوم «أوجه المعنى»؟|Who sings Seqa Allah on the album Awjeh Al Maana?|رابح صقر|Rabeh Saqer
+052|song:ikhtafat:singer|ikhtafat|من صاحب أغنية «اختفت» في ألبوم «أصدق ما كتبت»؟|Who sings Ikhtafat on the album Asdaq Ma Katabt?|عبادي الجوهر|Abadi Al Johar
+053|song:faman:singer|faman|من المطرب السعودي صاحب أغنية «فمان الله» الصادرة عام 2016؟|Which Saudi singer performs the 2016 release Faman Allah?|عايض|Ayed
+054|song:minkobraha:singer|minkobraha|من المطرب السعودي صاحب أغنية «من كبرها»؟|Which Saudi singer performs Min Kobraha?|رابح صقر|Rabeh Saqer
+055|song:lataht:singer|lataht|من المطربة السعودية صاحبة أغنية «لا طحت»؟|Which Saudi female singer performs La Taht?|داليا مبارك|Dalia Mubarak
+056|song:thaheba:singer|thaheba|من المطرب السعودي الذي غنّى قصيدة «الذاهبة» لناصر القحطاني؟|Which Saudi singer performs Nasser Al Qahtani's Al Thaheba?|خالد عبدالرحمن|Khalid Abdulrahman
+057|song:akhqalbi:singer|akhqalbi|من صاحب أغنية «آخ قلبي» في إصدار روتانا عام 2016؟|Who sings Rotana's 2016 release Akh Qalbi?|ماجد المهندس|Majid Al Mohandis
+058|song:entithar:singer|entithar|من صاحب أغنية «انتظارك صعب» الصادرة لدى روتانا عام 2015؟|Who sings Rotana's 2015 release Entitharak Saab?|ماجد المهندس|Majid Al Mohandis
+059|song:saqiatash:singer|saqiatash|من المطرب السعودي صاحب أغنية «ساقي العطش»؟|Which Saudi singer performs Saqi Al Atash?|عايض|Ayed
+060|song:istiraha:singer|istiraha|من المطرب السعودي صاحب أغنية «استراحة محارب»؟|Which Saudi singer performs Estrahet Mohareb?|عايض|Ayed
+061|song:alabal:singer|alabal|من صاحب الأغنية السعودية «على البال» من كلمات أسير الشوق؟|Who sings the Saudi song Ala El Bal, written by Aseer Al Shooq?|محمد عبده|Mohammed Abdu
+062|song:markeb:performercomposer|markeb|من المطرب السعودي الذي غنّى ولحّن «يا مركب الهند»؟|Which Saudi singer performed and composed Ya Markeb Al Hind?|محمد عبده|Mohammed Abdu
+063|song:wainkent:singer|wainkent|من صاحب أغنية «وين كنت» في ألبوم «أوجه المعنى»؟|Who sings Wain Kent on the album Awjeh Al Maana?|رابح صقر|Rabeh Saqer
+064|song:khamees:singer|khamees|من صاحب أغنية «خميس» في ألبوم «أوجه المعنى»؟|Who sings Khamees on the album Awjeh Al Maana?|رابح صقر|Rabeh Saqer
+065|song:mendala:singer|mendala|من المطرب السعودي صاحب أغنية «من دلعك»؟|Which Saudi singer performs Men Dalaak?|خالد عبدالرحمن|Khalid Abdulrahman
+066|song:maaldunya:singer|maaldunya|من صاحب أغنية «ما على الدنيا عتب» في ألبوم «طال السكوت»؟|Who sings Ma Ala Al Dunya Atab on the album Tal Al Sukoot?|عبادي الجوهر|Abadi Al Johar
+067|song:fazet:saudicoverperformer|fazet|من المطرب السعودي الذي غنّى «فزيت من نومي» في حفله بموسم الرياض عام 2024؟|Which Saudi singer performed Fazet Men Nomi at his Riyadh Season concert in 2024?|عبدالمجيد عبدالله|Abdul Majeed Abdullah
+068|song:atni:singer|atni|من صاحب أغنية «عطني المحبة»؟|Who sings Atni Al Mahabba?|طلال مداح|Talal Maddah

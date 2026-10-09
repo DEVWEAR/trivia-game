@@ -1,6 +1,7 @@
 # Miscellaneous
 *.class
 *.lock
+!pubspec.lock
 *.log
 *.pyc
 *.swp
@@ -106,6 +107,8 @@ unlinked_spec.ds
 
 # Coverage
 coverage/
+deployment-preparation/*.zip
+deployment-preparation/
 
 # Symbols
 app.*.symbols

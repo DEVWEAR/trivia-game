@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+069|song:katheirelli:composer|katheirelli|من لحّن أغنية فهد الكبيسي «كثير إللي»؟|Who composed Fahad Al Kubaisi's Katheer Elli?|عبدالله المناعي|Abdullah Al Mannai
+070|song:bnayti:composer|bnayti|من لحّن «بنيتي الحبوبة» لحلا الترك ومشاعل؟|Who composed Bnayty El Habooba for Hala Al Turk and Mashael?|عصام كمال|Issam Kamal
+071|song:zahgana:composer|zahgana|من لحّن أغنية حلا الترك «زهقانة»؟|Who composed Hala Al Turk's Zahgana?|عصام كمال|Issam Kamal
+072|song:aghnni:composer|aghnni|من لحّن أغنية فهد الكبيسي «أغني» الصادرة عام 2022؟|Who composed Fahad Al Kubaisi's 2022 Aghnni?|عبدالله المناعي|Abdullah Al Mannai
+073|album:ala:brouvat|alabio|ما اسم ألبوم علاء غواص العربي الصادر عام 2021؟|What is the title of Ala Ghawas's Arabic album released in 2021?|بروفة موت|Brouvat Mout
+074|person:zuwaid:oudmentor|zuwaid|من الموسيقي البحريني الذي علّم محمد زويّد العزف على العود؟|Which Bahraini musician taught Mohammed Zuwaid to play the oud?|محمد بن فارس|Mohammed bin Faris
+075|concert:salahmedhat:partner|salahmedhat|أي مطرب مصري شارك صلاح الزدجالي برنامج دار الأوبرا السلطانية بمسقط في ديسمبر 2017؟|Which Egyptian singer shared Salah Al Zadjali's Royal Opera House Muscat programme in December 2017?|مدحت صالح|Medhat Saleh
+076|person:zuwaid:nickname|zuwaid|من المطرب الذي وصفته هيئة ثقافة البحرين بلقب «سفير الأغنية البحرينية»؟|Which singer does Bahrain's culture authority describe as the Ambassador of Bahraini Song?|محمد زويّد|Mohammed Zuwaid
+077|person:hind:birthname|hindbio|ما الاسم الحقيقي للمطربة البحرينية المعروفة باسم «هند»؟|What is the birth name of the Bahraini singer known as Hind?|سهير|Suhair
+078|song:hinddaraish:composer|hinddaraish|من لحّن أغنية هند البحرينية «الدرايش»؟|Who composed Hind's Al Daraish?|حمد الخضر|Hamad Al Khader
+079|song:batalna:videoformat|batalna|ما التقنية البصرية التي استخدمها فيديو فهد الكبيسي «بطّلنا» عام 2015 ليتيح مشاهدة المشهد في كل الاتجاهات؟|Which visual technology did Fahad Al Kubaisi's 2015 Batalna video use to let viewers look in every direction?|فيديو واقع افتراضي بزاوية 360 درجة|360-degree virtual-reality video
+080|song:musafir:composer|musafir|من لحّن أغنية راشد الماجد «المسافر»؟|Who composed Rashed Al Majid's Al Musafir?|عبدالرب إدريس|Abdul Rab Idris
+081|song:alamaken:composer|alamaken|من لحّن أغنية محمد عبده «الأماكن»؟|Who composed Mohammed Abdu's Al Amaken?|ناصر الصالح|Nasser Al Saleh
+082|song:rahalty:composer|rahalty|من لحّن أغنية عبدالله الرويشد «رحلتي»؟|Who composed Abdullah Al Rowaished's Rahalty?|راشد الخضر|Rashed Al Khader
+083|institution:qma:parent|qma|إلى أي مؤسسة تعليمية وثقافية تنتمي أكاديمية قطر للموسيقى؟|Which educational and cultural foundation is Qatar Music Academy a member of?|مؤسسة قطر|Qatar Foundation
+084|institution:qma:locationcomplex|qma|في أي حي ثقافي بالدوحة تقع أكاديمية قطر للموسيقى؟|In which Doha cultural village is Qatar Music Academy located?|كتارا|Katara Cultural Village
+085|work:omansymphony:composer|oman30|من الملحن المصري صاحب «سيمفونية عُمان» التي تضمّنها حفل مرور 30 عاماً على الأوركسترا السلطانية؟|Which Egyptian composer wrote Oman Symphony, featured in the Royal Oman Symphony Orchestra's 30th-anniversary concert?|عزيز الشوان|Aziz Al Shawan
+086|song:anamasoul:composer|anamasoul|من لحّن أغنية نوال «أنا المسؤول»؟|Who composed Nawal's Ana El Masoul?|ناصر الصالح|Nasser Al Saleh
+087|song:sheratan:composer|sheratan|من لحّن أغنية راشد الماجد «شرطان الذهب»؟|Who composed Rashed Al Majid's Sheratan Al Thahab?|صالح الشهري|Saleh Al Shehri
+088|song:maqadir:composer|maqadir|من لحّن أغنية طلال مداح «مقادير»؟|Who composed Talal Maddah's Maqadir?|سراج عمر|Siraj Omar
+089|album:rabeh:debuttitle|rabehbeginnings|ما عنوان أول ألبوم لرابح صقر؟|What is the title of Rabeh Saqer's debut album?|يا نسيم الليل|Ya Naseem Al Lail
+090|song:wadaatak:composer|sedqni|من لحّن أغنية رابح صقر «ودعتك» في ألبوم «صدقني»؟|Who composed Rabeh Saqer's Wadaatak on the album Sedqni?|ياسر بو علي|Yaser Bu Ali
+091|artist:siraj:firstinstrument|sirajprofile|ما الآلة التي عزفها سراج عمر في بداية مشواره الفني مع فرقة النجوم؟|Which instrument did Siraj Omar play at the start of his career with Al Nojoum band?|الكمان|Violin
+092|song:entaishq:composer|entaishq|من لحّن أغنية فهد الكبيسي «أنت عشق» الصادرة عام 2017؟|Who composed Fahad Al Kubaisi's 2017 song Enta Ishq?|عبدالله المناعي|Abdullah Al Mannai
+093|song:menalakher:composer|daliafirst|من لحّن أغنية داليا مبارك «من الآخر»؟|Who composed Dalia Mubarak's Men Al Akher?|فايز السعيد|Fayez Al Saeed
+094|artist:hala:talentshow|halalabel|في أي برنامج لاكتشاف المواهب ظهرت حلا الترك في موسمه الأول؟|Which talent show's first season featured Hala Al Turk?|أرابز غوت تالنت|Arabs Got Talent
+095|song:nasetni:composer|nasetni|من لحّن أغنية عايض «نسيتني» الصادرة عام 2016؟|Who composed Ayed's 2016 song Nasetni?|وسم|Wasm
+096|artist:sultankhalifa:stagename|akherdawa|بأي اسم فني اشتهر المطرب سلطان خليفة؟|What stage name is singer Sultan Khalifa known by?|حقروص|Haqroos
+097|song:sikkasafar:composer|nabeelcareer|من لحّن أغنية نبيل شعيل «سكة سفر»؟|Who composed Nabeel Shuail's Sikka Safar?|راشد الخضر|Rashed Al Khader
+098|song:qulubsahiya:composer|qulubsahiya|من لحّن أغنية نوال «القلوب الساهية»؟|Who composed Nawal's Al Quloub Al Sahiya?|علي الجبر|Ali Al Jabr
+099|song:yaibnalawadem:composer|yaibnalawadem|بأي اسم فني نُسب لحن «يا ابن الأوادم» لعبدالمجيد عبدالله في إصدار 2021؟|Under what professional name was the composer credited for Abdul Majeed Abdullah's 2021 Ya Ibn Alawadem?|مبهم|Mubham
+100|song:wahashtnyswalifk:composer|wahashtnyswalifk|من لحّن أغنية راشد الماجد «وحشتني سواليفك» الصادرة عام 1996؟|Who composed Rashed Al Majid's 1996 song Wahashtny Swalifk?|عبدالرب إدريس|Abdul Rab Idris
+101|song:tejyneshaq:composer|tejyneshaq|من لحّن أغنية فهد الكبيسي «تجي نعشق»؟|Who composed Fahad Al Kubaisi's Tejy Ne'shaq?|عبدالله المناعي|Abdullah Al Mannai
+102|song:fouadzaffa:duetpartner|fouaddmi|من شارك فؤاد عبدالواحد تسجيل أغنية «زفّة» عام 2015؟|Who recorded the song Zaffa with Fouad Abdulwahed in 2015?|محمد عبده|Mohammed Abdu
+103|song:wajed:composer|wajed|من لحّن أغنية رابح صقر «واجد» الصادرة عام 2022؟|Who composed Rabeh Saqer's 2022 song Wajed?|سهم|Sahm
+104|song:methelqalbk:composer|methelqalbk|من لحّن أغنية راشد الماجد «مثل قلبك»؟|Who composed Rashed Al Majid's Methel Qalbk?|نواف عبدالله|Nawaf Abdullah
+105|song:tahadedninawal:composer|tahadedninawal|من لحّن أغنية نوال «تهددني»؟|Who composed Nawal's Tahadedni?|بديع مسعود|Badee Masoud
+106|song:esmaani:composer|esmaani|بأي اسم فني يُعرف ملحّن «اسمعني» لعبدالمجيد عبدالله؟|What professional name is credited for the composer of Abdul Majeed Abdullah's Esmaani?|سهم|Sahm
+107|song:ygolon:composer|ygolon|من لحّن أغنية نبيل شعيل «يقولون» عام 2021؟|Who composed Nabeel Shuail's 2021 song Ygolon?|ميثم علاء الدين|Maitham Alaa Al Din
+108|ensemble:bahrainphilharmonic:founder|bahrainsongsgulf|من المايسترو الذي أسس أوركسترا البحرين الفيلهارمونية؟|Which maestro founded the Bahrain Philharmonic Orchestra?|مبارك نجم|Mubarak Najem
+109|song:lelatkhamis:composer|lelatkhamis|من لحّن أغنية محمد عبده «ليلة خميس»؟|Who composed Mohammed Abdu's Lelat Khamis?|عمر كدرس|Omar Kadars
+110|song:walhan:composer|walhan|من لحّن أغنية راشد الماجد «ولهان» الصادرة عام 2020؟|Who composed Rashed Al Majid's 2020 song Walhan?|أحمد الهرمي|Ahmed Al Harmi
+111|song:tetanfasak:composer|tetanfasak|من لحّن أغنية عبدالمجيد عبدالله «تتنفسك دنياي»؟|Who composed Abdul Majeed Abdullah's Tetanfasak Dunyay?|أحمد الهرمي|Ahmed Al Harmi
+112|song:mozhela:composer|mozhela|من لحّن أغنية محمد عبده «مذهلة»؟|Who composed Mohammed Abdu's Mozhela?|صادق الشاعر|Sadeg Al Shaer
+113|song:absher:composer|absher|من لحّن أغنية راشد الماجد «أبشر» الصادرة عام 1991؟|Who composed Rashed Al Majid's 1991 song Absher?|صالح الشهري|Saleh Al Shehri
+114|song:kelmafelamr:arranger|kelmafelamr|من وزّع دويتو «كل ما في الأمر» لرابح صقر ونوال؟|Who arranged Rabeh Saqer and Nawal's duet Kel Ma Fel Amr?|هشام السكران|Hisham Al Sakran
+115|artist:talal:ziryabnamedby|talalbio|من الموسيقار الذي أطلق لقب «زرياب» على طلال مداح؟|Which composer gave Talal Maddah the nickname Ziryab?|محمد عبدالوهاب|Mohammed Abdel Wahab
+116|song:methlnaseem:composer|methlnaseem|من لحّن أغنية نوال «مثل النسيم»؟|Who composed Nawal's Methl Al Naseem?|ياسر بوعلي|Yaser Bu Ali
+117|artist:talal:firstradiosong|talalbio|ما أول أغنية لطلال مداح في الإذاعة السعودية وفق سيرته المنشورة لدى روتانا؟|According to Rotana's biography, what was Talal Maddah's first song on Saudi radio?|وردك يا زارع الورد|Wardak Ya Zare Al Ward
+118|song:ishqbalwa:composer|ishqbalwa|من لحّن أغنية فهد الكبيسي «العشق والبلوى»؟|Who composed Fahad Al Kubaisi's Al Ishq Wal Balwa?|عبدالله المناعي|Abdullah Al Mannai
+119|song:yarahleen:arranger|yarahleen|من وزّع أغنية صلاح الزدجالي «يا راحلين» عام 2018؟|Who arranged Salah Al Zadjali's 2018 song Ya Rahleen?|سيروس|Cyrus
+120|song:wakefshway:composer|nabeelvoice|من الملحّن الذي تعاون مع نبيل شعيل في «وقف شوي» ضمن ألبوم «شعيل 2018»؟|Which composer collaborated with Nabeel Shuail on Wakef Shway from the album Shuail 2018?|مشعل العروج|Meshal Al Arouj
+121|album:rabeh95:versions|rabehprofile|بأي اتجاهين موسيقيين قدّم رابح صقر نسختي ألبوم «رابح 95»؟|What two musical styles distinguished the versions of Rabeh Saqer's album Rabeh 95?|شرقي وغربي|Eastern and Western
+122|artist:abadi:octopusnamedby|abadinickname|من المطرب الذي أطلق على عبادي الجوهر لقب «أخطبوط العود»؟|Which singer gave Abadi Al Johar the nickname Octopus of the Oud?|طلال مداح|Talal Maddah
+123|album:abdu2024:composer|abdu2024|من الموسيقار الذي وضع جميع ألحان ألبوم «محمد عبده 2024»؟|Which composer wrote all the music for the album Mohammed Abdu 2024?|الدكتور طلال|Dr Talal
+124|song:tenadeek:composer|tenadeek|من لحّن أغنية ماجد المهندس «تناديك»؟|Who composed Majid Al Mohandis's Tenadeek?|أحمد الهرمي|Ahmed Al Harmi
+125|song:qalbielsagheer:composer|qalbielsagheer|بأي اسم نُسب لحن «قلبي الصغير» لفؤاد عبدالواحد في الإصدار الرسمي؟|What name is credited for the composer of Fouad Abdulwahed's Qalbi El Sagheer on the official release?|أدهم|Adham
+126|album:dalia:debuttitle|daliafirst|ما عنوان أول ألبوم لداليا مبارك الذي أنتجته روتانا؟|What was the title of Dalia Mubarak's debut album, produced by Rotana?|من الآخر|Men Al Akher
+127|album:nabeel:debuttitle|nabeelcareer|ما عنوان ألبوم نبيل شعيل الأول الصادر عام 1981 وفق تقرير روتانا عن مسيرته؟|According to Rotana's career profile, what was the title of Nabeel Shuail's first album, released in 1981?|أقبل العيد|Aqbal Al Eid
+128|song:jisrkhair:album|rabehbeginnings|في أي ألبوم ضمّ رابح صقر أغنيته الوطنية «جسر الخير»؟|Which Rabeh Saqer album included his patriotic song Jisr Al Khair?|صابرين|Sabreen
+129|song:aymezza:composer|aymezza|من لحّن أغنية عبدالله الرويشد «أي معزة»؟|Who composed Abdullah Al Rowaished's Ay Mezza?|سليمان الملا|Sulaiman Al Mulla
+130|song:kafeetwafeet:creator|kafeetwafeet|من كتب ولحّن أغنية فؤاد عبدالواحد «كفيت ووفيت»؟|Who wrote and composed Fouad Abdulwahed's Kafeet W Wafeet?|عبدالعزيز العبكل|Abdulaziz Al Abkal
+131|song:madaaqool:composer|talalbio|من الموسيقار المصري الذي تعاون مع طلال مداح في «ماذا أقول»؟|Which Egyptian composer collaborated with Talal Maddah on Mada Aqool?|محمد عبدالوهاب|Mohammed Abdel Wahab
+132|song:martnidunya:composer|sirajprofile|من لحّن أغنية محمد عبده «مرتني الدنيا»؟|Who composed Mohammed Abdu's Martni Al Dunya?|سراج عمر|Siraj Omar
+133|song:raheeb:composer|raheeb|من لحّن أغنية عبدالمجيد عبدالله «رهيب»؟|Who composed Abdul Majeed Abdullah's Raheeb?|صالح الشهري|Saleh Al Shehri
+134|song:yaibnalawadem:album|yaibnalawadem|في أي ألبوم لعبدالمجيد عبدالله صدرت «يا ابن الأوادم» عام 2021؟|Which Abdul Majeed Abdullah album included the 2021 release Ya Ibn Alawadem?|عالم موازي|Aalam Mowazi
+135|song:sikkasafar:lyricist|nabeelcareer|من كتب كلمات أغنية نبيل شعيل «سكة سفر»؟|Who wrote the lyrics of Nabeel Shuail's Sikka Safar?|عبداللطيف البناي|Abdul Latif Al Bannai
+136|album:rabehdebut:languageform|rabehbeginnings|أي صيغة من العربية استخدمها رابح صقر لأغاني ألبومه الأول «يا نسيم الليل»؟|Which form of Arabic did Rabeh Saqer use for the songs on his debut album Ya Naseem Al Lail?|العربية الفصحى|Standard Arabic

@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|competition:league:commercialname|adnoc|ما الاسم الذي أصبح يُطلق على دوري المحترفين الإماراتي مع بدء شراكة أدنوك؟|What name did the UAE professional league adopt when the ADNOC partnership began?|دوري أدنوك للمحترفين|ADNOC Pro League
+002|competition:league:organizer|organizer|ما الجهة التي تنظم دوري أدنوك للمحترفين؟|Which organization runs the ADNOC Pro League?|رابطة المحترفين الإماراتية|The UAE Pro League
+003|competition:leaguecup:commercialname|organizer|ما الاسم التجاري لكأس الرابطة الإماراتية المرتبط بمصرف إسلامي في أبوظبي؟|What is the UAE League Cup's commercial name associated with an Abu Dhabi Islamic bank?|كأس مصرف أبوظبي الإسلامي|ADIB Cup
+004|identity:ajman:nickname|ajmanorange|أي نادٍ في دورينا يُعرف بلقب «البرتقالي»؟|Which club in the UAE league is known as the Orange?|عجمان|Ajman
+005|identity:khorfakkan:nickname|khorfakkaneagles|أي نادٍ في دورينا يُعرف بلقب «النسور»؟|Which club in the UAE league is known as the Eagles?|خورفكان|Khorfakkan
+006|identity:jazira:nickname|jazirapride|أي نادٍ إماراتي يُعرف بلقب «فخر أبوظبي»؟|Which UAE club is known as the Pride of Abu Dhabi?|الجزيرة|Al Jazira
+007|scoring:2024:goldenshoe|awards2024|من مهاجم الوحدة السوري الذي تصدر هدافي دوري أدنوك موسم 2023-2024؟|Which Syrian Al Wahda striker topped the ADNOC Pro League scoring chart in 2023-24?|عمر خريبين|Omar Khribin
+008|player:elneny:uaeclub|elnenyjazira|مع أي نادٍ إماراتي لعب محمد النني في موسم 2024-2025؟|Which UAE club did Mohamed Elneny play for in the 2024-25 season?|الجزيرة|Al Jazira
+009|player:pjanic:uaeclub|pjaniccareer|أي نادٍ إماراتي لعب له ميراليم بيانيتش بعد تجربته مع برشلونة؟|Which UAE club did Miralem Pjanic play for after his spell with Barcelona?|الشارقة|Sharjah
+010|player:cannavaro:uaeclub|ahlimohammad|أي نادٍ في دبي لعب له المدافع الإيطالي فابيو كانافارو؟|Which Dubai club did Italian defender Fabio Cannavaro play for?|الأهلي|Al Ahli
+011|identity:kalba:nickname|hattakalbanames|أي فريق في دوري المحترفين الإماراتي يُعرف بلقب «النمور»؟|Which UAE professional league team is known as the Tigers?|كلباء|Kalba
+012|identity:hatta:nickname|hattakalbanames|أي نادٍ إماراتي يُعرف بلقب «الإعصار»؟|Which UAE club is known as the Tornado?|حتا|Hatta
+013|identity:emirates:nickname|emiratesfalcons|أي نادٍ إماراتي يُعرف بلقب «الصقور»؟|Which UAE club is known as the Falcons?|نادي الإمارات|Emirates Club
+014|record:shabab2024:biggestwinclub|shababrecord2024|أي فريق حقق الفوز التاريخي 10-0 على حتا في دوري المحترفين في يونيو 2024؟|Which team recorded the historic 10-0 Pro League win over Hatta in June 2024?|شباب الأهلي|Shabab Al Ahli
+015|player:seferovic:nationality|seferovicbenfica|أي بلد يمثله هاريس سيفيروفيتش، مهاجم الوصل السابق؟|Which country does former Al Wasl striker Haris Seferovic represent?|سويسرا|Switzerland
+016|player:laba:nationality|ain2022clincher|ما جنسية مهاجم العين لابا كودجو؟|What is the nationality of Al Ain striker Laba Kodjo?|توغولي|Togolese
+017|player:gabbiadini:nationality|gabbiadiniitaly|ما جنسية مانولو غابياديني، مهاجم النصر في موسم 2023-2024؟|What is the nationality of Manolo Gabbiadini, Al Nasr's striker in 2023-24?|إيطالي|Italian
+018|player:tadic:nationality|tadicsigning|أي منتخب مثّله دوشان تاديتش، الذي انضم للوحدة في 2025؟|Which national team did Dusan Tadic, who joined Al Wahda in 2025, represent?|صربيا|Serbia
+019|player:kaku:fullname|kakuidentity|ما اسم لاعب العين المعروف بلقب «كاكو»؟|What is the name of the Al Ain player known as Kaku?|أليخاندرو روميرو|Alejandro Romero
+020|player:tapia:nationality|newsignings2025|أي بلد يمثله ريناتو تابيا، الذي انضم للوصل في صيف 2025؟|Which country does Renato Tapia, who joined Al Wasl in summer 2025, represent?|بيرو|Peru
+021|competition:league:clubs2025|newsignings2025|كم ناديًا شارك في دوري أدنوك للمحترفين موسم 2025-2026؟|How many clubs competed in the 2025-26 ADNOC Pro League?|14 ناديًا|14 clubs
+022|supercup:2016:hostcity|cairosuper2016|ما المدينة المصرية التي استضافت السوبر الإماراتي بين الأهلي والجزيرة في 2016؟|Which Egyptian city hosted the UAE Super Cup between Al Ahli and Al Jazira in 2016?|القاهرة|Cairo
+023|player:fawzibashir:nationalteam|baniyasafc2012|أي منتخب خليجي مثّله فوزي بشير، لاعب وسط بني ياس السابق؟|Which Gulf national team did former Bani Yas midfielder Fawzi Bashir represent?|عُمان|Oman
+024|organization:foreignsupercup:country|egyptsuperevent|السوبر التابع لأي دولة عربية تنظمه رابطة المحترفين الإماراتية في أبوظبي بمشاركة الأهلي والزمالك؟|Which Arab country's Super Cup does the UAE Pro League organize in Abu Dhabi with Al Ahly and Zamalek taking part?|مصر|Egypt
+025|identity:wahda:nickname|wahdaidentity|أي فريق في دورينا يُعرف بلقب «العنابي»؟|Which team in the UAE league is known as the Maroons?|الوحدة|Al Wahda
+026|identity:ain:nickname|ainidentity|أي نادٍ في كرة القدم الإماراتية يُلقب بـ«الزعيم»؟|Which UAE football club is nicknamed the Boss?|العين|Al Ain
+027|player:ahmedkhalil:elderbrother|khalilprofile|من مهاجم الأهلي السابق الذي يُعد الأخ الأكبر لأحمد خليل؟|Which former Al Ahli striker is Ahmed Khalil's elder brother?|فيصل خليل|Faisal Khalil
+028|player:soufianerahimi:brother|rahimibrothers|من شقيق سفيان رحيمي الذي لعب معه في العين خلال موسم 2025-2026؟|Which brother of Soufiane Rahimi played alongside him at Al Ain in 2025-26?|الحسين رحيمي|El Houssien Rahimi
+029|player:bresciano:nationalteam|nasrbresciano|أي منتخب مثّله مارك بريشيانو، لاعب النصر السابق؟|Which national team did former Al Nasr player Mark Bresciano represent?|أستراليا|Australia
+030|player:dzsudzsak:nationalteam|afctransfers2016|أي منتخب أوروبي قاده بالاش جوجاك، الذي لعب للوحدة؟|Which European national team did Balazs Dzsudzsak, who played for Al Wahda, captain?|المجر|Hungary
+031|player:valdivia:nationalteam|valdiviaidentity|أي منتخب في أمريكا الجنوبية مثّله خورخي فالديفيا، نجم العين والوحدة السابق؟|Which South American national team did former Al Ain and Al Wahda star Jorge Valdivia represent?|تشيلي|Chile
+032|player:ribeiro:nationality|valdiviaidentity|ما جنسية إيفرتون ريبيرو، صانع ألعاب الأهلي السابق؟|What is the nationality of former Al Ahli playmaker Everton Ribeiro?|برازيلي|Brazilian
+033|continental:jazira:firsttwoclubworldcups|jaziracwc2021|أي نادٍ أصبح أول فريق إماراتي يشارك في نسختين من كأس العالم للأندية، 2017 و2021؟|Which club became the first UAE team to appear in two Club World Cup editions, 2017 and 2021?|الجزيرة|Al Jazira
+034|coaching:ain2024:crespo|crespo2024|من المدرب الأرجنتيني الذي قاد العين إلى لقب دوري أبطال آسيا عام 2024؟|Which Argentine coach led Al Ain to the AFC Champions League title in 2024?|هيرنان كريسبو|Hernan Crespo
+035|history:khorfakkan:previousname|khorfakkanhistory|بأي اسم كان نادي خورفكان معروفًا قبل تغيير اسمه عام 2017؟|What was Khorfakkan Club called before its name changed in 2017?|الخليج|Al Khaleej
+036|award:goldenglove:purpose|awarddefinitions2025|ما اسم جائزة أفضل حارس مرمى في حفل جوائز رابطة المحترفين الإماراتية؟|What is the Best Goalkeeper award called at the UAE Pro League awards ceremony?|القفاز الذهبي|The Golden Glove
+037|identity:fujairah:nickname|fujairahwolves|أي نادٍ إماراتي يُعرف بلقب «الذئاب»؟|Which UAE football club is nicknamed the Wolves?|الفجيرة|Fujairah
+038|identity:bataeh:nickname|bataehraqi|أي نادٍ في دورينا يُعرف بلقب «الراقي»؟|Which UAE league club is known as Al Raqi?|البطائح|Al Bataeh
+039|identity:dhafra:nickname|dhafraidentity|أي نادٍ إماراتي يُلقب بـ«فرسان الغربية»؟|Which UAE football club is nicknamed the Western Knights?|الظفرة|Al Dhafra
+040|identity:dibba:nickname|dibbanickname|أي نادٍ إماراتي يُعرف بلقب «النواخذة»؟|Which UAE football club is known as the Shipmasters, or Al Nawakhatha?|دبا الفجيرة|Dibba Al Fujairah
+041|identity:ain:purplecolour|ainpurple|ما اللون المميز الذي اعتمده نادي العين عام 1977 واشتهر به منذ ذلك الحين؟|Which distinctive colour did Al Ain adopt in 1977 and become famous for?|البنفسجي|Purple
+042|rules:2425:relegationdestination|leaguerules2425|إلى أي مسابقة هبط صاحبا المركزين الأخيرين في دوري أدنوك للمحترفين وفق لائحة موسم 2024-2025؟|To which competition were the bottom two ADNOC Pro League teams relegated under the 2024-25 regulations?|دوري الدرجة الأولى|First Division League
+043|transfer:mabkhout2024:destination|mabkhoutnasr2024|أي نادٍ انضم إليه علي مبخوت في صيف 2024 بعد رحيله عن الجزيرة؟|Which club did Ali Mabkhout join in summer 2024 after leaving Al Jazira?|النصر|Al Nasr
+044|rivalry:abudhabi:clubs|abudhabiderby|ما الناديان اللذان يتواجهان في ديربي أبوظبي بين «فخر أبوظبي» و«العنابي»؟|Which two clubs contest the Abu Dhabi derby between the Pride of Abu Dhabi and the Maroons?|الجزيرة والوحدة|Al Jazira and Al Wahda
+045|player:aboutrika:uaeclub|aboutrikabaniyas|مع أي نادٍ إماراتي لعب النجم المصري محمد أبوتريكة؟|Which UAE club did Egyptian star Mohamed Aboutrika play for?|بني ياس|Bani Yas
+046|player:azmoun:nationalteam|azmountransfer|أي منتخب آسيوي يمثله مهاجم شباب الأهلي سردار أزمون؟|Which Asian national team does Shabab Al Ahli striker Sardar Azmoun represent?|إيران|Iran
+047|player:igorjesus:uaeclub|igorjesusdeparture|مع أي نادٍ إماراتي لعب إيغور جيسوس قبل انضمامه إلى بوتافوغو عام 2024؟|Which UAE club did Igor Jesus play for before joining Botafogo in 2024?|شباب الأهلي|Shabab Al Ahli
+048|player:denilsonpereiraneves:uaeclub|denilsonwahda|مع أي نادٍ إماراتي لعب دينيلسون بيريرا نيفيس، لاعب وسط أرسنال السابق؟|Which UAE club did former Arsenal midfielder Denilson Pereira Neves play for?|الوحدة|Al Wahda
+049|player:khalidismail:club|nasrlegends|أي نادٍ إماراتي كان خالد إسماعيل من أبرز نجومه؟|Which UAE club counted Khalid Ismail among its leading stars?|النصر|Al Nasr
+050|player:zuhairbakheet:club|bakheetwasl|مع أي نادٍ تألق زهير بخيت في الثمانينات والتسعينات؟|With which club did Zuhair Bakheet star in the 1980s and 1990s?|الوصل|Al Wasl
+051|player:fahadkhamees:nickname|khameesnickname|من أسطورة كرة القدم الإماراتية المعروف بلقب «الفهد الأسمر»؟|Which UAE football legend is nicknamed the Dark Cheetah, or Al Fahd Al Asmar?|فهد خميس|Fahad Khamees
+052|player:alidaei:uaeclub|daeiuaeclub|أي نادٍ في دبي لعب له الهداف الإيراني علي دائي؟|Which Dubai club did Iranian striker Ali Daei play for?|الشباب|Al Shabab
+053|player:abedipele:uaeclub|abedipele|مع أي نادٍ إماراتي لعب النجم الغاني عبيدي بيليه؟|Which UAE club did Ghanaian star Abedi Pele play for?|العين|Al Ain
+054|coach:pirlo2026:united|coaches2026|أي أسطورة إيطالية تولّى تدريب يونايتد الإماراتي مع بداية موسم دوري أدنوك للمحترفين 2026-2027؟|Which Italian legend became head coach of UAE club United for the start of the 2026-27 ADNOC Pro League season?|أندريا بيرلو|Andrea Pirlo
+055|club:emirates:emirate|emiratesrak|في أي إمارة يقع نادي الإمارات الملقّب بالصقور؟|In which emirate is Emirates Club, nicknamed the Falcons, based?|رأس الخيمة|Ras Al Khaimah
+056|player:elneny:englishclubbeforejazira|elnenyarsenal|مع أي نادٍ إنجليزي لعب محمد النني قبل انضمامه إلى الجزيرة عام 2024؟|Which English club did Mohamed Elneny play for before joining Al Jazira in 2024?|أرسنال|Arsenal
+057|player:makhetediop:nationality|diopofficial|ما جنسية ماكيتي ديوب، مهاجم الظفرة السابق؟|What is the nationality of former Al Dhafra striker Makhete Diop?|سنغالي|Senegalese
+058|identity:shaab:nickname|shaabcommandos|أي نادٍ إماراتي سابق كان يُعرف بلقب «الكوماندوز»؟|Which former UAE club was known as the Commandos?|الشعب|Al Shaab
+059|player:yohancabaye:uaeclub|cabayeclub|أي نادٍ إماراتي لعب له الفرنسي يوهان كاباي؟|Which UAE club did French midfielder Yohan Cabaye play for?|النصر|Al Nasr
+060|player:majednasser:position|keepers2022|ما المركز الذي لعب فيه ماجد ناصر مع شباب الأهلي؟|What position did Majed Nasser play for Shabab Al Ahli?|حارس مرمى|Goalkeeper
+061|identity:shababahli:nickname|shababredknights|أي نادٍ في دورينا يُلقّب بـ«الفرسان الحمر»؟|Which club in the UAE league is nicknamed the Red Knights?|شباب الأهلي|Shabab Al Ahli
+062|player:mohamedzidan:uaeclub2012|zidanbaniyas|أي نادٍ إماراتي لعب له النجم المصري محمد زيدان؟|Which UAE club did Egyptian star Mohamed Zidan play for?|بني ياس|Bani Yas
+063|identity:kalba:rename2024|kalbaidentity2024|أي نادٍ إماراتي حذف كلمة «اتحاد» من اسمه عام 2024؟|Which UAE club removed Ittihad from its name in 2024?|نادي كلباء|Kalba Club
+064|player:luisjimenez:nationality|jimenezchile|من أي دولة جاء لويس خيمينيز، صانع الألعاب الذي لعب للأهلي والنصر؟|Which country is Luis Jimenez, the playmaker who played for Al Ahli and Al Nasr, from?|تشيلي|Chile
+065|identity:league:awardbadgeslocation2026|awardsleeves2026|أين على القميص وضع نجوم دورينا شارات جوائزهم الفردية مع بداية موسم 2026–2027؟|Where on their shirts did UAE league stars wear their individual award badges at the start of 2026–27?|على الأكمام|On the sleeves
+066|record:adibcup:mosttitlesclub2026|adibtitles2026|أي نادٍ كان الأكثر تتويجاً بكأس الرابطة «كأس مصرف أبوظبي الإسلامي» عند انطلاق موسم 2026–2027؟|Which club had won the most UAE League Cup titles, now called the ADIB Cup, at the start of 2026–27?|شباب الأهلي|Shabab Al Ahli
+067|player:moussasow:uaeclub2015|sowclub2015|أي نادٍ إماراتي ضم المهاجم موسى سو عام 2015؟|Which UAE club signed striker Moussa Sow in 2015?|الأهلي دبي|Al Ahli Dubai
+068|identity:wasl:iffhscenturyrecognition|waslcenturyiffhs|أي نادٍ اختاره IFFHS أفضل نادٍ إماراتي في المنافسات الدولية خلال القرن العشرين؟|Which club did IFFHS rank as the UAE's best club in international competitions during the twentieth century?|الوصل|Al Wasl

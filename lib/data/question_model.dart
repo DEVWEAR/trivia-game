@@ -21,6 +21,7 @@ class TriviaQuestion {
     required this.sourceName,
     required this.sourceUrl,
     required this.lastVerified,
+    this.factKey,
     this.mediaType = QuestionMediaType.none,
     this.mediaAsset,
     this.mediaAsset2,
@@ -38,6 +39,10 @@ class TriviaQuestion {
   final String sourceName;
   final String sourceUrl;
   final DateTime lastVerified;
+
+  /// Stable identity of the tested fact, shared by rewordings/translations.
+  /// Example: 'acl:2023-24:champion'. Required by the completed-bank validator.
+  final String? factKey;
 
   final QuestionMediaType mediaType;
   final String? mediaAsset;

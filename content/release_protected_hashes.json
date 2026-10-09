@@ -1,0 +1,2670 @@
+[
+  {
+    "path": "lib/data/questions/uae_football_final.dart",
+    "sha256": "560D8FAD431E4255A3BF98FA5C034CE9D1B1E76092FA52F06762B3D530569F17"
+  },
+  {
+    "path": "lib/data/questions/uae_football/easy_1.dart",
+    "sha256": "1F6FF2CBDFCD4B3B21296D0F7DBC23D3134731FDFEAA4533CCFDF1888F9FD058"
+  },
+  {
+    "path": "lib/data/questions/uae_football/easy_2.dart",
+    "sha256": "865E5E3C636BEB87C89019ADA60AB6AC93A28B73D6BF168167CD69A0C8A23087"
+  },
+  {
+    "path": "lib/data/questions/uae_football/hard_1.dart",
+    "sha256": "3C553EA2B0F2D57689BC1F4BF8419B471F48ADECDCC49AA2949C2BB863933C79"
+  },
+  {
+    "path": "lib/data/questions/uae_football/hard_2.dart",
+    "sha256": "0D4F484CC37A60566AEFCB7C0512BFA7E209918CA71CE5BC42741D85D9E97098"
+  },
+  {
+    "path": "lib/data/questions/uae_football/medium_1.dart",
+    "sha256": "9C8C146DA36FEE7967BBF01FFE2A4824BDBFFFC4F39A72C168241C0F3A5221BF"
+  },
+  {
+    "path": "lib/data/questions/uae_football/medium_2.dart",
+    "sha256": "827A53FC27F7CE0C6AD94D984BB579EF476AD948091DCAD3ED50ED2ECFB37079"
+  },
+  {
+    "path": "content/uae_football/easy.psv",
+    "sha256": "A36C28A34B4D43ECF5DD9C2BA031662A4D9AFB19BBB6A915D01B121A7062A559"
+  },
+  {
+    "path": "content/uae_football/evidence_ledger.csv",
+    "sha256": "7CE64D0DC124CC1A03B26083A12F1ABBA69A245CE87E930BD2104BBE1CC7E511"
+  },
+  {
+    "path": "content/uae_football/hard.psv",
+    "sha256": "AEEE980749B4366248937581DCFF9905F32901814A593F5D37DD0A6C997248CC"
+  },
+  {
+    "path": "content/uae_football/medium.psv",
+    "sha256": "CAF5B5FC5F9CA7EBD4A1C99E506C40176EC54DE6E1115B115A38BA199F07FB90"
+  },
+  {
+    "path": "content/uae_football/near_duplicate_candidates.csv",
+    "sha256": "01C4B13D5854AE87520A1CB846B9DC4ECD23A9FC2B6033C3DBD1A5A1EAEA016C"
+  },
+  {
+    "path": "content/uae_football/near_duplicate_review.csv",
+    "sha256": "233120D01F6A169EF7D455FDE1BF516A95142092B0807A5E5A1CEC57E72C6442"
+  },
+  {
+    "path": "content/uae_football/sources.psv",
+    "sha256": "D366E82A4F5AC7F71DC1BE4EA0FDDDDFAB2E5B38EA1935D53F33D96CC868779C"
+  },
+  {
+    "path": "content/uae_football/validation_result.json",
+    "sha256": "3AB7469D46682710FC178EF08E2B2A19C523DA7795B4A77BDCFBE443D1652CDE"
+  },
+  {
+    "path": "tool/generate_uae_football.ps1",
+    "sha256": "5041386A7E818F45BE700F94D46ED9E803A20A20A7CF23065373DF61656F6BBC"
+  },
+  {
+    "path": "tool/validate_uae_football.ps1",
+    "sha256": "6943D7C5A3BBD905F62D9A98B4D5992904650C5395304ADA03E33417CBA32992"
+  },
+  {
+    "path": "lib/data/questions/uae_general_final.dart",
+    "sha256": "8FE5427051740889A6583EDDEC7B167723959D4555AA6C48287684D75B133C1D"
+  },
+  {
+    "path": "lib/data/questions/uae_general/easy_1.dart",
+    "sha256": "859DB2AD5AFD09EA80459EF0F77AD017C1B1E67DA729611C975092C723874C08"
+  },
+  {
+    "path": "lib/data/questions/uae_general/easy_2.dart",
+    "sha256": "EAA4875989BD616093D870E7A359D250D24DF8DCC710261D5A056848D97FC391"
+  },
+  {
+    "path": "lib/data/questions/uae_general/hard_1.dart",
+    "sha256": "44FA12C7EFF9DD502725D0D04DC9621718D15FF2B4E4239E5899ED6B682FFF9B"
+  },
+  {
+    "path": "lib/data/questions/uae_general/hard_2.dart",
+    "sha256": "B512F8FE4A0582FBBBFAEE78FE2E5BD3D3F17977A91F61BA15D96A58F412BDFE"
+  },
+  {
+    "path": "lib/data/questions/uae_general/medium_1.dart",
+    "sha256": "D3C5F85E78CEEF1AA65678D9B9119A99FCE259A0F77F6813F9199157AD2A82C8"
+  },
+  {
+    "path": "lib/data/questions/uae_general/medium_2.dart",
+    "sha256": "50B765D78810DDD38C65975488B78BAF17D948D0181957A697E0557A8FA598BB"
+  },
+  {
+    "path": "content/uae_general/easy.psv",
+    "sha256": "5A581F870F06756DC2BCA39903020AB079472D02D208B113B7C01821591DC9CD"
+  },
+  {
+    "path": "content/uae_general/evidence_ledger.csv",
+    "sha256": "06C082EA1DDCCFD28AF82F555C74331D0E0E66ACBD2E9A36AE3CD8830ED7E0F8"
+  },
+  {
+    "path": "content/uae_general/fact_family_review.csv",
+    "sha256": "F006FE80F2F48B4425C6CBAA6FAE4AD22C3A53120D73AB7A9B0187689C31CCE2"
+  },
+  {
+    "path": "content/uae_general/hard.psv",
+    "sha256": "4CF3F67F0F2B25F9D8F5B97DEFA69CD7E49449A008A44B0DC38B86BB9A84E1A9"
+  },
+  {
+    "path": "content/uae_general/medium.psv",
+    "sha256": "1D9C84F7885B079F4F6AD30F18FCAC5A22A18B590BC221A3CFE529E516A98B9A"
+  },
+  {
+    "path": "content/uae_general/near_duplicate_candidates.csv",
+    "sha256": "FF4DC1AF4A8CF72348FB41BCA388C4AACF23E1F2E55291F36B84138208EE87E9"
+  },
+  {
+    "path": "content/uae_general/near_duplicate_review.csv",
+    "sha256": "EC89F18E4F6388E43490CD7FAC7B2099DBA7A34341551904005D0BC620052FC8"
+  },
+  {
+    "path": "content/uae_general/sources.psv",
+    "sha256": "5E21E4FEE47223AB44CE4C76C3555BB34641BFF452F3F1BD4A0EEA668E5DC44A"
+  },
+  {
+    "path": "content/uae_general/validation_result.json",
+    "sha256": "CCF6BA7B395D75F3C5C820ADDB72C6718004FAEE182419C29FC0DE1CCF76960F"
+  },
+  {
+    "path": "tool/generate_uae_general.ps1",
+    "sha256": "32AF552423247D060B2A31EC5EA5194C2B714D7F8F908833B966EC7384E34470"
+  },
+  {
+    "path": "tool/validate_uae_general.ps1",
+    "sha256": "397BF18C0CB1ECEDB43C49C87A7665ED0172D4D004221AAB4F90A12F8F6D8919"
+  },
+  {
+    "path": "lib/data/questions/uae_heritage_final.dart",
+    "sha256": "00ECAEF1C05DB83A742D084241036DABEA0DAE87143349EB05AC7899B6548625"
+  },
+  {
+    "path": "lib/data/questions/uae_heritage/easy_1.dart",
+    "sha256": "6F8C04A7D01A4C5E4D6343F4D0EB295949A4B3DAEFBD933EFD5A0B16B34411FA"
+  },
+  {
+    "path": "lib/data/questions/uae_heritage/easy_2.dart",
+    "sha256": "2658A4400355077F23A044956D01236201452BEA4BDBB98E8ADEE92DAC063432"
+  },
+  {
+    "path": "lib/data/questions/uae_heritage/hard_1.dart",
+    "sha256": "5AAF6E08D2E4B4705BB2F38DD906F09F06A6C86417A09EDFB1BEC80888DDFAD5"
+  },
+  {
+    "path": "lib/data/questions/uae_heritage/hard_2.dart",
+    "sha256": "6E291DC9166F2A4E06A20CBA22A2F444C4C0EC593EE48FF6CAA3E1FA8E39462C"
+  },
+  {
+    "path": "lib/data/questions/uae_heritage/medium_1.dart",
+    "sha256": "70DF27D869C70A29F1002B8CB29B3A2BED1110FF1DA0F93B8370BCB162234461"
+  },
+  {
+    "path": "lib/data/questions/uae_heritage/medium_2.dart",
+    "sha256": "1765422819E8E1996B093F9A61F4613246F911D3633B83AFA3C59EC0225558F5"
+  },
+  {
+    "path": "content/uae_heritage/easy.psv",
+    "sha256": "A8532996869B3A7D41A0A437A77793CD3E80CEAE020239DC63230B76182811DE"
+  },
+  {
+    "path": "content/uae_heritage/editorial_review.csv",
+    "sha256": "219BEA749C92C84A68875466A676C83B267DE7E4F750442803FC8DC9CA51E2BF"
+  },
+  {
+    "path": "content/uae_heritage/evidence_ledger.csv",
+    "sha256": "B50AC28181CBA3DCC6AB69E83F5ADA5265DD0D6467734125C6089FE1B5AFA21B"
+  },
+  {
+    "path": "content/uae_heritage/fact_family_review.csv",
+    "sha256": "1EB8DD0740496199E14C83ACB02A45E4CA1E9828375F72DE92CA9D26FD52CC2F"
+  },
+  {
+    "path": "content/uae_heritage/hard.psv",
+    "sha256": "AFEBE203A1034F86BC47CC4A7A1DEE2AC257E8826DC4FA3BD43391974CE78479"
+  },
+  {
+    "path": "content/uae_heritage/medium.psv",
+    "sha256": "AD1866DB2AB1B1595DB4D6768BB9058F68EE067E6F3AAF4C29B84FF3D3154A58"
+  },
+  {
+    "path": "content/uae_heritage/near_duplicate_candidates.csv",
+    "sha256": "4E0814CCA5B8B0DA529C9BB1EEF0A639454F486157092A41AC38E82B719766B7"
+  },
+  {
+    "path": "content/uae_heritage/near_duplicate_review.csv",
+    "sha256": "A2E3BFC3043B2074DC0862468CAF6B03F757E1EC7399732DB99424AE2204EC21"
+  },
+  {
+    "path": "content/uae_heritage/sources.psv",
+    "sha256": "6AEB29FADB9DE6680496555A101E5BD1AD98813C78DB45244D14F2DCDD1FDFE0"
+  },
+  {
+    "path": "content/uae_heritage/validation_result.json",
+    "sha256": "3B3DADF7E0C44106FFA9302D2D0E2395EEFF4A8215C9B6388A9813F59208C966"
+  },
+  {
+    "path": "tool/generate_uae_heritage.ps1",
+    "sha256": "7153478F3D2AE912E5D4EBB39F15FFFBF485586C7802E98D0B4E3F9F0B5CAD4A"
+  },
+  {
+    "path": "tool/validate_uae_heritage.ps1",
+    "sha256": "467140AA5F21749730A6B0C5E84560E87DC37B8411ECBF896582A7209A7AA9F6"
+  },
+  {
+    "path": "UAE_FOOTBALL_AUDIT.md",
+    "sha256": "F0F71BB1B6132AE5F8CFBF95147FCA4E2DD0002020242668ECB8649E0EF23186"
+  },
+  {
+    "path": "UAE_GENERAL_AUDIT.md",
+    "sha256": "D3C1A84DD4378E918A35F8204F24EBB9054118654673511367B0A381DC36B1BE"
+  },
+  {
+    "path": "UAE_HERITAGE_AUDIT.md",
+    "sha256": "06EEB134105FD1FAC3B111E1613948240C6D860A1A73A1E7DC078EB1D11E2976"
+  },
+  {
+    "path": "content/gulf_culture/cross_bank_candidates.csv",
+    "sha256": "370D129DFB702C4D0BA94949F55AA398E2EDCC772088A244FDCBB6B225DCF92C"
+  },
+  {
+    "path": "content/gulf_culture/cross_bank_review.csv",
+    "sha256": "4CE1415EE24EBB63F432ACB36CE0C1DA180D2C16E0C50C8340ADD9E157E96F4B"
+  },
+  {
+    "path": "content/gulf_culture/easy.psv",
+    "sha256": "56E4C653929560F77C3C45562BA26000A7DA337C7B6189638D50EB9D36C24015"
+  },
+  {
+    "path": "content/gulf_culture/editorial_review.csv",
+    "sha256": "9304D68FE0ED568692E82B76753E2D7FBA48026BAEA1EA307D95BD4C50894AD6"
+  },
+  {
+    "path": "content/gulf_culture/evidence_ledger.csv",
+    "sha256": "54A5272D735A296E6F85E06C372A73531401FFC725D53830DB96D9E39D81CC4C"
+  },
+  {
+    "path": "content/gulf_culture/fact_family_review.csv",
+    "sha256": "83A8EF321391CB82F67BC0CE44A6D2F99E01CF4B86DA48EEA9903EDD781B7AD9"
+  },
+  {
+    "path": "content/gulf_culture/hard.psv",
+    "sha256": "402691A46B4B2186389D463B63C788FE329AC082ECF45DE7ACDCE523099AF272"
+  },
+  {
+    "path": "content/gulf_culture/medium.psv",
+    "sha256": "66497D603565D842C4A5BE47C522AA979526228B918AD9A110D26E55473C3C0A"
+  },
+  {
+    "path": "content/gulf_culture/near_duplicate_candidates.csv",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "path": "content/gulf_culture/near_duplicate_review.csv",
+    "sha256": "94BB7BD4B7584497599C943E13DDDEF8D644BD60F4F8B74C8435CDA6918FA093"
+  },
+  {
+    "path": "content/gulf_culture/similarity_scan.json",
+    "sha256": "393518B5F39B0712E8C154E6766832050ABC6BB80E281DDB0B37E239F046CDD1"
+  },
+  {
+    "path": "content/gulf_culture/sources.psv",
+    "sha256": "7DDCB3CB2CFB2C46ADB034D221939014F0A960F3755A8CDCF7378C6B9F7DD63A"
+  },
+  {
+    "path": "content/gulf_culture/validation_result.json",
+    "sha256": "E78D6FFD35555B4DE4E8566FC1DEA2E083173053A9A56C5BD9F109C7BB21905E"
+  },
+  {
+    "path": "lib/data/questions/gulf_culture/easy_1.dart",
+    "sha256": "7FE723114A0C312D3B2094C339B6BC72210F1CD1BF079F817959A193909FC8EC"
+  },
+  {
+    "path": "lib/data/questions/gulf_culture/easy_2.dart",
+    "sha256": "A5EC1493796BB06521DD5EA8EEFFC5B28385D7F45B2EF3EEE0C84F6D626FBD89"
+  },
+  {
+    "path": "lib/data/questions/gulf_culture/hard_1.dart",
+    "sha256": "6D0D841D506DB90E58D995B56A11E5F21A1E04D2FA37ACFB12BD6A59E2B0AC2D"
+  },
+  {
+    "path": "lib/data/questions/gulf_culture/hard_2.dart",
+    "sha256": "6A712FE6C518254B306D5F6D09297D8F470BBA97E24E0F7B08F5A21B7F08FFD0"
+  },
+  {
+    "path": "lib/data/questions/gulf_culture/medium_1.dart",
+    "sha256": "964A6A61BEB18D4465CB8A7979FE184B6936B8FE80E9ED9C1BBB4D1F2D7DF3AF"
+  },
+  {
+    "path": "lib/data/questions/gulf_culture/medium_2.dart",
+    "sha256": "C28E2DFF498E143F17A50EACB240914F83088444EBC01749E787652FE18D77E5"
+  },
+  {
+    "path": "lib/data/questions/gulf_culture_final.dart",
+    "sha256": "9DDA9301A56810424E5E45086A65A5411148BC62F96A363901C8A82F83A829F8"
+  },
+  {
+    "path": "tool/generate_gulf_culture.ps1",
+    "sha256": "574EB0D9B7EC5D8F1F2E4E0BD35337D14E06946BFB6667D8E559A12F35942188"
+  },
+  {
+    "path": "tool/validate_gulf_culture.ps1",
+    "sha256": "5E11F04ABD60D6635134EE431ED7ECAB12A649C2DC2074F0B9CC73C9256F8120"
+  },
+  {
+    "path": "tool/gulf_similarity.js",
+    "sha256": "DD3BADD31746A25685A966B11E70E1099ABB767C5E732060BEAC594398FBAD97"
+  },
+  {
+    "path": "GULF_CULTURE_AUDIT.md",
+    "sha256": "94C467D84643807A6EB1D9EEC2005B80FB025DF247A378628AAA5D3E2643AF7C"
+  },
+  {
+    "path": "content/kuwait_general/cross_bank_review.csv",
+    "sha256": "5025536B1F8B699C8160F005100CC8FA3A75ADECC76DF5DB281DB694E464D014"
+  },
+  {
+    "path": "content/kuwait_general/easy.psv",
+    "sha256": "457ADABEFF2BA613EBCDDA76444305DE0DE32B55B5B72953A89AF6E114EAA92D"
+  },
+  {
+    "path": "content/kuwait_general/editorial_review.csv",
+    "sha256": "DBF8FEE1DE03A66856148ED7E937AE306EFA707D43DA828FDB4C30EA53A32AD1"
+  },
+  {
+    "path": "content/kuwait_general/evidence_ledger.csv",
+    "sha256": "115E2270603D0DA6E89D33FD55180A54D36D13DFA12DE500F4536743A3EE9420"
+  },
+  {
+    "path": "content/kuwait_general/fact_family_review.csv",
+    "sha256": "0D36C070B80971EC1D3820A8D633EB79EE71AF4BEBF172A907EA6F9703E92EEE"
+  },
+  {
+    "path": "content/kuwait_general/hard.psv",
+    "sha256": "32BE5A52A000440BF97FAE9F97D1FE07B74471C46EB6B3F1FF143714311AADCC"
+  },
+  {
+    "path": "content/kuwait_general/medium.psv",
+    "sha256": "1617CE57B6FFC251C055DA476354BFAB721FDDB8D511C5F039084C368A8C8152"
+  },
+  {
+    "path": "content/kuwait_general/near_duplicate_candidates.csv",
+    "sha256": "1B5C3A1152E0E178D3F4F2340BFBDFD34B60013A563ED231351632F2B4796D53"
+  },
+  {
+    "path": "content/kuwait_general/near_duplicate_review.csv",
+    "sha256": "4B3B3DE324A7A6FA49CDFD868E7CB1EF9E00217C73F7646E5741FE0D777CBED8"
+  },
+  {
+    "path": "content/kuwait_general/similarity_scan.json",
+    "sha256": "C50359FAC162DA3912D05815E5771FF1351C88A218DC043F1121D971689A78B8"
+  },
+  {
+    "path": "content/kuwait_general/sources.psv",
+    "sha256": "038EF861540B36D82F6A3A8CD5A00C0E2B128C43C156563F6DA70B8B32384A23"
+  },
+  {
+    "path": "content/kuwait_general/validation_result.json",
+    "sha256": "9746372ABD0BFBA6AFE6D2826B6F127F4465CB621B2BD6EC2F23988B750FC9F5"
+  },
+  {
+    "path": "lib/data/questions/kuwait_general/easy_1.dart",
+    "sha256": "2D6CCF0412B30BC36FE4DFF5C2A00565D21CD717F64D625F72B07B7A0F2970A1"
+  },
+  {
+    "path": "lib/data/questions/kuwait_general/easy_2.dart",
+    "sha256": "6110794DD99A87758F17D3101429C18A9C2A1424611948CECDD4615DDDA01AF6"
+  },
+  {
+    "path": "lib/data/questions/kuwait_general/hard_1.dart",
+    "sha256": "B00F7B841AFA5D36C8BF09A461658AE24817B4DF81553282BB769F9D19549AB1"
+  },
+  {
+    "path": "lib/data/questions/kuwait_general/hard_2.dart",
+    "sha256": "D92AE731CAD7DDEB27D133945AFD3CEBCB1670999A885770175FC130856F9D92"
+  },
+  {
+    "path": "lib/data/questions/kuwait_general/medium_1.dart",
+    "sha256": "B5A4B8A144EE5AEA8F1C3270BFE753D32959955000717FB7B439F91360664240"
+  },
+  {
+    "path": "lib/data/questions/kuwait_general/medium_2.dart",
+    "sha256": "740B86A9CA0EE9203F21BD000B62310BBF077F58FC1C48CA9A8672E3D96639F7"
+  },
+  {
+    "path": "lib/data/questions/kuwait_general_final.dart",
+    "sha256": "E0D77CD505D32AFD6E067DD94601A2D1FCF21CE132D24ADE590ECB22820F887E"
+  },
+  {
+    "path": "KUWAIT_GENERAL_AUDIT.md",
+    "sha256": "26E828B6819C50BBC5CD9436D40BC99060DECC3D705A4DFB77C78DCB59DDC90C"
+  },
+  {
+    "path": "tool/generate_kuwait_general.ps1",
+    "sha256": "5370A084F4AC06F3E1CFA25FF412899CAB3DB2FB4BD0B47A3532A18056382AD1"
+  },
+  {
+    "path": "tool/validate_kuwait_general.ps1",
+    "sha256": "36E4A9CF286C7F6FD121C1526B9CCB73E41DBE92B5EFE23B3E6A931A76C7D8A0"
+  },
+  {
+    "path": "tool/record_kuwait_editorial_review.js",
+    "sha256": "8C0F9B217823DD9252AA57487A5A1C57C09029E0044C3952AB492A8F2B0D780E"
+  },
+  {
+    "path": "tool/kuwait_similarity.js",
+    "sha256": "D0D37F6BF203AD722EB7ECBB1D4DE2EA051CE5B67FC076250D3F5F361EB58653"
+  },
+  {
+    "path": "content/saudi_general/cross_bank_review.csv",
+    "sha256": "E87A0EA43B738D0F4774BF2FE71DAF43175C2A14CA6C2298157AD5229FD1F86F"
+  },
+  {
+    "path": "content/saudi_general/easy.psv",
+    "sha256": "4875224B40D7A19B7167FCB97C717599A967542EC97ED8CA6E58680E2A174EE2"
+  },
+  {
+    "path": "content/saudi_general/editorial_review.csv",
+    "sha256": "EF8F1CBFC55A86ADE58CC59887CF485E27F2C477DA8D2D8926D10D4711F674D6"
+  },
+  {
+    "path": "content/saudi_general/evidence_ledger.csv",
+    "sha256": "7966B8F7660E989DD1061E9A7A2B028CC1AFD1CF7C26DC19C950608D0EC82967"
+  },
+  {
+    "path": "content/saudi_general/fact_family_review.csv",
+    "sha256": "1CC8A9A96D2EEFA786FC3BABC8B3C09934200BD7E3A48ECABFA1021993F29ECA"
+  },
+  {
+    "path": "content/saudi_general/hard.psv",
+    "sha256": "3DFD180B93FECCDF3E58D4346F11F133205443E08CEBF556ECD5A045A0FFCDFA"
+  },
+  {
+    "path": "content/saudi_general/medium.psv",
+    "sha256": "7BF31CE3D6A0CDE656F657B31692D8CB650D70FA6B0028901165BE93B8EAB687"
+  },
+  {
+    "path": "content/saudi_general/near_duplicate_candidates.csv",
+    "sha256": "36D112EEDEDEAB0126D1FD3DB05E38187E101C37D88E5778F5C11226180346EE"
+  },
+  {
+    "path": "content/saudi_general/near_duplicate_review.csv",
+    "sha256": "B13596769F0B96BD512848EE6CBE498DDDAD05B58E8371C1E8DCAE274958679C"
+  },
+  {
+    "path": "content/saudi_general/similarity_scan.json",
+    "sha256": "A65C065EEB369B91B70B0769124011DCC854606868652F37ADA7945C840AE948"
+  },
+  {
+    "path": "content/saudi_general/sources.psv",
+    "sha256": "B41B79D8D14FE87ED943A8FB6BF6446D695348A09DEAA36A9984EE53B2D05BA6"
+  },
+  {
+    "path": "content/saudi_general/validation_result.json",
+    "sha256": "7AC5353DA5B9CD6E01B302877E042F08061159273D29D4EDE95C3216877A1CCF"
+  },
+  {
+    "path": "lib/data/questions/saudi_general/easy_1.dart",
+    "sha256": "BA1E1D80A27E30467644C8B9023624DE8490F8A158832BF92F4FF201EC6C41AA"
+  },
+  {
+    "path": "lib/data/questions/saudi_general/easy_2.dart",
+    "sha256": "C79E81D587596E88D7F7E7D299B02F0885E569EEE3561E5A0CF24CD41E0C82AE"
+  },
+  {
+    "path": "lib/data/questions/saudi_general/hard_1.dart",
+    "sha256": "F96A504A538564364A8763061554AD86D359E9D8C0D338B3470BA3A36EF868B6"
+  },
+  {
+    "path": "lib/data/questions/saudi_general/hard_2.dart",
+    "sha256": "8EC92345508399D1E4D25C98C7B2E77C3F2BC558626E0D00F676D0BC119C50F4"
+  },
+  {
+    "path": "lib/data/questions/saudi_general/medium_1.dart",
+    "sha256": "9F69DE6329B4ED98C9C5D31B6215A7B0E0585DD4475D68DD43621618BA8788D2"
+  },
+  {
+    "path": "lib/data/questions/saudi_general/medium_2.dart",
+    "sha256": "8B8133FBA136D34DC7AE7838AC1D7D9781A2F0D3630CD029AA83D55A5167D9F5"
+  },
+  {
+    "path": "lib/data/questions/saudi_general_final.dart",
+    "sha256": "A3C960F367695DE80ECF6AA4CDBCF810713326420A1477C4DB48D3561EF1E83B"
+  },
+  {
+    "path": "SAUDI_GENERAL_AUDIT.md",
+    "sha256": "2E267A801FAE21D2A53E50C1DA7D7FD551769FD02E97EF1DB7280C3C5A7CBA53"
+  },
+  {
+    "path": "tool/generate_saudi_general.ps1",
+    "sha256": "82FFA9278AFAA6C23D0F7EA9B0429D217EBBBC0F81DF29FAB31DCC2F0983DD73"
+  },
+  {
+    "path": "tool/validate_saudi_general.ps1",
+    "sha256": "25A2910F83BB8BAD4996070286287AEED7AF6F069FB047C962E42719E5D9EE15"
+  },
+  {
+    "path": "tool/record_saudi_editorial_review.js",
+    "sha256": "75A1AB5C6982BA5E6D7373B3EB897E9D6F04A5974FF0100FDE9CE8F2D304D39E"
+  },
+  {
+    "path": "tool/saudi_similarity.js",
+    "sha256": "413B3E2A1AF22E5FDD781D7A407B922CE966F5DD7B5A874AFB16944FBD514C53"
+  },
+  {
+    "path": "content/uae_pro_league/afc_2015_guide.pdf",
+    "sha256": "4D391A967CBD59D7BC8A20D1586A9634ABD3A45E2418938920B3830D15683FCB"
+  },
+  {
+    "path": "content/uae_pro_league/afc_2015_guide.txt",
+    "sha256": "3562F63295EF4E7B6D002D65E1F9E8C3CF5287B518798BA7D8AD4643DDF4F24A"
+  },
+  {
+    "path": "content/uae_pro_league/cross_bank_review.csv",
+    "sha256": "AA9C01C74A3A03080F9E1A546F2725093ADDC1CD3716BA5725134E49D0A5116C"
+  },
+  {
+    "path": "content/uae_pro_league/easy.psv",
+    "sha256": "7B465B2D6034ADFD2CB275C56A9523940534D1D7385DCE55E030BF4AB63DFA61"
+  },
+  {
+    "path": "content/uae_pro_league/editorial_review.csv",
+    "sha256": "59EF9CAFCDF9348D7F656757B678BB0FC25C863B74BEDD85E7A9C9C63E57C944"
+  },
+  {
+    "path": "content/uae_pro_league/evidence_ledger.csv",
+    "sha256": "738848E41382382E19D9A484B2464CEE4EB5C26C1247B4866EAE39F56D7ECAE2"
+  },
+  {
+    "path": "content/uae_pro_league/fact_family_review.csv",
+    "sha256": "15ACEA18D21ADE02711DF840B40AC3993D0EC0DA19342868328427A9DE6C3F25"
+  },
+  {
+    "path": "content/uae_pro_league/hard.psv",
+    "sha256": "C3EB58CCDC2BC1CB30D202ADBF8BDC6944BBCD3E6FBC7C27F13934819718A8D4"
+  },
+  {
+    "path": "content/uae_pro_league/medium.psv",
+    "sha256": "E3C5BEDDCAF5B85543AEDF294CA8234660424DDE73256ED820291735816349AF"
+  },
+  {
+    "path": "content/uae_pro_league/near_duplicate_candidates.csv",
+    "sha256": "01D8469988304085A7FCAB0F202D990E66D11CCD3FCA4BB1AB8B26FCC2DF59EF"
+  },
+  {
+    "path": "content/uae_pro_league/near_duplicate_review.csv",
+    "sha256": "232CF6AC62B1E16A6D8DFFAB64CE35296B4CE6F3001EEA39EA9283D3C1ADF279"
+  },
+  {
+    "path": "content/uae_pro_league/similarity_scan.json",
+    "sha256": "5315E608EB39E0BE773F36ECBED565A4A1769B3E3C85E467E05CF4238D63E6CB"
+  },
+  {
+    "path": "content/uae_pro_league/sources.psv",
+    "sha256": "83ACCDA0146CFF1DD1F4D7CAA5DA6405AAD3334599F2C2C59DF984A6E820791B"
+  },
+  {
+    "path": "content/uae_pro_league/validation_result.json",
+    "sha256": "479F830A0E25BF11F1DEACAFDB084D19BE62934218EB76969893E36B377C0EA6"
+  },
+  {
+    "path": "lib/data/questions/uae_pro_league/easy_1.dart",
+    "sha256": "64691327036903AE0C434F1DB6B3179661D4A8D98DE6A56745A502E58166A67F"
+  },
+  {
+    "path": "lib/data/questions/uae_pro_league/easy_2.dart",
+    "sha256": "BFC22F83D633B62BA49F9B123E64913628D36DE48221F40DD8982F50CA6B2247"
+  },
+  {
+    "path": "lib/data/questions/uae_pro_league/hard_1.dart",
+    "sha256": "D1D86311676ABECC88370896529075DB6523D3E6EE258EDCC38D59DA0825164E"
+  },
+  {
+    "path": "lib/data/questions/uae_pro_league/hard_2.dart",
+    "sha256": "A8CF8AA71028E4A3805B7BDE3E33BE329A006DE88A9ECE25343EC1808E39202D"
+  },
+  {
+    "path": "lib/data/questions/uae_pro_league/medium_1.dart",
+    "sha256": "EF56496FD03358C5FCAE1BC05C629CB86FEBEF7F68235DC0F46DA03D05B20ABA"
+  },
+  {
+    "path": "lib/data/questions/uae_pro_league/medium_2.dart",
+    "sha256": "1D11A14C6EB5D65339F5251C8CDD1C6AA7D8B6BCA19883A67072EF9320CFD83A"
+  },
+  {
+    "path": "lib/data/questions/uae_pro_league_final.dart",
+    "sha256": "062F69591069F144A7E610BF03791FDAB73A364F4B1881813CA3D119A475A838"
+  },
+  {
+    "path": "UAE_PRO_LEAGUE_AUDIT.md",
+    "sha256": "D7B862E7FC11DFC152B755CAB6E992BE355E5EB1451EC614E728899B5872CAE4"
+  },
+  {
+    "path": "tool/generate_uae_pro_league.ps1",
+    "sha256": "D4817FFBD62F7FCA2B2B7608E73EE48E7E862FCCEE2E2F10734780FF34713A9F"
+  },
+  {
+    "path": "tool/validate_uae_pro_league.ps1",
+    "sha256": "BC6AF86795944D9F5512F71AB3D547CA399A62CF54E0E64F4A962F188A49A81D"
+  },
+  {
+    "path": "tool/uae_pro_league_similarity.js",
+    "sha256": "831F6B5B462133B448DB8CA8E318B450BBF20942DFC449588BC789A372B91B6C"
+  },
+  {
+    "path": "tool/record_uae_pro_league_editorial_review.js",
+    "sha256": "ADD46703BB9C14F5D73F0783944F60EEDDEAB309A2616D943D6EA33370A7609C"
+  },
+  {
+    "path": "content/premier_league/cross_bank_review.csv",
+    "sha256": "0C13C8B401AF55F073780BA92426560ADB115ABE1BB2AE648A87C8445EE6958D"
+  },
+  {
+    "path": "content/premier_league/easy.psv",
+    "sha256": "6E3843726E12D2DD19762416A62F68C1BB05E7B83F64F76A06A5F6A20A806A6D"
+  },
+  {
+    "path": "content/premier_league/editorial_decisions.json",
+    "sha256": "126229092FB3BE25526ED5458F33B15C924FD70E3288AD5083172FEDE6A03D96"
+  },
+  {
+    "path": "content/premier_league/editorial_review.csv",
+    "sha256": "F63393F2B2341C1768B1AAE0C2CA80A4609568177852AA922E1562920523A67C"
+  },
+  {
+    "path": "content/premier_league/evidence_ledger.csv",
+    "sha256": "767D66A182606036D14F37524D55B59002D1B85BD00DC24080CC8EAC8F2E7E81"
+  },
+  {
+    "path": "content/premier_league/fact_family_review.csv",
+    "sha256": "1B55E8F94D7129E7C8B88812625DF02AF72A3A26C35EDB4EE9BF4AE0BBCB4935"
+  },
+  {
+    "path": "content/premier_league/hard.psv",
+    "sha256": "426C2D1E7EF84E482EDD83DF80CB9762432E3C9C83432B183355EE8E302030EB"
+  },
+  {
+    "path": "content/premier_league/medium.psv",
+    "sha256": "931F7D13711A35A440B6E3AE5D6A241388391B330BF89803221A78319A1333C1"
+  },
+  {
+    "path": "content/premier_league/near_duplicate_candidates.csv",
+    "sha256": "1705AABE01A76D2A993A9319085EFBAB568111EC2CBFB609C70CFBC2B45A353A"
+  },
+  {
+    "path": "content/premier_league/near_duplicate_review.csv",
+    "sha256": "DC6686A22DFDBD5914DE10D045D0B1460953CE9777E2DC27AD3878B53020D3C5"
+  },
+  {
+    "path": "content/premier_league/similarity_scan.json",
+    "sha256": "5902F0BECA34AA527A34427D179B377B184F02B49D9E14D86275D74AC118B986"
+  },
+  {
+    "path": "content/premier_league/sources.psv",
+    "sha256": "C3048892552BBA9693487A576AC8C77A042D95C0C3743B724465B54E2D10EF11"
+  },
+  {
+    "path": "content/premier_league/validation_result.json",
+    "sha256": "444029B93E94C542C50872F445AFF830450FA468498A82338BB5A2E90D3428F8"
+  },
+  {
+    "path": "lib/data/questions/premier_league/easy_1.dart",
+    "sha256": "30C2735F58CD775C22E003133E1D5C700C34A90B5204902E43D651460635E3D0"
+  },
+  {
+    "path": "lib/data/questions/premier_league/easy_2.dart",
+    "sha256": "3CA44AEA3BFFFCA33A87D03582C5166FCFBFABB5E30F6A80D4CDBD7B312796FA"
+  },
+  {
+    "path": "lib/data/questions/premier_league/hard_1.dart",
+    "sha256": "278B327EE1DB7A434EF7DD30ACFDB8FFCAAD84E5653CFB884FFDC3C44CE672B6"
+  },
+  {
+    "path": "lib/data/questions/premier_league/hard_2.dart",
+    "sha256": "89E36C0F37BCB6A416E5D67F3C0FF041D359DAE7308F861B5C2457937E2C47A5"
+  },
+  {
+    "path": "lib/data/questions/premier_league/medium_1.dart",
+    "sha256": "F4161FD172FDBA151DD666038E92D60DBBCAEC3C99F020947F8F44F86E58E40C"
+  },
+  {
+    "path": "lib/data/questions/premier_league/medium_2.dart",
+    "sha256": "9FAD02A392691CA070D150EA84079F71609462049914F69F138AF063EE0A6E7E"
+  },
+  {
+    "path": "lib/data/questions/premier_league_final.dart",
+    "sha256": "2A68B8CA08221344845A5CBDAE707B54209A76C8D64185A782151AF6A94AB52A"
+  },
+  {
+    "path": "PREMIER_LEAGUE_AUDIT.md",
+    "sha256": "5DD7D23A4C478CBDFEC8BA2B0ECCD94AF7E2D47BC2E284ED2BE9F771401158C3"
+  },
+  {
+    "path": "tool/generate_premier_league.ps1",
+    "sha256": "7998F1E7C27A2520E31E0F50A5798FEB790230256DD537026106191B401D7F19"
+  },
+  {
+    "path": "tool/validate_premier_league.ps1",
+    "sha256": "00CEFBFA0310CEA4D4D20D46CC7E56A1A5EE741FF47F05EF21D383AFDD10F09C"
+  },
+  {
+    "path": "tool/premier_league_similarity.js",
+    "sha256": "C9FCD3B67C6138CEBBA333F8E9873CB2A9E3A9AEECA18E3B32410E4A8DD03CE1"
+  },
+  {
+    "path": "tool/record_premier_league_editorial_review.js",
+    "sha256": "7E7FC3549E83EC98844A02D20D664D82654C92CE91D3C963B40D30C62E565B2D"
+  },
+  {
+    "path": "content/la_liga/cross_bank_review.csv",
+    "sha256": "F631F2315B7BD9D6A77637DA9DAEC8DCEE5E1C82C3DD502A320E6E45C371F306"
+  },
+  {
+    "path": "content/la_liga/easy.psv",
+    "sha256": "A8CE9C8B9F0D8CC70D69973F07C8EB973BD392FBBA85E25D54A80302D61472B3"
+  },
+  {
+    "path": "content/la_liga/editorial_decisions.json",
+    "sha256": "668501D66EB36F1B46C749733E40F3C282707A2C6AC3330E4887DDDB5A3A83A4"
+  },
+  {
+    "path": "content/la_liga/editorial_review.csv",
+    "sha256": "C7E0B0D4ADA3F1FD172AA108C66EC4BE3535874EE350ED390152CF8DF9803651"
+  },
+  {
+    "path": "content/la_liga/evidence_ledger.csv",
+    "sha256": "2324004930BB7566CCE00DF642778C5C1FAE62F06CD0C1CD787E1B795A954AAF"
+  },
+  {
+    "path": "content/la_liga/fact_family_review.csv",
+    "sha256": "0A1335457B03ED653D38A35146BCA03BC77A5802A63D0192A29A92379794B260"
+  },
+  {
+    "path": "content/la_liga/hard.psv",
+    "sha256": "65AA027C9E2673F33534CBB52091790CC274F00E01611341ED5BE1F0FC4058ED"
+  },
+  {
+    "path": "content/la_liga/medium.psv",
+    "sha256": "C5E78A5C8E0384672EF8D0F3E731077BAAE7B3A81A0F09C6CAC9D7651EFC3A07"
+  },
+  {
+    "path": "content/la_liga/near_duplicate_candidates.csv",
+    "sha256": "7CC80ED71E4724EF79342C1F0148C2B75248D8514F0850EC93C234F0DBF6F4EF"
+  },
+  {
+    "path": "content/la_liga/near_duplicate_review.csv",
+    "sha256": "924F6AA599BC79FB8D713648689AAB7F41DEAA3DB5267909BF1EB5F869547CE1"
+  },
+  {
+    "path": "content/la_liga/shared_answer_candidates.json",
+    "sha256": "30400FC0FC6F7BFC3D8CFABD9B116EE05716A09772FA6B751C8DEB6F4A35AE69"
+  },
+  {
+    "path": "content/la_liga/shared_answer_review.json",
+    "sha256": "B2D99F1DD92DD220F1196695EDB7A792A5AA4493009AF77DA4B7B80A02A7030F"
+  },
+  {
+    "path": "content/la_liga/similarity_scan.json",
+    "sha256": "3E90D0E6EC342FDE6DBC882FD3E38387C56E4696D2C8730732B763FF80029208"
+  },
+  {
+    "path": "content/la_liga/sources.psv",
+    "sha256": "0886FD1C71039956BF568C18BCC58380AF3CE629DB860EEBDE1D9ABE5AB24DD6"
+  },
+  {
+    "path": "content/la_liga/validation_result.json",
+    "sha256": "49F8F14D9DC9482F2AA7179FB4ED7B83CEF2E1FB5CD2A524D3BA93D8D6764C18"
+  },
+  {
+    "path": "lib/data/questions/la_liga/easy_1.dart",
+    "sha256": "5B587507C1D2642D159CA64C535BDBD6D8591B17456DA15C80161460A2878AFC"
+  },
+  {
+    "path": "lib/data/questions/la_liga/easy_2.dart",
+    "sha256": "4E4E4CDF98337683A92ECF15E34C12FF0A2D9CE8923D6EAA94314DBAE03337F0"
+  },
+  {
+    "path": "lib/data/questions/la_liga/hard_1.dart",
+    "sha256": "98AE9DDFA2894478F92AB93D79F5894E7D1A0A3B99934C8153EF426BB321E408"
+  },
+  {
+    "path": "lib/data/questions/la_liga/hard_2.dart",
+    "sha256": "40ECC291FC1DE876FE278CE3CD49873FCD686778EEA6A47F15F73E57D027B96D"
+  },
+  {
+    "path": "lib/data/questions/la_liga/medium_1.dart",
+    "sha256": "A23E69B46823E70021787DC75A79D57E6A03BB422752087B61019AA65EB85B84"
+  },
+  {
+    "path": "lib/data/questions/la_liga/medium_2.dart",
+    "sha256": "7584AB9CA18F28164723673C5C7FA89D92FBD2DDC10B5B415D900EFC61B686B2"
+  },
+  {
+    "path": "lib/data/questions/la_liga_final.dart",
+    "sha256": "6692268FB38F455B61E35EE11BA3F5233CB1B6854DFFF43431D6A76210EAD2B3"
+  },
+  {
+    "path": "LA_LIGA_AUDIT.md",
+    "sha256": "13665F96F35213AFD24604E4E8210C6A3DB01F0B66F749DDE087189361A0C673"
+  },
+  {
+    "path": "tool/generate_la_liga.ps1",
+    "sha256": "59D030B98DD11E50D01486B9160F7CE939E494332A8ACDDB0E7A131D1B1EEFE5"
+  },
+  {
+    "path": "tool/validate_la_liga.ps1",
+    "sha256": "0F491FA6EE0B3DACF006676AB0B93774B6E40E8BEEDF25F57E2DB900295380C8"
+  },
+  {
+    "path": "tool/record_la_liga_editorial_review.js",
+    "sha256": "66953052A9B9BAD6ADB57B55F8CE1C338525099E49EADB44E35D29F33A669BBC"
+  },
+  {
+    "path": "tool/la_liga_similarity.js",
+    "sha256": "7549B2C9769000DC3F0A4BE36B599EA09DDBB19419BDBA63FFA4669078554A82"
+  },
+  {
+    "path": "tool/la_liga_shared_answers.js",
+    "sha256": "521D75159EA81318796F4D43D247B802CDDA1948B80FAE6D56FAF100E673DDDC"
+  },
+  {
+    "path": "content/serie_a/cross_bank_review.csv",
+    "sha256": "AF307866B8A0128F5A293DCBEDD8C06BEF820159197BE12AC4E566833F1C3F86"
+  },
+  {
+    "path": "content/serie_a/easy.psv",
+    "sha256": "D9C8F3D102937E1DE548CBCA58F0B1F4E0650E906F868A35D1987834E81125A4"
+  },
+  {
+    "path": "content/serie_a/editorial_decisions.json",
+    "sha256": "C127D38E2291813819078E6D4D637701C238606CE8731DF508A527E17EA03FF2"
+  },
+  {
+    "path": "content/serie_a/editorial_review.csv",
+    "sha256": "BC9C4CB25303E9C45B04990ACDFF9AB260E8014320979BDD6E9B52C236F1FE18"
+  },
+  {
+    "path": "content/serie_a/evidence_ledger.csv",
+    "sha256": "A80E847F87CAF65080BCA13AC871D7F0373178375B2E4F6CEDF909366D107E61"
+  },
+  {
+    "path": "content/serie_a/fact_family_review.csv",
+    "sha256": "F040830873853AA624B62DF18AAD39F1C0434B68852380F0A55A91F9A4F54385"
+  },
+  {
+    "path": "content/serie_a/hard.psv",
+    "sha256": "74447497E5866D612071B8D67F333E19CD1D090BFEFDA61FE2E8A0839C588EE6"
+  },
+  {
+    "path": "content/serie_a/medium.psv",
+    "sha256": "0A28875274099BB809907D6363D15051FD1BA8B0461492B3FDDC75203A3E7BFD"
+  },
+  {
+    "path": "content/serie_a/near_duplicate_candidates.csv",
+    "sha256": "7689CF5CCFE3608F06403A36598958FFF354DE25A0BA9BAF43A4428E6C59CE2E"
+  },
+  {
+    "path": "content/serie_a/near_duplicate_review.csv",
+    "sha256": "81FD216626A77EC3D6D7FABAECD6B6D3BFAFC3A0A9E2C58C42B2D089A53E20D4"
+  },
+  {
+    "path": "content/serie_a/scan_output.json",
+    "sha256": "4E332DFEB465369A98E245063FF297368251373DE350F692F1132D933DAE0071"
+  },
+  {
+    "path": "content/serie_a/shared_answer_candidates.json",
+    "sha256": "08943E5DCD8A2E94B6A18A17055588500B620C38006152B53E3D8778F75EA97D"
+  },
+  {
+    "path": "content/serie_a/shared_answer_review.json",
+    "sha256": "FE8734A510C637083A1D6493D6302B5B327978359BEEDCAEF58AF5E14F19FBF2"
+  },
+  {
+    "path": "content/serie_a/shared_output.json",
+    "sha256": "A05BBA6E01DED23FDC8FF4214F2F8D782A6AE43F534FD2DE99A9EFFC1FB0402B"
+  },
+  {
+    "path": "content/serie_a/similarity_scan.json",
+    "sha256": "4E332DFEB465369A98E245063FF297368251373DE350F692F1132D933DAE0071"
+  },
+  {
+    "path": "content/serie_a/sources.psv",
+    "sha256": "290C90A76DB48B7EB352064B61FF7AFE06EBF45B866C46B0EC7515AEAB2D4534"
+  },
+  {
+    "path": "content/serie_a/validation_result.json",
+    "sha256": "6FE9A10DA8E7F5E70CE8EF9BD8023335EAEB15BFE01F51682C33A31F6C35F5BA"
+  },
+  {
+    "path": "lib/data/questions/serie_a/easy_1.dart",
+    "sha256": "AF69DB71C3C5A1F003578EB74823704267B6A1AAD63E8E535B21ED48E0959262"
+  },
+  {
+    "path": "lib/data/questions/serie_a/easy_2.dart",
+    "sha256": "0C97775A00FB7C9836D9578087E262C1E4EE2AA09A29CDF638A0C60737226B8D"
+  },
+  {
+    "path": "lib/data/questions/serie_a/hard_1.dart",
+    "sha256": "BCCC6881FEA9C13DC65CA4B92332017FE937A890CE4BAB3F6515578F91311FDD"
+  },
+  {
+    "path": "lib/data/questions/serie_a/hard_2.dart",
+    "sha256": "B6B216B0CD161753706FA56F76AFD198FA71010B1FA52C0335BCB6E1600A4542"
+  },
+  {
+    "path": "lib/data/questions/serie_a/medium_1.dart",
+    "sha256": "EE3A1BD4B0A0E60FE05FA5666583172659B711A2D09D470100587F08AF81407B"
+  },
+  {
+    "path": "lib/data/questions/serie_a/medium_2.dart",
+    "sha256": "5EEA08767D9F9BE63C8C33D0F1771D3A639EDB743B728042FD33ED49EFA51A44"
+  },
+  {
+    "path": "lib/data/questions/serie_a_final.dart",
+    "sha256": "911B010C9DD2E0345ECE5804594F6181338D6CD552C32660780CD00ABAC96A31"
+  },
+  {
+    "path": "SERIE_A_AUDIT.md",
+    "sha256": "AC85222CCA245954284FCA06F67A5C88E7403AA44EF1674EEC131088C8E7A20C"
+  },
+  {
+    "path": "tool/generate_serie_a.ps1",
+    "sha256": "7610F4236DBD5B8C8FE7013BB874EEA939196CEB3E88215E22B4D1E09D691C37"
+  },
+  {
+    "path": "tool/validate_serie_a.ps1",
+    "sha256": "5CE8C6EB6D8C36D0B3924BC8CFC30481EA72926F04A9F13EABD8D10E6686B641"
+  },
+  {
+    "path": "tool/serie_a_similarity.js",
+    "sha256": "E5C7FF882DA1DE8BBC78D2F6EDC358C33C9B3A79C632373B9493ECF6DA30CA76"
+  },
+  {
+    "path": "tool/serie_a_shared_answers.js",
+    "sha256": "47F0A4DA9483BB92CF475638BD0D4F2C22AF5A34DA70470F7E35DB1635608759"
+  },
+  {
+    "path": "tool/record_serie_a_editorial_review.js",
+    "sha256": "AA3F4FA707FF9459000E688BA11B1B22AB6ED6CA0EC67F071B0562D10EF551D1"
+  },
+  {
+    "path": "tool/prepare_serie_a_review.js",
+    "sha256": "B0219462DE328AA93DA39A293525B5C8C7FAB04594FFA0B1A4A4DA7E8F3262E2"
+  },
+  {
+    "path": "tool/review_serie_a_pairs.js",
+    "sha256": "899B1D225DD89E9BC7CB89E50617BCA599064002FA6B2C01918B5F6321D58AC3"
+  },
+  {
+    "path": "tool/finalize_serie_a_difficulty.ps1",
+    "sha256": "DCBB99CAE02AC4BE2FC2FE24C774CE9A210C352494E9C3F5964D0CCE2E5C67C4"
+  },
+  {
+    "path": "content/bundesliga/cross_bank_review.csv",
+    "sha256": "463A52D325AF836258D0C06693CB30425EAD6C6D00737CC355CBA7AF099AAD2D"
+  },
+  {
+    "path": "content/bundesliga/easy.psv",
+    "sha256": "6D9115E734F5925E0F1DFDA69B376A34BFDCE4AEDF93C844106B9D792ADA384D"
+  },
+  {
+    "path": "content/bundesliga/editorial_decisions.json",
+    "sha256": "7E4C846641A948F0DA0617D621C3494D83F960A720AF9E186D357C38ECD1515B"
+  },
+  {
+    "path": "content/bundesliga/editorial_review.csv",
+    "sha256": "EB632AE9600D4E96DAB1B8484D6E2FA754B0366D5C16BCCD5252401C3D770BCF"
+  },
+  {
+    "path": "content/bundesliga/evidence_ledger.csv",
+    "sha256": "1DED98B4C848890BA49E3BB24E2B74B20DAFBD8919612167A53BE91EE5D79610"
+  },
+  {
+    "path": "content/bundesliga/fact_family_review.csv",
+    "sha256": "DC5AA50FF05EFAC1B6B0DF562C131D16BF0424E59BF4AA55C54B08533E7CD1BC"
+  },
+  {
+    "path": "content/bundesliga/hard.psv",
+    "sha256": "F0139EE3170F392414EDB834C4FA5806DE34CF3A2AC26AFE86A18B80001C9548"
+  },
+  {
+    "path": "content/bundesliga/medium.psv",
+    "sha256": "90F71649FBC0F031DA85EDF2A205C084F08ECE90B3DF60910A7790AAD4FAF6CD"
+  },
+  {
+    "path": "content/bundesliga/near_duplicate_candidates.csv",
+    "sha256": "E32D0A1D1BFF53F3499167EDBA5D2464DED17A2E1D12D6E6F707D87FC409A893"
+  },
+  {
+    "path": "content/bundesliga/near_duplicate_review.csv",
+    "sha256": "FABA81C583E36790ADE9BAFD3B68DF1967EF52293392DA331B9ADAFC734BB421"
+  },
+  {
+    "path": "content/bundesliga/shared_answer_candidates.json",
+    "sha256": "08C287B5C3CA41018041BC32C68DC013A2CC6D4C4007B4DA19CB1A340D9E2A72"
+  },
+  {
+    "path": "content/bundesliga/shared_answer_review.json",
+    "sha256": "C19DBA2A345DDC3D49DBF799A5711531A18204C60CC90E8E927AB91F1C7EE190"
+  },
+  {
+    "path": "content/bundesliga/similarity_scan.json",
+    "sha256": "B2BE1C4ACC5F69351008DD71228E1881AC17FB815222C5176C86379C1EBC475D"
+  },
+  {
+    "path": "content/bundesliga/sources.psv",
+    "sha256": "040EA1D9622F8C6174CDF93E9E9878B8C660A6B182F65141A6A826E0DF3C9C74"
+  },
+  {
+    "path": "content/bundesliga/validation_result.json",
+    "sha256": "04FD45DFDDAC2F1E8C4994E13E001E3897AA6FEAA5C9B0C89F65711CC50C87C0"
+  },
+  {
+    "path": "lib/data/questions/bundesliga/easy_1.dart",
+    "sha256": "0A64A764F18DE0A837AD969D2B1969F30635AC08CBA01333B46C480848667294"
+  },
+  {
+    "path": "lib/data/questions/bundesliga/easy_2.dart",
+    "sha256": "95CBFFB6CB800C702E4445F7A99910CD0A17A4902A9B13C60E4A214B65C33C6F"
+  },
+  {
+    "path": "lib/data/questions/bundesliga/hard_1.dart",
+    "sha256": "5B1DEF88D193545A49F83A7DECF2AE80DBE508C3750093D88D82C24D5C6C0352"
+  },
+  {
+    "path": "lib/data/questions/bundesliga/hard_2.dart",
+    "sha256": "81CB1CAA1D11DB5D648B1D8CFE48FDC56AE414CE7288C3F4A2560618CA9E3E36"
+  },
+  {
+    "path": "lib/data/questions/bundesliga/medium_1.dart",
+    "sha256": "B4FB967A41C5E7454D4D0681B0251AA0F43F16FE41C37A899C93B9917C1D55AF"
+  },
+  {
+    "path": "lib/data/questions/bundesliga/medium_2.dart",
+    "sha256": "33340A9F0B63E985C5F7E8B5FB7C7AD428E53A7B4D05CF9B4BBDDF0901251788"
+  },
+  {
+    "path": "lib/data/questions/bundesliga_final.dart",
+    "sha256": "D7DBDAF3354941A17F7F5495E10015649DDC1C7E7F3CE781CD1A970E42098CD5"
+  },
+  {
+    "path": "BUNDESLIGA_AUDIT.md",
+    "sha256": "0363E294899619DFF98CB17D5D2561318AF1822BBF7CB54C49953D9941CB0A59"
+  },
+  {
+    "path": "tool/generate_bundesliga.ps1",
+    "sha256": "5555F9B2A054F11A2D700AD82DF71C4651E5F5689C63DA4971CF5DCD37E743A1"
+  },
+  {
+    "path": "tool/validate_bundesliga.ps1",
+    "sha256": "4C4754F82CD9756FFA2FCE3440F842214F1040497FAACB5775CB654EF54944F5"
+  },
+  {
+    "path": "tool/bundesliga_similarity.js",
+    "sha256": "B54EE3C81109F02852FA87EC0E9C286C2919B851204FCCD222F47FF9D0952F47"
+  },
+  {
+    "path": "tool/bundesliga_shared_answers.js",
+    "sha256": "E9F34784F7A27D82CC1727DBC463D873EBA175CDD6F540B88D2C174AE3BC70C1"
+  },
+  {
+    "path": "tool/record_bundesliga_editorial_review.js",
+    "sha256": "372C043FFB7E85B519DF4336F4CE814C1BB3200B044A71BBD19096BEE1E23B74"
+  },
+  {
+    "path": "tool/review_bundesliga_pairs.js",
+    "sha256": "C27EBD8268D2B3AB5241972CBA6A861CC40692BFDA0523CAB5EB3DA9287DFC36"
+  },
+  {
+    "path": "tool/finalize_bundesliga_difficulty.js",
+    "sha256": "AAFFB7DD1E608DFAC0ABDBB59616DBFB8EBCA0E6A6E0B90A646339358D55618B"
+  },
+  {
+    "path": "content/ligue_1/cross_bank_review.csv",
+    "sha256": "CA542924EA4C9E1AD834728BDB747F8A5D243D373DA0E8EB62A28DBBA031372B"
+  },
+  {
+    "path": "content/ligue_1/easy.psv",
+    "sha256": "D3EA0A20158A5C98E0F263CE846375685D8D2A8108DDE798D1D8C7DD59DBADD7"
+  },
+  {
+    "path": "content/ligue_1/editorial_review.csv",
+    "sha256": "8C1B379C1FBBFDC3621D38F6CA5BB975A9C9BAE1C215D11595658FEA4D2315D9"
+  },
+  {
+    "path": "content/ligue_1/evidence_ledger.csv",
+    "sha256": "B9EEC2D5EF78D6EAD2F134A321243687712F30F6E4D10476CD8E87E0EBD695B2"
+  },
+  {
+    "path": "content/ligue_1/fact_family_review.csv",
+    "sha256": "ED2933684CEA88FB377B1817D0EBBEE18F06D1D61BD49D1CEFD80174E81118B8"
+  },
+  {
+    "path": "content/ligue_1/hard.psv",
+    "sha256": "8BD7818C5BFBC3D877DCCD62F57A42623C205BC982D2B3F646FCD85D80B38DF6"
+  },
+  {
+    "path": "content/ligue_1/medium.psv",
+    "sha256": "87743D7BFC915DD2BF076C736CB039D0BFE15030FB8958286AB718FC7E3DA783"
+  },
+  {
+    "path": "content/ligue_1/near_duplicate_candidates.csv",
+    "sha256": "CE5654C71D31954FCD6C6DEE972902A3D72F786408020B44766C875D5FAFAABE"
+  },
+  {
+    "path": "content/ligue_1/near_duplicate_review.csv",
+    "sha256": "F9CC10D7B1E24FF24B2C208E7C2B43F7F4D0EF1059E6F649D86FEF088B8CB51E"
+  },
+  {
+    "path": "content/ligue_1/shared_answer_candidates.json",
+    "sha256": "DC132AD8546274BD6B4763CBA280D18D1E0DCE74B41E1BDC4530F88FF7DA7703"
+  },
+  {
+    "path": "content/ligue_1/shared_answer_review.json",
+    "sha256": "2188C61A76325356F61AD638ABD581445A7F9091ED7E921CCD845D467FD82AD7"
+  },
+  {
+    "path": "content/ligue_1/similarity_scan.json",
+    "sha256": "ADA8398D400C3A507EC1E2C273BB1083BB420AC66CADD0F987C79F151EFCC6AD"
+  },
+  {
+    "path": "content/ligue_1/sources.psv",
+    "sha256": "D917D8CAD4E276008D1A9747F953D46FE23F97D2C30345E60207274A3BEB5664"
+  },
+  {
+    "path": "content/ligue_1/validation_result.json",
+    "sha256": "8E3174450FAC69CEA5DE6535E2D31D74D27305A4947B1EFF2B71D905A65AC296"
+  },
+  {
+    "path": "lib/data/questions/ligue_1/easy_1.dart",
+    "sha256": "C2288F42648B17488ADDEC56CDA4357A68ED9C22239CBB60207E6E30CC0C6E00"
+  },
+  {
+    "path": "lib/data/questions/ligue_1/easy_2.dart",
+    "sha256": "F3162ABAFE760B92F48B97CDA02B62D723466DABC00223547BCEEE9C085EA0EA"
+  },
+  {
+    "path": "lib/data/questions/ligue_1/hard_1.dart",
+    "sha256": "CC399DF9741F5DC24BBC1ED6F51E682D726F68FC6A044CC8EBF1C819FDDD337F"
+  },
+  {
+    "path": "lib/data/questions/ligue_1/hard_2.dart",
+    "sha256": "CDF87B0657AF5827B929117744FA89BFFE17DBD122A6286E8A7EF5DEB0587541"
+  },
+  {
+    "path": "lib/data/questions/ligue_1/medium_1.dart",
+    "sha256": "329E056F6177E7451982CD5DE555516B74AA2DB79AE8C7A1706546AB65D9785A"
+  },
+  {
+    "path": "lib/data/questions/ligue_1/medium_2.dart",
+    "sha256": "929493B9B6E27C079968BB37598F2B720E70636E72CF8B1310FCDED8A47074F2"
+  },
+  {
+    "path": "lib/data/questions/ligue_1_final.dart",
+    "sha256": "3E2BDA42103C86E858C62619255B6DA08B9C56A8CAE795FFAD0EAFD2F33AEB86"
+  },
+  {
+    "path": "LIGUE_1_AUDIT.md",
+    "sha256": "2C61D9DD09652C346D904BDA57816F79AB21C0CC1AF1BFA2786DBA6FA124E38E"
+  },
+  {
+    "path": "tool/finalize_ligue_1_difficulty.ps1",
+    "sha256": "CCA2B54BF058088083E6CF3313C0AC94847944DBF59A32C1C57BD4AF44A932DA"
+  },
+  {
+    "path": "tool/generate_ligue_1.ps1",
+    "sha256": "D8E4B97F36C1D6D05343449E3695708BA9EF144B1C347F83E977E3D7B2B7C1A4"
+  },
+  {
+    "path": "tool/ligue_1_shared_answers.js",
+    "sha256": "7829F1577965A86FDD0B5BECD182FCCB23FC0B0D1E20D25F10187BE5D8767CA6"
+  },
+  {
+    "path": "tool/ligue_1_similarity.js",
+    "sha256": "2C4F118CF45D91737EC22561DB4054792A8AE298D439264054EE267129424F17"
+  },
+  {
+    "path": "tool/record_ligue_1_editorial_review.js",
+    "sha256": "6A5DABD9D54EC9A7DEAF5E73C6C50979400F9042C51EAB68B145667D66F9925D"
+  },
+  {
+    "path": "tool/revise_ligue_1.ps1",
+    "sha256": "4EA8B29E75842041D7E6915FAAAB9F081FA23450C13A67EBF24A4AE1AA406A38"
+  },
+  {
+    "path": "tool/validate_ligue_1.ps1",
+    "sha256": "7C8913352593A7F11EBC95F7E248D195EC03E6D5BE0AB75BFFEAE091824EED2A"
+  },
+  {
+    "path": "content/ucl/cross_bank_review.csv",
+    "sha256": "48C932C6F88D01FEC538FCC62DAB418EED1E577284D4E136E4842A154E0962CE"
+  },
+  {
+    "path": "content/ucl/easy.psv",
+    "sha256": "DD9A58044B16631AD9369C3992074851D2FA9CC066D64088F57656862D2F784C"
+  },
+  {
+    "path": "content/ucl/editorial_review.csv",
+    "sha256": "7E2BF1B82FCFB64B61AD3120E37C3654C37276A1073387D8C38098B5A274BEC7"
+  },
+  {
+    "path": "content/ucl/evidence_ledger.csv",
+    "sha256": "FFF82836DC40E689DA10C98815AACD9B1EDD70CB1D4B070676B2E4E53B75A862"
+  },
+  {
+    "path": "content/ucl/fact_family_review.csv",
+    "sha256": "F343F27744B5B0CDDC751F6512EB495CF561E62BFEBDB62AF52EAD9D5B9F9122"
+  },
+  {
+    "path": "content/ucl/hard.psv",
+    "sha256": "52CA8781FDB1C99BD464470C8999B80774B188A501724C1BA3182DA2205B2FCA"
+  },
+  {
+    "path": "content/ucl/medium.psv",
+    "sha256": "43F6F25530A1D00F7C872602E509C7A36152408078EEED8245FEA2DF3AD810E6"
+  },
+  {
+    "path": "content/ucl/near_duplicate_candidates.csv",
+    "sha256": "089C960A266C726D421A4C39EB701CCE696ACB6415953C5C3759FAD85F256D87"
+  },
+  {
+    "path": "content/ucl/near_duplicate_review.csv",
+    "sha256": "630D28B7196754B7C46A28CA04FBCC04D6259C44C6D450680B5BE6FC7E1A5DCC"
+  },
+  {
+    "path": "content/ucl/reviewed_pair_inventory.json",
+    "sha256": "C0D7468D992C4ECCA7B6C2CE173019CAE09B39600AE31A22BF14A610C8A71C41"
+  },
+  {
+    "path": "content/ucl/shared_answer_candidates.json",
+    "sha256": "AECB5F4FF7B99A53438793C3D951359F14F7F7CE5171F1383E6A29CA25F56248"
+  },
+  {
+    "path": "content/ucl/shared_answer_review.json",
+    "sha256": "963D2FC556469BD8F32AB87D6D7E9469A74BAAA0001656720CA9AF987195B3D7"
+  },
+  {
+    "path": "content/ucl/similarity_scan.json",
+    "sha256": "1CF529479E91E901F1892679E76C24B5BC3E7EBB02A600B9C82FDB3AAD09A9ED"
+  },
+  {
+    "path": "content/ucl/sources.psv",
+    "sha256": "24B9E7600FE0FBF017C0D80CDB4B53835BB686C766DA97ADC4392FB1AC5D3D85"
+  },
+  {
+    "path": "content/ucl/validation_result.json",
+    "sha256": "7A6A28F65FEDBBEF797362D265C83AC08C085D92EE375F74D3CB122AFA1FCE8F"
+  },
+  {
+    "path": "lib/data/questions/ucl/easy_1.dart",
+    "sha256": "1B8CBAFA4637F0BB02004154138D4E3E9F7B6CFA212EF6D334B4458A4BFFF495"
+  },
+  {
+    "path": "lib/data/questions/ucl/easy_2.dart",
+    "sha256": "9100BE30A7F813784D651D930DD45907BEE140FAC99741F20EFAE6C51406C751"
+  },
+  {
+    "path": "lib/data/questions/ucl/hard_1.dart",
+    "sha256": "94F954CDE9D78DB04B810ECDBDE19B02437703A0523D48FE22C445ADCC9858D3"
+  },
+  {
+    "path": "lib/data/questions/ucl/hard_2.dart",
+    "sha256": "47F45ABFE47298E274D13DEDE2C5B50AFC3DA9EFF4C41C20F50A3605183CA48A"
+  },
+  {
+    "path": "lib/data/questions/ucl/medium_1.dart",
+    "sha256": "06F43924B1F8D4E19850A7DC736E62107FAB006998354723A26951C5F6B56D47"
+  },
+  {
+    "path": "lib/data/questions/ucl/medium_2.dart",
+    "sha256": "FD2982C88DD1A22955B52EF8FF9209813E158E871F14A48EDF6D6D24D3D4BBAC"
+  },
+  {
+    "path": "lib/data/questions/ucl_final.dart",
+    "sha256": "3C55974C1024BAA0FE10D67B04AFAB75A8B34B69E9605D96D564A7E154DE194A"
+  },
+  {
+    "path": "UCL_AUDIT.md",
+    "sha256": "C0FDBB50D765F21795DABFFDA2CB9CD74E0B2CFBB97D3D2560B322A6B6EA25A6"
+  },
+  {
+    "path": "tool/generate_ucl.ps1",
+    "sha256": "4E96FA9249E218A823AFCEA81B248741E186C40ED4B8590B030859B74F6DD465"
+  },
+  {
+    "path": "tool/validate_ucl.ps1",
+    "sha256": "5FA010BA7A5D047AC6B01E1A6782FD9D6433C13422A9B8A91DF6F9DEB410A94F"
+  },
+  {
+    "path": "tool/ucl_similarity.js",
+    "sha256": "661BB395216F6F389A5C7AAAC48ADD636FE3554947EB3C7D8B1DFFFCEA822AC8"
+  },
+  {
+    "path": "tool/ucl_shared_answers.js",
+    "sha256": "22DF14EB327E7EB227E239D7F7DCDB95BB2C1A59F110D0C8BD82EA50FD5D9D51"
+  },
+  {
+    "path": "tool/record_ucl_editorial_review.js",
+    "sha256": "34407B183F5D3A24C32D362C7C7BACEBE19F9FFBEE3C963340CC755FBFA3032B"
+  },
+  {
+    "path": "content/world_cup/cross_bank_review.csv",
+    "sha256": "435153B485BFDA298D62E20A8581BAD57D709F3DACBBEC3F96C7319BB22AFA91"
+  },
+  {
+    "path": "content/world_cup/easy.psv",
+    "sha256": "93097942DEF05D6F49A5F613B5098BF4588AE7A844C3208A7B9BAF81C25C9A17"
+  },
+  {
+    "path": "content/world_cup/editorial_review.csv",
+    "sha256": "7DB6B60EA90656130DB662F6F119FCFE2355A21B20CAED3EB83F8BCF29A310EE"
+  },
+  {
+    "path": "content/world_cup/evidence_ledger.csv",
+    "sha256": "9156E8AC6A142FC6795E866FBC3EF346529927F0B65D126EC1665178086E2EDF"
+  },
+  {
+    "path": "content/world_cup/fact_family_review.csv",
+    "sha256": "A630C4819A7B141356BC9123569AD938B79336B7C55AAFF02E9CB0345D50D2A6"
+  },
+  {
+    "path": "content/world_cup/hard.psv",
+    "sha256": "1FA62BE0711E16D1207F518DEB79100C427DC04D992BE1E5DC986264F6189A66"
+  },
+  {
+    "path": "content/world_cup/medium.psv",
+    "sha256": "AAF756B36BD6D079070100D9D679F94D89F09D66FDBAB0ED385A9B37B6BCA25E"
+  },
+  {
+    "path": "content/world_cup/near_duplicate_candidates.csv",
+    "sha256": "C953504B199FEA693227CB61F61AC1039EEB442565D97FA5CE1BEB1B0E0E05CB"
+  },
+  {
+    "path": "content/world_cup/near_duplicate_review.csv",
+    "sha256": "CE91D8C2B4252B3A7DE0902D6A2A8FB8FF08AE06B43E8C827385F830EC0375D5"
+  },
+  {
+    "path": "content/world_cup/reviewed_pair_inventory.json",
+    "sha256": "8B76E42F3F69FBAAA1A89AB611FEFF6EAE4C2706098F886B76C091A326CBF3B3"
+  },
+  {
+    "path": "content/world_cup/scan_output.json",
+    "sha256": "C7AD83DD19A756D32B0A9EC871126273F4D83EF66F2D20F2AFACC6B491A9215D"
+  },
+  {
+    "path": "content/world_cup/shared_answer_candidates.json",
+    "sha256": "BC5C5735A36827DE51129EFD72C7D0B39C4F863EB61D890D38DA0DBB2A4DD7C3"
+  },
+  {
+    "path": "content/world_cup/shared_answer_review.json",
+    "sha256": "B16FF0BA8E625B3679C70F52E1591B6F94655F49E2264F67D4C5C035F26FE84A"
+  },
+  {
+    "path": "content/world_cup/shared_output.json",
+    "sha256": "6F18B592B13E3D0C28AB3C06752816D9ED62B4D58F4518C9ED2864DB60320EFE"
+  },
+  {
+    "path": "content/world_cup/similarity_scan.json",
+    "sha256": "C7AD83DD19A756D32B0A9EC871126273F4D83EF66F2D20F2AFACC6B491A9215D"
+  },
+  {
+    "path": "content/world_cup/sources.psv",
+    "sha256": "25BB9E1FF7D0F1A3F7EB231A7F6467BEF3884DCC69158E0CA1B042F2725551CF"
+  },
+  {
+    "path": "content/world_cup/validation_result.json",
+    "sha256": "CE335150A638E391DB0E3B3F6775F4C8C6D351A4C553A5BABB50AFCE047010A1"
+  },
+  {
+    "path": "lib/data/questions/world_cup/easy_1.dart",
+    "sha256": "2A2F387E787179A8F61158E4321835AFADF076A0C0A18B989BE45B1FA5EDE1BB"
+  },
+  {
+    "path": "lib/data/questions/world_cup/easy_2.dart",
+    "sha256": "5A07BE6ABDDC889955CBCEEF8C5F730200DF8DE1B7AC904DE941060CFD5722CE"
+  },
+  {
+    "path": "lib/data/questions/world_cup/hard_1.dart",
+    "sha256": "428B18A7BEF5E2C1EB9DD0656F9FFE926DCA4764DCB5324473B6E1DA7174D51E"
+  },
+  {
+    "path": "lib/data/questions/world_cup/hard_2.dart",
+    "sha256": "DB3781DC7AD125A275DF41289431F61F2F6F122D504EB182DF7EDE688A08CCC9"
+  },
+  {
+    "path": "lib/data/questions/world_cup/medium_1.dart",
+    "sha256": "7DD3898C319E90295F402973D4AD5028DB3665D7379232FF459FE1F43C230439"
+  },
+  {
+    "path": "lib/data/questions/world_cup/medium_2.dart",
+    "sha256": "8280AA3004C3361D7839B08843598E887B07BD32D32B474A5D2E44E640F90015"
+  },
+  {
+    "path": "lib/data/questions/world_cup_final.dart",
+    "sha256": "C344355138355D869E48C06CE0D342474EC217D6645E453FEDEC0676EE5ED2E5"
+  },
+  {
+    "path": "WORLD_CUP_AUDIT.md",
+    "sha256": "1C6D87BDB384CCD3829B0FA5AD6EABD0219C41AD03C929C2CCE8DBD2B9F81A93"
+  },
+  {
+    "path": "tool/generate_world_cup.ps1",
+    "sha256": "99EEC1898E182B0B12EBDAE49F819D452560FFE8B011FCEBD00A388B371F6ECA"
+  },
+  {
+    "path": "tool/validate_world_cup.ps1",
+    "sha256": "0C7FE3C2CF9756535A0C0ADC8E67AF70F34E5D2CD5908FFD9CA888A0164797B4"
+  },
+  {
+    "path": "tool/world_cup_similarity.js",
+    "sha256": "9E6002CCD71D4FA1C80F5F11A7935E3B8DD92874346A243194563D3BB65CC1AB"
+  },
+  {
+    "path": "tool/world_cup_shared_answers.js",
+    "sha256": "971D4AB8B3ABDD66BC53FB67EC5D85E6F160272C222CAFD26F7883A10F0AEBF8"
+  },
+  {
+    "path": "tool/record_world_cup_editorial_review.js",
+    "sha256": "00A3CA680E3131D7B61DCB64985CD1C36CF4111E2D1C6C151CCF654BA7F397C6"
+  },
+  {
+    "path": "content/football_legends/cross_bank_review.csv",
+    "sha256": "2FF95A5483CC7DDBAA850E3919D6C422A63E60A549AAB5B9CD1C1E5173100AA2"
+  },
+  {
+    "path": "content/football_legends/easy.psv",
+    "sha256": "5E72D24FABF7DF0EA51236B86F35DE04671560BC0E24C9C4E652F9C004D8C877"
+  },
+  {
+    "path": "content/football_legends/editorial_review.csv",
+    "sha256": "691031EC9A5846D1F87CDF43F24EBAE1F093B5B8648F7D0E63D3EDFE679CAAEB"
+  },
+  {
+    "path": "content/football_legends/evidence_ledger.csv",
+    "sha256": "08BD1DA554DBE93BB378569BE97B4178F9606B9450977E263951E9BDA33C2A34"
+  },
+  {
+    "path": "content/football_legends/fact_family_review.csv",
+    "sha256": "036753E899DC20046B9B5131E2C5877D7F21832F5DCFD8EFFC9497210DDC5878"
+  },
+  {
+    "path": "content/football_legends/hard.psv",
+    "sha256": "8342D2BC0E68D1C8E3AF305607819861D279440444015D5AC095EDF2F243B4FE"
+  },
+  {
+    "path": "content/football_legends/medium.psv",
+    "sha256": "05600ADD01F8DFCBA42A68C5B9CBD9A41FC2FB46ADA3B688887ED454A4239779"
+  },
+  {
+    "path": "content/football_legends/near_duplicate_candidates.csv",
+    "sha256": "5C4A316F04BC207D2182367629933A5CC17CE75041DFE6495AF1092732940CE8"
+  },
+  {
+    "path": "content/football_legends/near_duplicate_review.csv",
+    "sha256": "3ED3630527EAEEEB5F4270DBBD4508B8D02E35C3ECD23A9B8C52157F3F4776DB"
+  },
+  {
+    "path": "content/football_legends/reviewed_pair_inventory.json",
+    "sha256": "A996FD0CA578E2CD5BA1F1B32DE1A93ACAFE3C41C10CEF062B244EE708E7FB75"
+  },
+  {
+    "path": "content/football_legends/shared_answer_candidates.json",
+    "sha256": "065A4BE83A05F36490FAAB0046EEAE64915E0348EEB0A33B87228D3934E014A4"
+  },
+  {
+    "path": "content/football_legends/shared_answer_review.json",
+    "sha256": "E5BBA88365735E52180480608FABE178CAFE7FA4630CF94A2BC06545C9C157AB"
+  },
+  {
+    "path": "content/football_legends/shared_stdout.json",
+    "sha256": "95884E67924422E7891CA0B7F2D1FD69537EC0DC8F99F69C5DFBB44351241C01"
+  },
+  {
+    "path": "content/football_legends/similarity_scan.json",
+    "sha256": "21B1A293AD9EE31CE5D533D2253184879CD9655CE14FED9427472518C32585CA"
+  },
+  {
+    "path": "content/football_legends/similarity_stdout.json",
+    "sha256": "21B1A293AD9EE31CE5D533D2253184879CD9655CE14FED9427472518C32585CA"
+  },
+  {
+    "path": "content/football_legends/sources.psv",
+    "sha256": "D8E606B401FD7805DDC914861D53B19F3D9E573C8A8F61CD2B789AC32706F85B"
+  },
+  {
+    "path": "content/football_legends/validation_result.json",
+    "sha256": "E487D7994B9F62C90170605831132A597E53547019C85F0F5383E2AF496AD8A5"
+  },
+  {
+    "path": "lib/data/questions/football_legends/easy_1.dart",
+    "sha256": "D2421400CAE6178F708C5B6A1A81CE7D97F5605C0AE0A2DAE0E0035FDC1E4890"
+  },
+  {
+    "path": "lib/data/questions/football_legends/easy_2.dart",
+    "sha256": "7834FEF808FE61E74D9E14CB596F9EC68681D8FCF8CD00CEBC1981EA32B6C091"
+  },
+  {
+    "path": "lib/data/questions/football_legends/hard_1.dart",
+    "sha256": "43C6E1F36E856323B17679CCB3D4478876B6A4B09ACCDA2175A71F85C295DEC6"
+  },
+  {
+    "path": "lib/data/questions/football_legends/hard_2.dart",
+    "sha256": "9568C2EA4C0B338EC2920F6A5A06258FB9DEE14DB78114664AB06ED836AA1692"
+  },
+  {
+    "path": "lib/data/questions/football_legends/medium_1.dart",
+    "sha256": "158B5C1C7388B376ABD4485D5D8A26FA5B4E8658CEA42B5E4B28057E1F30937A"
+  },
+  {
+    "path": "lib/data/questions/football_legends/medium_2.dart",
+    "sha256": "D6155CC7ADEBCE9FAC39B1AB3B16E8E05C1B7B07FEDEBA5AA2093FDCB7CDE2A2"
+  },
+  {
+    "path": "lib/data/questions/football_legends_final.dart",
+    "sha256": "61183A60549B1505D6CFF72112C91020D4D2A002EDF4C282E2C42F6230BD039D"
+  },
+  {
+    "path": "FOOTBALL_LEGENDS_AUDIT.md",
+    "sha256": "6335A876DBC656B423079A8235070873EA2BD68448F5612A5E3D1F05A8B4F06F"
+  },
+  {
+    "path": "tool/generate_football_legends.ps1",
+    "sha256": "80B5B7B4B01BBB030069AC28317D15A98F92B17790074AA271909E0D2A777A54"
+  },
+  {
+    "path": "tool/validate_football_legends.ps1",
+    "sha256": "C6B2F36B9CCE62BD73DA60AFB70BF2BC6096D75B9B726CA0C6756E2127156228"
+  },
+  {
+    "path": "tool/football_legends_similarity.js",
+    "sha256": "E9524C43D6FE894F4D9D8982824AD280033700789FAA3688047418AE2CA176DD"
+  },
+  {
+    "path": "tool/football_legends_shared_answers.js",
+    "sha256": "55161689B4A015CB39DDA8DECD71F465B7251928B27EE3D8BD6601A610B3542C"
+  },
+  {
+    "path": "tool/record_football_legends_editorial_review.js",
+    "sha256": "E1AB5796A849380E85A0EF437BF31364F7E6B6C77744CDF2BC7A9C53520FF041"
+  },
+  {
+    "path": "content/emirati_music/cross_bank_review.csv",
+    "sha256": "14E3772907321566A2A0D9578BEFE443646516158762FC346A68765819B42F74"
+  },
+  {
+    "path": "content/emirati_music/easy.psv",
+    "sha256": "5D8C4411D1B88C98255FBFA954E66416339194AE28079AF4DBF89F73C7D7CDFE"
+  },
+  {
+    "path": "content/emirati_music/editorial_review.csv",
+    "sha256": "C9D6A642A728007A3834E6B659B2F6A40C9BFBB620D507938457DDE14AAF84DE"
+  },
+  {
+    "path": "content/emirati_music/evidence_ledger.csv",
+    "sha256": "A79621071C07D98CA4D1E3A23C535A8E0EBC8B05B907D4F45FA6EC39A4267362"
+  },
+  {
+    "path": "content/emirati_music/fact_family_review.csv",
+    "sha256": "9CD841AC5ADDCC71C3BFE1BAC5CD312D46E32F7732DDA6AEC4D89DAF0BEA27DF"
+  },
+  {
+    "path": "content/emirati_music/hard.psv",
+    "sha256": "4F7DC2B7A37CCF98FB7F6BF439986D34C7AC964E98F7D8C48C0F455C55764183"
+  },
+  {
+    "path": "content/emirati_music/medium.psv",
+    "sha256": "F7EA76667D0D8CCCCD87FAA931890F3FEF91342E40DB48B66D65978C35286432"
+  },
+  {
+    "path": "content/emirati_music/near_duplicate_review.csv",
+    "sha256": "A92CA198CDF5F8ACA6B840FD9247BD461295CFB4CF5F48841029FC935E8905C3"
+  },
+  {
+    "path": "content/emirati_music/reviewed_pair_inventory.json",
+    "sha256": "AEF949EF66C8A4A126BE87022EED02BC26A1074BD4642131F2CE40CC70EE9410"
+  },
+  {
+    "path": "content/emirati_music/scan_console.txt",
+    "sha256": "A587C6D46D22F717451E29A4385925D0D435F9E9C446F18959068AC85972CB6C"
+  },
+  {
+    "path": "content/emirati_music/shared_answer_candidates.json",
+    "sha256": "EFE7380D1931C12AD7F61891447F63BF6A0395D1D37699CAFAB5492561B08848"
+  },
+  {
+    "path": "content/emirati_music/shared_answer_review.json",
+    "sha256": "2627E20F95721C95AD0855702181C03F010E5C028B2863A204CBB93072B6925D"
+  },
+  {
+    "path": "content/emirati_music/shared_console.txt",
+    "sha256": "48A04C39402AECEB22999750CF083351C02B87EF35B7FAFCC33B93F40147B081"
+  },
+  {
+    "path": "content/emirati_music/similarity_scan.json",
+    "sha256": "A587C6D46D22F717451E29A4385925D0D435F9E9C446F18959068AC85972CB6C"
+  },
+  {
+    "path": "content/emirati_music/sources.psv",
+    "sha256": "6FB574E63C9DAAF3E3FD21F8D496FC5E67F2B2A657FB132235127EADE7C311E1"
+  },
+  {
+    "path": "content/emirati_music/validation_result.json",
+    "sha256": "7B35356400851B7A6914B0FA1F4A3E0B23A65216B9213140811A7E570FF706DF"
+  },
+  {
+    "path": "lib/data/questions/emirati_music/easy_1.dart",
+    "sha256": "DC82CF71442BFE5C61BC4B3F92C7C353D0DC950CC12B4E305CC5E4CBDFCD44B3"
+  },
+  {
+    "path": "lib/data/questions/emirati_music/easy_2.dart",
+    "sha256": "6D7DF9F1EAC194FA685B477EB9D36F4B129B0985F1B764098CC9FDF665F832E1"
+  },
+  {
+    "path": "lib/data/questions/emirati_music/hard_1.dart",
+    "sha256": "2D259DBA831B5EB2A2294BD254CC2B3C43088964576DC3C9CF1A00EF0CB99616"
+  },
+  {
+    "path": "lib/data/questions/emirati_music/hard_2.dart",
+    "sha256": "EFC9B7A0D826B170CEB3D7F6D7FD6EC38937BB0EF427656432407CAF92C5FB43"
+  },
+  {
+    "path": "lib/data/questions/emirati_music/medium_1.dart",
+    "sha256": "ED58968037C7AEB7ED0BE92A691511DCF8CA0E4A9F926C62DF8080130E641D5B"
+  },
+  {
+    "path": "lib/data/questions/emirati_music/medium_2.dart",
+    "sha256": "D14811F2562C1958D25E2C7CE570BF5137C09532EE70817C0FA3CCCF7B8A1161"
+  },
+  {
+    "path": "lib/data/questions/emirati_music_final.dart",
+    "sha256": "0A4FA4635B4F43E152CDE9BAD42165AB43A302C93EA7DE7C8907BFA00C5142CB"
+  },
+  {
+    "path": "EMIRATI_MUSIC_AUDIT.md",
+    "sha256": "AC6C4276B76241FD71C44BE8BEFBD345E0DC9B44D16BC54D17699089798A08F7"
+  },
+  {
+    "path": "tool/generate_emirati_music.ps1",
+    "sha256": "C53F1DA7CB7EF40F0C78AE6BE90B41629EAB380389FCA9AD6632FBD71FA05D27"
+  },
+  {
+    "path": "tool/validate_emirati_music.ps1",
+    "sha256": "DDC54C3F8478985D88F7719771632EDE5BCAB2769039A6A5D4E8D8008930CD3E"
+  },
+  {
+    "path": "tool/emirati_music_similarity.js",
+    "sha256": "A35C4AE1F1D344A0C9E8ECC8BC95C0DC046D44462A603A80410C426ABCFBD9C7"
+  },
+  {
+    "path": "tool/emirati_music_shared_answers.js",
+    "sha256": "564215906E362B71D63D1FCF1871399456C50AC6696F72E25FD8FD4528F413A0"
+  },
+  {
+    "path": "tool/record_emirati_music_editorial_review.js",
+    "sha256": "6C2D88000C1ACF13F60408E017821D4C037B8245340DE7F2E99626AF79A4038C"
+  },
+  {
+    "path": "content/gulf_music/cross_bank_review.csv",
+    "sha256": "5DC21408909980E2EA9FB279A536FD522167C278489E524C37FD660F5AB3E0D3"
+  },
+  {
+    "path": "content/gulf_music/easy.psv",
+    "sha256": "2D72E156B529E23676C5B73F514BB7A3988D83DAEA3E1E78041882DCFBBA43E8"
+  },
+  {
+    "path": "content/gulf_music/editorial_review.csv",
+    "sha256": "B4AFF4936664F2519F85D83BBD8B0C550150AFFFEE5328EB3184F949879314C0"
+  },
+  {
+    "path": "content/gulf_music/evidence_ledger.csv",
+    "sha256": "67C448C5BA747E7A1A8A38959016FDAAAE58CF2476A84D1A7D84D7CA9266BC78"
+  },
+  {
+    "path": "content/gulf_music/fact_family_review.csv",
+    "sha256": "B3B49EA0E4E0A35A39B822035BF2E27EE8E4F5CCEAA5FAB2D2FC6E9DC1962288"
+  },
+  {
+    "path": "content/gulf_music/hard.psv",
+    "sha256": "279E637EB1D89660144457F00002408456E622CAE7171FF0572F4601A49E7A5C"
+  },
+  {
+    "path": "content/gulf_music/medium.psv",
+    "sha256": "793E49A1B6BB0BB70DDE0D3AECED5CB9048949E9F18EBA0C85B85E3BD9C51994"
+  },
+  {
+    "path": "content/gulf_music/near_duplicate_candidates.csv",
+    "sha256": "3456A20E88F647849D2A0F1C67D34C841A50CB000E1FB07A22B2F62C7CBA66E1"
+  },
+  {
+    "path": "content/gulf_music/near_duplicate_review.csv",
+    "sha256": "8EEB9FE0014D40DFE9CCCD1E8D97A2B473A5AE63256038D89F48E85459CB2091"
+  },
+  {
+    "path": "content/gulf_music/reviewed_pair_inventory.json",
+    "sha256": "4F6907D1FFBD0763E20342D0EEED566481A8686E43DE27472BA66EE675B6F937"
+  },
+  {
+    "path": "content/gulf_music/scan_console.txt",
+    "sha256": "660B90B5DB74AE388AA643B2E62643217484EB903435DD09F50CDC1402407893"
+  },
+  {
+    "path": "content/gulf_music/shared_answer_candidates.json",
+    "sha256": "51F4EFD499462585A823B2FFA0F7B9B7C4ECB9E17D6C3C376114DFBE0EF39170"
+  },
+  {
+    "path": "content/gulf_music/shared_answer_review.json",
+    "sha256": "1C80949CAB1D3D2A686DE464D7F48B42281B851FA8DC4B18A6D6DBBAED143538"
+  },
+  {
+    "path": "content/gulf_music/shared_console.txt",
+    "sha256": "DE7DCB78A0D8F1EBEF27FA11D1279B243BB898A0D4EE16531CC6B1EB69491129"
+  },
+  {
+    "path": "content/gulf_music/similarity_scan.json",
+    "sha256": "660B90B5DB74AE388AA643B2E62643217484EB903435DD09F50CDC1402407893"
+  },
+  {
+    "path": "content/gulf_music/sources.psv",
+    "sha256": "FA720A18F19873519AF1DCB604688CA5DF4092CE56D29E607418063C32A5D876"
+  },
+  {
+    "path": "content/gulf_music/validation_result.json",
+    "sha256": "5AF3C53696751F901E1DEE355D2B37327FD5D8CDFEC713AB630328410D07315D"
+  },
+  {
+    "path": "lib/data/questions/gulf_music/easy_1.dart",
+    "sha256": "35B612F865815AA8835E44D0892CA7D2D424B4B28CA04DB918A950057970E3D1"
+  },
+  {
+    "path": "lib/data/questions/gulf_music/easy_2.dart",
+    "sha256": "C1BBD7B4FB32A8CEF6049BFDBEC43E0248D5CB6D799E8F5F9F3EE015B4F25D40"
+  },
+  {
+    "path": "lib/data/questions/gulf_music/hard_1.dart",
+    "sha256": "1661C590940D1299AF01B37858CB6B9ABCF35212A1F63370A8CB6CC23E502349"
+  },
+  {
+    "path": "lib/data/questions/gulf_music/hard_2.dart",
+    "sha256": "BF96ABD9C498C0C2C709BAF521043F18BCBC0789BD1726AC51104D3730DF7E12"
+  },
+  {
+    "path": "lib/data/questions/gulf_music/medium_1.dart",
+    "sha256": "8003EF4A39410AEF7BE9EAFB7CCA6B1469ED28EE572A6C1A7D78C7DA95F28CC2"
+  },
+  {
+    "path": "lib/data/questions/gulf_music/medium_2.dart",
+    "sha256": "E9EAEAC4742EA15D610DED579C96689219249C16522DCB9079585763DB3D515B"
+  },
+  {
+    "path": "lib/data/questions/gulf_music_final.dart",
+    "sha256": "C08B20FB00973B48A5A2910C6ACF749A708C797A4902FD7989C35C7128BE30A6"
+  },
+  {
+    "path": "GULF_MUSIC_AUDIT.md",
+    "sha256": "525A67ECF5ADBCAA6F5746B080AACF8B5AEEF103878785B8D68BEEC7DE722B47"
+  },
+  {
+    "path": "tool/generate_gulf_music.ps1",
+    "sha256": "1BA6DC2B8D872A91FA873D0DFB5D0FF0AE25F6801B537EB02E5AFA81A1B7EF08"
+  },
+  {
+    "path": "tool/validate_gulf_music.ps1",
+    "sha256": "641FE9D0D970F64D258EB70B62A9584A76AF3A7830455D9A58D7D1E3B499E30F"
+  },
+  {
+    "path": "tool/gulf_music_similarity.js",
+    "sha256": "4404EE27D54CD75C901A2A9998AC5FE279CC9600303310FDAE4E1974F18B3BA7"
+  },
+  {
+    "path": "tool/gulf_music_shared_answers.js",
+    "sha256": "FB64F0CAF3758FE2FFC29C045C6A282E11E0E8F679E9AB4F39A0596CE0DD621B"
+  },
+  {
+    "path": "tool/record_gulf_music_editorial_review.js",
+    "sha256": "8BBD449A77A83A21C0F32088C7AAEF354C3E2E4E8BF93F6A9A3F59751B25679E"
+  },
+  {
+    "path": "content/kuwaiti_music/cross_bank_review.csv",
+    "sha256": "823C021A4DC07338742DEA88C0AFA6E00D295CBB9B3B25477E7506B503D451AF"
+  },
+  {
+    "path": "content/kuwaiti_music/easy.psv",
+    "sha256": "CA5CA7DBB165FC091C93F64A18FFE350B28B36C277399C61B99713B4147CA347"
+  },
+  {
+    "path": "content/kuwaiti_music/editorial_review.csv",
+    "sha256": "B404072FF77BE2284D481A5B6E183065903069DB6D07786A8E3198A0736D049B"
+  },
+  {
+    "path": "content/kuwaiti_music/evidence_ledger.csv",
+    "sha256": "00910DEC36D8E83F9B68B7DD79C36DB1E125487F85DF1074213141968E520DEF"
+  },
+  {
+    "path": "content/kuwaiti_music/fact_family_review.csv",
+    "sha256": "8BCC20D56FA9D00BCF2299CEC3CFBB2E72E409D2F253D4F504982D8E0DB12682"
+  },
+  {
+    "path": "content/kuwaiti_music/hard.psv",
+    "sha256": "D39F8F8CC8CA55DF58A8B2F6519EE15A4808D0FFDB0BC6014BF5E15C8D058149"
+  },
+  {
+    "path": "content/kuwaiti_music/medium.psv",
+    "sha256": "50F173169E3E27EFA71F9AFD8444658A4B49621C0D318353F2D4B5A7449697A9"
+  },
+  {
+    "path": "content/kuwaiti_music/near_duplicate_candidates.csv",
+    "sha256": "4A2312AA34E692A13143A3247AA546FF248AEB2B4E3EC8AB76AB191529A2F1CC"
+  },
+  {
+    "path": "content/kuwaiti_music/near_duplicate_review.csv",
+    "sha256": "A40840A2CB52AD5A4D02CE76B10DF63A1CA6BF2B81614845B6C43D44F5AD866F"
+  },
+  {
+    "path": "content/kuwaiti_music/reviewed_pair_inventory.json",
+    "sha256": "456C0577D1370F7583CF279756917EE0F33EB0640944580148F1F3BF72880973"
+  },
+  {
+    "path": "content/kuwaiti_music/scan_output.json",
+    "sha256": "1F26D38157B2A7E5B2A0CEF92EBA486A1231ADECBEE8C162DC31E746B7EFDD88"
+  },
+  {
+    "path": "content/kuwaiti_music/shared_answer_candidates.json",
+    "sha256": "B08A24B2A07980E06F6B07A2FFAB991121F24CA00435ACA57D815E09427028FD"
+  },
+  {
+    "path": "content/kuwaiti_music/shared_answer_review.json",
+    "sha256": "36D9BF4C8B26CA0FF6DEBAE5952A1AB378142DA692A90A61754B541886885797"
+  },
+  {
+    "path": "content/kuwaiti_music/shared_output.json",
+    "sha256": "B2DBC9CF8AE4D6AA6851B4E4E251EE99CE0EEA85AD0724D901346A6ED7B0A42B"
+  },
+  {
+    "path": "content/kuwaiti_music/similarity_scan.json",
+    "sha256": "1F26D38157B2A7E5B2A0CEF92EBA486A1231ADECBEE8C162DC31E746B7EFDD88"
+  },
+  {
+    "path": "content/kuwaiti_music/sources.psv",
+    "sha256": "6BE56D6575FD9470D55C2CEA493E8BE646F3F92AA38ED46EB6345F9739E3A267"
+  },
+  {
+    "path": "content/kuwaiti_music/validation_result.json",
+    "sha256": "0A21E3D28FE196973B6A8BBB64D0772EBCDA0B6F46B699471FDD1976A11E6F8C"
+  },
+  {
+    "path": "lib/data/questions/kuwaiti_music/easy_1.dart",
+    "sha256": "799CD757AE7D57F790118BA949E23E9732F398F2CA41AD1EEB6A4D6D4BF61AE7"
+  },
+  {
+    "path": "lib/data/questions/kuwaiti_music/easy_2.dart",
+    "sha256": "5D8799E8609015F24B473F52534EBE51F97B812A4D8F9250FB13CED13E43D003"
+  },
+  {
+    "path": "lib/data/questions/kuwaiti_music/hard_1.dart",
+    "sha256": "3A1E11178D31E5A5C52C8F9DD17AA4B3B26BBD693F1C8D51127B40CE89A53110"
+  },
+  {
+    "path": "lib/data/questions/kuwaiti_music/hard_2.dart",
+    "sha256": "B4F3CAE57FF5AEF7C21611C82D33BC00B5B1A1B493735893BB41D7EA86FC31C6"
+  },
+  {
+    "path": "lib/data/questions/kuwaiti_music/medium_1.dart",
+    "sha256": "CF2FD73F1975158D2C87C0CA3A4186244829234F1AF83AD58EB1B0D023953105"
+  },
+  {
+    "path": "lib/data/questions/kuwaiti_music/medium_2.dart",
+    "sha256": "21D73C2D9BD2C4C337332471D11553FC76C24A7E594D036D3A5EED7F4A0A654E"
+  },
+  {
+    "path": "lib/data/questions/kuwaiti_music_final.dart",
+    "sha256": "320DCA2373180F86F1312409664F3897491D4FCE4716D8FB0546617964E63D77"
+  },
+  {
+    "path": "tool/generate_kuwaiti_music.ps1",
+    "sha256": "B18F1D95B241E4767EF3521504CB5731E99B3C35C5F5BD1A0CE47DB788A61A71"
+  },
+  {
+    "path": "tool/validate_kuwaiti_music.ps1",
+    "sha256": "027409776905A65DCE6C3E852B7DF4A2294EAF534CBE722FBBF7DF0A8818BA73"
+  },
+  {
+    "path": "tool/kuwaiti_music_similarity.js",
+    "sha256": "1CE5E22AFE30CA8D4F43E6FEFEEB403FB246C1933302D4A827F56FF66010894D"
+  },
+  {
+    "path": "tool/kuwaiti_music_shared_answers.js",
+    "sha256": "E150F1182965600EA384336390A896E3BC539772CC8203175878AD1B69D16E96"
+  },
+  {
+    "path": "tool/record_kuwaiti_music_editorial_review.js",
+    "sha256": "7BFFBB658BBBA86B6316BE15993517A6B9951B3E7D3E0052D892E91FAB089A14"
+  },
+  {
+    "path": "KUWAITI_MUSIC_AUDIT.md",
+    "sha256": "A976C9ECE3AF828CF39E96D6F47E8D289467FDAD051DCDFC86F6EC3B9FE7A093"
+  },
+  {
+    "path": "content/saudi_music/cross_bank_review.csv",
+    "sha256": "E60E3BA76D6B2F53B39129E98F5712F706ECD77C57D7388E7C71E54F85D986B4"
+  },
+  {
+    "path": "content/saudi_music/easy.psv",
+    "sha256": "10C98FD5E64FC2B53D4D8F1C5A683BA4B9A4C3A6BE1319B40B8BAF510A586019"
+  },
+  {
+    "path": "content/saudi_music/editorial_review.csv",
+    "sha256": "A28697EB6B2073AF9FDF6B0EC5F3AA55EF00EA0E0FD10093F9A67037F655CA54"
+  },
+  {
+    "path": "content/saudi_music/evidence_ledger.csv",
+    "sha256": "C43F86BEEF8F02E8B97EB01B8C1E221571BB450A8CC90455C91AEDE65B2E2778"
+  },
+  {
+    "path": "content/saudi_music/fact_family_review.csv",
+    "sha256": "FA2257EC48A51A8BD7D97BF11EF18A3D6D50E5DC52971B4F2CC55B87EDDDF23E"
+  },
+  {
+    "path": "content/saudi_music/hard.psv",
+    "sha256": "5C670BD7C86AF8D5A97FCD395710F9616259838202A2EB6191BAE62FFC88F9D9"
+  },
+  {
+    "path": "content/saudi_music/medium.psv",
+    "sha256": "437CDCDBE6B61C6AEB19EF109941C0E4744130DC3493D64FEE94D6DA7390BA56"
+  },
+  {
+    "path": "content/saudi_music/near_duplicate_candidates.csv",
+    "sha256": "29A946C4F3E2895CDE713004E518A808B2E37083B3FB262E4298EF7B973AE134"
+  },
+  {
+    "path": "content/saudi_music/near_duplicate_review.csv",
+    "sha256": "024F248F7328A8C31922EA849873D9DB4949CAE908451D441743AD706644E08A"
+  },
+  {
+    "path": "content/saudi_music/reviewed_pair_inventory.json",
+    "sha256": "CD330253EBFB2BB00D3AD08CFB7CCA053ED2DC42000F0F899462B11EC99BE5EF"
+  },
+  {
+    "path": "content/saudi_music/scan_output.json",
+    "sha256": "E02FE42705F37EB496103E5DB4EFD276E1D797254C31B86AF121A2474D188B11"
+  },
+  {
+    "path": "content/saudi_music/shared_answer_candidates.json",
+    "sha256": "00F82F513A2A858D0F6D38D2CD5284209EC677649C29DC705FD8C19E8ABB564E"
+  },
+  {
+    "path": "content/saudi_music/shared_answer_review.json",
+    "sha256": "1AFC04699691B6D1C3FB00D43AB9C58157C80ED5958323E1318E03276535FF6A"
+  },
+  {
+    "path": "content/saudi_music/shared_output.json",
+    "sha256": "5F78BEB50D858B66D78D9F7F76AD55C552E0BB5474D6FA369D3020E1DD61F60E"
+  },
+  {
+    "path": "content/saudi_music/similarity_scan.json",
+    "sha256": "E02FE42705F37EB496103E5DB4EFD276E1D797254C31B86AF121A2474D188B11"
+  },
+  {
+    "path": "content/saudi_music/sources.psv",
+    "sha256": "B238428ED47E5B7D80B150C8EDB3C5F671086F9A8FC1D082C288B10D9B935A49"
+  },
+  {
+    "path": "content/saudi_music/validation_result.json",
+    "sha256": "3C05A847FC0BF73CD0BEF69C527F47118F17356AA5642B95477A325FAD3D48A8"
+  },
+  {
+    "path": "lib/data/questions/saudi_music/easy_1.dart",
+    "sha256": "C1236A3B4C8ED725988ED816359F4EB8599086D2F863048153D45AC5C80E32C3"
+  },
+  {
+    "path": "lib/data/questions/saudi_music/easy_2.dart",
+    "sha256": "67DDFDD7C73D30243D48F4F404B92BEC6ACE0354C3243DCE61CDD6E7D4D3700D"
+  },
+  {
+    "path": "lib/data/questions/saudi_music/hard_1.dart",
+    "sha256": "3BD4BE01F6D685A124D6A28BCB7FE9B41903FCB82F7F09410DABC38710E8B0C8"
+  },
+  {
+    "path": "lib/data/questions/saudi_music/hard_2.dart",
+    "sha256": "DE331A041F296B6CB44B509E0A61F4BFD2E0312671339F5FDEFE1595C18B5DA4"
+  },
+  {
+    "path": "lib/data/questions/saudi_music/medium_1.dart",
+    "sha256": "3578A26239DF9C50EB5255C76957771061641933ECBB9D83B34281CC19F922D7"
+  },
+  {
+    "path": "lib/data/questions/saudi_music/medium_2.dart",
+    "sha256": "32DB66D6C2EB443BCC7D597A698DFBD82B6B3179DCA0D38B58E628BD4E08C6A0"
+  },
+  {
+    "path": "lib/data/questions/saudi_music_final.dart",
+    "sha256": "DEE59BECCFDE2B6A5EF0B65CC9C7BDD031C9C7ACB748EF054B371585530FDA71"
+  },
+  {
+    "path": "tool/generate_saudi_music.ps1",
+    "sha256": "715E37B42D2F9EF8064F2AC29A1F82CFB837AFAB4492601EC2F7647C2E86423C"
+  },
+  {
+    "path": "tool/record_saudi_music_editorial_review.js",
+    "sha256": "06C4A6C4E8B0891BDA08EC6FD3C58BF5BAA0175792BDB436BC446A225D755316"
+  },
+  {
+    "path": "tool/saudi_music_shared_answers.js",
+    "sha256": "AB51CDA5C4EC85754FC07E2E27FCF10716FBFF117E1FCC2D6990C01303B197C7"
+  },
+  {
+    "path": "tool/saudi_music_similarity.js",
+    "sha256": "00C857955775D808263493CBC93594EA7AD953B7BCCEBC65B223803546156A00"
+  },
+  {
+    "path": "tool/validate_saudi_music.ps1",
+    "sha256": "8469D2F54B0CB532A3CC69808ACA78092A9685F78D8E0DC2E5262EA242CAE206"
+  },
+  {
+    "path": "SAUDI_MUSIC_AUDIT.md",
+    "sha256": "41B6E01B9B9BCB28D7CFA464C7EE0161124B481E98F275436DCD2625547E95E2"
+  },
+  {
+    "path": "content/egyptian_music/cross_bank_review.csv",
+    "sha256": "09BE8AB9ED9C6DB84FCC3B52362411341F45BE14AAA77E7FD652D78A212D5742"
+  },
+  {
+    "path": "content/egyptian_music/easy.psv",
+    "sha256": "A8B34C10B34E7F5838FF63452419662B37A1B0CC37E85DE7F36A1E1E09DC3236"
+  },
+  {
+    "path": "content/egyptian_music/editorial_review.csv",
+    "sha256": "31F81E7AAF136ECBBB8B199C8885008863DA2EA2F68B64D9CEEAFFB3134EAAD9"
+  },
+  {
+    "path": "content/egyptian_music/evidence_ledger.csv",
+    "sha256": "39C1685BC06B79E1520FA03D76E10B1C3FAB947E024030C3E28E733C898B8E8B"
+  },
+  {
+    "path": "content/egyptian_music/fact_family_review.csv",
+    "sha256": "FDB6D7EE57BFA1F1FB61D07D70EE709A9EFBFEA653F5E7688EFF9573AB2EFDE2"
+  },
+  {
+    "path": "content/egyptian_music/hard.psv",
+    "sha256": "F75B5BA1257B1B98AA2739909673907B40E8FCE86F84F88CC7845BD8E4F3ABDA"
+  },
+  {
+    "path": "content/egyptian_music/medium.psv",
+    "sha256": "32E880E56E9F050827E92B2013AE3D21B9C4F0DA0FD1A6BC3D4573076A7D7617"
+  },
+  {
+    "path": "content/egyptian_music/near_duplicate_candidates.csv",
+    "sha256": "4C4C170C6551D70FF2DC3B9A606B395E7D256B15B482137675A568445A5049A5"
+  },
+  {
+    "path": "content/egyptian_music/near_duplicate_review.csv",
+    "sha256": "6377E96BF68D51B38D2D5119654D697FC10CD95936D2385156858DDEF53D8CED"
+  },
+  {
+    "path": "content/egyptian_music/RESEARCH_NOTES.md",
+    "sha256": "9A0A4E15DE23552468F4C5E4F0296C386F96BC3A55F6A0C315B862715AA62C64"
+  },
+  {
+    "path": "content/egyptian_music/reviewed_pair_inventory.json",
+    "sha256": "80893973C871E0D4A2959217057104AE96FC451196039ACE995646D4B98B5646"
+  },
+  {
+    "path": "content/egyptian_music/shared_answer_candidates.json",
+    "sha256": "00D4674A97948966961098FA67A83C3B1AC4EBD6D8377FAA618274F30549A0DB"
+  },
+  {
+    "path": "content/egyptian_music/shared_answer_review.json",
+    "sha256": "B0601E4240DE07F2473BCB8BA301069B04DE6B91AEBA2ABE9562A80E080FE93D"
+  },
+  {
+    "path": "content/egyptian_music/shared_scan.console.json",
+    "sha256": "705D017AC1289367139190DB1867041B0DF2768C1BB32242A180A90024719929"
+  },
+  {
+    "path": "content/egyptian_music/similarity_scan.console.json",
+    "sha256": "0315B526F5C0E62C22974151750CF971DC22B7C0B629DB0E1A202FC4A8DFAB05"
+  },
+  {
+    "path": "content/egyptian_music/similarity_scan.json",
+    "sha256": "0315B526F5C0E62C22974151750CF971DC22B7C0B629DB0E1A202FC4A8DFAB05"
+  },
+  {
+    "path": "content/egyptian_music/sources.psv",
+    "sha256": "E4E78ECD31A01D2437FA513B6DCFD27B2BC26FEA512CEAD8D9FCC1A7BFCC5CB6"
+  },
+  {
+    "path": "content/egyptian_music/validation_result.json",
+    "sha256": "6FA9D413DE46319B7B783AA26F44B5815FF1C17C4577599C52763A23C8AF8A8A"
+  },
+  {
+    "path": "lib/data/questions/egyptian_music/easy_1.dart",
+    "sha256": "ABB7FB2B5B73F4F77C5129BA442BA75F266FD266795A3477B26293D5610D3E80"
+  },
+  {
+    "path": "lib/data/questions/egyptian_music/easy_2.dart",
+    "sha256": "4C716B5CC3DF5035518C523B6051A5FC8FB267AECA4317C92B97F48C78B9CC88"
+  },
+  {
+    "path": "lib/data/questions/egyptian_music/hard_1.dart",
+    "sha256": "480D016EC6CA3D197519343A1387C774F98E0FCCC3985F1C51508FD48E62CA11"
+  },
+  {
+    "path": "lib/data/questions/egyptian_music/hard_2.dart",
+    "sha256": "50FFB1FF34920329C79F80E0FF22ACF215CD48697766743EC312BCD4883FCC27"
+  },
+  {
+    "path": "lib/data/questions/egyptian_music/medium_1.dart",
+    "sha256": "06D14C96CEFE040A960F8D624BFEF28B84E95C9DFF2D5924226F68A8A9B57082"
+  },
+  {
+    "path": "lib/data/questions/egyptian_music/medium_2.dart",
+    "sha256": "C9F5997D67775EDF0E5FFA599A6EAA448F1E4B8BFC3FC95FAB86BBFAC2A0FCF4"
+  },
+  {
+    "path": "lib/data/questions/egyptian_music_final.dart",
+    "sha256": "C8CDE37788F8D7BD4C0DDCC7F40571358FD3A112D6EBB00922B5C10AC94EECB3"
+  },
+  {
+    "path": "EGYPTIAN_MUSIC_AUDIT.md",
+    "sha256": "BB306C2801EB581BD1A314FC77452F90DA61D7C3A74E5092BBC27A3FD96989D0"
+  },
+  {
+    "path": "tool/egyptian_music_shared_answers.js",
+    "sha256": "29BAF8337827F13CE80F2CBB05B6D24F2CA3B8B8CB48662FE231D61839CF6AB1"
+  },
+  {
+    "path": "tool/egyptian_music_similarity.js",
+    "sha256": "1370AADB1F7AFE42D50A58A9A3AD5D8BB37616565DA4C8C87FCA75CEC913AF64"
+  },
+  {
+    "path": "tool/finalize_egyptian_music_edits.js",
+    "sha256": "22584FDE7016FFF613D040B3CFA47DE60DD8F511C360D02270AC625E76C42945"
+  },
+  {
+    "path": "tool/generate_egyptian_music.ps1",
+    "sha256": "593B3B52D2096E4C836225CC0242425C6DB7AB8D09AD38B1393183F9C9184AFB"
+  },
+  {
+    "path": "tool/prepare_egyptian_music.js",
+    "sha256": "73CBA90D36C973FC64172E470A77504E5E5D45B7ABC9E241114F34CA3689511A"
+  },
+  {
+    "path": "tool/record_egyptian_music_editorial_review.js",
+    "sha256": "0A2A565C25D14B84CE527AA7C0F16FAB040F0C0E7F06833B07181678EB27DBE4"
+  },
+  {
+    "path": "tool/update_egyptian_music_progress.js",
+    "sha256": "4D19AE93E3F0472DCF20ADFFA31309BDF09EE36D351278D01D6E100E8138D79A"
+  },
+  {
+    "path": "tool/validate_egyptian_music.ps1",
+    "sha256": "8C6832C76044AA9AA0E9F9C76C31A3C31CF2D5AAB0DC18A16203176DE5FFF202"
+  },
+  {
+    "path": "content/arabic_music/cross_bank_review.csv",
+    "sha256": "27C73F3B09B1B245244D999D92460F936BC35F06C3911FE839EBF1F89E606A2F"
+  },
+  {
+    "path": "content/arabic_music/easy.psv",
+    "sha256": "AC5D18B87C46994A5072F671A196488E95A515497B1F7123A14ACC2EE601A99C"
+  },
+  {
+    "path": "content/arabic_music/editorial_review.csv",
+    "sha256": "348055446D5C18AC7844058FA7C4EF311CE9110C687EE5A631137511E92BF3D1"
+  },
+  {
+    "path": "content/arabic_music/evidence_ledger.csv",
+    "sha256": "94C3EEFFCE3E4177D5E6EDB4385449324CA07A91853ED2035DC06F238A7D75E4"
+  },
+  {
+    "path": "content/arabic_music/fact_family_review.csv",
+    "sha256": "0935C24DB92225DFA59BB3FABE09F43B86804A923DE8D090EB645037B4B062F1"
+  },
+  {
+    "path": "content/arabic_music/hard.psv",
+    "sha256": "12C4E00496F5C3F9DA64D7A5CB3D418F4595FA5A6DFA06D7D7CD8F8ABFF687E5"
+  },
+  {
+    "path": "content/arabic_music/medium.psv",
+    "sha256": "746B03A01CCDAD20B266D3B2F254FBD3553EA7F7DD5A2D3E8B590EC0C784ED5A"
+  },
+  {
+    "path": "content/arabic_music/near_duplicate_candidates.csv",
+    "sha256": "2A8E6A802A6E3A0387FA6D00B61D6F84ED55C1691ABE7898A33771F34F32186A"
+  },
+  {
+    "path": "content/arabic_music/near_duplicate_review.csv",
+    "sha256": "F892E1E8783350D5FECA7571FCCEE7B8621482B1FA14CE0E12ECF7E6AF574EF7"
+  },
+  {
+    "path": "content/arabic_music/RESEARCH_NOTES.md",
+    "sha256": "926E70E8547191661854FD9F2C80669EA572CACFB9EC898116D659914128CCE2"
+  },
+  {
+    "path": "content/arabic_music/reviewed_pair_inventory.json",
+    "sha256": "7731086EC9DEC9425ABCF03C7532F2967D015AB1034778F172FB4EAED2D0CF77"
+  },
+  {
+    "path": "content/arabic_music/shared_answer_candidates.json",
+    "sha256": "A8255E0345846088221DCDFD570CC91D74FE2F8E1D44503B89B22A9BCF87B4C4"
+  },
+  {
+    "path": "content/arabic_music/shared_answer_review.json",
+    "sha256": "42E84A8CB7C8BB7F616168F650ED4B3CB7A47D01CE2CF1EAF0425A2DC5450665"
+  },
+  {
+    "path": "content/arabic_music/shared.console.json",
+    "sha256": "90D33E69207BD3B50037E1AC6E1825A045B44CC6005DAF308C55651480488556"
+  },
+  {
+    "path": "content/arabic_music/similarity_scan.json",
+    "sha256": "2525C83D74073940A352B24683EAAC4A24326FBB77AC6B550339B363624B3C33"
+  },
+  {
+    "path": "content/arabic_music/similarity.console.json",
+    "sha256": "2525C83D74073940A352B24683EAAC4A24326FBB77AC6B550339B363624B3C33"
+  },
+  {
+    "path": "content/arabic_music/sources.psv",
+    "sha256": "DE801B2B47C1BA145CB8C9FB81B3599A9E52854C9F0644FAF0F3CCBF4A67DE09"
+  },
+  {
+    "path": "content/arabic_music/validation_result.json",
+    "sha256": "81BE400B42FF47D7257AAAEDF02388CADE3EBCD772D4EF9CD7F92BA3E414B969"
+  },
+  {
+    "path": "lib/data/questions/arabic_music/easy_1.dart",
+    "sha256": "BD06D26D3C34F1BDE89615CDA65DCB01A2CBABEB514E41F254EBD770B5BCAB8C"
+  },
+  {
+    "path": "lib/data/questions/arabic_music/easy_2.dart",
+    "sha256": "8300AAD05258075C27EDDEAFE7E594E11FC7009839347F3B55FC4D0D4AA01ADB"
+  },
+  {
+    "path": "lib/data/questions/arabic_music/hard_1.dart",
+    "sha256": "19BEF75CFD023EE0DB5D2472B08F79B1F64EADC9FB48FD6E0029EF0094723209"
+  },
+  {
+    "path": "lib/data/questions/arabic_music/hard_2.dart",
+    "sha256": "27FAE4AE9A88B9330987123C7BCE11267C6D188A3387B773DE640E7ABDFAA735"
+  },
+  {
+    "path": "lib/data/questions/arabic_music/medium_1.dart",
+    "sha256": "9E1A859937C023857F9E892AE7CBDCB7D72010823F24DC2247E725A3770EA437"
+  },
+  {
+    "path": "lib/data/questions/arabic_music/medium_2.dart",
+    "sha256": "FE6C61DAC9F180655FCFF52CEBB1D4E4ABFC4432F2FBA36BC2662E75C5BBCCC3"
+  },
+  {
+    "path": "lib/data/questions/arabic_music_final.dart",
+    "sha256": "F75E5783787945A98B06258F35622592CFEB7A7AAB57E863FEFE3DE006301CA6"
+  },
+  {
+    "path": "ARABIC_MUSIC_AUDIT.md",
+    "sha256": "A9535B697CF29CE990FA069894DA815AED650A641CA048E633FDDA20041671DA"
+  },
+  {
+    "path": "tool/arabic_music_shared_answers.js",
+    "sha256": "388C1C841C632F194FC4489852BE447312A0BF3360C5BB44068A996F10BFD926"
+  },
+  {
+    "path": "tool/arabic_music_similarity.js",
+    "sha256": "EBE0BE7100C4E5887A6379703AE75252DB6D054B085A6BB6CBD0B820329BBE3A"
+  },
+  {
+    "path": "tool/extend_arabic_music_releases.js",
+    "sha256": "9F8D38B43CCC37F2536389BD393C9D75551FBC5EF9EEAA1CA8CC0F92F35CFE2D"
+  },
+  {
+    "path": "tool/finish_arabic_music_drafts.js",
+    "sha256": "50261F43C07B7ECFFCE0EF5D00D553F0A1359B5662E832DA118C7755061E1B65"
+  },
+  {
+    "path": "tool/generate_arabic_music.ps1",
+    "sha256": "2F6836F2DFF4AFFBC2F70A366E1F6FF2D05937797E82ACD3D085F24BE09096CD"
+  },
+  {
+    "path": "tool/prepare_arabic_music.js",
+    "sha256": "3BC63A8EA47D670448A42A9849C3CE5DAFB8B33E04BE7E9CF0ECCCF05A02C419"
+  },
+  {
+    "path": "tool/protect_arabic_music.ps1",
+    "sha256": "1A873791292C876BC236E8A02429885687DB0E66F87A42B1B7D1BA61CF58AE38"
+  },
+  {
+    "path": "tool/record_arabic_music_editorial_review.js",
+    "sha256": "A752B3DB11E1982A3F00892B1FBFB4F37E556E5F624CFDEED20D7A52910FB6C6"
+  },
+  {
+    "path": "tool/refine_arabic_music_drafts.js",
+    "sha256": "7489DC581CFA0515E39071F8ECE0CDAE5584B65F60079A5BE77E607DDC684DBE"
+  },
+  {
+    "path": "tool/refine_arabic_music_final.js",
+    "sha256": "634EE7378868EF86682E2CB501643B78E29BFF4C79A4F674B2A4FA85F7DFA9B9"
+  },
+  {
+    "path": "tool/update_arabic_music_progress.js",
+    "sha256": "57C7DFE2A8F34DE38D4E47A9C10A5EC8780E4347DCBED8EFE09FD0A0441C7182"
+  },
+  {
+    "path": "tool/validate_arabic_music.ps1",
+    "sha256": "DCCB79002D2AB4778DE8927DC79460EA1E5A1434B3D291BC0D7C33A2FFFFECA3"
+  },
+  {
+    "path": "content/international_music/cross_bank_review.csv",
+    "sha256": "81AA76FA55AA4207792169566A512180FFE3368C450B9AA47CAF6B5ED3C03D50"
+  },
+  {
+    "path": "content/international_music/easy.psv",
+    "sha256": "9B6161457BD7D96D53BA779A9D4B1966D85AD564F76984F5DA24A5B687B20EDC"
+  },
+  {
+    "path": "content/international_music/editorial_review.csv",
+    "sha256": "5B5066F6F32A028A7216696AE6021EE2B151429DB482F965E721DA5860F2A29C"
+  },
+  {
+    "path": "content/international_music/evidence_ledger.csv",
+    "sha256": "27A425B9356C2B2E65A1E48B03A813CAF6912E173C067984FAF8DE6985975CFC"
+  },
+  {
+    "path": "content/international_music/fact_family_review.csv",
+    "sha256": "F38EE1A3DFC9FAD58C06B0B675DA4E4A600CAEC7947BCA5E9B802E1BD2FB7355"
+  },
+  {
+    "path": "content/international_music/hard.psv",
+    "sha256": "85926FE43974D1ADEEF5B320BEA4E0DAE190372676FF16AD6164C6D9EDAB79FA"
+  },
+  {
+    "path": "content/international_music/medium.psv",
+    "sha256": "4E9ECED55EB27AB4E7B69FD1A6DFBF961482887A89E7BA87A64F445BBD240B69"
+  },
+  {
+    "path": "content/international_music/near_duplicate_candidates.csv",
+    "sha256": "4F0CA881A499851B3877A32120CC11F6FF7F4E7AB5702FD6C3EC21D07D004D34"
+  },
+  {
+    "path": "content/international_music/near_duplicate_review.csv",
+    "sha256": "AD6AB1D0AD24BB8782BDD5EFAED14A2BA543DEEB8DB98C5175B4B720D5C91F69"
+  },
+  {
+    "path": "content/international_music/RESEARCH_NOTES.md",
+    "sha256": "2327A2DCC49D084B57BA290B28F4B076EA24DDF251A95BFB09A2EA86DCBA1637"
+  },
+  {
+    "path": "content/international_music/reviewed_pair_inventory.json",
+    "sha256": "3ADBE069E99945655BAC6A73C42EC44D78E9467EAC863EC139B964FAEA53EB5C"
+  },
+  {
+    "path": "content/international_music/shared_answer_candidates.json",
+    "sha256": "BA9C5870E221D16039B17FEEEF0173E2A696AB430A87DCECEE5676AD7D42D20E"
+  },
+  {
+    "path": "content/international_music/shared_answer_review.json",
+    "sha256": "C9FC7472D7C09D522C01925F9DF4E7FA7013F86F4C57627C7EFDB68578356A57"
+  },
+  {
+    "path": "content/international_music/shared_console.json",
+    "sha256": "2C1AEAADFE535D8B13B4ED8569396B449B9EFAFB3DB1B3B5D5A5D0E3364D639A"
+  },
+  {
+    "path": "content/international_music/similarity_console.json",
+    "sha256": "EBA0FF7C5EF6F7BB3643C621AD0672CD8215A43FFEF72D28122FE582328FFB2F"
+  },
+  {
+    "path": "content/international_music/similarity_scan.json",
+    "sha256": "EBA0FF7C5EF6F7BB3643C621AD0672CD8215A43FFEF72D28122FE582328FFB2F"
+  },
+  {
+    "path": "content/international_music/sources.psv",
+    "sha256": "B550FB665B492A57C2BE5AD9764F9B5A5E8F238B0F076B150660543CE6058705"
+  },
+  {
+    "path": "content/international_music/validation_result.json",
+    "sha256": "E81FEB1DFC9FD314B251D3932FDB714D707E02EA47D86D94C8D5864A79642F49"
+  },
+  {
+    "path": "lib/data/questions/international_music/easy_1.dart",
+    "sha256": "F76EFEA122CA67FC656744E3AC2BEB56BCC5B25C98B331FA50ED58D6283D485C"
+  },
+  {
+    "path": "lib/data/questions/international_music/easy_2.dart",
+    "sha256": "89AE28B4350FDCDA8D4C7DB887F55E64DD3D93C86B5F55A65F6257A347A2A175"
+  },
+  {
+    "path": "lib/data/questions/international_music/hard_1.dart",
+    "sha256": "7E6C7116D744DCCE87AC56F7A1D6616109B535372096E321F4B7FB6C4EB8DC4E"
+  },
+  {
+    "path": "lib/data/questions/international_music/hard_2.dart",
+    "sha256": "E5DDE0C2831B5F646A5491E90B8EAA1DEB2FD30442FEE2C28A2A1099FF08AB1F"
+  },
+  {
+    "path": "lib/data/questions/international_music/medium_1.dart",
+    "sha256": "D0A4C921D77F5237AB3A13A885A5429B4B664E952287BDD1356A7E4DFE5ADCF9"
+  },
+  {
+    "path": "lib/data/questions/international_music/medium_2.dart",
+    "sha256": "ACCCFD4AEEEEE0A3C9FD3A20A43CCA52FC303156407F1AF086F9E15D2D7EB0BD"
+  },
+  {
+    "path": "lib/data/questions/international_music_final.dart",
+    "sha256": "C8B20770A75CCF4D2B99E6D0FE03C162F28F0BD9EF0290BC1A05B635A73CDA2B"
+  },
+  {
+    "path": "INTERNATIONAL_MUSIC_AUDIT.md",
+    "sha256": "18E8FF6E527EF7CFC4AF7A955B3483895684464347FE23BF31A90EFDC96223D9"
+  },
+  {
+    "path": "tool/extend_international_music_classic_rock.js",
+    "sha256": "9549CCB14F1C5B07250A967BB2154AD7EB40BDD1E66BEFA220FFEE0AB1707D52"
+  },
+  {
+    "path": "tool/extend_international_music_dance.js",
+    "sha256": "A35CE0D2577A10956481A517841851BA30E0BC8823A195FDE05560049DF7623D"
+  },
+  {
+    "path": "tool/extend_international_music_global_pop.js",
+    "sha256": "3077193ED64AAF5308A3762D2737A7D24B74E0BC3C7A0B0A624012FAC53634B2"
+  },
+  {
+    "path": "tool/extend_international_music_jazz_soundtracks.js",
+    "sha256": "5856F3D9D5301D42D88497F31ECAE1D8CD53F0115C91AA3B976690FBAC830240"
+  },
+  {
+    "path": "tool/extend_international_music_languages.js",
+    "sha256": "0126781A5DF3177DE90B0148403810DCA5958CF5851FFCBB39A467417EDF1DE7"
+  },
+  {
+    "path": "tool/extend_international_music_pop.js",
+    "sha256": "E5E69F952193A08AE5F85BF51A29D62BE79E433F60867D17C2DBA4424067215E"
+  },
+  {
+    "path": "tool/extend_international_music_rock.js",
+    "sha256": "4D5D5317A346DB1C748877901F6BF0C1288B206550A202057A3BB89C1EC3AFD6"
+  },
+  {
+    "path": "tool/freeze_international_music_review.js",
+    "sha256": "E0C1CDCC0946011DDDE0C48F6265ACA15D9F7915B73EB5A81F78D00FFD1BD667"
+  },
+  {
+    "path": "tool/generate_international_music.ps1",
+    "sha256": "0DF860B958062B255F5E634536ED8A3D72560B1B83F9B1DF1B86AA7ECF6ACF25"
+  },
+  {
+    "path": "tool/international_music_shared_answers.js",
+    "sha256": "CD3DCFA172AEFF7F4F3836BAF6BB49711ACE2C3E25B3960A9BCAF7196CF3FE1A"
+  },
+  {
+    "path": "tool/international_music_similarity.js",
+    "sha256": "BD70C49D9EB2E830012C356CA4757184FB489EE87FE3EF2D14B3C7E03B3962CE"
+  },
+  {
+    "path": "tool/prepare_international_music.js",
+    "sha256": "15988FCE3FC88127E74E4FDFB584DE9B326A18C6C40E395657BD1AB908DAD208"
+  },
+  {
+    "path": "tool/protect_international_music.ps1",
+    "sha256": "E132D14E43FFD008ECBB3E83767F514854D6DCB64A116C30FF409CABB05B94CB"
+  },
+  {
+    "path": "tool/record_international_music_editorial_review.js",
+    "sha256": "A176490967BD688714B2A70FD13AF985DC4BD4A824B0BEFE1904E3A2D2907314"
+  },
+  {
+    "path": "tool/refine_international_music_final.js",
+    "sha256": "34BF51ECE3C0EF20FA530848AE350C4BBC79313BD55F91BBC943CF4F8E9FF6F7"
+  },
+  {
+    "path": "tool/refine_international_music_sources.js",
+    "sha256": "0CF24625A8A3398810F67F58C56CFB35BD3F19495281CB9EF15716387C20A5A5"
+  },
+  {
+    "path": "tool/start_international_music.js",
+    "sha256": "6E5F29BC34D2EDAD6E46652DCE03F19461C2D1252E856BA298BE517CEC2C09EB"
+  },
+  {
+    "path": "tool/validate_international_music.ps1",
+    "sha256": "CAD33F7764ED7F6A1D19CE6C12022565C611B0A6F6CE4D25421F1BEA621BA82D"
+  },
+  {
+    "path": "content/old_school_music/cross_bank_review.csv",
+    "sha256": "C5627E219FF80A0276AA4D5532B24A053923D083E453179DA17B2BE1BC8A47E2"
+  },
+  {
+    "path": "content/old_school_music/easy.psv",
+    "sha256": "F4431777F42DB0CB644E8A6A99F89A06A92F91A097091451743BD4EEF1CCD98D"
+  },
+  {
+    "path": "content/old_school_music/editorial_review.csv",
+    "sha256": "11A01E776D3733D93B82025AAC66FBF0234A581EE6A9FA4D95FE003E4EF1491B"
+  },
+  {
+    "path": "content/old_school_music/evidence_ledger.csv",
+    "sha256": "115559BAFD11E434B57EC2A6012EA29E44A167932EB5C6489EDE1B8B56A33E4F"
+  },
+  {
+    "path": "content/old_school_music/fact_family_review.csv",
+    "sha256": "1F12A014088781E5E630CB76C635E42DF77956BDE583823A9BC94F725C0FB42B"
+  },
+  {
+    "path": "content/old_school_music/hard.psv",
+    "sha256": "8D37C06C61D195019D91DEC21DDC6EE64C78FBEDE1EEAC57439254E7613AEDF5"
+  },
+  {
+    "path": "content/old_school_music/medium.psv",
+    "sha256": "FEE4AC5553C2CEF18FAFD610942F8830B4E23AD705E66C0B5624CB0300ECD8A5"
+  },
+  {
+    "path": "content/old_school_music/near_duplicate_candidates.csv",
+    "sha256": "E2D9FD56685A37118854D6B0733EC4C85A366D280A153F94D742316ED6521002"
+  },
+  {
+    "path": "content/old_school_music/near_duplicate_review.csv",
+    "sha256": "1EE26055815094D511E8A750DA94F5624E4EAA9987B2D39A2E74BF12A9E88267"
+  },
+  {
+    "path": "content/old_school_music/reviewed_pair_inventory.json",
+    "sha256": "22667E648DC2A4CBB7D99B985711C923FEDE74A841E38893542B6EB6D34C2ACE"
+  },
+  {
+    "path": "content/old_school_music/shared_answer_candidates.json",
+    "sha256": "B7C01991C171469E35EFCBCACEC07736C24272441D10F19F930AF1BA6DD65CD4"
+  },
+  {
+    "path": "content/old_school_music/shared_answer_console.json",
+    "sha256": "B09FACEF603B811EEC2FAA274692172666F4A9E6BBD0F8A1EFE1ACE0E51EAE99"
+  },
+  {
+    "path": "content/old_school_music/shared_answer_review.json",
+    "sha256": "6A0707E9F7FD6D5E58DE004602C17D27049A11FBCF2BC248D1590100346400E1"
+  },
+  {
+    "path": "content/old_school_music/similarity_console.json",
+    "sha256": "C83A115CF3E910CE0D90536AE0C057E56AC6F7DF27369E8B2CC853B3C6A8D45E"
+  },
+  {
+    "path": "content/old_school_music/similarity_scan.json",
+    "sha256": "C83A115CF3E910CE0D90536AE0C057E56AC6F7DF27369E8B2CC853B3C6A8D45E"
+  },
+  {
+    "path": "content/old_school_music/sources.psv",
+    "sha256": "0B3EF22A5B87A66CF465B30A5ABB3169E3F1EF42A6B5D637FAC85DB2CE86151F"
+  },
+  {
+    "path": "content/old_school_music/validation_result.json",
+    "sha256": "DEE863D164F0F993AC134BE31609953977DB024AD0F8CB01C44BC4C00137B4C5"
+  },
+  {
+    "path": "lib/data/questions/old_school_music/easy_1.dart",
+    "sha256": "2E3F6C476E4A1250077A11BD10063D51F0FED2D462ECCA7D45F78D50FDFC0CA8"
+  },
+  {
+    "path": "lib/data/questions/old_school_music/easy_2.dart",
+    "sha256": "4B0BB8F90E51B14B21107607063B46EC36B82551A726EEFAE6A5BEFB261F67F5"
+  },
+  {
+    "path": "lib/data/questions/old_school_music/hard_1.dart",
+    "sha256": "5E72C84AB533DCFB3186FA051F6A51CDFB4F13EBD15D8614774C9D345C44E392"
+  },
+  {
+    "path": "lib/data/questions/old_school_music/hard_2.dart",
+    "sha256": "89E80A08E965C748D22DCDFD97FF2D420B3D448CC6BADE5D58F8E237A10A9ECE"
+  },
+  {
+    "path": "lib/data/questions/old_school_music/medium_1.dart",
+    "sha256": "412C21ADE268EF1A768F5693A94458FE9B85AEF08FAFDF10DFC5618774EF00A2"
+  },
+  {
+    "path": "lib/data/questions/old_school_music/medium_2.dart",
+    "sha256": "9453DB647343A9E8C83F5EFE9C998938800D371E99B46468600F92057A0DE016"
+  },
+  {
+    "path": "lib/data/questions/old_school_music_final.dart",
+    "sha256": "677F302B53D82842BE5AD3726905A704259284E0CF2653A3C66A05D657D657BF"
+  },
+  {
+    "path": "OLD_SCHOOL_MUSIC_AUDIT.md",
+    "sha256": "2D02C9C0FF0C16DFFD52ADF0F2AB4EDB37E20ED56F9A2EDF1ADC4C23B5C988EE"
+  },
+  {
+    "path": "tool/append_old_school_music.js",
+    "sha256": "494B9D52E83E1F2297F0E3C5B704E00C50A75C92B7A7C258718888C5B0E6530D"
+  },
+  {
+    "path": "tool/extend_old_school_music_arabic_classics.js",
+    "sha256": "0603A6C407AEDFA23CB13064E999AFC3E076CB2F830148C19DC594C3ACA0979B"
+  },
+  {
+    "path": "tool/extend_old_school_music_classic_credits.js",
+    "sha256": "691B8E3BFDAFB8A1F416110415AA46BA94B98711BD78AF2CBBC687C25D3191DB"
+  },
+  {
+    "path": "tool/extend_old_school_music_classics.js",
+    "sha256": "21A31A9861AD3F8B1F8163259DF5F1E35D8E8CC3DFD7B6EB14CDE8C9859D1CCE"
+  },
+  {
+    "path": "tool/extend_old_school_music_final_classics.js",
+    "sha256": "2D387DBCDF8FF89E8D8930F7F36665AD32559191041164644BEE47D66B86D50B"
+  },
+  {
+    "path": "tool/extend_old_school_music_pop.js",
+    "sha256": "A5FF2750B4AA0E96B57173AE59A5821C4F8C3FE6451ACC673674489D649CA9D2"
+  },
+  {
+    "path": "tool/extend_old_school_music_soul.js",
+    "sha256": "3DEF39ADCD0E6C6CED9DDC6AFD5931F3E1F8AF5C0EB25F6C3C09F90D36D41571"
+  },
+  {
+    "path": "tool/extend_old_school_music_standards.js",
+    "sha256": "628B7DDD771413037367C0ED9558C0B8A6470ECB6C0DC363983B7B5160DEC16A"
+  },
+  {
+    "path": "tool/extend_old_school_music_vintage_rock.js",
+    "sha256": "62AE779E74AC7EA7C2D14C3649E4D834E3E9369031EB73593AFC43173EFC1593"
+  },
+  {
+    "path": "tool/freeze_old_school_music_review.js",
+    "sha256": "BCF5C1444B04481733722E02030A8778F61FA19FCEC5681B38999CE69F454177"
+  },
+  {
+    "path": "tool/generate_old_school_music.ps1",
+    "sha256": "F52DB2AA38273B9DF6898926AA708CE970406933A5A9C6FDFA82A5DD967E8044"
+  },
+  {
+    "path": "tool/old_school_music_shared_answers.js",
+    "sha256": "834265CFED83B3B83673C86A9B9B58D982BB3E59E2F0763368F3BB45DFFDDA78"
+  },
+  {
+    "path": "tool/old_school_music_similarity.js",
+    "sha256": "B7322F686D36940EEBB8482229A4C5A1A3D08BA3F4036DCCA297A116843E9C35"
+  },
+  {
+    "path": "tool/prepare_old_school_music.js",
+    "sha256": "49B16171B7D14A2F34A6D3B57D7D7310360390D31E56DFC83D31F308B9C1AE88"
+  },
+  {
+    "path": "tool/protect_old_school_music.ps1",
+    "sha256": "3B52F2B314EDC07B59D5D91C5270812D10FC91F6B9FEE864F1AAA260B33E747D"
+  },
+  {
+    "path": "tool/record_old_school_music_editorial_review.js",
+    "sha256": "0D8B8C577D75FE34C6E86283917AA35477D3E3DCB7F1FEC3867B9E7244E462AC"
+  },
+  {
+    "path": "tool/refine_old_school_music_final.js",
+    "sha256": "485BBAC9F4AF053AA6349ED291FAAA88C5D984F4F5F75B06C19CBAC2172AED7F"
+  },
+  {
+    "path": "tool/start_old_school_music.js",
+    "sha256": "AEDC1392105CA873B4F96F3F7A29463838F4862BA24F222D3B008499915AFCEC"
+  },
+  {
+    "path": "tool/validate_old_school_music.ps1",
+    "sha256": "C257EBD2B00D2C3A0F5753E39EA8DB85AC121600683E7860F9D2070FC5FB0DDF"
+  }
+]

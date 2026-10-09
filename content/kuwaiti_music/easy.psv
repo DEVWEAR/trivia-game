@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|song:ajorelsout:singer|ajorelsout|من المطرب الكويتي صاحب أغنية «أجر الصوت» المعروفة أيضًا باسم «الصوت الجريح»؟|Which Kuwaiti singer performs Ajor Elsoot, also known as Al Sawt Al Jareeh?|عبدالكريم عبدالقادر|AbdulKarim AbdulQader
+002|song:shilohashila:performer|miami97|ما الفرقة الكويتية التي اشتهرت بأغنية «شيلوها شيلة»؟|Which Kuwaiti band is famous for Shiloha Shila?|فرقة ميامي|Miami Band
+003|song:yaghali:guitaraperformer|yaghali|ما الفرقة الكويتية صاحبة أغنية «يا غالي» في ألبوم «قصتي»؟|Which Kuwaiti band performs Ya Ghali on the album Qissati?|فرقة جيتارا|Guitara Band
+004|song:kunanta:singer|kunanta|من الفنان الكويتي صاحب أغنية «كن أنت»؟|Which Kuwaiti artist performs Kun Anta?|حمود الخضر|Humood AlKhudher
+005|album:nawal:alard:artist|nawalard|من المطربة صاحبة ألبوم «الأرض» الذي يضم «زينة أيامي» و«القصايد»؟|Which female singer released Al Ard, the album containing Zenat Ayyami and Al Qasaid?|نوال|Nawal
+006|song:leemarhelow:singer|leemarhelow|من المطرب الكويتي صاحب أغنية «لي مر الحلو»؟|Which Kuwaiti singer performs Lee Mar El Helow?|عبدالله الرويشد|Abdullah Al Rowaished
+007|song:yaassal:singer|yaassal|من المطرب الكويتي صاحب أغنية «يا عسل» في ألبوم «شعيل 2012»؟|Which Kuwaiti singer performs Ya Assal on the album Shuail 2012?|نبيل شعيل|Nabeel Shuail
+008|song:alaqtna:singer|alaqtna|من المطرب الكويتي صاحب أغنية «علاقتنا» التي طرحها عام 2016؟|Which Kuwaiti singer released Alaqtna in 2016?|عبدالعزيز الويس|Abdulaziz Louis
+009|song:wayedwayed:singer|mustafabeginnings|من المطرب الكويتي صاحب الأغنية الكلاسيكية «وايد وايد»؟|Which Kuwaiti singer performs the classic Wayed Wayed?|مصطفى أحمد|Mustafa Ahmed
+010|song:masmouh:ghareedsinger|ghareedarchive|من المطرب الكويتي صاحب التسجيل الكلاسيكي لأغنية «مسموح»؟|Which Kuwaiti singer performs the classic recording of Masmouh?|غريد الشاطئ|Ghareed Al Shati
+011|song:halaftomri:singer|halaftomri|من المطرب الكويتي صاحب الأغنية الكلاسيكية «حلفت عمري»؟|Which Kuwaiti singer performs the classic Halaft Omri?|حسين جاسم|Hussein Jassim
+012|song:etmaen:singer|etmaen|من المطرب الكويتي صاحب أغنية «اطمئن»؟|Which Kuwaiti singer performs Etmaen?|حمود ناصر|Hammoud Naser
+013|song:yanarshebby:singer|yanarshebby|من المطرب الكويتي صاحب أغنية «يا نار شبي»؟|Which Kuwaiti singer performs Ya Nar Shebby?|محمد البلوشي|Mohammed Al Balushi
+014|theme:alaldunyaalsalam:singer|balushirepertoire|من غنّى شارة المسلسل الكويتي «على الدنيا السلام»؟|Who sang the theme of the Kuwaiti television series Ala Al Dunya Al Salam?|محمد البلوشي|Mohammed Al Balushi
+015|husseinjassim:teaching:subject|husseinrepertoire|ما المادة التي درّسها المطرب حسين جاسم في المدارس؟|What subject did singer Hussein Jassim teach in schools?|التربية الموسيقية|Music education
+016|song:akoumislek:singer|akoumislek|من المطربة صاحبة أغنية «أكو مثلك»؟|Which female singer performs Akou Mislek?|نوال|Nawal
+017|song:ajmalbent:singercomposer|ajmalbent|من غنّى ولحّن «أجمل بنت في الدنيا»؟|Who sang and composed Ajmal Bent Fi Al Dunya?|عبدالعزيز الويس|Abdulaziz Louis
+018|bashar:breakthrough:programme|basharprofile|أي برنامج مواهب عرّف الجمهور ببشار الشطي في موسمه الأول؟|Which talent show's first season introduced Bashar Al Shatti to the public?|ستار أكاديمي|Star Academy
+019|song:yatir:writercomposer|yatir|من كتب ولحّن وغنّى «يا طير» التي شارك فيها دافي بالراب؟|Who wrote, composed and sang Ya Tir, featuring Daffy on rap?|بشار الشطي|Bashar Al Shatti
+020|aishaalmarta:musicalnickname|aishatribute|أي مطربة كويتية لُقّبت بـ«ملكة السامري»؟|Which Kuwaiti female singer was nicknamed the Queen of Samri?|عايشة المرطة|Aisha Al Marta
+021|song:weshjabni:singer|weshjabni|من المطربة الكويتية التي أصدرت «وش جابني» عبر صولو إف إم عام 2018؟|Which Kuwaiti female singer released Wesh Jabni through SoloFM in 2018?|فطومة|Fattouma
+022|song:ghamza:singer|ghamza|من الفنان الكويتي صاحب أغنية «غمزة» الصادرة عام 2017؟|Which Kuwaiti artist released Ghamza in 2017?|إبراهيم دشتي|Ibrahim Dashti
+023|awadhdoukhi:kunya|bufahmi|أي مطرب كويتي عُرف بكنية «بو فهمي»؟|Which Kuwaiti singer was known as Bu Fahmi?|عوض دوخي|Awadh Doukhi
+024|humood:label:2015|humoodprofile|أي شركة أصدرت ألبوم حمود الخضر «أصير أحسن» عام 2015؟|Which label released Humood AlKhudher's Aseer Ahsan in 2015?|أويكنينج ريكوردز|Awakening Records
+025|song:haanatha:singer|haanatha|من الفنان الكويتي صاحب الأغنية التحفيزية «هأنذا»؟|Which Kuwaiti artist performs the motivational song Ha Anatha?|حمود الخضر|Humood AlKhudher
+026|song:hataytakbrasi:singer|duwaihi2008|من المطرب الكويتي صاحب «حطيتك براسي» في إصدار هاب عام 2008؟|Which Kuwaiti singer performs Hataytak Brasi on his 2008 Hap release?|عبدالعزيز الضويحي|Abdulaziz Al Duwaihi
+027|album:faqedha:artist|dashtirepertoire|من الفنان صاحب ألبوم «فاقدها» الذي يضم «طاف» و«مشتاقين»؟|Which artist released Faqedha, the album containing Taf and Mushtaqin?|إبراهيم دشتي|Ibrahim Dashti
+028|song:mafiahad:singercomposer|mafiahad|من غنّى ولحّن الأغنية الرومانسية «مافي أحد»؟|Who sang and composed the romantic song Mafi Ahad?|حمد القطان|Hamad Al Qattan
+029|song:alhawaghallab:archiveperformer|abdullatifarchive|من الفنان الذي تحمل اسمه نسخة «الهوا غلاب» في أرشيف منصة 51 الكويتية؟|Which artist is credited with Al Hawa Ghallab in Kuwait's 51 archive?|عبداللطيف الكويتي|Abdul Latif Al Kuwaiti
+030|sulaimanqassar:celebration|qassarwedding|بأي نوع من الاحتفالات الغنائية اشتهر سليمان القصار وفرقته الشعبية؟|Which type of musical celebration made Sulaiman Al Qassar and his folk band famous?|حفلات الأعراس|Wedding celebrations
+031|song:yanabwalwafa:singer|mullatribute|من الملحّن الكويتي الذي غنّى بصوته «يا نبع الوفا»؟|Which Kuwaiti composer sang Ya Nab Al Wafa himself?|سليمان الملا|Sulaiman Al Mulla
+032|song:qawialbas:singer|talalsam|من الفنان صاحب «قوي الباس» التي سبقت ألبومه الأول عام 2025؟|Which artist released Qawi Al Bas ahead of his debut album in 2025?|طلال سام|Talal Sam
+033|song:sadqah:singer|maramsadqah|من المطربة الكويتية صاحبة أغنية «صادقة»؟|Which Kuwaiti female singer performs Sadqah?|مرام|Maram
+034|song:mistajela:singer|mistajela|من المطرب الكويتي صاحب أغنية «مستعجلة» الصادرة عام 2022؟|Which Kuwaiti singer released Mistajela in 2022?|مساعد البلوشي|Mesaed Al Baloushy
+035|song:sidratalaoshaq:singer|shadiarchive|من المطرب الكويتي صاحب التسجيل الكلاسيكي لـ«سدرة العشاق»؟|Which Kuwaiti singer performs the classic recording of Sidrat Al Oshaq?|شادي الخليج|Shadi Al Khaleej
+036|song:fidwalij:singer|hudaibiarchive|من المطرب الكويتي الذي اشتهر بـ«فدوة لج»؟|Which Kuwaiti singer is known for Fidwa Lij?|عبدالمحسن المهنا|Abdul Mohsen Al Muhanna
+037|song:raddataltayyara:femalevoice|sportssongs|أي ممثلة شاركت صالح الحريبي غناء «ردت الطيارة»؟|Which actress sang Raddat Al Tayyara alongside Saleh Al Huraibi?|سعاد عبدالله|Suad Abdullah
+038|song:mayeshbehak:singer|mayeshbehak|من المطرب الكويتي صاحب «ما يشبهك»؟|Which Kuwaiti singer performs Ma Yeshbehak?|نبيل شعيل|Nabeel Shuail
+039|song:maqeltlak:singer|maqeltlak|من المطرب الكويتي صاحب أغنية «ما قلت لك»؟|Which Kuwaiti singer performs Ma Qelt Lak?|عبدالله الرويشد|Abdullah Al Rowaished
+040|song:abeek:singercomposer|abeek|من غنّى ولحّن «أبيك» وقدّمها في جلسات وناسة 2017؟|Who sang and composed Abeek, performed at Jalsat Wanasah 2017?|عبدالله الرويشد|Abdullah Al Rowaished
+041|song:mughroura:singer|mughroura|من المطربة الكويتية صاحبة أغنية «مغرورة»؟|Which Kuwaiti female singer performs Mughroura?|مرام|Maram
+042|song:jathibiya:writercomposersinger|hammoud2019|من كتب ولحّن وغنّى «جاذبية» ضمن ألبومه لعام 2019؟|Who wrote, composed and sang Jathibiya on his 2019 album?|حمود ناصر|Hammoud Naser
+043|mutrif:father:musician|mutriffamily|من المطرب الذي ورث ابنه مطرف المطرف موهبته الغنائية؟|Which singer passed his musical talent on to his son Mutrif Al Mutrif?|يوسف المطرف|Youssef Al Mutrif
+044|youssefmutrif:stringinstrument|mutriffamily|ما الآلة الوترية التي اشتهر يوسف المطرف بالعزف عليها مع غنائه؟|Which string instrument was Youssef Al Mutrif known for playing alongside his singing?|العود|Oud
+045|song:fahhmouh:singer|fahhmouh|من صاحب أغنية «فهموه»؟|Who sings Fahhmouh?|مطرف المطرف|Mutrif Al Mutrif
+046|song:yijeeballahmatar:themevoice|matarvoice|من غنّى مقدمة مسلسل «يجيب الله مطر»؟|Who sang the theme of the series Yijeeb Allah Matar?|مطرف المطرف|Mutrif Al Mutrif
+047|song:abshiriyaain:singer|abshiri|من صاحبة الأغنية الكويتية الكلاسيكية «أبشري يا عين»؟|Who originally sang the Kuwaiti classic Abshiri Ya Ain?|عائشة المرطة|Aisha Al Marta
+048|song:samihni:singer|samihniidentity|من المطربة الكويتية صاحبة أغنية «سامحني» الصادرة عام 2015؟|Which Kuwaiti singer released Samihni in 2015?|شيماء سليمان|Shaymaa Sulaiman
+049|song:alshougjabak:singer|shougjabak|من المطربة صاحبة «الشوق جابك»؟|Which singer performs Al Shoug Jabak?|نوال|Nawal
+050|song:anaraddait:singer|anaraddait|من صاحب الأغنية الكويتية الكلاسيكية «أنا رديت»؟|Who originally sang the Kuwaiti classic Ana Raddait?|عبدالكريم عبدالقادر|Abdul Karim Abdul Qader
+051|song:khatelkhatar:singer|khatelkhatar|من صاحبة أغنية «خط الخطر» الصادرة عام 2021؟|Who released Khat El Khatar in 2021?|شمس|Shams
+052|song:zahqanamellait:singer|zahqana|من غنّت «زهقانة مليت»؟|Who sings Zahqana Mellait?|شمس|Shams
+053|song:qanabel:singer|qanabel|من صاحب أغنية «قنابل»؟|Who sings Qanabel?|عيسى المرزوق|Essa Al Marzouq
+054|song:wenwen:singer|wenwen|أي مطرب كويتي غنّى «وين وين» في كليب عام 2017؟|Which Kuwaiti singer performed Wen Wen in a 2017 music video?|حمد القطان|Hamad Al Qattan
+055|song:habait:singer|habait|من الفنان الكويتي صاحب أغنية «حبيت»؟|Which Kuwaiti artist sings Habait?|خالد المظفر|Khaled Al Mudhaffar
+056|song:alamaloshaq:partner|alamaloshaq|من شارك خالد المظفر غناء «عالم العشاق»؟|Who sang Alam Al Oshaq with Khaled Al Mudhaffar?|عايض|Ayed
+057|artist:essa:talentshow|essabio|من أي برنامج مواهب انطلق عيسى المرزوق إلى الشهرة؟|Which talent show brought Essa Al Marzouq to fame?|ستار أكاديمي|Star Academy
+058|artist:rashedhemli:instrument|hemli|بأي آلة وترية اشتهر عزف الفنان الكويتي راشد الحملي؟|Which string instrument is Kuwaiti artist Rashed Al Hemli known for playing?|العود|The oud
+059|maritime:naham:role|nahma|ما اسم المغنّي الذي كان يرافق البحارة على سفن الكويت القديمة؟|What was the singer accompanying sailors on old Kuwaiti ships called?|النهّام|The naham
+060|song:tadriwalamatadri:singer|tadri|من المطربة صاحبة الأغنية الخليجية الشهيرة «تدري ولا ما تدري»؟|Who sings the famous Gulf song Tadri Wala Ma Tadri?|نوال|Nawal
+061|song:dandinmai:singer|dandin|من صاحب أغنية «دندن معي»؟|Who sings Dandin Ma'i?|حمود الخضر|Humood Al Khudher
+062|song:eelaa:duetpartner|eelaa|من شريك دافي في الأغنية الشهيرة «إيه لأ»؟|Who is Daffy's partner on the hit EE LAA?|فليبراتشي|Flipperachi
+063|song:sabahalkhair:singer|sabah|من صاحب أغنية «صباح الخير يا مدلل»؟|Who sings Sabah Al Khair Ya Mudallal?|نبيل شعيل|Nabeel Shuail
+064|song:mansak2000:singer|mansak|من المطرب صاحب «منساك» في ألبوم «شعيل 2000»؟|Who sings Mansak on the Shuail 2000 album?|نبيل شعيل|Nabeel Shuail
+065|song:ahlaarous:singer|ahlaarous|من المطربة الكويتية التي قدّمت «أحلى عروس» ضمن ألبومها لعام 2008؟|Which Kuwaiti singer included Ahla Arous on her 2008 album?|فطومة|Fattouma
+066|song:yakafialshar:singer|mukhainicatalog|من صاحب أغنية «يا كافي الشر» التي لحّنها ماجد المخيني؟|Who sings Ya Kafi Al Shar, composed by Majed Al Mukhaini?|مساعد البلوشي|Mesaed Al Baloushy
+067|song:alawaztali:singer|fadhalaclassics|أي مطرب كويتي قديم اشتهر بسامرية «ألا واعزتالي»؟|Which early Kuwaiti singer was known for the samri song Ala Wa'azzatali?|عبدالله فضالة|Abdullah Fadhala
+068|song:mintmithammil:singer|mukhainicatalog|من صاحب أغنية «منت متحمل» التي لحّنها ماجد المخيني؟|Who sings Mint Mithammil, composed by Majed Al Mukhaini?|بشار الشطي|Bashar Al Shatti

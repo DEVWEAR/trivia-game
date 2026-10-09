@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+137|song:ghabetshamselhaq:lyricist|ghabet|من كتب كلمات أغنية جوليا بطرس «غابت شمس الحق»؟|Who wrote the lyrics of Julia Boutros's Ghabet Shams El Haq?|نبيل أبو عبدو|Nabil Abu Abdo
+138|song:intaeih:lyricist|intaeih|من كتب كلمات أغنية نانسي عجرم «إنت إيه»؟|Who wrote the lyrics of Nancy Ajram's Inta Eih?|مصطفى مرسي|Mostafa Morsi
+139|song:nasinieldonya:composer|nasini|من لحّن أغنية راغب علامة «نسيني الدنيا»؟|Who composed Ragheb Alama's Nasini El Donya?|خالد البكري|Khaled El Bakry
+140|song:nasinieldonya:lyricist|nasini|من كتب كلمات أغنية راغب علامة «نسيني الدنيا»؟|Who wrote the lyrics of Ragheb Alama's Nasini El Donya?|عاصم حسين|Assem Hussein
+141|song:youmwarayoum:lyricist|youmwara|من كتب كلمات دويتو «يوم ورا يوم» لسميرة سعيد والشاب مامي؟|Who wrote the lyrics of Samira Said and Cheb Mami's Youm Wara Youm duet?|خالد تاج الدين|Khaled Tag El Din
+142|song:kalimat:recordingstudio|kalimat|في استوديو أي موسيقار سُجّلت أغنية ماجدة الرومي «كلمات»؟|At which musician's studio was Majida El Roumi's Kalimat recorded?|إلياس الرحباني|Elias Rahbani
+143|album:bluemaqams:producer|bluemaqams|من أنتج ألبوم أنور براهم «بلو مقامات» الصادر عام 2017؟|Who produced Anouar Brahem's 2017 album Blue Maqams?|مانفريد آيخر|Manfred Eicher
+144|album:bluemaqams:drummer|bluemaqams|من عازف الدرامز الذي شارك أنور براهم في ألبوم «بلو مقامات»؟|Which drummer played with Anouar Brahem on Blue Maqams?|جاك ديجونيت|Jack DeJohnette
+145|album:birdsrequiem:kanunplayer|birds|من عازف القانون الذي شارك ظافر يوسف في ألبوم «مرثية الطيور»؟|Which kanun player joined Dhafer Youssef on Birds Requiem?|أيتاتش دوغان|Aytaç Dogan
+146|heritage:iraqimaqam:ensembleterm|iraqimaqam|ما اسم الفرقة التقليدية التي ترافق مغنّي المقام العراقي؟|What is the name of the traditional ensemble accompanying the Iraqi maqam singer?|الجالغي|Tshalghi
+147|heritage:iraqimaqam:jawzahstrings|iraqimaqam|كم وترًا لآلة الجوزة المصاحبة للمقام العراقي، بحسب وصف اليونسكو؟|How many strings does the jawzah used in Iraqi Maqam have, according to UNESCO?|أربعة أوتار|Four strings
+148|institution:rachidia:literarycommitteehead|rachidia|من الأديب الذي ترأّس اللجنة الأدبية عند تأسيس جمعية الرشيدية؟|Which man of letters headed the literary committee at the founding of the Rachidia association?|محمد العربي الكبادي|Mohammed Al Arabi Al Kabbadi
+149|song:waedmenni:lyricist|waed|من كتب كلمات أغنية رحمة رياض «وعد مني»؟|Who wrote the lyrics of Rahma Riad's Waed Menni?|رامي العبودي|Ramy Al Abody
+150|song:michamtezbat:lyricist|mich|من كتب كلمات أغنية ناصيف زيتون «مش عم تظبط معي»؟|Who wrote the lyrics of Nassif Zeytoun's Mich Aam Tezbat Maii?|فادي مرجان|Fadi Morjan
+151|song:dalliedhaki:composer|dalli|من لحّن أغنية ملحم زين «ضلي اضحكي»؟|Who composed Melhem Zein's Dalli Edhaki?|علي حسون|Ali Hassoun
+152|song:dalliedhaki:lyricist|dalli|من كتب كلمات أغنية ملحم زين «ضلي اضحكي»؟|Who wrote the lyrics of Melhem Zein's Dalli Edhaki?|فادي مرجان|Fadi Morjan
+153|song:madareet:lyricist|saifnews|من كتب كلمات أغنية سيف نبيل «ما دريت»؟|Who wrote the lyrics of Saif Nabeel's Ma Dareet?|سيف الفارس|Saif Al Fares
+154|song:kalamelnas:lyricist|kalam|من كتب كلمات أغنية جورج وسوف «كلام الناس»؟|Who wrote the lyrics of George Wassouf's Kalam El Nas?|أحمد شتا|Ahmed Sheta
+155|album:birdsrequiem:releaseyear|birds|في أي عام صدر ألبوم ظافر يوسف «مرثية الطيور»؟|In which year was Dhafer Youssef's Birds Requiem released?|2013|2013
+156|song:aaljanibaadyoumein:lyricist|samiraretro|من كتب كلمات أغنية سميرة سعيد «قال جاني بعد يومين»؟|Who wrote the lyrics of Samira Said's Aal Gani Baad Youmein?|عبدالوهاب محمد|Abdel Wahab Mohammed
+157|artist:souadmassi:frenchhonour|souadbio|بأي وسام فرنسي كُرّمت سعاد ماسي برتبة فارس عام 2002؟|In which French order was Souad Massi made a knight in 2002?|وسام الفنون والآداب|Order of Arts and Letters
+158|artist:zakinassif:celloteacher|zakiaub|من علّم زكي ناصيف العزف على التشيلو خلال دراسته في الجامعة الأمريكية في بيروت؟|Who taught Zaki Nassif cello during his studies at the American University of Beirut?|رودولف كوغل|Rudolph Kouguell
+159|artist:zakinassif:dancecollaboration|zakiaub|مع أي فرقة رقص لبنانية تعاون زكي ناصيف لأكثر من عقد؟|With which Lebanese dance company did Zaki Nassif collaborate for more than a decade?|فرقة كركلا|Caracalla Dance Troupe
+160|song:labidayiwalanihayi:arabicwriter|labidayi|من كتب الكلمات العربية لأغنية هبة طوجي «لا بداية ولا نهاية»؟|Who wrote the Arabic lyrics of Hiba Tawaji's La Bidayi Wala Nihayi?|منصور الرحباني|Mansour Rahbani
+161|song:ayshalak:lyricist|ayshalak|من كتب كلمات أغنية إليسا «عيشالك»؟|Who wrote the lyrics of Elissa's Ayshalak?|محمد رفاعي|Mohammed Rifai
+162|song:kelelqasayed:arranger|qasayed|من تولّى التوزيع الموسيقي لأغنية مروان خوري «كل القصايد»؟|Who arranged Marwan Khoury's Kel El Qasayed?|بلال الزين|Belal Al Zain
+163|song:kheleseldamaa:lyricist|kheles|من كتب كلمات أغنية آدم «خلص الدمع»؟|Who wrote the lyrics of Adam's Kheles El Dame'a?|حسن منجد|Hassan Munajjed
+164|song:kheleseldamaa:composer|kheles|من لحّن أغنية آدم «خلص الدمع»؟|Who composed Adam's Kheles El Dame'a?|نقولا سعادة نخلة|Niqola Saadeh Nakhleh
+165|song:omrikellou:lyricist|omri|من كتب كلمات أغنية وائل كفوري «عمري كلو»؟|Who wrote the lyrics of Wael Kfoury's Omri Kellou?|سمير نخلة|Samir Nakhleh
+166|song:ellayali:composerintroduction|nawallayali|بحسب نوال الزغبي، من عرّفها على محمد رحيم قبل تسجيل «الليالي»؟|According to Nawal El Zoghbi, who introduced her to Mohammed Rahim before recording El Layali?|حميد الشاعري|Hamid Al Shaeri
+167|song:aatenielnay:composer|aateni|من لحّن قصيدة «أعطني الناي وغنّ» لفيروز؟|Who composed Aateny El Nay Wa Ghanni for Fairuz?|نجيب حنكش|Naguib Hankash
+168|song:etazaltelgharam:lyricist|etazalt|من كتب كلمات أغنية ماجدة الرومي «اعتزلت الغرام»؟|Who wrote the lyrics of Majida El Roumi's Etazalt El Gharam?|نزار فرنسيس|Nizar Francis
+169|song:majbour:lyricist|majbour|من كتب كلمات أغنية ناصيف زيتون «مجبور»؟|Who wrote the lyrics of Nassif Zeytoun's Majbour?|علي المولى|Ali Al Mawla
+170|song:mabzon:lyricist|mabzon|من كتب كلمات أغنية ناصيف زيتون «ما بظن»؟|Who wrote the lyrics of Nassif Zeytoun's Ma Bzon?|عامر لاوند|Amer Lawand
+171|artist:wadielsafi:birthname|wadilabel|ما الاسم الأصلي للمطرب وديع الصافي، بحسب تعريف شركة يونيفرسال ميوزيك؟|What is Wadih El Safi's birth name, according to Universal Music's artist profile?|وديع فرنسيس|Wadih Francis
+172|heritage:stambali:guembristrings|stambalireport|كم وترًا لآلة القمبري في وصف اليونسكو لموسيقى السطامبالي التونسية؟|How many strings does the guembri have in UNESCO's description of Tunisian Stambali music?|ثلاثة أوتار|Three strings
+173|artist:boujmi:fullname|boujmi|ما الاسم الذي عُرف صاحبه بلقب «بوجميع» في فرقة ناس الغيوان؟|What is the name of the Nass El Ghiwane member known as Boujmi?|بوجمعة أحكور|Boujemaa Ahkour
+174|song:asmaryasaher:poet|aminhistory|من كتب كلمات أغنية محمد الأمين «أسمر يا ساحر»؟|Who wrote the lyrics of Mohammed Al Amin's Asmar Ya Saher?|خليفة الصادق|Khalifa Al Sadiq
+175|song:october21:poet|aminhistory|من كتب «نشيد أكتوبر واحد وعشرين» الذي لحّنه محمد الأمين؟|Who wrote Nashid October Wahid Wa Ishrin, composed by Mohammed Al Amin?|فضل الله محمد|Fadl Allah Mohammed
+176|heritage:mauritania:musicalfamilies|maloumabio|ما الاسم المحلي للأسر التي تتوارث الغناء والموسيقى التقليدية في موريتانيا؟|What is the local name for families who inherit the practice of traditional singing and music in Mauritania?|إيكاون|Ikaoun
+177|song:didi:producer|didi|من المنتج وعازف لوحات المفاتيح الذي شارك في تسجيل الشاب خالد «ديدي» عام 1992؟|Which producer and keyboard player worked on Khaled's 1992 recording of Didi?|دون واس|Don Was
+178|song:yarayah:tahaproducer|yarayah|من أنتج تسجيل رشيد طه لأغنية «يا الرايح» الوارد في ألبوم «ديوان»؟|Who produced Rachid Taha's recording of Ya Rayah on Diwan?|ستيف هيلاج|Steve Hillage
+179|song:avavainouva:poet|avava|من الشاعر الذي شارك إيدير في كتابة «أفافا إينوفا»؟|Which poet co-wrote A Vava Inouva with Idir?|محمد بن حمادوش|Mohamed Benhammadouche
+180|song:ghirenta:coproducer|ghir|من المنتج الذي شارك سعاد ماسي في إنتاج تسجيل «غير إنت»؟|Which producer worked alongside Souad Massi on the recording of Ghir Enta?|إروين أوتريك|Erwin Autrique
+181|song:aicha:mixedversionkeyboardist|aicha|من عزف لوحات المفاتيح في نسخة «عائشة» المختلطة للشاب خالد على ألبوم «صحرا»؟|Who played keyboards on Khaled's mixed version of Aicha on Sahra?|إريك بنزي|Erick Benzi
+182|song:hafla:lyricist|hafla|من كتب كلمات أغنية نوال الزغبي «حفلة»؟|Who wrote the lyrics for Nawal El Zoghbi's Hafla?|هاني صارو|Hany Sarou
+183|song:yelaan:mixmaster|yelaan|من تولّى المكس والماستر لأغنية نجوى كرم «يلعن البعد» عام 2024؟|Who handled mixing and mastering for Najwa Karam's 2024 Yelaan El Boed?|إيلي بربر|Elie Barbar
+184|song:estimara:lyricist|estimara|من كتب كلمات أغنية راغب علامة «استمارة 6»؟|Who wrote the lyrics for Ragheb Alama's Estimara 6?|نادر عبدالله|Nader Abdallah
+185|song:sahsah:lyricist|sahsah|من كتب كلمات أغنية نانسي عجرم «صح صح»؟|Who wrote the lyrics for Nancy Ajram's Sah Sah?|أحمد علاء الدين|Ahmed Alaa El Din
+186|song:walafi:lyricist|walafi|من كتب كلمات أغنية وائل جسار «ولا في الأحلام»؟|Who wrote the lyrics for Wael Jassar's Wala Fi El Ahlam?|أحمد قطوط|Ahmed Qatout
+187|song:matgheebsh:lyricist|matgheebsh|من كتب كلمات أغنية وائل جسار «ما تغيبش ثواني»؟|Who wrote the lyrics for Wael Jassar's Ma Tgheebsh Sawani?|خالد تاج الدين|Khaled Tag El Din
+188|song:kon:videodirector|kon|من أخرج فيديو كليب «كون» لجوزيف عطية؟|Who directed the music video for Joseph Attieh's Kon?|سامي بساط|Sami Bsat
+189|song:baghdada:arranger|baghdada|من وزّع أغنية جوزيف عطية «البغددة» موسيقياً؟|Who arranged Joseph Attieh's Al Baghdada?|وسام عبدالمنعم|Wissam Abdel Moneim
+190|song:motallaqa:lyricist|motallaqa|من كتب كلمات أغنية كارول سماحة «المطلقة»؟|Who wrote the lyrics for Carole Samaha's El Motallaqa?|علي المولى|Ali Al Mawla
+191|song:habibiduo:lyricist|habibiduo|من كتب كلمات أغنية عاصي الحلاني والوليد الحلاني «حبيبي»؟|Who wrote the lyrics for Assi El Hallani and Al Walid El Hallani's Habibi?|نزار فرنسيس|Nizar Francis
+192|song:maswloli:lyricist|maswloli|من كتب كلمات أغنية ديانا حداد والشاب خالد «ماس ولولي»؟|Who wrote the lyrics for Diana Haddad and Khaled's Mas Wloli?|أحمد مرزوق|Ahmed Marzouk
+193|album:rita:bassclarinetist|rita|من عازف الباس كلارينيت في ألبوم أنور براهم «عيون ريتا المذهلة»؟|Who plays bass clarinet on Anouar Brahem's The Astounding Eyes Of Rita?|كلاوس غيزينغ|Klaus Gesing
+194|album:rita:percussionist|rita|من عزف الدربوكة والبندير في ألبوم أنور براهم «عيون ريتا المذهلة»؟|Who plays darbouka and bendir on Anouar Brahem's The Astounding Eyes Of Rita?|خالد ياسين|Khaled Yassine
+195|album:lepas:originalreleaseyear|lepas|في أي عام صدر «خطوة القط الأسود» لأنور براهم للمرة الأولى، قبل إعادة إصداره عام 2019؟|In which year was Anouar Brahem's Le pas du chat noir originally released, before its 2019 reissue?|2002|2002
+196|concert:fairuz1957:openingsong|fairuzopening|بأي أغنية افتتحت فيروز احتفالية «الليالي اللبنانية» في بعلبك عام 1957؟|With which song did Fairuz open the 1957 Lebanese Nights celebration at Baalbeck?|لبنان يا أخضر حلو|Lebnan Ya Akhdar Helou
+197|concert:soleils:venue|soleils|في أي قاعة باريسية أُقيم حفل «1، 2، 3 شموس» عام 1998؟|At which Paris venue was the 1998 1 2 3 Soleils concert held?|بيرسي|Bercy
+198|album:rhorhomanie:producer|carte|من أنتج ألبوم «روروماني» لفرقة كارت دو سيجور؟|Who produced Carte de Sejour's Rhorhomanie?|ستيف هيلاج|Steve Hillage
+199|album:2etdemi:producer|carte|من أنتج ألبوم «اثنان ونصف» لفرقة كارت دو سيجور؟|Who produced Carte de Sejour's 2 et demi?|نيك باتريك|Nick Patrick
+200|artist:issam:collective|issam|ما اسم التجمّع الثقافي المقيم في باريس الذي شارك فيه الرابر عصام؟|What is the Paris-based cultural collective in which rapper ISSAM participated?|نار|Naar
+201|album:birdsrequiem:clarinetist|birds|من عازف الكلارينيت التركي في ألبوم ظافر يوسف «مرثية الطيور»؟|Which Turkish clarinetist plays on Dhafer Youssef's Birds Requiem?|حسنو شنلنديريجي|Husnu Senlendirici
+202|album:lepas:pianist|lepas|من عزف البيانو في ألبوم أنور براهم «خطوة القط الأسود»؟|Who plays piano on Anouar Brahem's Le pas du chat noir?|فرانسوا كوتورييه|Francois Couturier
+203|album:lepas:accordionist|lepas|من عزف الأكورديون في ألبوم أنور براهم «خطوة القط الأسود»؟|Who plays accordion on Anouar Brahem's Le pas du chat noir?|جان لوي ماتينييه|Jean-Louis Matinier
+204|artist:issam:debutalbum|issam|ما اسم أول ألبوم استوديو للرابر المغربي عصام؟|What is Moroccan rapper ISSAM's debut studio album called?|كريستال|Crystal

@@ -1,0 +1,69 @@
+id|factKey|source|questionAr|questionEn|answerAr|answerEn
+001|history:singleleague:firstchampion|firstleague|أي نادٍ فاز بأول نسخة من الدوري الإيطالي بنظام المجموعة الواحدة عام 1929–1930؟|Which club won the first single-group Italian league in 1929–1930?|إنتر|Inter
+002|record:career:piola|piola|من الهداف التاريخي للدوري الإيطالي بنظام المجموعة الواحدة برصيد 274 هدفاً؟|Who is the all-time top scorer in the single-group Serie A with 274 goals?|سيلفيو بيولا|Silvio Piola
+003|derby:madonnina:clubs|milan_derby|أي ناديين يتواجهان في «ديربي ديلا مادونينا»؟|Which two clubs contest the Derby della Madonnina?|ميلان وإنتر|AC Milan and Inter
+004|derby:capital:clubs|rome_final|أي ناديين يتواجهان في ديربي العاصمة الإيطالية؟|Which two clubs contest the derby of the Italian capital?|روما ولاتسيو|Roma and Lazio
+005|identity:juventus:colours|juve_shirt|ما اللونان التقليديان في قميص يوفنتوس المخطط؟|What are the two traditional colours of Juventus's striped shirt?|الأسود والأبيض|Black and white
+006|stadium:napoli:namesake|napoli_stadium|يحمل ملعب نابولي اسم أي أسطورة أرجنتينية؟|Napoli's stadium bears the name of which Argentine legend?|دييغو مارادونا|Diego Maradona
+007|identity:milan:colours|milan_history|ما اللونان اللذان يشير إليهما لقب ميلان «روسونيري»؟|Which two colours are reflected in AC Milan's nickname Rossoneri?|الأحمر والأسود|Red and black
+008|title:cagliari1970:club|cagliari_history|أي نادٍ من سردينيا فاز بالدوري الإيطالي عام 1970 بوجود جيجي ريفا في الهجوم؟|Which Sardinian club won the Italian league in 1970 with Gigi Riva leading the attack?|كالياري|Cagliari
+009|title:verona1985:club|verona_title|أي نادٍ حقق المفاجأة وأحرز الدوري الإيطالي عام 1985 بقيادة أوزفالدو بانيولي؟|Which club pulled off the surprise of winning the Italian league in 1985 under Osvaldo Bagnoli?|هيلاس فيرونا|Hellas Verona
+010|attack:sampdoria:goaltwins|samp_history|من هما ثنائي سامبدوريا الشهير بلقب «توأم الأهداف»؟|Who formed Sampdoria's famous Goal Twins strike partnership?|جانلوكا فيالي وروبرتو مانشيني|Gianluca Vialli and Roberto Mancini
+011|coach:milan2022:pioli|milan_history|من قاد ميلان مدرباً إلى لقب الدوري الإيطالي عام 2022؟|Who coached AC Milan to the Italian league title in 2022?|ستيفانو بيولي|Stefano Pioli
+012|record:roma:careerleader|totti|أي قائد لعب كامل مسيرته الاحترافية مع روما وأصبح هدافه التاريخي؟|Which captain spent his entire professional career at Roma and became their all-time leading scorer?|فرانشيسكو توتي|Francesco Totti
+013|history:genoa:firstnationaltitle|genoa_first|أي نادٍ فاز بأول بطولة وطنية إيطالية لكرة القدم عام 1898؟|Which club won Italy's first national football championship in 1898?|جنوى|Genoa
+014|title:roma2001:coach|roma_honours|من درب روما عندما أحرز لقب الدوري الإيطالي عام 2001؟|Who coached Roma when they won the 2001 Italian league title?|فابيو كابيلو|Fabio Capello
+015|history:grandetorino:captain|torino_captain|من كان القائد الأسطوري لفريق «غراندِه تورينو» في أربعينيات القرن الماضي؟|Who was the legendary captain of the Grande Torino team in the 1940s?|فالنتينو مازولا|Valentino Mazzola
+016|record:juventus:careerleader|delpiero_records|من صاحب الرقم القياسي في الأهداف والمشاركات الرسمية مع يوفنتوس؟|Who holds Juventus's records for both goals and competitive appearances?|أليساندرو ديل بييرو|Alessandro Del Piero
+017|history:buffon:firstclub|buffon_parma|مع أي نادٍ خاض جانلويجي بوفون أول مباراة احترافية له؟|With which club did Gianluigi Buffon make his professional debut?|بارما|Parma
+018|identity:bergomi:zio|bergomi|أي مدافع أسطوري لإنتر اشتهر بلقب «العم» أو «لو زيو»؟|Which legendary Inter defender was nicknamed Lo Zio, the Uncle?|جوزيبي بيرغومي|Giuseppe Bergomi
+019|record:udinese:dinatale|dinatale_debut|أي قائد أصبح صاحب الرقم القياسي في الأهداف والمشاركات مع أودينيزي بعد 12 موسماً فيه؟|Which captain became Udinese's record holder for goals and appearances after 12 seasons at the club?|أنطونيو دي ناتالي|Antonio Di Natale
+020|coach:inter2010:mourinho|siena10|أي مدرب برتغالي قاد إنتر في موسم الثلاثية التاريخية عام 2010؟|Which Portuguese coach led Inter in their historic treble season in 2010?|جوزيه مورينيو|Jose Mourinho
+021|coach:napoli2023:spalletti|napoli23|من قاد نابولي مدرباً إلى لقب الدوري الإيطالي عام 2023؟|Who coached Napoli to the 2023 Italian league title?|لوتشيانو سباليتي|Luciano Spalletti
+022|season:juve2012:unbeatenclub|juve_return|أي نادٍ توج بالدوري الإيطالي عام 2012 دون خسارة بقيادة أنطونيو كونتي؟|Which club won the Italian league unbeaten in 2012 under Antonio Conte?|يوفنتوس|Juventus
+023|identity:inter:zanettinumber|zanetti|أي رقم ارتداه خافيير زانيتي طوال مسيرته مع إنتر ثم سحبه النادي تكريماً له؟|Which number did Javier Zanetti wear throughout his Inter career before the club retired it in his honour?|4|4
+024|identity:milan:baresinumber|baresi|أي رقم سحبه ميلان تكريماً لقائده فرانكو باريزي؟|Which number did AC Milan retire in honour of captain Franco Baresi?|6|6
+025|rule:shirtstar:tentitles|juve_legend|كم لقب دوري إيطالي تمثل النجمة الواحدة فوق شعار النادي؟|How many Italian league titles does one star above a club's crest represent?|10 ألقاب|10 titles
+026|history:platini:threeballons|platini|أي نجم فرنسي ليوفنتوس فاز بثلاث كرات ذهبية متتالية في الثمانينيات؟|Which French Juventus star won three consecutive Ballons d'Or in the 1980s?|ميشيل بلاتيني|Michel Platini
+027|family:maldini:father|maldini|ما اسم والد باولو مالديني الذي قاد ميلان أيضاً بصفته لاعباً؟|What is the name of Paolo Maldini's father, who also captained AC Milan?|تشيزاري مالديني|Cesare Maldini
+028|identity:atalanta:dea|atalanta_special|أي نادٍ إيطالي يعرف بلقب «لا ديا» أي «الإلهة»؟|Which Italian club is nicknamed La Dea, meaning the Goddess?|أتالانتا|Atalanta
+029|identity:atalanta:papu|atalanta_special|ما اسم لاعب أتالانتا الأرجنتيني الذي اشتهر بلقب «بابو»؟|What is the name of the Argentine Atalanta player famously nicknamed Papu?|أليخاندرو غوميز|Alejandro Gomez
+030|identity:roma:crestanimal|roma_crest|ما الحيوان الذي يظهر وهو يرضع رومولوس وريموس في شعار روما؟|Which animal is shown nursing Romulus and Remus on Roma's crest?|ذئبة|A she-wolf
+031|identity:lazio:crestanimal|lazio_crest|ما الطائر الذي يتصدر شعار لاتسيو؟|Which bird appears above the shield on Lazio's crest?|نسر|An eagle
+032|identity:roma:giallorossicolours|roma_colours|ما اللونان اللذان يشير إليهما لقب روما «جيالوروسي»؟|Which two colours are reflected in Roma's nickname Giallorossi?|الأصفر والأحمر|Yellow and red
+033|derby:lanterna:clubs|genoa_derby|أي ناديين يتواجهان في ديربي جنوى المعروف بـ«ديربي ديلا لانترنا»؟|Which two clubs contest Genoa's Derby della Lanterna?|جنوى وسامبدوريا|Genoa and Sampdoria
+034|derby:mole:clubs|turin_derby|أي ناديين يتواجهان في «ديربي ديلا مولي» بمدينة تورينو؟|Which two clubs contest Turin's Derby della Mole?|يوفنتوس وتورينو|Juventus and Torino
+035|identity:fiorentina:purple|fiorentina_rebirth|ما اللون التقليدي لقميص فيورنتينا الذي جاء منه لقب «الفيولا»؟|What is Fiorentina's traditional shirt colour, reflected in the nickname Viola?|البنفسجي|Purple
+036|stadium:parma:home|parma_stadium|ما اسم ملعب بارما التاريخي؟|What is the name of Parma's historic home stadium?|إنيو تارديني|Ennio Tardini
+037|identity:baggio:divincodino|baggio|أي نجم إيطالي اشتهر بلقب «ذيل الحصان الإلهي» أو «ديفين كودينو»؟|Which Italian star was nicknamed Il Divin Codino, the Divine Ponytail?|روبرتو باجيو|Roberto Baggio
+038|identity:adriano:emperor|inter_attackers|أي مهاجم برازيلي لإنتر لقب بـ«الإمبراطور»؟|Which Brazilian Inter striker was nicknamed the Emperor?|أدريانو|Adriano
+039|award:milan2007:kaka|kaka|أي نجم برازيلي لميلان فاز بالكرة الذهبية عام 2007؟|Which Brazilian AC Milan star won the 2007 Ballon d'Or?|كاكا|Kaka
+040|identity:gattuso:ringhio|gattuso|أي لاعب وسط لميلان اشتهر بلقب «رينغيو»؟|Which AC Milan midfielder was famously nicknamed Ringhio?|جينارو غاتوزو|Gennaro Gattuso
+041|record:milan:careergoals|milan_scorers|من الهداف التاريخي لميلان برصيد 221 هدفاً رسمياً؟|Who is AC Milan's all-time leading scorer with 221 competitive goals?|غونار نوردال|Gunnar Nordahl
+042|award:weah1995:firstnoneuropean|weah|أي مهاجم لميلان أصبح أول لاعب غير أوروبي يفوز بالكرة الذهبية عام 1995؟|Which AC Milan striker became the first non-European player to win the Ballon d'Or in 1995?|جورج ويا|George Weah
+043|final:atalanta2024:hattrick|atalanta24|من سجل ثلاثية أتالانتا في نهائي الدوري الأوروبي عام 2024؟|Who scored Atalanta's hat-trick in the 2024 Europa League final?|أديمولا لوكمان|Ademola Lookman
+044|title:napoli:firstyear|garella|في أي عام أحرز نابولي أول لقب له في الدوري الإيطالي؟|In which year did Napoli win their first Italian league title?|1987|1987
+045|coach:inter2024:inzaghi|inter24|من درب إنتر عندما حقق لقبه العشرين في الدوري الإيطالي عام 2024؟|Who coached Inter when they won their twentieth Italian league title in 2024?|سيموني إنزاغي|Simone Inzaghi
+046|coach:inter2021:conte|inter21|من المدرب الذي أعاد لقب الدوري إلى إنتر عام 2021 بعد غياب 11 عاماً؟|Which coach brought the league title back to Inter in 2021 after an eleven-year wait?|أنطونيو كونتي|Antonio Conte
+047|coach:milan2011:allegri|milan2011|من درب ميلان عندما فاز بالدوري الإيطالي عام 2011 في أول موسم له مع النادي؟|Who coached AC Milan to the 2011 Italian league title in his first season at the club?|ماسيميليانو أليغري|Massimiliano Allegri
+048|record:seriea:oldestscorer2023|ibra_old|من أصبح أكبر لاعب سناً يسجل في الدوري الإيطالي عندما أحرز هدفاً لميلان أمام أودينيزي في مارس 2023؟|Who became Serie A's oldest goalscorer when he scored for AC Milan against Udinese in March 2023?|زلاتان إبراهيموفيتش|Zlatan Ibrahimovic
+049|identity:zamoranoshirt:onepluseight|zamoranoshirt|من مهاجم إنتر الذي اشتهر بالقميص المكتوب عليه «1+8»؟|Which Inter striker famously wore a shirt marked 1+8?|إيفان زامورانو|Ivan Zamorano
+050|identity:inzaghi:superpippo|inzaghi|أي مهاجم لميلان اشتهر بلقب «سوبر بيبو»؟|Which AC Milan striker was nicknamed SuperPippo?|فيليبو إنزاغي|Filippo Inzaghi
+051|coach:grandeinter:herrera|herrera|من المدرب الملقب بـ«الساحر» الذي قاد فريق غراندِه إنتر في الستينيات؟|Which coach nicknamed the Magician led Grande Inter in the 1960s?|هيلينيو هيريرا|Helenio Herrera
+052|coach:milan1988:sacchi|sacchi88|من المدرب صاحب الثورة التكتيكية الذي قاد ميلان إلى لقب الدوري عام 1988؟|Which coach known for his tactical revolution led AC Milan to the 1988 league title?|أريغو ساكي|Arrigo Sacchi
+053|coach:atalanta2024:gasperini|atalanta24|من درب أتالانتا عندما أحرز أول لقب أوروبي في تاريخه عام 2024؟|Who coached Atalanta when they won their first European trophy in 2024?|جان بييرو غاسبيريني|Gian Piero Gasperini
+054|identity:dybala:joya|dybala_nickname|أي لاعب أرجنتيني عرف في الدوري الإيطالي بلقب «لا جويا» أي «الجوهرة»؟|Which Argentine player in Italian football is known as La Joya, the Jewel?|باولو ديبالا|Paulo Dybala
+055|stadium:sansiro:alternativename|sansiro|ما الاسم الرسمي الآخر لملعب سان سيرو، تكريماً لأحد أساطير إنتر؟|What is San Siro's other official name, honouring an Inter legend?|ملعب جوزيبي مياتزا|Giuseppe Meazza Stadium
+056|history:inter:norelegation|inter_facts|أي نادٍ إيطالي لم يهبط قط إلى الدرجة الثانية؟|Which Italian club has never been relegated to Serie B?|إنتر|Inter
+057|history:juve:relegation2006|juve_rebirth|أي عملاق إيطالي لعب في الدرجة الثانية موسم 2006–2007 بعد قضية كالتشوبولي؟|Which Italian giant played in Serie B in 2006–2007 following Calciopoli?|يوفنتوس|Juventus
+058|term:capocannoniere:meaning|capocannoniere|ما الإنجاز الذي يكافأ عليه لاعب الدوري الإيطالي بلقب «كابوكانونييري»؟|Which achievement earns a Serie A player the title Capocannoniere?|تسجيل أكبر عدد من الأهداف في الموسم|Scoring the most goals in the season
+059|player:cavani:nickname|cavani_legacy|ما اللقب الشهير لإدينسون كافاني الذي تألق مع نابولي؟|What is the famous nickname of Edinson Cavani, who starred for Napoli?|الماتادور|El Matador
+060|transfer:maradona:barcelona|maradona_move|من أي نادٍ إسباني انتقل دييغو مارادونا إلى نابولي عام 1984؟|From which Spanish club did Diego Maradona join Napoli in 1984?|برشلونة|Barcelona
+061|player:seedorf:professor|seedorf_prof|أي لاعب وسط هولندي تألق مع ميلان واشتهر بلقب «البروفيسور»؟|Which Dutch midfielder starred for AC Milan and was known as The Professor?|كلارنس سيدورف|Clarence Seedorf
+062|player:marchisio:principino|marchisio|أي لاعب وسط من أبناء يوفنتوس اشتهر بلقب «الأمير الصغير»؟|Which Juventus academy midfielder was known as Il Principino, The Little Prince?|كلاوديو ماركيزيو|Claudio Marchisio
+063|player:derossi:capitanfuturo|derossi|أي لاعب وسط من رموز روما اشتهر بلقب «كابيتان فوتورو»، أي قائد المستقبل؟|Which iconic Roma midfielder was known as Capitan Futuro, Captain Future?|دانييلي دي روسي|Daniele De Rossi
+064|kit:palermo:pinkblack|palermo_kit|ما اللونان التقليديان لقميص باليرمو، المعروف بلقب «روزانيرو»؟|What are Palermo's traditional two shirt colours, reflected in the nickname Rosanero?|الوردي والأسود|Pink and black
+065|kit:torino:granata|torino_found|ما اللون الذي يميز قميص تورينو التقليدي ويمنحه لقب «غراناتا»؟|Which colour defines Torino's traditional shirt and gives the club its Granata nickname?|العنابي|Maroon
+066|award:juve2003:nedved|nedved|أي لاعب تشيكي ليوفنتوس فاز بالكرة الذهبية عام 2003؟|Which Czech Juventus player won the 2003 Ballon d'Or?|بافيل نيدفيد|Pavel Nedved
+067|stadium:roma:olimpico|roma_ground|ما الملعب الذي جدد روما اتفاق استخدامه عام 2025 حتى نهاية موسم 2027–2028؟|Which stadium did Roma renew its agreement to use in 2025 through the 2027–2028 season?|الملعب الأولمبي في روما|Stadio Olimpico
+068|europe:parma:1999winner|parma99|أي نادٍ إيطالي فاز بكأس الاتحاد الأوروبي عام 1999 بتشكيلة ضمت بوفون وكانافارو وتورام وكريسبو؟|Which Italian club won the 1999 UEFA Cup with a team featuring Buffon, Cannavaro, Thuram and Crespo?|بارما|Parma

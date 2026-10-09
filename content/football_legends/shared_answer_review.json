@@ -1,0 +1,842 @@
+[
+  {
+    "pair": "football_legends_v2_066/uae_football_v2_101",
+    "qA": "Which Brazilian club gave Neymar his professional debut in 2009?",
+    "qB": "Which Brazilian club visited Al Nasr with Pele in 1970?",
+    "answer": "Santos",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Santos: Which Brazilian club gave Neymar his professional debut in 2009? versus Which Brazilian club visited Al Nasr with Pele in 1970?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_115/uae_football_v2_101",
+    "qA": "With which Brazilian club did Japan's Kazuyoshi Miura make his senior debut in 1986?",
+    "qB": "Which Brazilian club visited Al Nasr with Pele in 1970?",
+    "answer": "Santos",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Santos: With which Brazilian club did Japan's Kazuyoshi Miura make his senior debut in 1986? versus Which Brazilian club visited Al Nasr with Pele in 1970?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_158/uae_football_v2_071",
+    "qA": "Against which team did Roque Santa Cruz score a hat-trick at the 2007 Copa America?",
+    "qB": "Who were the UAE's opponents in their opening match at the 1990 World Cup?",
+    "answer": "Colombia",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Colombia: Against which team did Roque Santa Cruz score a hat-trick at the 2007 Copa America? versus Who were the UAE's opponents in their opening match at the 1990 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_158/uae_football_v2_087",
+    "qA": "Against which team did Roque Santa Cruz score a hat-trick at the 2007 Copa America?",
+    "qB": "Which team eliminated the UAE in the 2003 World Youth Championship quarter-final?",
+    "answer": "Colombia",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Colombia: Against which team did Roque Santa Cruz score a hat-trick at the 2007 Copa America? versus Which team eliminated the UAE in the 2003 World Youth Championship quarter-final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_174/uae_football_v2_120",
+    "qA": "Against which Argentine club did Juninho Pernambucano score the famous free-kick that took Vasco to the 1998 Libertadores final?",
+    "qB": "Which Argentine club did Al Ain eliminate to reach the 2018 Club World Cup final?",
+    "answer": "River Plate",
+    "decision": "distinct",
+    "reason": "Reviewed common answer River Plate: Against which Argentine club did Juninho Pernambucano score the famous free-kick that took Vasco to the 1998 Libertadores final? versus Which Argentine club did Al Ain eliminate to reach the 2018 Club World Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_188/uae_football_v2_188",
+    "qA": "At which Saudi club did Brazil's Rivelino finish his playing career?",
+    "qB": "Which Saudi club did Al Wahda eliminate on away goals in the 2007 AFC Champions League quarter-finals?",
+    "answer": "Al Hilal",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Al Hilal: At which Saudi club did Brazil's Rivelino finish his playing career? versus Which Saudi club did Al Wahda eliminate on away goals in the 2007 AFC Champions League quarter-finals?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_009/saudi_general_v2_200",
+    "qA": "What profession did Brazilian star Socrates practise outside football?",
+    "qB": "What profession did Ahmed Mater practise when he began his artworks inspired by X-ray images?",
+    "answer": "Medicine",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Medicine: What profession did Brazilian star Socrates practise outside football? versus What profession did Ahmed Mater practise when he began his artworks inspired by X-ray images?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_171/uae_pro_league_v2_020",
+    "qA": "Which national team did Brazilian legend Didi coach to the 1970 World Cup quarter-finals?",
+    "qB": "Which country does Renato Tapia, who joined Al Wasl in summer 2025, represent?",
+    "answer": "Peru",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Peru: Which national team did Brazilian legend Didi coach to the 1970 World Cup quarter-finals? versus Which country does Renato Tapia, who joined Al Wasl in summer 2025, represent?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_182/uae_pro_league_v2_030",
+    "qA": "Against which team did Maradona make his Argentina debut in February 1977?",
+    "qB": "Which European national team did Balazs Dzsudzsak, who played for Al Wahda, captain?",
+    "answer": "Hungary",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Hungary: Against which team did Maradona make his Argentina debut in February 1977? versus Which European national team did Balazs Dzsudzsak, who played for Al Wahda, captain?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_006/premier_league_v2_025",
+    "qA": "Who was Denmark's goalkeeper in their historic EURO 1992 triumph?",
+    "qB": "Which Manchester United goalkeeper was famous for the starfish-style save in the 1990s?",
+    "answer": "Peter Schmeichel",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Peter Schmeichel: Who was Denmark's goalkeeper in their historic EURO 1992 triumph? versus Which Manchester United goalkeeper was famous for the starfish-style save in the 1990s?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_019/premier_league_v2_019",
+    "qA": "Who won the first FIFA Puskas Award in 2009?",
+    "qB": "Which Portuguese Manchester United star won the Premier League Golden Boot with 31 goals in 2007-08?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Who won the first FIFA Puskas Award in 2009? versus Which Portuguese Manchester United star won the Premier League Golden Boot with 31 goals in 2007-08?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_026/premier_league_v2_195",
+    "qA": "Which Ivorian player won CAF African Player of the Year four consecutive times from 2011 to 2014?",
+    "qB": "Which Manchester City player had converted all 11 of his Premier League penalties by March 2018?",
+    "answer": "Yaya Toure",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Yaya Toure: Which Ivorian player won CAF African Player of the Year four consecutive times from 2011 to 2014? versus Which Manchester City player had converted all 11 of his Premier League penalties by March 2018?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_034/premier_league_v2_204",
+    "qA": "Who scored the late free-kick against Greece that secured England's qualification for the 2002 World Cup?",
+    "qB": "Who took the corner that Paul Scholes volleyed directly for his famous goal against Bradford in March 2000?",
+    "answer": "David Beckham",
+    "decision": "distinct",
+    "reason": "Reviewed common answer David Beckham: Who scored the late free-kick against Greece that secured England's qualification for the 2002 World Cup? versus Who took the corner that Paul Scholes volleyed directly for his famous goal against Bradford in March 2000?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_043/premier_league_v2_092",
+    "qA": "Who scored both Italy goals against Germany in the EURO 2012 semi-final?",
+    "qB": "Who passed to Aguero before his 2012 Premier League title-winning goal against Queens Park Rangers?",
+    "answer": "Mario Balotelli",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Mario Balotelli: Who scored both Italy goals against Germany in the EURO 2012 semi-final? versus Who passed to Aguero before his 2012 Premier League title-winning goal against Queens Park Rangers?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_067/premier_league_v2_019",
+    "qA": "Which Portuguese football star is honoured in the name of Madeira Airport?",
+    "qB": "Which Portuguese Manchester United star won the Premier League Golden Boot with 31 goals in 2007-08?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Which Portuguese football star is honoured in the name of Madeira Airport? versus Which Portuguese Manchester United star won the Premier League Golden Boot with 31 goals in 2007-08?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_075/premier_league_v2_057",
+    "qA": "Who headed Spain's opening goal in the EURO 2012 final?",
+    "qB": "Which Spanish Manchester City playmaker was known as El Mago, meaning the Magician?",
+    "answer": "David Silva",
+    "decision": "distinct",
+    "reason": "Reviewed common answer David Silva: Who headed Spain's opening goal in the EURO 2012 final? versus Which Spanish Manchester City playmaker was known as El Mago, meaning the Magician?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_079/premier_league_v2_183",
+    "qA": "Who captained Germany on the pitch in the EURO 1996 final?",
+    "qB": "Who won the first Premier League Player of the Month award, in August 1994?",
+    "answer": "Jurgen Klinsmann",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Jurgen Klinsmann: Who captained Germany on the pitch in the EURO 1996 final? versus Who won the first Premier League Player of the Month award, in August 1994?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_080/premier_league_v2_103",
+    "qA": "Who scored the golden goal that eliminated Brazil against Nigeria in the 1996 Olympic semi-final?",
+    "qB": "Which Arsenal striker turned a 2-0 deficit against Chelsea into a 3-2 win with a late hat-trick in 1999?",
+    "answer": "Nwankwo Kanu",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Nwankwo Kanu: Who scored the golden goal that eliminated Brazil against Nigeria in the 1996 Olympic semi-final? versus Which Arsenal striker turned a 2-0 deficit against Chelsea into a 3-2 win with a late hat-trick in 1999?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_095/premier_league_v2_002",
+    "qA": "Which French legend coached France to the 2005 Beach Soccer World Cup title?",
+    "qB": "Which French Manchester United legend was nicknamed the King?",
+    "answer": "Eric Cantona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Eric Cantona: Which French legend coached France to the 2005 Beach Soccer World Cup title? versus Which French Manchester United legend was nicknamed the King?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_119/premier_league_v2_103",
+    "qA": "Which Nigerian star founded a charity that helps children with heart disease obtain surgery?",
+    "qB": "Which Arsenal striker turned a 2-0 deficit against Chelsea into a 3-2 win with a late hat-trick in 1999?",
+    "answer": "Nwankwo Kanu",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Nwankwo Kanu: Which Nigerian star founded a charity that helps children with heart disease obtain surgery? versus Which Arsenal striker turned a 2-0 deficit against Chelsea into a 3-2 win with a late hat-trick in 1999?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_002/la_liga_v2_057",
+    "qA": "Which striker scored Spain's only goal against Germany in the EURO 2008 final?",
+    "qB": "Which Atletico Madrid academy striker became known as 'El Nino', meaning 'The Kid'?",
+    "answer": "Fernando Torres",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Fernando Torres: Which striker scored Spain's only goal against Germany in the EURO 2008 final? versus Which Atletico Madrid academy striker became known as 'El Nino', meaning 'The Kid'?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_030/la_liga_v2_062",
+    "qA": "Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005?",
+    "qB": "Which Brazilian Barcelona star earned applause from Bernabeu fans after his display in the November 2005 Clasico?",
+    "answer": "Ronaldinho",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldinho: Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005? versus Which Brazilian Barcelona star earned applause from Bernabeu fans after his display in the November 2005 Clasico?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_030/la_liga_v2_133",
+    "qA": "Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005?",
+    "qB": "Who assisted Messi's first official Barcelona goal against Albacete in May 2005?",
+    "answer": "Ronaldinho",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldinho: Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005? versus Who assisted Messi's first official Barcelona goal against Albacete in May 2005?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_031/la_liga_v2_128",
+    "qA": "Which Brazil striker celebrated his newborn with the baby-rocking gesture at the 1994 World Cup?",
+    "qB": "Which Brazilian star scored four goals in six minutes for Deportivo against Albacete in 1995–96?",
+    "answer": "Bebeto",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Bebeto: Which Brazil striker celebrated his newborn with the baby-rocking gesture at the 1994 World Cup? versus Which Brazilian star scored four goals in six minutes for Deportivo against Albacete in 1995–96?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_047/la_liga_v2_021",
+    "qA": "Which Brazilian star won the Ballon d'Or in 1999?",
+    "qB": "Who completed a Barcelona hat-trick with a famous bicycle kick against Valencia in June 2001?",
+    "answer": "Rivaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Rivaldo: Which Brazilian star won the Ballon d'Or in 1999? versus Who completed a Barcelona hat-trick with a famous bicycle kick against Valencia in June 2001?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_049/la_liga_v2_045",
+    "qA": "Which Brazilian star wore a haircut with just a small patch at the front at the 2002 World Cup?",
+    "qB": "Which Brazilian star shone for Barcelona in 1996–97 and was nicknamed 'The Phenomenon'?",
+    "answer": "Ronaldo Nazario",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldo Nazario: Which Brazilian star wore a haircut with just a small patch at the front at the 2002 World Cup? versus Which Brazilian star shone for Barcelona in 1996–97 and was nicknamed 'The Phenomenon'?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_054/la_liga_v2_103",
+    "qA": "Which Brazilian striker was nicknamed Baixinho, meaning Shortie?",
+    "qB": "Which Brazilian scored 30 goals for Barcelona to lead the league scoring chart in 1993-94?",
+    "answer": "Romario",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Romario: Which Brazilian striker was nicknamed Baixinho, meaning Shortie? versus Which Brazilian scored 30 goals for Barcelona to lead the league scoring chart in 1993-94?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_063/la_liga_v2_001",
+    "qA": "With which club did Carles Puyol spend his entire professional career?",
+    "qB": "Which club won the first Spanish league championship in 1929?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Barcelona: With which club did Carles Puyol spend his entire professional career? versus Which club won the first Spanish league championship in 1929?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_063/la_liga_v2_158",
+    "qA": "With which club did Carles Puyol spend his entire professional career?",
+    "qB": "From which club did Villarreal buy Riquelme permanently in 2005 after his loan spell?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Barcelona: With which club did Carles Puyol spend his entire professional career? versus From which club did Villarreal buy Riquelme permanently in 2005 after his loan spell?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_105/la_liga_v2_051",
+    "qA": "Who received the Golden Ball as the best player at the 1978 World Cup?",
+    "qB": "Which Argentine Valencia legend was nicknamed 'El Matador'?",
+    "answer": "Mario Kempes",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Mario Kempes: Who received the Golden Ball as the best player at the 1978 World Cup? versus Which Argentine Valencia legend was nicknamed 'El Matador'?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_106/la_liga_v2_045",
+    "qA": "Who scored Inter's third goal against Lazio in the 1998 UEFA Cup final?",
+    "qB": "Which Brazilian star shone for Barcelona in 1996–97 and was nicknamed 'The Phenomenon'?",
+    "answer": "Ronaldo Nazario",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldo Nazario: Who scored Inter's third goal against Lazio in the 1998 UEFA Cup final? versus Which Brazilian star shone for Barcelona in 1996–97 and was nicknamed 'The Phenomenon'?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_174/la_liga_v2_152",
+    "qA": "Against which Argentine club did Juninho Pernambucano score the famous free-kick that took Vasco to the 1998 Libertadores final?",
+    "qB": "Which Argentine club inspired the diagonal red sash on Rayo Vallecano's shirt?",
+    "answer": "River Plate",
+    "decision": "distinct",
+    "reason": "Reviewed common answer River Plate: Against which Argentine club did Juninho Pernambucano score the famous free-kick that took Vasco to the 1998 Libertadores final? versus Which Argentine club inspired the diagonal red sash on Rayo Vallecano's shirt?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_175/la_liga_v2_103",
+    "qA": "Who scored a hat-trick for Vasco in the comeback from 3-0 down to a 4-3 win over Palmeiras in the 2000 Mercosur Cup decider?",
+    "qB": "Which Brazilian scored 30 goals for Barcelona to lead the league scoring chart in 1993-94?",
+    "answer": "Romario",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Romario: Who scored a hat-trick for Vasco in the comeback from 3-0 down to a 4-3 win over Palmeiras in the 2000 Mercosur Cup decider? versus Which Brazilian scored 30 goals for Barcelona to lead the league scoring chart in 1993-94?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_182/la_liga_v2_035",
+    "qA": "Against which team did Maradona make his Argentina debut in February 1977?",
+    "qB": "Which country is Real Madrid legend Ferenc Puskas from?",
+    "answer": "Hungary",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Hungary: Against which team did Maradona make his Argentina debut in February 1977? versus Which country is Real Madrid legend Ferenc Puskas from?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_005/serie_a_v2_026",
+    "qA": "Which French star scored nine goals at EURO 1984?",
+    "qB": "Which French Juventus star won three consecutive Ballons d'Or in the 1980s?",
+    "answer": "Michel Platini",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Michel Platini: Which French star scored nine goals at EURO 1984? versus Which French Juventus star won three consecutive Ballons d'Or in the 1980s?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_012/serie_a_v2_042",
+    "qA": "Which football legend served as Liberia's president from 2018 to 2024?",
+    "qB": "Which AC Milan striker became the first non-European player to win the Ballon d'Or in 1995?",
+    "answer": "George Weah",
+    "decision": "distinct",
+    "reason": "Reviewed common answer George Weah: Which football legend served as Liberia's president from 2018 to 2024? versus Which AC Milan striker became the first non-European player to win the Ballon d'Or in 1995?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_053/serie_a_v2_016",
+    "qA": "Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz?",
+    "qB": "Who holds Juventus's records for both goals and competitive appearances?",
+    "answer": "Alessandro Del Piero",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Alessandro Del Piero: Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz? versus Who holds Juventus's records for both goals and competitive appearances?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_053/serie_a_v2_085",
+    "qA": "Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz?",
+    "qB": "Which Juventus star did Gianni Agnelli nickname Pinturicchio after the Italian painter?",
+    "answer": "Alessandro Del Piero",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Alessandro Del Piero: Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz? versus Which Juventus star did Gianni Agnelli nickname Pinturicchio after the Italian painter?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_056/serie_a_v2_048",
+    "qA": "Who scored all four Sweden goals, including a long-range overhead kick, against England in 2012?",
+    "qB": "Who became Serie A's oldest goalscorer when he scored for AC Milan against Udinese in March 2023?",
+    "answer": "Zlatan Ibrahimovic",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Zlatan Ibrahimovic: Who scored all four Sweden goals, including a long-range overhead kick, against England in 2012? versus Who became Serie A's oldest goalscorer when he scored for AC Milan against Udinese in March 2023?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_059/serie_a_v2_039",
+    "qA": "By which football name is Brazilian star Ricardo Izecson dos Santos Leite known?",
+    "qB": "Which Brazilian AC Milan star won the 2007 Ballon d'Or?",
+    "answer": "Kaka",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Kaka: By which football name is Brazilian star Ricardo Izecson dos Santos Leite known? versus Which Brazilian AC Milan star won the 2007 Ballon d'Or?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_063/serie_a_v2_060",
+    "qA": "With which club did Carles Puyol spend his entire professional career?",
+    "qB": "From which Spanish club did Diego Maradona join Napoli in 1984?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Barcelona: With which club did Carles Puyol spend his entire professional career? versus From which Spanish club did Diego Maradona join Napoli in 1984?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_073/serie_a_v2_086",
+    "qA": "Who scored both Germany goals, including the golden goal, in the EURO 1996 final?",
+    "qB": "Who became Udinese's first Serie A top scorer after scoring 27 goals in 1997–1998?",
+    "answer": "Oliver Bierhoff",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Oliver Bierhoff: Who scored both Germany goals, including the golden goal, in the EURO 1996 final? versus Who became Udinese's first Serie A top scorer after scoring 27 goals in 1997–1998?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_093/serie_a_v2_006",
+    "qA": "Which Argentina star won the Golden Ball at the 1979 World Youth Championship in Japan?",
+    "qB": "Napoli's stadium bears the name of which Argentine legend?",
+    "answer": "Diego Maradona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Diego Maradona: Which Argentina star won the Golden Ball at the 1979 World Youth Championship in Japan? versus Napoli's stadium bears the name of which Argentine legend?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_103/serie_a_v2_038",
+    "qA": "Who scored Brazil's late equaliser against Argentina in the 2004 Copa America final?",
+    "qB": "Which Brazilian Inter striker was nicknamed the Emperor?",
+    "answer": "Adriano",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Adriano: Who scored Brazil's late equaliser against Argentina in the 2004 Copa America final? versus Which Brazilian Inter striker was nicknamed the Emperor?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_117/serie_a_v2_121",
+    "qA": "Which German striker told the referee he had scored with his hand for Lazio against Napoli in 2012?",
+    "qB": "Who scored five Lazio goals in their 6–0 win over Bologna in May 2013?",
+    "answer": "Miroslav Klose",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Miroslav Klose: Which German striker told the referee he had scored with his hand for Lazio against Napoli in 2012? versus Who scored five Lazio goals in their 6–0 win over Bologna in May 2013?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_159/serie_a_v2_095",
+    "qA": "Who scored Inter's second goal with a shot from outside the box in the 1998 UEFA Cup final?",
+    "qB": "Who holds Inter's competitive appearance record with 858 games?",
+    "answer": "Javier Zanetti",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Javier Zanetti: Who scored Inter's second goal with a shot from outside the box in the 1998 UEFA Cup final? versus Who holds Inter's competitive appearance record with 858 games?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_036/bundesliga_v2_025",
+    "qA": "Who won the World Cup with West Germany as a player in 1974 and as coach in 1990?",
+    "qB": "Which Bayern Munich legend was known as the Kaiser?",
+    "answer": "Franz Beckenbauer",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Franz Beckenbauer: Who won the World Cup with West Germany as a player in 1974 and as coach in 1990? versus Which Bayern Munich legend was known as the Kaiser?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_063/bundesliga_v2_062",
+    "qA": "With which club did Carles Puyol spend his entire professional career?",
+    "qB": "From which Spanish club did Thiago Alcantara join Bayern in 2013?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Barcelona: With which club did Carles Puyol spend his entire professional career? versus From which Spanish club did Thiago Alcantara join Bayern in 2013?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_077/bundesliga_v2_144",
+    "qA": "Which German defender was named Player of the Tournament at EURO 1996?",
+    "qB": "Which former Dortmund player coached them to the Bundesliga title in 2002?",
+    "answer": "Matthias Sammer",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Matthias Sammer: Which German defender was named Player of the Tournament at EURO 1996? versus Which former Dortmund player coached them to the Bundesliga title in 2002?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_086/bundesliga_v2_196",
+    "qA": "Which South Korean legend is defender Cha Du-ri's father?",
+    "qB": "Who scored Leverkusen's third goal in the second leg of the 1988 UEFA Cup final to level the aggregate score?",
+    "answer": "Cha Bum-kun",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cha Bum-kun: Which South Korean legend is defender Cha Du-ri's father? versus Who scored Leverkusen's third goal in the second leg of the 1988 UEFA Cup final to level the aggregate score?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_117/bundesliga_v2_058",
+    "qA": "Which German striker told the referee he had scored with his hand for Lazio against Napoli in 2012?",
+    "qB": "Which German striker played for Bremen and Bayern and was known for his somersault celebration and Salto nickname?",
+    "answer": "Miroslav Klose",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Miroslav Klose: Which German striker told the referee he had scored with his hand for Lazio against Napoli in 2012? versus Which German striker played for Bremen and Bayern and was known for his somersault celebration and Salto nickname?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_132/bundesliga_v2_034",
+    "qA": "Which Nigerian playmaker inspired the fans' phrase that he was so good they named him twice?",
+    "qB": "Which Frankfurt star scored his famous solo wondergoal against Oliver Kahn and Karlsruhe in 1993?",
+    "answer": "Jay-Jay Okocha",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Jay-Jay Okocha: Which Nigerian playmaker inspired the fans' phrase that he was so good they named him twice? versus Which Frankfurt star scored his famous solo wondergoal against Oliver Kahn and Karlsruhe in 1993?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_136/bundesliga_v2_200",
+    "qA": "Which Brazil goalkeeper received the Golden Glove at the 2013 Confederations Cup?",
+    "qB": "Who scored Dortmund's winner against Monchengladbach in the 1995 German Supercup?",
+    "answer": "Julio Cesar",
+    "decision": "distinct",
+    "reason": "Julio Cesar Soares Espindola won the 2013 goalkeeper award; Julio Cesar da Silva scored Dortmund's 1995 goal. These are different people with the same short name."
+  },
+  {
+    "pair": "football_legends_v2_020/ligue_1_v2_018",
+    "qA": "Who scored Argentina's only goal in the men's football final at Beijing 2008?",
+    "qB": "Which Argentine winger starred for Paris Saint-Germain and was known as El Fideo?",
+    "answer": "Angel Di Maria",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Angel Di Maria: Who scored Argentina's only goal in the men's football final at Beijing 2008? versus Which Argentine winger starred for Paris Saint-Germain and was known as El Fideo?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_020/ligue_1_v2_086",
+    "qA": "Who scored Argentina's only goal in the men's football final at Beijing 2008?",
+    "qB": "Who surpassed Safet Susic to become Paris's leading assist provider during the 2021 French Cup final?",
+    "answer": "Angel Di Maria",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Angel Di Maria: Who scored Argentina's only goal in the men's football final at Beijing 2008? versus Who surpassed Safet Susic to become Paris's leading assist provider during the 2021 French Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_030/ligue_1_v2_099",
+    "qA": "Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005?",
+    "qB": "Which Brazilian star scored twice for Paris in their 3–0 league win over Marseille in 2002?",
+    "answer": "Ronaldinho",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldinho: Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005? versus Which Brazilian star scored twice for Paris in their 3–0 league win over Marseille in 2002?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_063/ligue_1_v2_067",
+    "qA": "With which club did Carles Puyol spend his entire professional career?",
+    "qB": "Which Spanish club did Edmilson join after four years at Lyon?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Barcelona: With which club did Carles Puyol spend his entire professional career? versus Which Spanish club did Edmilson join after four years at Lyon?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_063/ligue_1_v2_105",
+    "qA": "With which club did Carles Puyol spend his entire professional career?",
+    "qB": "From which Spanish club did Lyon sign Brazilian striker Sonny Anderson in 1999?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Barcelona: With which club did Carles Puyol spend his entire professional career? versus From which Spanish club did Lyon sign Brazilian striker Sonny Anderson in 1999?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_091/ligue_1_v2_135",
+    "qA": "With which Brazilian club did Romario break into the first team in 1985?",
+    "qB": "From which Brazilian club did Juninho Pernambucano join Lyon?",
+    "answer": "Vasco da Gama",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Vasco da Gama: With which Brazilian club did Romario break into the first team in 1985? versus From which Brazilian club did Juninho Pernambucano join Lyon?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_095/ligue_1_v2_157",
+    "qA": "Which French legend coached France to the 2005 Beach Soccer World Cup title?",
+    "qB": "Who scored Auxerre's hat-trick against Montpellier in the 1985 Gambardella youth Cup final?",
+    "answer": "Eric Cantona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Eric Cantona: Which French legend coached France to the 2005 Beach Soccer World Cup title? versus Who scored Auxerre's hat-trick against Montpellier in the 1985 Gambardella youth Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_096/ligue_1_v2_018",
+    "qA": "Who scored Argentina's decisive goal against Brazil in the 2021 Copa America final?",
+    "qB": "Which Argentine winger starred for Paris Saint-Germain and was known as El Fideo?",
+    "answer": "Angel Di Maria",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Angel Di Maria: Who scored Argentina's decisive goal against Brazil in the 2021 Copa America final? versus Which Argentine winger starred for Paris Saint-Germain and was known as El Fideo?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_096/ligue_1_v2_086",
+    "qA": "Who scored Argentina's decisive goal against Brazil in the 2021 Copa America final?",
+    "qB": "Who surpassed Safet Susic to become Paris's leading assist provider during the 2021 French Cup final?",
+    "answer": "Angel Di Maria",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Angel Di Maria: Who scored Argentina's decisive goal against Brazil in the 2021 Copa America final? versus Who surpassed Safet Susic to become Paris's leading assist provider during the 2021 French Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_118/ligue_1_v2_019",
+    "qA": "Who is Socrates's younger brother who played for Paris Saint-Germain and Brazil?",
+    "qB": "Which Brazilian Paris star of the 1990s was his country's captain when he joined the club in 1993?",
+    "answer": "Rai",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Rai: Who is Socrates's younger brother who played for Paris Saint-Germain and Brazil? versus Which Brazilian Paris star of the 1990s was his country's captain when he joined the club in 1993?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_197/ligue_1_v2_036",
+    "qA": "At which French stadium was George Weah's 2005 farewell match held, in which he scored a hat-trick?",
+    "qB": "What is Olympique de Marseille's famous home stadium?",
+    "answer": "Stade Velodrome",
+    "decision": "distinct",
+    "reason": "A specific 2005 farewell match venue is distinct from identifying Marseille's home stadium."
+  },
+  {
+    "pair": "football_legends_v2_002/ucl_v2_055",
+    "qA": "Which striker scored Spain's only goal against Germany in the EURO 2008 final?",
+    "qB": "Who rounded Valdes to score Chelsea's late goal in the 2012 semi-final second leg in Barcelona?",
+    "answer": "Fernando Torres",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Fernando Torres: Which striker scored Spain's only goal against Germany in the EURO 2008 final? versus Who rounded Valdes to score Chelsea's late goal in the 2012 semi-final second leg in Barcelona?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_015/ucl_v2_119",
+    "qA": "Which Portuguese legend was nicknamed the Black Panther?",
+    "qB": "Which Benfica star scored twice against Real Madrid in the 1962 European Cup final?",
+    "answer": "Eusebio",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Eusebio: Which Portuguese legend was nicknamed the Black Panther? versus Which Benfica star scored twice against Real Madrid in the 1962 European Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_019/ucl_v2_001",
+    "qA": "Who won the first FIFA Puskas Award in 2009?",
+    "qB": "Who is the Champions League's all-time leading scorer counting matches from the group stage to the final?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Who won the first FIFA Puskas Award in 2009? versus Who is the Champions League's all-time leading scorer counting matches from the group stage to the final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_019/ucl_v2_018",
+    "qA": "Who won the first FIFA Puskas Award in 2009?",
+    "qB": "Who scored Real Madrid's decisive shootout penalty in the 2016 Champions League final?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Who won the first FIFA Puskas Award in 2009? versus Who scored Real Madrid's decisive shootout penalty in the 2016 Champions League final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_032/ucl_v2_155",
+    "qA": "Which Croatian star won the 2018 Ballon d'Or?",
+    "qB": "Who delivered the cross for Ronaldo's second goal in the 2017 final?",
+    "answer": "Luka Modric",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Luka Modric: Which Croatian star won the 2018 Ballon d'Or? versus Who delivered the cross for Ronaldo's second goal in the 2017 final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_034/ucl_v2_128",
+    "qA": "Who scored the late free-kick against Greece that secured England's qualification for the 2002 World Cup?",
+    "qB": "Which Manchester United substitute scored twice against Real Madrid in the 2003 quarter-final second leg?",
+    "answer": "David Beckham",
+    "decision": "distinct",
+    "reason": "Reviewed common answer David Beckham: Who scored the late free-kick against Greece that secured England's qualification for the 2002 World Cup? versus Which Manchester United substitute scored twice against Real Madrid in the 2003 quarter-final second leg?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_035/ucl_v2_047",
+    "qA": "Which Hungarian legend gives his name to FIFA's award for the best goal?",
+    "qB": "Who scored four goals for Real Madrid in the 1960 European Cup final?",
+    "answer": "Ferenc Puskas",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ferenc Puskas: Which Hungarian legend gives his name to FIFA's award for the best goal? versus Who scored four goals for Real Madrid in the 1960 European Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_035/ucl_v2_186",
+    "qA": "Which Hungarian legend gives his name to FIFA's award for the best goal?",
+    "qB": "Who scored Real Madrid's hat-trick despite their defeat in the 1962 European Cup final?",
+    "answer": "Ferenc Puskas",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ferenc Puskas: Which Hungarian legend gives his name to FIFA's award for the best goal? versus Who scored Real Madrid's hat-trick despite their defeat in the 1962 European Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_045/ucl_v2_022",
+    "qA": "Which Ivorian star made a dressing-room appeal for peace after World Cup qualification in October 2005?",
+    "qB": "Who brought Chelsea level with a header in the 2012 Champions League final?",
+    "answer": "Didier Drogba",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Didier Drogba: Which Ivorian star made a dressing-room appeal for peace after World Cup qualification in October 2005? versus Who brought Chelsea level with a header in the 2012 Champions League final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_049/ucl_v2_057",
+    "qA": "Which Brazilian star wore a haircut with just a small patch at the front at the 2002 World Cup?",
+    "qB": "Which Brazilian Real Madrid star scored an Old Trafford hat-trick in 2003 and received applause from United fans?",
+    "answer": "Ronaldo Nazario",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldo Nazario: Which Brazilian star wore a haircut with just a small patch at the front at the 2002 World Cup? versus Which Brazilian Real Madrid star scored an Old Trafford hat-trick in 2003 and received applause from United fans?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_052/ucl_v2_068",
+    "qA": "Which English star won the 1966 Ballon d'Or after surviving the 1958 Munich air disaster?",
+    "qB": "Which Manchester United legend scored twice in the 1968 European Cup final?",
+    "answer": "Bobby Charlton",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Bobby Charlton: Which English star won the 1966 Ballon d'Or after surviving the 1958 Munich air disaster? versus Which Manchester United legend scored twice in the 1968 European Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_053/ucl_v2_190",
+    "qA": "Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz?",
+    "qB": "Who scored Juventus's only goal in the 1997 final?",
+    "answer": "Alessandro Del Piero",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Alessandro Del Piero: Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz? versus Who scored Juventus's only goal in the 1997 final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_063/ucl_v2_185",
+    "qA": "With which club did Carles Puyol spend his entire professional career?",
+    "qB": "Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?",
+    "answer": "Barcelona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Barcelona: With which club did Carles Puyol spend his entire professional career? versus Which Spanish club did Real Madrid eliminate in the semi-finals before winning the 1960 European Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_067/ucl_v2_001",
+    "qA": "Which Portuguese football star is honoured in the name of Madeira Airport?",
+    "qB": "Who is the Champions League's all-time leading scorer counting matches from the group stage to the final?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Which Portuguese football star is honoured in the name of Madeira Airport? versus Who is the Champions League's all-time leading scorer counting matches from the group stage to the final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_067/ucl_v2_018",
+    "qA": "Which Portuguese football star is honoured in the name of Madeira Airport?",
+    "qB": "Who scored Real Madrid's decisive shootout penalty in the 2016 Champions League final?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Which Portuguese football star is honoured in the name of Madeira Airport? versus Who scored Real Madrid's decisive shootout penalty in the 2016 Champions League final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_068/ucl_v2_019",
+    "qA": "Which Spanish defender scored a Panenka-style shoot-out kick against Portugal in the EURO 2012 semi-final?",
+    "qB": "Who scored Real Madrid's stoppage-time header to force extra time in the 2014 final?",
+    "answer": "Sergio Ramos",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Sergio Ramos: Which Spanish defender scored a Panenka-style shoot-out kick against Portugal in the EURO 2012 semi-final? versus Who scored Real Madrid's stoppage-time header to force extra time in the 2014 final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_090/ucl_v2_119",
+    "qA": "Which Benfica legend won the 1965 Ballon d'Or?",
+    "qB": "Which Benfica star scored twice against Real Madrid in the 1962 European Cup final?",
+    "answer": "Eusebio",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Eusebio: Which Benfica legend won the 1965 Ballon d'Or? versus Which Benfica star scored twice against Real Madrid in the 1962 European Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_106/ucl_v2_057",
+    "qA": "Who scored Inter's third goal against Lazio in the 1998 UEFA Cup final?",
+    "qB": "Which Brazilian Real Madrid star scored an Old Trafford hat-trick in 2003 and received applause from United fans?",
+    "answer": "Ronaldo Nazario",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldo Nazario: Who scored Inter's third goal against Lazio in the 1998 UEFA Cup final? versus Which Brazilian Real Madrid star scored an Old Trafford hat-trick in 2003 and received applause from United fans?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_130/ucl_v2_047",
+    "qA": "Which Hungarian legend coached Panathinaikos to the 1971 European Cup final?",
+    "qB": "Who scored four goals for Real Madrid in the 1960 European Cup final?",
+    "answer": "Ferenc Puskas",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ferenc Puskas: Which Hungarian legend coached Panathinaikos to the 1971 European Cup final? versus Who scored four goals for Real Madrid in the 1960 European Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_130/ucl_v2_186",
+    "qA": "Which Hungarian legend coached Panathinaikos to the 1971 European Cup final?",
+    "qB": "Who scored Real Madrid's hat-trick despite their defeat in the 1962 European Cup final?",
+    "answer": "Ferenc Puskas",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ferenc Puskas: Which Hungarian legend coached Panathinaikos to the 1971 European Cup final? versus Who scored Real Madrid's hat-trick despite their defeat in the 1962 European Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_159/ucl_v2_197",
+    "qA": "Who scored Inter's second goal with a shot from outside the box in the 1998 UEFA Cup final?",
+    "qB": "Who opened Inter's scoring in the first minutes against Tottenham in their 4-3 win in 2010?",
+    "answer": "Javier Zanetti",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Javier Zanetti: Who scored Inter's second goal with a shot from outside the box in the 1998 UEFA Cup final? versus Who opened Inter's scoring in the first minutes against Tottenham in their 4-3 win in 2010?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_013/world_cup_v2_017",
+    "qA": "Which Colombian goalkeeper performed the famous scorpion save at Wembley in 1995?",
+    "qB": "Which Colombian goalkeeper had the ball stolen by Roger Milla before he scored at the 1990 World Cup?",
+    "answer": "Rene Higuita",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Rene Higuita: Which Colombian goalkeeper performed the famous scorpion save at Wembley in 1995? versus Which Colombian goalkeeper had the ball stolen by Roger Milla before he scored at the 1990 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_015/world_cup_v2_082",
+    "qA": "Which Portuguese legend was nicknamed the Black Panther?",
+    "qB": "Who scored four goals for Portugal as they recovered from 0–3 against Korea DPR at the 1966 World Cup?",
+    "answer": "Eusebio",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Eusebio: Which Portuguese legend was nicknamed the Black Panther? versus Who scored four goals for Portugal as they recovered from 0–3 against Korea DPR at the 1966 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_019/world_cup_v2_035",
+    "qA": "Who won the first FIFA Puskas Award in 2009?",
+    "qB": "Who scored a hat-trick for Portugal against Spain at the 2018 World Cup?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Who won the first FIFA Puskas Award in 2009? versus Who scored a hat-trick for Portugal against Spain at the 2018 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_019/world_cup_v2_064",
+    "qA": "Who won the first FIFA Puskas Award in 2009?",
+    "qB": "Who scored a hat-trick in Sweden to take Portugal to the 2014 World Cup through the play-off?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Who won the first FIFA Puskas Award in 2009? versus Who scored a hat-trick in Sweden to take Portugal to the 2014 World Cup through the play-off?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_030/world_cup_v2_034",
+    "qA": "Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005?",
+    "qB": "Who scored Brazil's famous free-kick over David Seaman at the 2002 World Cup?",
+    "answer": "Ronaldinho",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Ronaldinho: Which Brazilian star won FIFA World Player of the Year in both 2004 and 2005? versus Who scored Brazil's famous free-kick over David Seaman at the 2002 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_032/world_cup_v2_013",
+    "qA": "Which Croatian star won the 2018 Ballon d'Or?",
+    "qB": "Which Croatian star received the Golden Ball at Russia 2018?",
+    "answer": "Luka Modric",
+    "decision": "distinct",
+    "reason": "Modric won the annual France Football Ballon d'Or and the separate FIFA World Cup Golden Ball in 2018. Different awarding bodies, scope and trophies."
+  },
+  {
+    "pair": "football_legends_v2_041/world_cup_v2_068",
+    "qA": "Which Santos star scored a hat-trick against Benfica in Lisbon in the 1962 Intercontinental Cup?",
+    "qB": "Which Brazilian player won the World Cup in 1958, 1962 and 1970?",
+    "answer": "Pele",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Pele: Which Santos star scored a hat-trick against Benfica in Lisbon in the 1962 Intercontinental Cup? versus Which Brazilian player won the World Cup in 1958, 1962 and 1970?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_053/world_cup_v2_146",
+    "qA": "Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz?",
+    "qB": "Who scored Italy's second goal against Germany at the end of extra time in the 2006 World Cup semi-final?",
+    "answer": "Alessandro Del Piero",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Alessandro Del Piero: Which Juventus legend was known for the tongue-out celebration copied by Kenan Yildiz? versus Who scored Italy's second goal against Germany at the end of extra time in the 2006 World Cup semi-final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_062/world_cup_v2_017",
+    "qA": "Which Colombian goalkeeper was famously nicknamed El Loco, the Madman?",
+    "qB": "Which Colombian goalkeeper had the ball stolen by Roger Milla before he scored at the 1990 World Cup?",
+    "answer": "Rene Higuita",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Rene Higuita: Which Colombian goalkeeper was famously nicknamed El Loco, the Madman? versus Which Colombian goalkeeper had the ball stolen by Roger Milla before he scored at the 1990 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_067/world_cup_v2_035",
+    "qA": "Which Portuguese football star is honoured in the name of Madeira Airport?",
+    "qB": "Who scored a hat-trick for Portugal against Spain at the 2018 World Cup?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Which Portuguese football star is honoured in the name of Madeira Airport? versus Who scored a hat-trick for Portugal against Spain at the 2018 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_067/world_cup_v2_064",
+    "qA": "Which Portuguese football star is honoured in the name of Madeira Airport?",
+    "qB": "Who scored a hat-trick in Sweden to take Portugal to the 2014 World Cup through the play-off?",
+    "answer": "Cristiano Ronaldo",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Cristiano Ronaldo: Which Portuguese football star is honoured in the name of Madeira Airport? versus Who scored a hat-trick in Sweden to take Portugal to the 2014 World Cup through the play-off?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_090/world_cup_v2_082",
+    "qA": "Which Benfica legend won the 1965 Ballon d'Or?",
+    "qB": "Who scored four goals for Portugal as they recovered from 0–3 against Korea DPR at the 1966 World Cup?",
+    "answer": "Eusebio",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Eusebio: Which Benfica legend won the 1965 Ballon d'Or? versus Who scored four goals for Portugal as they recovered from 0–3 against Korea DPR at the 1966 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_093/world_cup_v2_006",
+    "qA": "Which Argentina star won the Golden Ball at the 1979 World Youth Championship in Japan?",
+    "qB": "Who scored the Goal of the Century against England at the 1986 World Cup?",
+    "answer": "Diego Maradona",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Diego Maradona: Which Argentina star won the Golden Ball at the 1979 World Youth Championship in Japan? versus Who scored the Goal of the Century against England at the 1986 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_102/world_cup_v2_175",
+    "qA": "Who became the first goalkeeper to win FIFA Women's World Player, in 2013?",
+    "qB": "Which Germany goalkeeper saved Marta's penalty in the 2007 Women's World Cup final?",
+    "answer": "Nadine Angerer",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Nadine Angerer: Who became the first goalkeeper to win FIFA Women's World Player, in 2013? versus Which Germany goalkeeper saved Marta's penalty in the 2007 Women's World Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_114/world_cup_v2_153",
+    "qA": "Which Croatia star scored a chip over Schmeichel at EURO 1996?",
+    "qB": "Who scored Croatia's opening goal against France in the 1998 World Cup semi-final?",
+    "answer": "Davor Suker",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Davor Suker: Which Croatia star scored a chip over Schmeichel at EURO 1996? versus Who scored Croatia's opening goal against France in the 1998 World Cup semi-final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_117/world_cup_v2_118",
+    "qA": "Which German striker told the referee he had scored with his hand for Lazio against Napoli in 2012?",
+    "qB": "Who won the Golden Boot at the 2006 World Cup?",
+    "answer": "Miroslav Klose",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Miroslav Klose: Which German striker told the referee he had scored with his hand for Lazio against Napoli in 2012? versus Who won the Golden Boot at the 2006 World Cup?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_134/world_cup_v2_104",
+    "qA": "Who scored both United States goals against Japan in the London 2012 women's Olympic football final?",
+    "qB": "Who scored a hat-trick for the United States in the 2015 Women's World Cup final?",
+    "answer": "Carli Lloyd",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Carli Lloyd: Who scored both United States goals against Japan in the London 2012 women's Olympic football final? versus Who scored a hat-trick for the United States in the 2015 Women's World Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_150/world_cup_v2_195",
+    "qA": "Against which team did Ali Karimi score twice in Iran's 3–0 win in the 2003 AFC/OFC Challenge Cup?",
+    "qB": "Which Oceania team exited the group stage at the 2010 World Cup unbeaten?",
+    "answer": "New Zealand",
+    "decision": "distinct",
+    "reason": "Reviewed common answer New Zealand: Against which team did Ali Karimi score twice in Iran's 3–0 win in the 2003 AFC/OFC Challenge Cup? versus Which Oceania team exited the group stage at the 2010 World Cup unbeaten?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_152/world_cup_v2_041",
+    "qA": "Against which team did Roberto Baggio make his Italy debut in November 1988?",
+    "qB": "Which team lost the 2010 World Cup final to Spain?",
+    "answer": "Netherlands",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Netherlands: Against which team did Roberto Baggio make his Italy debut in November 1988? versus Which team lost the 2010 World Cup final to Spain?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  },
+  {
+    "pair": "football_legends_v2_182/world_cup_v2_140",
+    "qA": "Against which team did Maradona make his Argentina debut in February 1977?",
+    "qB": "Which team lost 4–2 to Italy in the 1938 World Cup final?",
+    "answer": "Hungary",
+    "decision": "distinct",
+    "reason": "Reviewed common answer Hungary: Against which team did Maradona make his Argentina debut in February 1977? versus Which team lost 4–2 to Italy in the 1938 World Cup final?. The questions request separate dated actions, honours, career attributes or club relationships; the shared answer does not identify the same underlying relation."
+  }
+]
