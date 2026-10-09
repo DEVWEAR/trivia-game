@@ -18,8 +18,8 @@ class _HomeScreenState extends State<HomeScreen> {
   int imageIndex=0;
   Timer? imageTimer;
   static const backgrounds=[
-    'assets/two_pics/redesign/home_girls.jpeg',
-    'assets/two_pics/redesign/home_majlis.jpeg',
+    'assets/two_pics/redesign/49E75FA6-D208-4D72-AA8A-E7BBA50E31BE.png',
+    'assets/two_pics/redesign/00B75360-82E5-48F2-8FAE-0C98B43D10E2.png',
   ];
   @override void initState(){
     super.initState();
