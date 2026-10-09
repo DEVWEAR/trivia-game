@@ -60,6 +60,22 @@ jobs:
           BASE_HREF: ${{ inputs.base_href || '/trivia-game/' }}
         run: flutter build web --release --base-href "$BASE_HREF"
 
+      - name: Avoid stale cached Flutter assets
+        shell: bash
+        env:
+          RELEASE_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          rm -f build/web/flutter_service_worker.js
+          python3 - <<'PY'
+          from pathlib import Path
+          import os
+          index = Path('build/web/index.html')
+          html = index.read_text(encoding='utf-8')
+          html = html.replace('src="flutter_bootstrap.js"', 'src="flutter_bootstrap.js?v=' + os.environ['RELEASE_SHA'] + '"')
+          index.write_text(html, encoding='utf-8')
+          PY
+
       - name: Stamp release identity
         shell: bash
         env:
