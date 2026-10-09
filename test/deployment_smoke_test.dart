@@ -99,7 +99,7 @@ void main() {
         await tester.pumpAndSettle();
       }
       expect(find.text(ar ? 'جاهز للتحدي؟' : 'Ready to challenge?'), findsOneWidget);
-      await tester.tap(find.text(ar ? 'كوّن لعبتك' : 'Build your game'));
+      await tester.tap(find.text(ar ? 'ابدأ التحدي' : 'Start the challenge'));
       await tester.pumpAndSettle();
       expect(find.text(ar ? 'الإمارات' : 'UAE'), findsOneWidget);
       await tester.tap(find.text(ar ? 'الإمارات' : 'UAE'));
