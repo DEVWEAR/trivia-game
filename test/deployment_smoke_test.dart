@@ -91,8 +91,14 @@ void main() {
       addTearDown(tester.view.resetPhysicalSize);
       addTearDown(tester.view.resetDevicePixelRatio);
       await tester.pumpWidget(const TriviaGameApp());
-      await tester.tap(find.text(ar ? 'العربية' : 'English'));
       await tester.pumpAndSettle();
+      // The app now opens directly on the Arabic home screen.
+      // Switch to English from the header when testing English gameplay.
+      if (!ar) {
+        await tester.tap(find.text('English'));
+        await tester.pumpAndSettle();
+      }
+      expect(find.text(ar ? 'جاهز للتحدي؟' : 'Ready to challenge?'), findsOneWidget);
       await tester.tap(find.text(ar ? 'كوّن لعبتك' : 'Build your game'));
       await tester.pumpAndSettle();
       expect(find.text(ar ? 'الإمارات' : 'UAE'), findsOneWidget);
