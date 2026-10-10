@@ -3,8 +3,6 @@ on:
   push:
     paths:
       - 'tool/imports/sharjah_300.xlsx'
-      - 'tool/generate_sharjah.py'
-      - '.github/workflows/generate-sharjah.yml'
   workflow_dispatch:
 permissions:
   contents: write
