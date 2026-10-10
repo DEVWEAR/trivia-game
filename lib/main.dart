@@ -20,6 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
   bool backgroundsReady=false;
   bool firstFrameReady=false;
   static const backgrounds=[
+    'assets/two_pics/redesign/A16A03F9-FA00-4215-BA04-86D0D22519C2.png',
     'assets/two_pics/redesign/49E75FA6-D208-4D72-AA8A-E7BBA50E31BE.png',
     'assets/two_pics/redesign/00B75360-82E5-48F2-8FAE-0C98B43D10E2.png',
   ];
