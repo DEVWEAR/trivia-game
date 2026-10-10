@@ -8,7 +8,7 @@ class PlayableCategory {
   final List<TriviaQuestion> questions;
 }
 
-// Rebuild categories one at a time as bilingual question banks are verified.
+// World Cup and El Clasico are published bilingual categories.
 final playableCategories = <PlayableCategory>[
   PlayableCategory('world_cup', '🏆🌍', 'كأس العالم', 'FIFA World Cup', worldCupQuestions),
   PlayableCategory('el_clasico', '⚽🇪🇸', 'الكلاسيكو الإسباني', 'El Clásico', elClasicoQuestions),
