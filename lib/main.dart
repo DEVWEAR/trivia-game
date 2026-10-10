@@ -20,9 +20,9 @@ class _HomeScreenState extends State<HomeScreen> {
   bool backgroundsReady=false;
   bool firstFrameReady=false;
   static const backgrounds=[
-    'assets/two_pics/redesign/A16A03F9-FA00-4215-BA04-86D0D22519C2.png',
-    'assets/two_pics/redesign/49E75FA6-D208-4D72-AA8A-E7BBA50E31BE.png',
-    'assets/two_pics/redesign/00B75360-82E5-48F2-8FAE-0C98B43D10E2.png',
+    '83A426BC-6461-4BD6-BB12-7877AED62765.png',
+    '7E6D631D-725E-465C-86D6-3C6F57959964.png',
+    '09F41FAC-F8B2-49DB-A6B4-08D1ACE61399.png',
   ];
   @override void initState(){
     super.initState();
@@ -31,17 +31,23 @@ class _HomeScreenState extends State<HomeScreen> {
     super.didChangeDependencies();
     if(backgroundsReady)return;
     backgroundsReady=true;
-    // Decode both images before starting the carousel to prevent blank frames.
-    Future.wait(backgrounds.map((path)=>precacheImage(AssetImage(path),context)))
-      .then((_){
-        if(!mounted)return;
-        setState(()=>firstFrameReady=true);
-        imageTimer=Timer.periodic(const Duration(seconds:7),(_){
-          if(mounted)setState(()=>imageIndex=(imageIndex+1)%backgrounds.length);
+    // Show the first portrait as soon as it is decoded; warm up the next
+    // images in the background without delaying the initial screen.
+    precacheImage(const AssetImage(backgrounds[0]),context).then((_){
+      if(!mounted)return;
+      setState(()=>firstFrameReady=true);
+      Future.wait(backgrounds.skip(1).map((path)=>precacheImage(AssetImage(path),context)))
+        .then((_){
+          if(!mounted)return;
+          imageTimer=Timer.periodic(const Duration(seconds:7),(_){
+            if(mounted)setState(()=>imageIndex=(imageIndex+1)%backgrounds.length);
+          });
+        }).catchError((_){
+          // Keep the first image if a later image cannot be decoded.
         });
-      }).catchError((_){
-        // Leave the first image visible if loading fails; never flash the old background.
-      });
+    }).catchError((_){
+      // The browser first-paint background stays visible while loading.
+    });
   }
   @override void dispose(){imageTimer?.cancel();super.dispose();}
   @override Widget build(BuildContext context){
