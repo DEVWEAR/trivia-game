@@ -41,7 +41,7 @@ final playableCategories = <PlayableCategory>[
   PlayableCategory('general_knowledge', '💡', 'معلومات عامة', 'General Knowledge', generalKnowledgeFinalQuestions),
   PlayableCategory('brain', '🧠', 'ألغاز وذكاء', 'Brain & Riddles', brainFinalQuestions),
   PlayableCategory('gaming', '🎮', 'ألعاب الفيديو', 'Gaming', gamingFinalQuestions),
-  PlayableCategory('no_words', '🎯', 'ولا كلمة', 'No Words', noWordsFinalQuestions),
+  PlayableCategory('no_words', '🎯', 'تلميح', 'Hint', noWordsFinalQuestions),
   PlayableCategory('two_pics', '🖼️', 'صورتين كلمة واحدة', 'Two Pics One Word', twoPicsFinalQuestions),
   PlayableCategory('uae_heritage', '🏺', 'تراث الإمارات', 'UAE Heritage', uaeHeritageFinalQuestions),
   PlayableCategory('gulf_culture', '🌴', 'الثقافة الخليجية', 'Gulf Culture', gulfCultureFinalQuestions),
