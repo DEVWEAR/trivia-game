@@ -9,38 +9,21 @@ class QuestionVisual extends StatelessWidget {
   const QuestionVisual({super.key,required this.question,required this.ar});
   final TriviaQuestion question; final bool ar;
 
-  String get _text => '${question.questionAr} ${question.answerAr}'.toLowerCase();
-
-  (String,String,String) _subject(){
-    final t=_text;
-    const rules=<({List<String> keys,String icon,String ar,String en})>[
-      (keys:['كرة','هدف','لاعب','منتخب','نادي','دوري','ملعب'],icon:'⚽',ar:'كرة القدم',en:'Football'),
-      (keys:['الإمارات','دبي','أبوظبي','الشارقة','العين','زايد'],icon:'🇦🇪',ar:'الإمارات',en:'UAE'),
-      (keys:['سيارة','سباق','فورمولا','محرك'],icon:'🏎️',ar:'سرعة ومحركات',en:'Motors'),
-      (keys:['فضاء','كوكب','قمر','شمس','نجم','مجرة'],icon:'🪐',ar:'الفضاء',en:'Space'),
-      (keys:['بحر','محيط','ماء','سمك','سفينة'],icon:'🌊',ar:'البحر',en:'Ocean'),
-      (keys:['حيوان','أسد','فيل','قط','طائر','حصان'],icon:'🐾',ar:'عالم الحيوان',en:'Animals'),
-      (keys:['طعام','أكل','قهوة','شاي','بيتزا','برجر','سوشي'],icon:'🍽️',ar:'طعام',en:'Food'),
-      (keys:['دولة','عاصمة','مدينة','قارة','خريطة'],icon:'🌍',ar:'حول العالم',en:'World'),
-      (keys:['تاريخ','عام','سنة','ملك','إمبراطور','حرب'],icon:'🏛️',ar:'التاريخ',en:'History'),
-      (keys:['علم','كيمياء','فيزياء','عنصر','ذرة','جاذبية'],icon:'⚛️',ar:'العلوم',en:'Science'),
-      (keys:['جسم','قلب','دم','إنسان','عضو'],icon:'🫀',ar:'جسم الإنسان',en:'Human Body'),
-      (keys:['حاسوب','كمبيوتر','تقنية','ذكاء اصطناعي','إنترنت'],icon:'💻',ar:'التقنية',en:'Technology'),
-      (keys:['لعبة','بلايستيشن','نينتندو','xbox','gaming'],icon:'🎮',ar:'ألعاب الفيديو',en:'Gaming'),
-      (keys:['فيلم','مسلسل','ممثل','سينما'],icon:'🎬',ar:'الشاشة',en:'Screen'),
-      (keys:['لغز','ما هو','شيء','ذكاء'],icon:'🧩',ar:'فكّر',en:'Think'),
-    ];
-    for(final r in rules){if(r.keys.any(t.contains))return(r.icon,r.ar,r.en);}
-    return switch(question.categoryId){'uae_general'=>('🇦🇪','الإمارات','UAE'),'uae_football'=>('⚽','كرة إماراتية','UAE Football'),'general_knowledge'=>('🌐','معلومة','Knowledge'),'brain'=>('🧠','تحدي ذهني','Brain'),'gaming'=>('🎮','ألعاب','Gaming'),'no_words'=>('🎯','اشرحها','Describe'),_=>('✦','تحدي','Challenge')};
-  }
+  String _categoryIcon() => switch(question.categoryId){
+    'arabic_music'||'emirati_music'||'gulf_music'||'kuwaiti_music'||'saudi_music'||'egyptian_music'||'international_music'||'old_school_music'=>'🎶',
+    'uae_general'=>'🇦🇪',
+    'uae_football'||'uae_pro_league'||'premier_league'||'la_liga'||'serie_a'||'bundesliga'||'ligue_1'||'ucl'||'world_cup'||'football_legends'=>'⚽',
+    'gaming'=>'🎮','brain'=>'🧠','no_words'=>'🎯','two_pics'=>'🖼️',
+    'uae_heritage'=>'🏺','gulf_culture'=>'🌴','kuwait_general'=>'🇰🇼','saudi_general'=>'🇸🇦',
+    _=>'💡'
+  };
 
   @override Widget build(BuildContext context){
-    final s=_subject(); final seed=question.id.codeUnits.fold<int>(7,(a,b)=>a*31+b); final points=question.difficulty.points;
+    final symbol=_categoryIcon(); final seed=question.id.codeUnits.fold<int>(7,(a,b)=>a*31+b); final points=question.difficulty.points;
     return AspectRatio(aspectRatio:16/6.6,child:ClipRRect(borderRadius:BorderRadius.circular(24),child:Stack(fit:StackFit.expand,children:[
       CustomPaint(painter:_VisualPainter(seed:seed,category:question.categoryId,points:points)),
       Positioned.fill(child:DecoratedBox(decoration:BoxDecoration(gradient:LinearGradient(begin:Alignment.topCenter,end:Alignment.bottomCenter,colors:[Colors.transparent,Colors.black.withValues(alpha:.48)])))),
-      Center(child:Transform.rotate(angle:(seed%9-4)*.008,child:Container(width:104,height:104,alignment:Alignment.center,decoration:BoxDecoration(borderRadius:BorderRadius.circular(30),color:Colors.black.withValues(alpha:.24),border:Border.all(color:Colors.white.withValues(alpha:.20),width:1.4),boxShadow:[BoxShadow(color:Colors.black.withValues(alpha:.22),blurRadius:25)]),child:Text(s.$1,style:const TextStyle(fontSize:57))))),
-      PositionedDirectional(start:15,bottom:13,child:Container(padding:const EdgeInsets.symmetric(horizontal:12,vertical:7),decoration:BoxDecoration(color:Colors.black.withValues(alpha:.40),borderRadius:BorderRadius.circular(18),border:Border.all(color:Colors.white12)),child:Text(ar?s.$2:s.$3,style:const TextStyle(fontSize:11,fontWeight:FontWeight.w900)))),
+      Center(child:Transform.rotate(angle:(seed%9-4)*.008,child:Container(width:104,height:104,alignment:Alignment.center,decoration:BoxDecoration(borderRadius:BorderRadius.circular(30),color:Colors.black.withValues(alpha:.24),border:Border.all(color:Colors.white.withValues(alpha:.20),width:1.4),boxShadow:[BoxShadow(color:Colors.black.withValues(alpha:.22),blurRadius:25)]),child:Text(symbol,style:const TextStyle(fontSize:57))))),
       PositionedDirectional(end:15,top:13,child:Container(padding:const EdgeInsets.symmetric(horizontal:11,vertical:6),decoration:BoxDecoration(color:Colors.black.withValues(alpha:.32),borderRadius:BorderRadius.circular(18),border:Border.all(color:Colors.white10)),child:Text('$points',style:const TextStyle(fontSize:12,fontWeight:FontWeight.w900)))),
     ])));
   }
