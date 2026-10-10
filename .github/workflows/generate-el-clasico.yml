@@ -1,0 +1,42 @@
+name: Generate bilingual El Clasico bank
+on:
+  push:
+    paths:
+      - 'tool/generate_el_clasico.py'
+      - 'tool/imports/el_clasico_ar_300.json'
+      - '.github/workflows/generate-el-clasico.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  translate-and-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Translate Arabic questions and answers and generate Flutter data
+        run: python tool/generate_el_clasico.py
+      - name: Validate counts and commit generated bilingual questions
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          q=json.loads(Path('tool/imports/el_clasico_translations_en.json').read_text())
+          assert len(q)==300
+          assert all(q[f'ELC{i:03}'].get('questionEn') and q[f'ELC{i:03}'].get('answerEn') for i in range(1,301))
+          s=Path('lib/data/questions/el_clasico_questions.dart').read_text()
+          assert s.count('TriviaQuestion(')==300
+          assert s.count('QuestionDifficulty.easy200')==100
+          assert s.count('QuestionDifficulty.medium400')==100
+          assert s.count('QuestionDifficulty.hard600')==100
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add lib/data/questions/el_clasico_questions.dart tool/imports/el_clasico_translations_en.json
+          git diff --cached --quiet || (git commit -m 'Publish 300 bilingual El Clasico questions' && git push)
