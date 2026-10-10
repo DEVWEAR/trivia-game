@@ -1,6 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'data/question_model.dart';
+import 'data/playable_category_registry.dart';
 
 /// Deterministic, locally-rendered visual artwork for EVERY question.
 /// Each card derives its subject cues from its own question/answer, so visuals are
@@ -9,14 +10,15 @@ class QuestionVisual extends StatelessWidget {
   const QuestionVisual({super.key,required this.question,required this.ar});
   final TriviaQuestion question; final bool ar;
 
-  String _categoryIcon() => switch(question.categoryId){
-    'arabic_music'||'emirati_music'||'gulf_music'||'kuwaiti_music'||'saudi_music'||'egyptian_music'||'international_music'||'old_school_music'=>'🎶',
-    'uae_general'=>'🇦🇪',
-    'uae_football'||'uae_pro_league'||'premier_league'||'la_liga'||'serie_a'||'bundesliga'||'ligue_1'||'ucl'||'world_cup'||'football_legends'=>'⚽',
-    'gaming'=>'🎮','brain'=>'🧠','no_words'=>'🎯','two_pics'=>'🖼️',
-    'uae_heritage'=>'🏺','gulf_culture'=>'🌴','kuwait_general'=>'🇰🇼','saudi_general'=>'🇸🇦',
-    _=>'💡'
-  };
+  String _categoryIcon() {
+    // A question's category is authoritative. Never infer its icon from words
+    // like "year" or "university" in the question text.
+    if (question.categoryId.endsWith('_music')) return '🎶';
+    for (final category in playableCategories) {
+      if (category.categoryId == question.categoryId) return category.icon;
+    }
+    return '💡';
+  }
 
   @override Widget build(BuildContext context){
     final symbol=_categoryIcon(); final seed=question.id.codeUnits.fold<int>(7,(a,b)=>a*31+b); final points=question.difficulty.points;
@@ -24,7 +26,7 @@ class QuestionVisual extends StatelessWidget {
       CustomPaint(painter:_VisualPainter(seed:seed,category:question.categoryId,points:points)),
       Positioned.fill(child:DecoratedBox(decoration:BoxDecoration(gradient:LinearGradient(begin:Alignment.topCenter,end:Alignment.bottomCenter,colors:[Colors.transparent,Colors.black.withValues(alpha:.48)])))),
       Center(child:Transform.rotate(angle:(seed%9-4)*.008,child:Container(width:104,height:104,alignment:Alignment.center,decoration:BoxDecoration(borderRadius:BorderRadius.circular(30),color:Colors.black.withValues(alpha:.24),border:Border.all(color:Colors.white.withValues(alpha:.20),width:1.4),boxShadow:[BoxShadow(color:Colors.black.withValues(alpha:.22),blurRadius:25)]),child:Text(symbol,style:const TextStyle(fontSize:57))))),
-      PositionedDirectional(end:15,top:13,child:Container(padding:const EdgeInsets.symmetric(horizontal:11,vertical:6),decoration:BoxDecoration(color:Colors.black.withValues(alpha:.32),borderRadius:BorderRadius.circular(18),border:Border.all(color:Colors.white10)),child:Text('$points',style:const TextStyle(fontSize:12,fontWeight:FontWeight.w900)))),
+
     ])));
   }
 }
@@ -35,7 +37,7 @@ class _VisualPainter extends CustomPainter{
    final grid=Paint()..color=Colors.white.withValues(alpha:.045)..strokeWidth=.8;final gap=26.0;for(double x=(seed%20).toDouble();x<size.width;x+=gap)canvas.drawLine(Offset(x,0),Offset(x,size.height),grid);for(double y=(seed%15).toDouble();y<size.height;y+=gap)canvas.drawLine(Offset(0,y),Offset(size.width,y),grid);
    for(int i=0;i<8;i++){final p=Offset(r.nextDouble()*size.width,r.nextDouble()*size.height),rad=18+r.nextDouble()*72;canvas.drawCircle(p,rad,Paint()..style=PaintingStyle.stroke..strokeWidth=.8+r.nextDouble()*1.3..color=Colors.white.withValues(alpha:.025+r.nextDouble()*.055));}
    final path=Path();for(int i=0;i<8;i++){final x=size.width*i/7,y=size.height*(.28+r.nextDouble()*.44);i==0?path.moveTo(x,y):path.lineTo(x,y);}canvas.drawPath(path,Paint()..style=PaintingStyle.stroke..strokeWidth=1.5..color=Colors.white.withValues(alpha:.10));
-   final accent=Paint()..color=Colors.white.withValues(alpha:.20);for(int i=0;i<points~/100;i++)canvas.drawCircle(Offset(size.width-18-i*8,18),1.8,accent);
+
  }
  @override bool shouldRepaint(covariant _VisualPainter old)=>old.seed!=seed||old.category!=category||old.points!=points;
 }
