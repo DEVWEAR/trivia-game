@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'tool/imports/**'
+      - 'tool/generate_sharjah.py'
   workflow_dispatch:
 permissions:
   contents: write
