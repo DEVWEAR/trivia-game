@@ -5,9 +5,9 @@ from pathlib import Path
 from openpyxl import load_workbook
 
 root=Path(__file__).resolve().parents[1]
-source=root/'tool/imports/sharjah_300.xlsx'
+source=root/'tool/imports/‎⁨إمارة الشارقة _300⁩.xlsx'
 if not source.exists():
-    raise FileNotFoundError('Upload sharjah_300.xlsx to tool/imports/ in GitHub')
+    raise FileNotFoundError('Uploaded Sharjah workbook not found in tool/imports/')
 sheet=load_workbook(source,read_only=True,data_only=True)['بنك الأسئلة']
 rows=list(sheet.iter_rows(min_row=2,max_col=6,values_only=True))
 assert len(rows)==300, f'Expected 300 questions, found {len(rows)}'
