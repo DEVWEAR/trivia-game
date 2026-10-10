@@ -8,8 +8,6 @@ root=Path(__file__).resolve().parents[1]
 candidates=[p for p in (root/'tool/imports').glob('*.xlsx') if 'الشارقة' in p.name]
 if len(candidates)!=1: raise RuntimeError(f'Expected one Sharjah workbook, found {len(candidates)}')
 source=candidates[0]
-if not source.exists():
-    raise FileNotFoundError('Uploaded Sharjah workbook not found in tool/imports/')
 sheet=load_workbook(source,read_only=True,data_only=True)['بنك الأسئلة']
 rows=list(sheet.iter_rows(min_row=2,max_col=6,values_only=True))
 assert len(rows)==300, f'Expected 300 questions, found {len(rows)}'
