@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
       Future.wait(backgrounds.skip(1).map((path)=>precacheImage(AssetImage(path),context)))
         .then((_){
           if(!mounted)return;
-          imageTimer=Timer.periodic(const Duration(seconds:7),(_){
+          imageTimer=Timer.periodic(const Duration(seconds:5),(_){
             advanceBackground();
           });
         }).catchError((_){
