@@ -2,7 +2,7 @@ name: Import Sharjah 300 bilingual questions
 on:
   push:
     paths:
-      - 'tool/imports/sharjah_300.xlsx'
+      - 'tool/imports/**'
   workflow_dispatch:
 permissions:
   contents: write
