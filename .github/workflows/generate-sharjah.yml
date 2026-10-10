@@ -1,0 +1,39 @@
+name: Import Sharjah 300 bilingual questions
+on:
+  push:
+    paths:
+      - 'tool/imports/sharjah_300.xlsx'
+      - 'tool/generate_sharjah.py'
+      - '.github/workflows/generate-sharjah.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install openpyxl
+      - run: python tool/generate_sharjah.py
+      - name: Add category only after successful generation
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('lib/data/playable_category_registry.dart')
+          s=p.read_text()
+          imp="import 'questions/sharjah_questions.dart';"
+          card="  PlayableCategory('sharjah', '🏰', 'إمارة الشارقة', 'Emirate of Sharjah', sharjahQuestions),"
+          if imp not in s:s=imp+'\n'+s
+          if card not in s:s=s.replace('final playableCategories = <PlayableCategory>[','final playableCategories = <PlayableCategory>[\n'+card)
+          p.write_text(s)
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add lib/data/questions/sharjah_questions.dart lib/data/playable_category_registry.dart tool/imports/sharjah_en_cache.json
+          git diff --cached --quiet || (git commit -m 'Publish 300 bilingual Sharjah questions' && (git pull --rebase origin main && git push origin HEAD:main))
