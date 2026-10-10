@@ -1,0 +1,1202 @@
+{
+  "WC-E-001": {
+    "q": "In which sport is the FIFA World Cup held?",
+    "a": "soccer"
+  },
+  "WC-E-002": {
+    "q": "How many years is the Men's World Cup usually held?",
+    "a": "Every four years"
+  },
+  "WC-E-003": {
+    "q": "In which year was the first World Cup held?",
+    "a": "1930"
+  },
+  "WC-E-004": {
+    "q": "Who won the first World Cup?",
+    "a": "Uruguay"
+  },
+  "WC-E-005": {
+    "q": "Who won the 2022 World Cup?",
+    "a": "Argentina"
+  },
+  "WC-E-006": {
+    "q": "Who won the 2018 World Cup?",
+    "a": "France"
+  },
+  "WC-E-007": {
+    "q": "Who won the 2014 World Cup?",
+    "a": "Germany"
+  },
+  "WC-E-008": {
+    "q": "Who won the 2010 World Cup?",
+    "a": "Spain"
+  },
+  "WC-E-009": {
+    "q": "Who won the 2006 World Cup?",
+    "a": "Italy"
+  },
+  "WC-E-010": {
+    "q": "Who won the 2002 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-E-011": {
+    "q": "Who won the 1998 World Cup?",
+    "a": "France"
+  },
+  "WC-E-012": {
+    "q": "Who won the 1994 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-E-013": {
+    "q": "Who won the 1990 World Cup?",
+    "a": "West Germany"
+  },
+  "WC-E-014": {
+    "q": "Who won the 1986 World Cup?",
+    "a": "Argentina"
+  },
+  "WC-E-015": {
+    "q": "Who won the 1982 World Cup?",
+    "a": "Italy"
+  },
+  "WC-E-016": {
+    "q": "Who won the 1978 World Cup?",
+    "a": "Argentina"
+  },
+  "WC-E-017": {
+    "q": "Who won the 1974 World Cup?",
+    "a": "West Germany"
+  },
+  "WC-E-018": {
+    "q": "Who won the 1970 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-E-019": {
+    "q": "Who won the 1966 World Cup?",
+    "a": "England"
+  },
+  "WC-E-020": {
+    "q": "Who won the 1962 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-E-021": {
+    "q": "Who won the 1958 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-E-022": {
+    "q": "Who won the 1954 World Cup?",
+    "a": "West Germany"
+  },
+  "WC-E-023": {
+    "q": "Who won the 1950 World Cup?",
+    "a": "Uruguay"
+  },
+  "WC-E-024": {
+    "q": "Who won the 1938 World Cup?",
+    "a": "Italy"
+  },
+  "WC-E-025": {
+    "q": "Who won the 1934 World Cup?",
+    "a": "Italy"
+  },
+  "WC-E-026": {
+    "q": "Which country hosted the 2022 World Cup?",
+    "a": "Qatar"
+  },
+  "WC-E-027": {
+    "q": "Which country hosted the 2018 World Cup?",
+    "a": "Russia"
+  },
+  "WC-E-028": {
+    "q": "Which country hosted the 2014 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-E-029": {
+    "q": "Which country hosted the 2010 World Cup?",
+    "a": "South Africa"
+  },
+  "WC-E-030": {
+    "q": "Where was the 2006 World Cup held?",
+    "a": "Germany"
+  },
+  "WC-E-031": {
+    "q": "Which country hosted the 1994 World Cup?",
+    "a": "US"
+  },
+  "WC-E-032": {
+    "q": "Where was the 1990 World Cup held?",
+    "a": "Italy"
+  },
+  "WC-E-033": {
+    "q": "Which country hosted the 1986 World Cup?",
+    "a": "Mexico"
+  },
+  "WC-E-034": {
+    "q": "Where was the 1982 World Cup held?",
+    "a": "Spain"
+  },
+  "WC-E-035": {
+    "q": "Which country hosted the 1978 World Cup?",
+    "a": "Argentina"
+  },
+  "WC-E-036": {
+    "q": "Where was the 1966 World Cup held?",
+    "a": "England"
+  },
+  "WC-E-037": {
+    "q": "Which country hosted the 1950 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-E-038": {
+    "q": "Who is the Argentine player who lifted the 2022 World Cup?",
+    "a": "Lionel Messi"
+  },
+  "WC-E-039": {
+    "q": "Who is the French player who scored a hat-trick in the 2022 final?",
+    "a": "Kylian Mbappe"
+  },
+  "WC-E-040": {
+    "q": "Who is the Brazilian player called the King?",
+    "a": "Pellet"
+  },
+  "WC-E-041": {
+    "q": "Who is the Argentine legend who led it to victory in 1986?",
+    "a": "Diego Maradona"
+  },
+  "WC-E-042": {
+    "q": "Who scored the winning goal for Spain in the 2010 final?",
+    "a": "Andres Iniesta"
+  },
+  "WC-E-043": {
+    "q": "Who scored the winning goal for Germany in the 2014 final?",
+    "a": "Mario Gotze"
+  },
+  "WC-E-044": {
+    "q": "Who scored the winning goal for France in the 2018 final?",
+    "a": "Antoine Griezmann did not score the winning goal alone; France scored 4 goals"
+  },
+  "WC-E-045": {
+    "q": "Who is the player known as The Phenomenon?",
+    "a": "Ronaldo Nazario"
+  },
+  "WC-E-046": {
+    "q": "What award is given to the top scorer in the tournament?",
+    "a": "Golden shoe"
+  },
+  "WC-E-047": {
+    "q": "What award is given to the best player in the tournament?",
+    "a": "Golden Ball"
+  },
+  "WC-E-048": {
+    "q": "What award is given to the best goalkeeper?",
+    "a": "Golden Glove"
+  },
+  "WC-E-049": {
+    "q": "What is the organizing body for the World Cup?",
+    "a": "International Federation of Association Football (FIFA)"
+  },
+  "WC-E-050": {
+    "q": "How many minutes does a basic match last?",
+    "a": "90 minutes"
+  },
+  "WC-E-051": {
+    "q": "How many games in the game before overtime?",
+    "a": "Two strokes"
+  },
+  "WC-E-052": {
+    "q": "How many points does a team get for winning the group stage?",
+    "a": "3 points"
+  },
+  "WC-E-053": {
+    "q": "How many points does a team get in a tie in the group stage?",
+    "a": "One point"
+  },
+  "WC-E-054": {
+    "q": "What technology helps the referee review shots?",
+    "a": "Video Assistant Referee (VAR) technology"
+  },
+  "WC-E-055": {
+    "q": "Which team is known by the nickname Samba?",
+    "a": "Brazil"
+  },
+  "WC-E-056": {
+    "q": "Which national team is known as Tango?",
+    "a": "Argentina"
+  },
+  "WC-E-057": {
+    "q": "Which team is known as the Roosters?",
+    "a": "France"
+  },
+  "WC-E-058": {
+    "q": "Which national team is known as the Three Lions?",
+    "a": "England"
+  },
+  "WC-E-059": {
+    "q": "Which continent does Japan belong to?",
+    "a": "Asia"
+  },
+  "WC-E-060": {
+    "q": "Which continent does the Moroccan national team belong to?",
+    "a": "Africa"
+  },
+  "WC-E-061": {
+    "q": "Which continent does the German national team belong to?",
+    "a": "Europe"
+  },
+  "WC-E-062": {
+    "q": "Which continent does the Argentine national team belong to?",
+    "a": "south america"
+  },
+  "WC-E-063": {
+    "q": "Who lost the 2022 final to Argentina?",
+    "a": "France"
+  },
+  "WC-E-064": {
+    "q": "Who lost the 2018 final to France?",
+    "a": "Croatia"
+  },
+  "WC-E-065": {
+    "q": "Who lost the 2014 final to Germany?",
+    "a": "Argentina"
+  },
+  "WC-E-066": {
+    "q": "Who lost the 2010 final to Spain?",
+    "a": "Holland"
+  },
+  "WC-E-067": {
+    "q": "Who lost the 2006 final to Italy?",
+    "a": "France"
+  },
+  "WC-E-068": {
+    "q": "Who lost the 2002 final to Brazil?",
+    "a": "Germany"
+  },
+  "WC-E-069": {
+    "q": "Who lost the 1998 final to France?",
+    "a": "Brazil"
+  },
+  "WC-E-070": {
+    "q": "Who lost the 1986 final to Argentina?",
+    "a": "West Germany"
+  },
+  "WC-E-071": {
+    "q": "Who lost the 1970 final to Brazil?",
+    "a": "Italy"
+  },
+  "WC-E-072": {
+    "q": "Who lost the 1966 final to England?",
+    "a": "West Germany"
+  },
+  "WC-E-073": {
+    "q": "Who lost the 1958 final to Brazil?",
+    "a": "Sweden"
+  },
+  "WC-E-074": {
+    "q": "In which version was VAR first used?",
+    "a": "2018"
+  },
+  "WC-E-075": {
+    "q": "In which edition did 32 teams participate for the first time?",
+    "a": "1998"
+  },
+  "WC-E-076": {
+    "q": "In which version did the tournament expand to 24 teams?",
+    "a": "1982"
+  },
+  "WC-E-077": {
+    "q": "How many countries will host the 2026 World Cup?",
+    "a": "Three countries"
+  },
+  "WC-E-078": {
+    "q": "Which countries will host the 2026 World Cup?",
+    "a": "Canada, Mexico and the United States"
+  },
+  "WC-E-079": {
+    "q": "How many teams will participate in the 2026 World Cup?",
+    "a": "48 elected"
+  },
+  "WC-E-080": {
+    "q": "How many groups are in the 2026 World Cup?",
+    "a": "12 groups"
+  },
+  "WC-E-081": {
+    "q": "What was the first African country to host the World Cup?",
+    "a": "South Africa"
+  },
+  "WC-E-082": {
+    "q": "What is the first Arab country to host the World Cup?",
+    "a": "Qatar"
+  },
+  "WC-E-083": {
+    "q": "What are the first two countries to co-host the World Cup?",
+    "a": "Japan and South Korea in 2002"
+  },
+  "WC-E-084": {
+    "q": "What is the name of the 2022 World Cup mascot?",
+    "a": "A shame"
+  },
+  "WC-E-085": {
+    "q": "In which city was the 2022 final held?",
+    "a": "Lucille"
+  },
+  "WC-E-086": {
+    "q": "What is the result of the 2022 final after extra time?",
+    "a": "3–3"
+  },
+  "WC-E-087": {
+    "q": "What was the penalty shootout score in the 2022 final?",
+    "a": "Argentina 4–2 France"
+  },
+  "WC-E-088": {
+    "q": "Which team won on penalties in the 2006 final?",
+    "a": "Italy"
+  },
+  "WC-E-089": {
+    "q": "Which team won on penalties in the 1994 final?",
+    "a": "Brazil"
+  },
+  "WC-E-090": {
+    "q": "Which team beat Brazil 7-1 in the 2014 semi-final?",
+    "a": "Germany"
+  },
+  "WC-E-091": {
+    "q": "Which team defeated Argentina in the opening of its World Cup 2022 campaign?",
+    "a": "Saudi Arabia"
+  },
+  "WC-E-092": {
+    "q": "Who scored the winning goal in the 2014 final?",
+    "a": "Mario Gotze"
+  },
+  "WC-E-093": {
+    "q": "Who scored the winning goal in the 2010 final?",
+    "a": "Andres Iniesta"
+  },
+  "WC-E-094": {
+    "q": "Who scored England's hat-trick in the 1966 final?",
+    "a": "Jeff Hurst"
+  },
+  "WC-E-095": {
+    "q": "Who scored the famous Hand of God goal?",
+    "a": "Diego Maradona"
+  },
+  "WC-E-096": {
+    "q": "Against which team did Maradona score the Hand of God goal?",
+    "a": "England"
+  },
+  "WC-E-097": {
+    "q": "Which Arab team reached the semi-finals of the 2022 World Cup?",
+    "a": "Morocco"
+  },
+  "WC-E-098": {
+    "q": "Which Asian team reached the semi-finals in 2002?",
+    "a": "South Korea"
+  },
+  "WC-E-099": {
+    "q": "What was the first Arab team to participate in the World Cup?",
+    "a": "Egypt in 1934"
+  },
+  "WC-E-100": {
+    "q": "Why were the 1942 and 1946 versions not held?",
+    "a": "Because of World War II"
+  },
+  "WC-M-001": {
+    "q": "What is the result of the 2018 World Cup final?",
+    "a": "France 4–2 Croatia"
+  },
+  "WC-M-002": {
+    "q": "What is the result of the 2014 World Cup final?",
+    "a": "Germany 1–0 Argentina after extra time"
+  },
+  "WC-M-003": {
+    "q": "What is the result of the 2010 World Cup final?",
+    "a": "Spain 1–0 Netherlands after extra time"
+  },
+  "WC-M-004": {
+    "q": "What was the result of the 2006 World Cup final before penalty kicks?",
+    "a": "1–1; Italy won on penalties 5–3"
+  },
+  "WC-M-005": {
+    "q": "What was the result of the 2002 World Cup final?",
+    "a": "Brazil 2–0 Germany"
+  },
+  "WC-M-006": {
+    "q": "What was the result of the 1998 World Cup final?",
+    "a": "France 3–0 Brazil"
+  },
+  "WC-M-007": {
+    "q": "What was the result of the 1990 World Cup final?",
+    "a": "West Germany 1–0 Argentina"
+  },
+  "WC-M-008": {
+    "q": "What was the result of the 1986 World Cup final?",
+    "a": "Argentina 3–2 West Germany"
+  },
+  "WC-M-009": {
+    "q": "What was the result of the 1982 World Cup final?",
+    "a": "Italy 3–1 West Germany"
+  },
+  "WC-M-010": {
+    "q": "What was the result of the 1978 World Cup final?",
+    "a": "Argentina 3-1 Netherlands after extra time"
+  },
+  "WC-M-011": {
+    "q": "What was the result of the 1974 World Cup final?",
+    "a": "West Germany 2–1 Netherlands"
+  },
+  "WC-M-012": {
+    "q": "What was the result of the 1970 World Cup final?",
+    "a": "Brazil 4–1 Italy"
+  },
+  "WC-M-013": {
+    "q": "What was the result of the 1966 World Cup final?",
+    "a": "England 4–2 West Germany after extra time"
+  },
+  "WC-M-014": {
+    "q": "What was the result of the 1962 World Cup final?",
+    "a": "Brazil 3–1 Czechoslovakia"
+  },
+  "WC-M-015": {
+    "q": "What was the result of the 1958 World Cup final?",
+    "a": "Brazil 5–2 Sweden"
+  },
+  "WC-M-016": {
+    "q": "What was the result of the 1954 World Cup final?",
+    "a": "West Germany 3–2 Hungary"
+  },
+  "WC-M-017": {
+    "q": "What was the result of the 1938 World Cup final?",
+    "a": "Italy 4–2 Hungary"
+  },
+  "WC-M-018": {
+    "q": "What was the result of the 1934 World Cup final?",
+    "a": "Italy 2–1 Czechoslovakia after extra time"
+  },
+  "WC-M-019": {
+    "q": "What was the result of the 1930 World Cup final?",
+    "a": "Uruguay 4-2 Argentina"
+  },
+  "WC-M-020": {
+    "q": "Who scored Germany's only goal in the 2014 World Cup final?",
+    "a": "Mario Gotze"
+  },
+  "WC-M-021": {
+    "q": "Who is the Spanish player who decided the 2010 World Cup final in extra time?",
+    "a": "Andres Iniesta"
+  },
+  "WC-M-022": {
+    "q": "Who scored Brazil's two goals in the 2002 final?",
+    "a": "Ronaldo Nazario"
+  },
+  "WC-M-023": {
+    "q": "Who scored France's two goals in the 1998 final?",
+    "a": "Zinedine Zidane"
+  },
+  "WC-M-024": {
+    "q": "Who scored England's controversial goal in the 1966 final?",
+    "a": "Jeff Hurst"
+  },
+  "WC-M-025": {
+    "q": "Who is the all-time leading scorer in the Men's World Cup?",
+    "a": "Miroslav Klose, 16 goals"
+  },
+  "WC-M-026": {
+    "q": "Who has scored the most goals in one edition?",
+    "a": "Just Fontaine, 13 goals in 1958"
+  },
+  "WC-M-027": {
+    "q": "Who scored 8 goals in the 2002 World Cup?",
+    "a": "Ronaldo Nazario"
+  },
+  "WC-M-028": {
+    "q": "Who scored 8 goals in the 2022 World Cup?",
+    "a": "Kylian Mbappe"
+  },
+  "WC-M-029": {
+    "q": "Who is the oldest player to have played in a World Cup?",
+    "a": "Issam El-Hadary, 45 years old in 2018"
+  },
+  "WC-M-030": {
+    "q": "Who is the oldest player to score in a World Cup?",
+    "a": "Roger Milla, aged 42 in 1994"
+  },
+  "WC-M-031": {
+    "q": "Who won the Golden Ball in the 2022 World Cup?",
+    "a": "Lionel Messi"
+  },
+  "WC-M-032": {
+    "q": "Who won the Golden Boot in the 2022 World Cup?",
+    "a": "Kylian Mbappe"
+  },
+  "WC-M-033": {
+    "q": "Who won the Golden Glove in the 2022 World Cup?",
+    "a": "Emiliano Martinez"
+  },
+  "WC-M-034": {
+    "q": "Who won the Best Young Player award in the 2022 World Cup?",
+    "a": "Enzo Fernandez"
+  },
+  "WC-M-035": {
+    "q": "Who won the Ballon d'Or in the 2018 World Cup?",
+    "a": "Luka Modric"
+  },
+  "WC-M-036": {
+    "q": "Who won the Golden Boot in the 2018 World Cup?",
+    "a": "Harry Kane"
+  },
+  "WC-M-037": {
+    "q": "Who won the Golden Ball in the 2014 World Cup?",
+    "a": "Lionel Messi"
+  },
+  "WC-M-038": {
+    "q": "Who won the Golden Boot in the 2014 World Cup?",
+    "a": "James Rodriguez"
+  },
+  "WC-M-039": {
+    "q": "Who won the Ballon d'Or in the 2010 World Cup?",
+    "a": "Diego Forlan"
+  },
+  "WC-M-040": {
+    "q": "Who won the Golden Boot in the 2010 World Cup?",
+    "a": "Thomas Mueller"
+  },
+  "WC-M-041": {
+    "q": "Who won the Ballon d'Or in the 2006 World Cup?",
+    "a": "Zinedine Zidane"
+  },
+  "WC-M-042": {
+    "q": "Who won the Golden Boot in the 2006 World Cup?",
+    "a": "Miroslav Klose"
+  },
+  "WC-M-043": {
+    "q": "Which team eliminated Brazil from the 2022 World Cup?",
+    "a": "Croatia on penalties"
+  },
+  "WC-M-044": {
+    "q": "Which team eliminated Portugal from the 2022 World Cup?",
+    "a": "Morocco"
+  },
+  "WC-M-045": {
+    "q": "Which team eliminated Spain from the 2022 World Cup?",
+    "a": "Morocco on penalties"
+  },
+  "WC-M-046": {
+    "q": "Who faced Morocco in the 2022 World Cup semi-final?",
+    "a": "France"
+  },
+  "WC-M-047": {
+    "q": "Who will Croatia face in the 2022 third place match?",
+    "a": "Morocco"
+  },
+  "WC-M-048": {
+    "q": "What is the result of the third place match in the 2022 World Cup?",
+    "a": "Croatia 2-1 Morocco"
+  },
+  "WC-M-049": {
+    "q": "What is the name of the famous match in which Uruguay defeated Brazil in 1950?",
+    "a": "Maracanazo"
+  },
+  "WC-M-050": {
+    "q": "Which team beat Hungary 3-2 in the 1954 final?",
+    "a": "West Germany"
+  },
+  "WC-M-051": {
+    "q": "Which team beat the Netherlands on penalties in the 2014 semi-final?",
+    "a": "Argentina"
+  },
+  "WC-M-052": {
+    "q": "What is the first African team to reach the World Cup semi-finals?",
+    "a": "Morocco in 2022"
+  },
+  "WC-M-053": {
+    "q": "What is the first Asian team to reach the semi-finals?",
+    "a": "South Korea in 2002"
+  },
+  "WC-M-054": {
+    "q": "How many teams participated in the 1930 World Cup?",
+    "a": "13 elected"
+  },
+  "WC-M-055": {
+    "q": "Which country hosted the 1954 World Cup?",
+    "a": "Switzerland"
+  },
+  "WC-M-056": {
+    "q": "Which country hosted the 1958 World Cup?",
+    "a": "Sweden"
+  },
+  "WC-M-057": {
+    "q": "Which country hosted the 1962 World Cup?",
+    "a": "Chile"
+  },
+  "WC-M-058": {
+    "q": "Which country hosted the 1970 World Cup?",
+    "a": "Mexico"
+  },
+  "WC-M-059": {
+    "q": "Which country hosted the 1998 World Cup?",
+    "a": "France"
+  },
+  "WC-M-060": {
+    "q": "Which country hosted the 2002 World Cup?",
+    "a": "Japan and South Korea"
+  },
+  "WC-M-061": {
+    "q": "How many teams will the 2026 World Cup host?",
+    "a": "48 elected"
+  },
+  "WC-M-062": {
+    "q": "How many matches are scheduled for the 2026 World Cup?",
+    "a": "104 matches"
+  },
+  "WC-M-063": {
+    "q": "How many groups are included in the group stage in the approved system for the 2026 World Cup?",
+    "a": "12 groups"
+  },
+  "WC-M-064": {
+    "q": "How many teams qualify directly from each group in 2026?",
+    "a": "The first two elected from each group"
+  },
+  "WC-M-065": {
+    "q": "Who scored the Hand of God goal in 1986?",
+    "a": "Diego Maradona"
+  },
+  "WC-M-066": {
+    "q": "Who scored the Goal of the Century in the England 1986 match?",
+    "a": "Diego Maradona"
+  },
+  "WC-M-067": {
+    "q": "Who scored the golden goal for France against Paraguay in 1998?",
+    "a": "Laurent Blanc"
+  },
+  "WC-M-068": {
+    "q": "What was the result of Germany and Brazil in the 2014 semi-finals?",
+    "a": "Germany 7–1 Brazil"
+  },
+  "WC-M-069": {
+    "q": "Who scored Germany's goal in the 1990 final?",
+    "a": "Andreas Brehme"
+  },
+  "WC-M-070": {
+    "q": "Who won third place in the 2018 World Cup?",
+    "a": "Belgium"
+  },
+  "WC-M-071": {
+    "q": "Who won third place in the 2014 World Cup?",
+    "a": "Holland"
+  },
+  "WC-M-072": {
+    "q": "Who won third place in the 2010 World Cup?",
+    "a": "Germany"
+  },
+  "WC-M-073": {
+    "q": "Who won third place in the 2002 World Cup?",
+    "a": "Türkiye"
+  },
+  "WC-M-074": {
+    "q": "Who won third place in the 1998 World Cup?",
+    "a": "Croatia"
+  },
+  "WC-M-075": {
+    "q": "Who won third place in the 1994 World Cup?",
+    "a": "Sweden"
+  },
+  "WC-M-076": {
+    "q": "Who won third place in the 1990 World Cup?",
+    "a": "Italy"
+  },
+  "WC-M-077": {
+    "q": "Who won third place in the 1986 World Cup?",
+    "a": "France"
+  },
+  "WC-M-078": {
+    "q": "Who won third place in the 1982 World Cup?",
+    "a": "Poland"
+  },
+  "WC-M-079": {
+    "q": "Who won third place in the 1978 World Cup?",
+    "a": "Brazil"
+  },
+  "WC-M-080": {
+    "q": "Who won third place in the 1974 World Cup?",
+    "a": "Poland"
+  },
+  "WC-M-081": {
+    "q": "Who won third place in the 1970 World Cup?",
+    "a": "West Germany"
+  },
+  "WC-M-082": {
+    "q": "Who won third place in the 1966 World Cup?",
+    "a": "Portugal"
+  },
+  "WC-M-083": {
+    "q": "Who won third place in the 1962 World Cup?",
+    "a": "Chile"
+  },
+  "WC-M-084": {
+    "q": "Who won third place in the 1958 World Cup?",
+    "a": "France"
+  },
+  "WC-M-085": {
+    "q": "Who won third place in the 1954 World Cup?",
+    "a": "Austria"
+  },
+  "WC-M-086": {
+    "q": "Who won third place in the 1950 World Cup?",
+    "a": "Sweden"
+  },
+  "WC-M-087": {
+    "q": "Which English player scored two goals in the 1966 World Cup final?",
+    "a": "Jeff Hurst"
+  },
+  "WC-M-088": {
+    "q": "Who scored the winning goal for Italy in the 1982 final?",
+    "a": "Alessandro Altobelli scored the third goal"
+  },
+  "WC-M-089": {
+    "q": "In which edition did 24 teams participate?",
+    "a": "1982"
+  },
+  "WC-M-090": {
+    "q": "In which version did goal-line technology begin to be implemented?",
+    "a": "2014"
+  },
+  "WC-M-091": {
+    "q": "In which version was VAR first used?",
+    "a": "2018"
+  },
+  "WC-M-092": {
+    "q": "What cup preceded the current cup?",
+    "a": "Jules Rimet Cup"
+  },
+  "WC-M-093": {
+    "q": "Which team retained the Jules Rimet Trophy?",
+    "a": "Brazil"
+  },
+  "WC-M-094": {
+    "q": "Who won the Golden Ball in the 2002 World Cup?",
+    "a": "Oliver Kahn"
+  },
+  "WC-M-095": {
+    "q": "Who won the Golden Ball in the 1998 World Cup?",
+    "a": "Ronaldo Nazario"
+  },
+  "WC-M-096": {
+    "q": "Who won the Golden Ball in the 1994 World Cup?",
+    "a": "Romario"
+  },
+  "WC-M-097": {
+    "q": "Who won the Golden Ball in the 1990 World Cup?",
+    "a": "Salvatore Schillaci"
+  },
+  "WC-M-098": {
+    "q": "Who won the Golden Ball in the 1986 World Cup?",
+    "a": "Diego Maradona"
+  },
+  "WC-M-099": {
+    "q": "Who won the Golden Ball in the 1982 World Cup?",
+    "a": "Paolo Rossi"
+  },
+  "WC-M-100": {
+    "q": "Who won the Golden Ball in the 1978 World Cup?",
+    "a": "Mario Kempes"
+  },
+  "WC-H-001": {
+    "q": "How many goals did Just Fontaine score in the 1958 edition?",
+    "a": "13 goals"
+  },
+  "WC-H-002": {
+    "q": "How many goals did Miroslav Klose score in the World Cup?",
+    "a": "16 goals"
+  },
+  "WC-H-003": {
+    "q": "How many goals did Ronaldo Nazario score in the World Cup?",
+    "a": "15 goals"
+  },
+  "WC-H-004": {
+    "q": "How many goals did Gerd Muller score in the World Cup?",
+    "a": "14 goals"
+  },
+  "WC-H-005": {
+    "q": "How many matches did Miroslav Klose play in the World Cup?",
+    "a": "24 matches"
+  },
+  "WC-H-006": {
+    "q": "How many goals has Lionel Messi scored in the World Cup until the end of 2022?",
+    "a": "13 goals"
+  },
+  "WC-H-007": {
+    "q": "How many matches did Lionel Messi play in the World Cup until the end of 2022?",
+    "a": "26 matches"
+  },
+  "WC-H-008": {
+    "q": "Who scored the most goals in a single World Cup match?",
+    "a": "Oleg Salenko, 5 goals"
+  },
+  "WC-H-009": {
+    "q": "Against which team did Oleg Salenko score five goals?",
+    "a": "Cameroon in 1994"
+  },
+  "WC-H-010": {
+    "q": "What is the highest score in a single match in World Cup history?",
+    "a": "Austria 7–5 Switzerland in 1954"
+  },
+  "WC-H-011": {
+    "q": "How many goals were scored in the match between Austria and Switzerland in 1954?",
+    "a": "12 goals"
+  },
+  "WC-H-012": {
+    "q": "Who scored the fastest famous goal in World Cup history?",
+    "a": "Hakan Sukur about 11 seconds later in 2002"
+  },
+  "WC-H-013": {
+    "q": "Against which team did Hakan Sukur score his quick goal?",
+    "a": "South Korea"
+  },
+  "WC-H-014": {
+    "q": "Which team won 10-1 over El Salvador in 1982?",
+    "a": "Hungary"
+  },
+  "WC-H-015": {
+    "q": "What was the result of Hungary and El Salvador in the 1982 World Cup?",
+    "a": "Hungary 10–1 El Salvador"
+  },
+  "WC-H-016": {
+    "q": "Who won the Golden Boot in the 1994 World Cup?",
+    "a": "Hristo Stoichkov and Oleg Salenko, 6 goals each"
+  },
+  "WC-H-017": {
+    "q": "Who won the Golden Boot in the 1990 World Cup?",
+    "a": "Salvatore Schillaci"
+  },
+  "WC-H-018": {
+    "q": "Who won the Golden Boot in the 1986 World Cup?",
+    "a": "Gary Lineker"
+  },
+  "WC-H-019": {
+    "q": "Who won the Golden Boot in the 1982 World Cup?",
+    "a": "Paolo Rossi"
+  },
+  "WC-H-020": {
+    "q": "Who won the Golden Boot in the 1978 World Cup?",
+    "a": "Mario Kempes"
+  },
+  "WC-H-021": {
+    "q": "Who won the Golden Boot in the 1974 World Cup?",
+    "a": "Gregorius Lato"
+  },
+  "WC-H-022": {
+    "q": "Who won the Golden Boot in the 1970 World Cup?",
+    "a": "Gerd Müller"
+  },
+  "WC-H-023": {
+    "q": "Who won the Golden Boot in the 1966 World Cup?",
+    "a": "Eusebio"
+  },
+  "WC-H-024": {
+    "q": "Who won the Golden Boot in the 1962 World Cup?",
+    "a": "It was shared by six players, each of whom had 4 goals"
+  },
+  "WC-H-025": {
+    "q": "Who won the Golden Boot in the 1958 World Cup?",
+    "a": "Just Fontaine"
+  },
+  "WC-H-026": {
+    "q": "Who won the Golden Boot in the 1954 World Cup?",
+    "a": "Sandor Kocsis"
+  },
+  "WC-H-027": {
+    "q": "Who won the Golden Boot in the 1950 World Cup?",
+    "a": "Ademir"
+  },
+  "WC-H-028": {
+    "q": "Who won the Golden Boot in the 1938 World Cup?",
+    "a": "Leonidas"
+  },
+  "WC-H-029": {
+    "q": "Who won the Golden Boot in the 1934 World Cup?",
+    "a": "Oldergeh Needle"
+  },
+  "WC-H-030": {
+    "q": "Who won the Golden Boot in the 1930 World Cup?",
+    "a": "Guillermo Stabile"
+  },
+  "WC-H-031": {
+    "q": "How many teams played in the opening match of the 1930 World Cup?",
+    "a": "elected; France and Mexico"
+  },
+  "WC-H-032": {
+    "q": "What was the first European country to host the World Cup?",
+    "a": "Italy in 1934"
+  },
+  "WC-H-033": {
+    "q": "Which team won two consecutive titles in 1934 and 1938?",
+    "a": "Italy"
+  },
+  "WC-H-034": {
+    "q": "Which team won two consecutive titles in 1958 and 1962?",
+    "a": "Brazil"
+  },
+  "WC-H-035": {
+    "q": "Which team won the World Cup in 1930 and 1950?",
+    "a": "Uruguay"
+  },
+  "WC-H-036": {
+    "q": "Which team won the World Cup in 1954, 1974 and 1990?",
+    "a": "West Germany"
+  },
+  "WC-H-037": {
+    "q": "Which team won the 1998 and 2018 World Cup?",
+    "a": "France"
+  },
+  "WC-H-038": {
+    "q": "Which team won the World Cup in 1970, 1994 and 2002?",
+    "a": "Brazil"
+  },
+  "WC-H-039": {
+    "q": "Which team won the World Cup in 1978 and 1986?",
+    "a": "Argentina"
+  },
+  "WC-H-040": {
+    "q": "Which country hosted the 1950 and 2014 editions?",
+    "a": "Brazil"
+  },
+  "WC-H-041": {
+    "q": "Which country hosted the 1970 and 1986 editions?",
+    "a": "Mexico"
+  },
+  "WC-H-042": {
+    "q": "Which country hosted the 1934 and 1990 editions?",
+    "a": "Italy"
+  },
+  "WC-H-043": {
+    "q": "In which major World Cup tournament was goal-line technology used for the first time?",
+    "a": "2014 World Cup in Brazil"
+  },
+  "WC-H-044": {
+    "q": "Who won the 2018 World Cup, the first edition to use VAR?",
+    "a": "France"
+  },
+  "WC-H-045": {
+    "q": "How long is each extra half?",
+    "a": "15 minutes"
+  },
+  "WC-H-046": {
+    "q": "How many first penalty kicks does each team usually take?",
+    "a": "Five kicks per team, unless the score is decided before completion"
+  },
+  "WC-H-047": {
+    "q": "Is a goal scored directly from a throw-in without touching another player?",
+    "a": "no"
+  },
+  "WC-H-048": {
+    "q": "Who scored Italy's hat-trick against Brazil in the famous 1982 match?",
+    "a": "Paolo Rossi"
+  },
+  "WC-H-049": {
+    "q": "What was the result of Italy and Brazil in the 1982 World Cup?",
+    "a": "Italy 3–2 Brazil"
+  },
+  "WC-H-050": {
+    "q": "Which team faced Italy in the 1990 semi-final?",
+    "a": "Argentina"
+  },
+  "WC-H-051": {
+    "q": "How did Argentina qualify for the 1990 final after facing Italy?",
+    "a": "She won on penalties"
+  },
+  "WC-H-052": {
+    "q": "What is the result of Germany and South Korea in the 2018 World Cup?",
+    "a": "South Korea 2–0 Germany"
+  },
+  "WC-H-053": {
+    "q": "Who won the 1994 World Cup after a scoreless final?",
+    "a": "Brazil on penalties"
+  },
+  "WC-H-054": {
+    "q": "Which team eliminated Brazil in the 2006 quarter-finals?",
+    "a": "France"
+  },
+  "WC-H-055": {
+    "q": "Which team eliminated Brazil in the 2010 quarter-finals?",
+    "a": "Holland"
+  },
+  "WC-H-056": {
+    "q": "Which team eliminated Argentina in the 2006 quarter-finals?",
+    "a": "Germany on penalties"
+  },
+  "WC-H-057": {
+    "q": "Which team beat Morocco in the third place match in 2022?",
+    "a": "Croatia"
+  },
+  "WC-H-058": {
+    "q": "How many goals were scored in the 2022 World Cup?",
+    "a": "172 goals"
+  },
+  "WC-H-059": {
+    "q": "How many matches were played in the 2022 World Cup?",
+    "a": "64 matches"
+  },
+  "WC-H-060": {
+    "q": "What is the result of the opening of the 2022 World Cup between Qatar and Ecuador?",
+    "a": "Ecuador 2–0 Qatar"
+  },
+  "WC-H-061": {
+    "q": "Who scored Ecuador's two goals in the 2022 opening match?",
+    "a": "Inner Valencia"
+  },
+  "WC-H-062": {
+    "q": "What is the result of the 2022 semi-final between Argentina and Croatia?",
+    "a": "Argentina 3-0 Croatia"
+  },
+  "WC-H-063": {
+    "q": "What is the result of the 2022 semi-final between France and Morocco?",
+    "a": "France 2–0 Morocco"
+  },
+  "WC-H-064": {
+    "q": "Who scored France's two goals in the 2022 semi-final?",
+    "a": "Theo Hernandez and Randall Colo Mwani"
+  },
+  "WC-H-065": {
+    "q": "Who scored Morocco's goal in the third place match in 2022?",
+    "a": "Ashraf Dari"
+  },
+  "WC-H-066": {
+    "q": "What is the result of the match between Argentina and Poland in the 2022 group stage?",
+    "a": "Argentina 2–0 Poland"
+  },
+  "WC-H-067": {
+    "q": "What is the result of the match between Saudi Arabia and Mexico in the 2022 group stage?",
+    "a": "Mexico 2-1 Saudi Arabia"
+  },
+  "WC-H-068": {
+    "q": "What is the result of the match between Japan and Croatia in the round of 16 in 2022 before the penalty shootout?",
+    "a": "1–1; Croatia won on penalties"
+  },
+  "WC-H-069": {
+    "q": "What is the result of the match between Morocco and Spain in the round of 16 in 2022 before the penalty shootout?",
+    "a": "0–0; Morocco won on penalties"
+  },
+  "WC-H-070": {
+    "q": "What is the result of the Brazil-Croatia match in the 2022 quarter-finals before the penalty shootout?",
+    "a": "1–1; Croatia won on penalties"
+  },
+  "WC-H-071": {
+    "q": "What is the result of the Netherlands and Argentina match in the 2022 quarter-finals before the penalty shootout?",
+    "a": "2–2; Argentina won on penalties"
+  },
+  "WC-H-072": {
+    "q": "Who scored the winning goal for Morocco over Portugal in the 2022 quarter-finals?",
+    "a": "Youssef Al-Nusairi"
+  },
+  "WC-H-073": {
+    "q": "Who scored the winning goal for Argentina over Mexico in the 2022 group stage?",
+    "a": "Lionel Messi"
+  },
+  "WC-H-074": {
+    "q": "Who scored Saudi Arabia's first goal against Argentina in 2022?",
+    "a": "Saleh Al-Shehri"
+  },
+  "WC-H-075": {
+    "q": "Who scored Saudi Arabia's second goal against Argentina in 2022?",
+    "a": "Salem Al-Dosari"
+  },
+  "WC-H-076": {
+    "q": "Which team tops Argentina's group in the 2022 World Cup?",
+    "a": "Argentina"
+  },
+  "WC-H-077": {
+    "q": "Which team beat Spain 2-1 in the 2022 group stage?",
+    "a": "Japan"
+  },
+  "WC-H-078": {
+    "q": "Which team beat Germany 2-1 in the 2022 group stage?",
+    "a": "Japan"
+  },
+  "WC-H-079": {
+    "q": "Which countries are hosting the 2026 edition?",
+    "a": "Canada, Mexico and the United States"
+  },
+  "WC-H-080": {
+    "q": "How many matches are scheduled for the 2026 edition?",
+    "a": "104 matches"
+  },
+  "WC-H-081": {
+    "q": "How many teams will be elected in the 2026 edition?",
+    "a": "48 elected"
+  },
+  "WC-H-082": {
+    "q": "What is the group system in the 2026 edition?",
+    "a": "12 groups, 4 teams in each group"
+  },
+  "WC-H-083": {
+    "q": "How many teams qualify for the round of 32 in the 2026 edition?",
+    "a": "32 elected"
+  },
+  "WC-H-084": {
+    "q": "How many goals did Pele score in World Cup finals throughout his career?",
+    "a": "12 goals"
+  },
+  "WC-H-085": {
+    "q": "Who is the player who scored 6 goals in the 2014 World Cup and won the Golden Boot?",
+    "a": "James Rodriguez"
+  },
+  "WC-H-086": {
+    "q": "Who is the player who scored 6 goals in the 2018 World Cup and won the Golden Boot?",
+    "a": "Harry Kane"
+  },
+  "WC-H-087": {
+    "q": "Who is the player who scored 5 goals in the 2010 World Cup and won the Golden Boot?",
+    "a": "Thomas Mueller"
+  },
+  "WC-H-088": {
+    "q": "Who is the player who scored 6 goals in the 2006 World Cup and won the Golden Boot?",
+    "a": "Miroslav Klose"
+  },
+  "WC-H-089": {
+    "q": "Who is the player who scored 6 goals in the 1990 World Cup and won the Golden Boot?",
+    "a": "Salvatore Schillaci"
+  },
+  "WC-H-090": {
+    "q": "Who is the player who scored 6 goals in the 1986 World Cup and won the Golden Boot?",
+    "a": "Gary Lineker"
+  },
+  "WC-H-091": {
+    "q": "Who is the player who scored 6 goals in the 1982 World Cup and won the Golden Boot?",
+    "a": "Paolo Rossi"
+  },
+  "WC-H-092": {
+    "q": "Who is the player who scored 6 goals in the 1978 World Cup and won the Golden Boot?",
+    "a": "Mario Kempes"
+  },
+  "WC-H-093": {
+    "q": "Who is the player who scored 7 goals in the 1974 World Cup and won the Golden Boot?",
+    "a": "Gregorius Lato"
+  },
+  "WC-H-094": {
+    "q": "Who was France's captain in the 1998 World Cup final?",
+    "a": "Didier Deschamps"
+  },
+  "WC-H-095": {
+    "q": "Who was Italy's captain in the 2006 World Cup final?",
+    "a": "Fabio Cannavaro"
+  },
+  "WC-H-096": {
+    "q": "Who was Germany's captain in the 2014 World Cup final?",
+    "a": "Philip Lahm"
+  },
+  "WC-H-097": {
+    "q": "Who was Spain's captain in the 2010 World Cup final?",
+    "a": "Iker Casillas"
+  },
+  "WC-H-098": {
+    "q": "In what year did Argentina win its first world title?",
+    "a": "1978"
+  },
+  "WC-H-099": {
+    "q": "In what year did France win its first world title?",
+    "a": "1998"
+  },
+  "WC-H-100": {
+    "q": "In what year did unified Germany win its world title?",
+    "a": "2014"
+  }
+}
