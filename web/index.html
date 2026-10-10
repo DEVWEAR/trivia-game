@@ -6,11 +6,15 @@
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Original Arabic and English social trivia game.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#080A14">
+  <meta name="theme-color" content="#211A20">
+  <link rel="preload" as="image" href="assets/assets/two_pics/redesign/49E75FA6-D208-4D72-AA8A-E7BBA50E31BE.png" fetchpriority="high">
+  <style>html,body{margin:0;min-height:100%;background:#211A20}#first-paint{position:fixed;inset:0;background:#211A20 url("assets/assets/two_pics/redesign/49E75FA6-D208-4D72-AA8A-E7BBA50E31BE.png") 85% center/cover no-repeat;z-index:1;pointer-events:none}#first-paint:after{content:"";position:absolute;inset:0;background:rgba(27,18,16,.46)}</style>
   <title>Trivia Game</title>
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
+  <div id="first-paint" aria-hidden="true"></div>
+  <script>window.addEventListener("flutter-first-frame",function(){var splash=document.getElementById("first-paint");if(splash)splash.remove();},{once:true});</script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
