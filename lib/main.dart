@@ -81,6 +81,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   child:Image.asset(
                     backgrounds[imageIndex],
                     fit:BoxFit.cover,
+                    alignment:const Alignment(0.75,0),
                     gaplessPlayback:true,
                     filterQuality:FilterQuality.low,
                   ),
