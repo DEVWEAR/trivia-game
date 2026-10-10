@@ -26,7 +26,7 @@ def translate(text):
             with urllib.request.urlopen(req, timeout=30) as response:
                 value = json.load(response)
             result = "".join(item[0] for item in value[0] if item[0])
-            if result.strip() and result != text:
+            if result.strip():
                 return result.strip()
             raise ValueError("Empty or untranslated result")
         except Exception as exc:
