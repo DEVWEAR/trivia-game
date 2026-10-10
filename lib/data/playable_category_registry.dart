@@ -36,7 +36,7 @@ final playableCategories = <PlayableCategory>[
   PlayableCategory('egyptian_music', '🎙️', 'أغاني مصرية', 'Egyptian Music', <TriviaQuestion>[] ),
   PlayableCategory('arabic_music', '🎼', 'أغاني عربية', 'Arabic Music', <TriviaQuestion>[] ),
   PlayableCategory('international_music', '🌎', 'أغاني أجنبية', 'International Music', <TriviaQuestion>[] ),
-  PlayableCategory('el_clasico', '⚽', 'الكلاسيكو الإسباني', 'El Clásico', elClasicoQuestions),
+  PlayableCategory('el_clasico', '⚽🇪🇸', 'الكلاسيكو الإسباني', 'El Clásico', elClasicoQuestions),
   PlayableCategory('old_school_music', '📻', 'أغاني الزمن الجميل', 'Old School Music', <TriviaQuestion>[] ),
 ];
 
