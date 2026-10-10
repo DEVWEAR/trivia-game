@@ -39,4 +39,4 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add lib/data/questions/el_clasico_questions.dart tool/imports/el_clasico_translations_en.json
-          git diff --cached --quiet || (git commit -m 'Publish 300 bilingual El Clasico questions' && git push)
+          git diff --cached --quiet || (git commit -m 'Publish 300 bilingual El Clasico questions' && (git pull --rebase origin main && git push origin HEAD:main))
