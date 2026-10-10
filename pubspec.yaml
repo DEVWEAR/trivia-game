@@ -20,6 +20,8 @@ flutter:
   uses-material-design: true
   assets:
     - assets/two_pics/redesign/
+    - el_clasico_card.jpg
+    - world_cup_card.jpg
     - 83A426BC-6461-4BD6-BB12-7877AED62765.png
     - 7E6D631D-725E-465C-86D6-3C6F57959964.png
     - 09F41FAC-F8B2-49DB-A6B4-08D1ACE61399.png
