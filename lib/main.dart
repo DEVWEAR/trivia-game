@@ -17,15 +17,29 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   int imageIndex=0;
   Timer? imageTimer;
+  bool backgroundsReady=false;
   static const backgrounds=[
     'assets/two_pics/redesign/49E75FA6-D208-4D72-AA8A-E7BBA50E31BE.png',
     'assets/two_pics/redesign/00B75360-82E5-48F2-8FAE-0C98B43D10E2.png',
   ];
   @override void initState(){
     super.initState();
-    imageTimer=Timer.periodic(const Duration(seconds:7),(_){
-      if(mounted)setState(()=>imageIndex=(imageIndex+1)%backgrounds.length);
-    });
+  }
+  @override void didChangeDependencies(){
+    super.didChangeDependencies();
+    if(backgroundsReady)return;
+    backgroundsReady=true;
+    // Decode both images before starting the carousel to prevent blank frames.
+    Future.wait(backgrounds.map((path)=>precacheImage(AssetImage(path),context)))
+      .then((_){
+        if(!mounted)return;
+        setState((){});
+        imageTimer=Timer.periodic(const Duration(seconds:7),(_){
+          if(mounted)setState(()=>imageIndex=(imageIndex+1)%backgrounds.length);
+        });
+      }).catchError((_){
+        // Leave the first image visible if loading fails; never flash the old background.
+      });
   }
   @override void dispose(){imageTimer?.cancel();super.dispose();}
   @override Widget build(BuildContext context){
@@ -45,36 +59,34 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
         body:Stack(fit:StackFit.expand,children:[
           Positioned.fill(
-            child:LayoutBuilder(builder:(context,constraints)=>ClipRect(
-              child:AnimatedSwitcher(
-                duration:const Duration(milliseconds:260),
-                switchInCurve:Curves.easeOutCubic,
-                switchOutCurve:Curves.easeInCubic,
+            child:ClipRect(
+              child:LayoutBuilder(builder:(context,constraints)=>AnimatedSwitcher(
+                duration:const Duration(milliseconds:220),
+                switchInCurve:Curves.easeOut,
+                switchOutCurve:Curves.easeIn,
                 transitionBuilder:(child,animation){
-                  final offset=Tween<Offset>(
-                    begin:const Offset(1,0),end:Offset.zero,
+                  final isIncoming=child.key==ValueKey(imageIndex);
+                  final slide=Tween<Offset>(
+                    begin:isIncoming?const Offset(1,0):Offset.zero,
+                    end:isIncoming?Offset.zero:const Offset(-1,0),
                   ).animate(animation);
-                  return SlideTransition(position:offset,child:child);
+                  return SlideTransition(position:slide,child:child);
                 },
                 layoutBuilder:(current,previous)=>Stack(
                   fit:StackFit.expand,
                   children:[...previous,if(current!=null)current],
                 ),
-                child:SizedBox(
+                child:SizedBox.expand(
                   key:ValueKey(imageIndex),
-                  width:constraints.maxWidth,
-                  height:constraints.maxHeight,
                   child:Image.asset(
                     backgrounds[imageIndex],
-                    width:constraints.maxWidth,
-                    height:constraints.maxHeight,
                     fit:BoxFit.cover,
-                    alignment:Alignment.center,
-                    errorBuilder:(_,__,___)=>const ColoredBox(color:Color(0xFF101F28)),
+                    gaplessPlayback:true,
+                    filterQuality:FilterQuality.low,
                   ),
                 ),
-              ),
-            )),
+              )),
+            ),
           ),
           const ColoredBox(color:Color(0x99051018)),
           SafeArea(
