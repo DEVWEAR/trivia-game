@@ -14,7 +14,18 @@ class HomeScreen extends StatefulWidget {
   final VoidCallback changeLanguage;
   @override State<HomeScreen> createState()=>_HomeScreenState();
 }
-class _HomeScreenState extends State<HomeScreen> {
+class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateMixin {
+  late final AnimationController slideController=AnimationController(vsync:this,duration:const Duration(milliseconds:320));
+  bool sliding=false;
+  void advanceBackground(){
+    if(!mounted||sliding||!firstFrameReady)return;
+    setState(()=>sliding=true);
+    slideController.forward(from:0).then((_){
+      if(!mounted)return;
+      setState((){imageIndex=(imageIndex+1)%backgrounds.length;sliding=false;});
+      slideController.reset();
+    });
+  }
   int imageIndex=0;
   Timer? imageTimer;
   bool backgroundsReady=false;
@@ -40,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
         .then((_){
           if(!mounted)return;
           imageTimer=Timer.periodic(const Duration(seconds:7),(_){
-            if(mounted)setState(()=>imageIndex=(imageIndex+1)%backgrounds.length);
+            advanceBackground();
           });
         }).catchError((_){
           // Keep the first image if a later image cannot be decoded.
@@ -49,7 +60,7 @@ class _HomeScreenState extends State<HomeScreen> {
       // The browser first-paint background stays visible while loading.
     });
   }
-  @override void dispose(){imageTimer?.cancel();super.dispose();}
+  @override void dispose(){imageTimer?.cancel();slideController.dispose();super.dispose();}
   @override Widget build(BuildContext context){
     final ar=widget.locale.languageCode=='ar';
     return Directionality(
@@ -69,33 +80,33 @@ class _HomeScreenState extends State<HomeScreen> {
           const ColoredBox(color:Color(0xFF211A20)),
           if(firstFrameReady) Positioned.fill(
             child:ClipRect(
-              child:LayoutBuilder(builder:(context,constraints)=>AnimatedSwitcher(
-                duration:const Duration(milliseconds:220),
-                switchInCurve:Curves.easeOut,
-                switchOutCurve:Curves.easeIn,
-                transitionBuilder:(child,animation){
-                  final isIncoming=child.key==ValueKey(imageIndex);
-                  final slide=Tween<Offset>(
-                    begin:isIncoming?const Offset(1,0):Offset.zero,
-                    end:isIncoming?Offset.zero:const Offset(-1,0),
-                  ).animate(animation);
-                  return SlideTransition(position:slide,child:child);
-                },
-                layoutBuilder:(current,previous)=>Stack(
-                  fit:StackFit.expand,
-                  children:[...previous,if(current!=null)current],
-                ),
-                child:SizedBox.expand(
-                  key:ValueKey(imageIndex),
+              child:LayoutBuilder(builder:(context,constraints){
+                final width=constraints.maxWidth;
+                Widget frame(int index)=>SizedBox(
+                  width:width+3,
+                  height:constraints.maxHeight,
                   child:Image.asset(
-                    backgrounds[imageIndex],
+                    backgrounds[index],
                     fit:BoxFit.cover,
                     alignment:const Alignment(0.75,0),
                     gaplessPlayback:true,
                     filterQuality:FilterQuality.low,
                   ),
-                ),
-              )),
+                );
+                return AnimatedBuilder(
+                  animation:slideController,
+                  builder:(context,_){
+                    final progress=Curves.easeInOutCubic.transform(slideController.value);
+                    return Stack(clipBehavior:Clip.hardEdge,children:[
+                      Positioned(left:-width*progress,top:0,bottom:0,child:frame(imageIndex)),
+                      if(sliding) Positioned(
+                        left:width*(1-progress)-3,top:0,bottom:0,
+                        child:frame((imageIndex+1)%backgrounds.length),
+                      ),
+                    ]);
+                  },
+                );
+              }),
             ),
           ),
           const ColoredBox(color:Color(0x8A1B1210)),
