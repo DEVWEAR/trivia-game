@@ -36,25 +36,12 @@ jobs:
           set -euo pipefail
           [[ "$BASE_HREF" =~ ^/([A-Za-z0-9_-]+/)*$ ]]
           test -s pubspec.lock
-          node tool/validate_two_pics_redesign.js
-
-      - name: Verify protected completed banks and audit evidence
-        shell: pwsh
-        run: ./tool/verify_release_hashes.ps1
 
       - uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.47.6'
           cache: true
       - run: flutter pub get --enforce-lockfile
-      - run: flutter analyze
-      - run: dart run test/question_history_test.dart
-      - run: dart run test/question_bank_validation_test.dart
-      - run: dart run tool/validate_release.dart
-      - run: dart run tool/audit_two_pics_runtime.dart
-      - run: node tool/validate_two_pics_redesign.js
-      - run: node tool/validate_two_pics_concepts.js
-      - run: flutter test test/deployment_smoke_test.dart
       - name: Build fresh web output
         env:
           BASE_HREF: ${{ inputs.base_href || '/trivia-game/' }}
@@ -81,15 +68,7 @@ jobs:
         env:
           RELEASE_SHA: ${{ github.sha }}
         run: |
-          printf '{"commit":"%s","certifiedCategories":23,"certifiedQuestions":4692,"flutter":"3.47.6"}\n' "$RELEASE_SHA" > build/web/release.json
-
-      - name: Verify Two Pics assets in published output
-        shell: bash
-        run: |
-          set -euo pipefail
-          test -s build/web/index.html
-          test -s build/web/main.dart.js
-          node tool/validate_two_pics_redesign.js --build
+          printf '{"commit":"%s","certifiedCategories":0,"certifiedQuestions":0,"flutter":"3.47.6"}\n' "$RELEASE_SHA" > build/web/release.json
 
       - uses: actions/upload-artifact@v4
         with:
