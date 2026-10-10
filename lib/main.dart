@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
     backgroundsReady=true;
     // Show the first portrait as soon as it is decoded; warm up the next
     // images in the background without delaying the initial screen.
-    precacheImage(const AssetImage(backgrounds[0]),context).then((_){
+    precacheImage(AssetImage(backgrounds[0]),context).then((_){
       if(!mounted)return;
       setState(()=>firstFrameReady=true);
       Future.wait(backgrounds.skip(1).map((path)=>precacheImage(AssetImage(path),context)))
