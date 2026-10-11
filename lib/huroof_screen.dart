@@ -1,5 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'data/question_model.dart';
 import 'huroof_questions_150.dart';
 
@@ -27,6 +28,21 @@ class _HuroofScreenState extends State<HuroofScreen> {
   @override void initState() {
     super.initState();
     pool = huroofQuestions;
+    _restoreProgress();
+  }
+
+  Future<void> _restoreProgress() async {
+    final prefs = await SharedPreferences.getInstance();
+    if (!mounted) return;
+    used.addAll(prefs.getStringList('huroof_used_questions_v1') ?? const <String>[]);
+    _next();
+  }
+
+  Future<void> _resetProgress() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('huroof_used_questions_v1');
+    if (!mounted) return;
+    used.clear();
     _next();
   }
 
@@ -71,6 +87,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
       revealed = false;
       used.add(q.id);
     });
+    SharedPreferences.getInstance().then((prefs) => prefs.setStringList('huroof_used_questions_v1', used.toList()));
   }
 
   @override Widget build(BuildContext context) {
@@ -84,7 +101,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
           ? Center(child: Column(mainAxisSize: MainAxisSize.min, children: [
               const Text('انتهت الأسئلة المتاحة'),
               const SizedBox(height: 16),
-              FilledButton(onPressed: () => setState(() { used.clear(); _next(); }), child: const Text('العب من جديد')),
+              FilledButton(onPressed: _resetProgress, child: const Text('العب من جديد')),
             ]))
           : LayoutBuilder(builder: (context, constraints) => SingleChildScrollView(
               padding: const EdgeInsets.all(18),
