@@ -1,4 +1,5 @@
 import 'dart:math';
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'data/question_model.dart';
@@ -24,6 +25,45 @@ class _HuroofScreenState extends State<HuroofScreen> {
   List<String> letters = [];
   Set<String> hints = {};
   bool revealed = false;
+  Timer? timer;
+  int seconds = 60;
+  bool steal = false;
+  int startingTeam = 0;
+  int scoreA = 0, scoreB = 0;
+  int? award;
+  String teamA = 'الفريق الأول', teamB = 'الفريق الثاني';
+
+  @override
+  void dispose() { timer?.cancel(); super.dispose(); }
+
+  void _startTimer(int value) {
+    timer?.cancel();
+    seconds = value;
+    timer = Timer.periodic(const Duration(seconds: 1), (t) {
+      if (!mounted) { t.cancel(); return; }
+      if (seconds > 1) { setState(() => seconds--); return; }
+      t.cancel();
+      if (!steal) {
+        setState(() { steal = true; seconds = 15; });
+        _startTimer(15);
+      } else {
+        setState(() { seconds = 0; });
+      }
+    });
+  }
+
+  void _reveal() { timer?.cancel(); setState(() => revealed = true); }
+
+  void _confirmAward() {
+    if (award == null) return;
+    setState(() {
+      if (award == 0) scoreA += current!.difficulty.points;
+      if (award == 1) scoreB += current!.difficulty.points;
+      startingTeam = 1 - startingTeam;
+    });
+    _next();
+  }
+
 
   @override void initState() {
     super.initState();
@@ -69,9 +109,11 @@ class _HuroofScreenState extends State<HuroofScreen> {
   void _next() {
     final remaining = pool.where((q) => !used.contains(q.id)).toList();
     if (remaining.isEmpty) {
+      timer?.cancel();
       setState(() { current = null; letters = []; hints = {}; });
       return;
     }
+    timer?.cancel();
     final q = remaining[random.nextInt(remaining.length)];
     final required = _initials(q.answerAr);
     // Never discard a required hint, even for a multiword answer.
@@ -85,8 +127,12 @@ class _HuroofScreenState extends State<HuroofScreen> {
       letters = chosen;
       hints = required;
       revealed = false;
+      steal = false;
+      seconds = 60;
+      award = null;
       used.add(q.id);
     });
+    _startTimer(60);
     SharedPreferences.getInstance().then((prefs) => prefs.setStringList('huroof_used_questions_v1', used.toList()));
   }
 
@@ -112,6 +158,20 @@ class _HuroofScreenState extends State<HuroofScreen> {
                     Text(widget.ar ? 'السؤال ${used.length}' : 'Question ${used.length}', style: const TextStyle(fontWeight: FontWeight.w800)),
                     Text('${q.difficulty.points}', style: const TextStyle(color: gold, fontSize: 22, fontWeight: FontWeight.w900)),
                   ]),
+                  const SizedBox(height: 12),
+                  Row(children: [
+                    Expanded(child: _scoreTile(teamA, scoreA, 0)),
+                    const SizedBox(width: 8),
+                    Expanded(child: _scoreTile(teamB, scoreB, 1)),
+                  ]),
+                  const SizedBox(height: 10),
+                  Center(child: Text(
+                    widget.ar
+                      ? (steal ? 'وقت السرقة: ${startingTeam == 0 ? teamB : teamA}' : 'دور: ${startingTeam == 0 ? teamA : teamB}')
+                      : (steal ? 'Steal turn' : 'Answer turn'),
+                    style: const TextStyle(color: gold, fontWeight: FontWeight.bold),
+                  )),
+                  Center(child: Text('$seconds', style: TextStyle(fontSize: 34, fontWeight: FontWeight.w900, color: seconds <= 10 ? Colors.redAccent : Colors.white))),
                   const SizedBox(height: 16),
                   Container(
                     constraints: const BoxConstraints(minHeight: 155),
@@ -152,14 +212,36 @@ class _HuroofScreenState extends State<HuroofScreen> {
                     ]),
                   ),
                   const SizedBox(height: 16),
-                  FilledButton(
-                    onPressed: revealed ? _next : () => setState(() => revealed = true),
-                    child: Padding(padding: const EdgeInsets.all(10), child: Text(revealed ? (widget.ar ? 'السؤال التالي' : 'Next question') : (widget.ar ? 'إظهار الإجابة' : 'Reveal answer'))),
-                  ),
+                  if (!revealed) FilledButton(
+                    onPressed: _reveal,
+                    child: Padding(padding: const EdgeInsets.all(10), child: Text(widget.ar ? 'إظهار الإجابة' : 'Reveal answer')),
+                  ) else ...[
+                    Text(widget.ar ? 'من يستحق النقاط؟' : 'Who gets the points?', textAlign: TextAlign.center),
+                    const SizedBox(height: 8),
+                    Wrap(spacing: 8, alignment: WrapAlignment.center, children: [
+                      ChoiceChip(label: Text(teamA), selected: award == 0, onSelected: (_) => setState(() => award = 0)),
+                      ChoiceChip(label: Text(teamB), selected: award == 1, onSelected: (_) => setState(() => award = 1)),
+                      ChoiceChip(label: Text(widget.ar ? 'لا أحد' : 'Neither'), selected: award == -1, onSelected: (_) => setState(() => award = -1)),
+                    ]),
+                    const SizedBox(height: 10),
+                    FilledButton(onPressed: award == null ? null : _confirmAward, child: Text(widget.ar ? 'تأكيد والانتقال للسؤال التالي' : 'Confirm & next question')),
+                  ],
                 ]),
               )),
             ))),
       ),
     );
   }
+  Widget _scoreTile(String name, int score, int team) => Container(
+    padding: const EdgeInsets.all(10),
+    decoration: BoxDecoration(
+      color: panel, borderRadius: BorderRadius.circular(12),
+      border: Border.all(color: gold.withValues(alpha: .5)),
+    ),
+    child: Column(children: [
+      Text(name, textAlign: TextAlign.center, style: const TextStyle(color: gold, fontWeight: FontWeight.bold)),
+      Text('$score', style: const TextStyle(fontSize: 24, fontWeight: FontWeight.w900)),
+    ]),
+  );
+
 }
