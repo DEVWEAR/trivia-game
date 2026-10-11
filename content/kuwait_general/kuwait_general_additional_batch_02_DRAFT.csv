@@ -1,0 +1,13 @@
+id,category,difficulty,points,questionAr,questionEn,answerAr,answerEn,reviewStatus
+"KW-DRAFT-001","kuwait","easy","200","ما اسم المطار الدولي الرئيسي في الكويت؟","What is Kuwait's main international airport?","مطار الكويت الدولي","Kuwait International Airport","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-002","kuwait","easy","200","ما اسم شركة الطيران الوطنية في الكويت؟","What is Kuwait's national airline?","الخطوط الجوية الكويتية","Kuwait Airways","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-003","kuwait","easy","200","ما اسم الجسر الذي يحمل اسم الشيخ جابر الأحمد؟","Which causeway bears Sheikh Jaber Al Ahmad's name?","جسر الشيخ جابر الأحمد الصباح","Sheikh Jaber Al Ahmad Al Sabah Causeway","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-004","kuwait","easy","200","ما اسم المكتبة الوطنية الرسمية في الكويت؟","What is Kuwait's national library called?","مكتبة الكويت الوطنية","National Library of Kuwait","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-005","kuwait","medium","400","ما اسم الهيئة المسؤولة عن استثمارات الكويت السيادية؟","Which authority manages Kuwait's sovereign investments?","الهيئة العامة للاستثمار","Kuwait Investment Authority","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-006","kuwait","medium","400","ما اسم المؤسسة الكويتية المعروفة اختصاراً بـ KFAS؟","Which Kuwaiti foundation is abbreviated KFAS?","مؤسسة الكويت للتقدم العلمي","Kuwait Foundation for the Advancement of Sciences","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-007","kuwait","medium","400","ما اسم المصفاة الكويتية الكبرى في منطقة الزور؟","Which major Kuwaiti refinery is in Al Zour?","مصفاة الزور","Al Zour Refinery","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-008","kuwait","medium","400","ما اسم أول بنك وطني تأسس في الكويت؟","Which was Kuwait's first national bank?","بنك الكويت الوطني","National Bank of Kuwait","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-009","kuwait","hard","600","في أي عام تأسست الهيئة العامة للاستثمار الكويتية؟","When was Kuwait Investment Authority established?","1982","1982","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-010","kuwait","hard","600","في أي عام تأسست مؤسسة الكويت للتقدم العلمي؟","When was Kuwait Foundation for the Advancement of Sciences established?","1976","1976","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-011","kuwait","hard","600","في أي عام تأسست شركة نفط الكويت؟","When was Kuwait Oil Company founded?","1934","1934","PENDING_FACT_AND_SEMANTIC_REVIEW"
+"KW-DRAFT-012","kuwait","hard","600","في أي عام افتُتح جسر الشيخ جابر الأحمد الصباح؟","When was Sheikh Jaber Al Ahmad Al Sabah Causeway opened?","2019","2019","PENDING_FACT_AND_SEMANTIC_REVIEW"
