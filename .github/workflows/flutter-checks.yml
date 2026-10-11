@@ -5,6 +5,9 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -14,6 +17,39 @@ jobs:
         with:
           channel: stable
           cache: true
-      - run: flutter pub get
-      - run: flutter analyze
-      - run: flutter test
+      - name: Install dependencies
+        run: flutter pub get
+      - name: Analyze Flutter
+        id: analyze
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          flutter analyze 2>&1 | tee analyze.log
+      - name: Run tests
+        id: tests
+        if: always()
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          flutter test 2>&1 | tee tests.log
+      - name: Publish failure diagnostics
+        if: always() && (steps.analyze.outcome == 'failure' || steps.tests.outcome == 'failure')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "Automated Flutter diagnostic for commit \`${GITHUB_SHA}\`."
+            echo
+            echo '### Flutter analyze'
+            echo '~~~'
+            tail -n 100 analyze.log 2>/dev/null || true
+            echo '~~~'
+            echo '### Flutter test'
+            echo '~~~'
+            tail -n 100 tests.log 2>/dev/null || true
+            echo '~~~'
+          } > diagnostics.md
+          gh issue create --title "Flutter CI failure diagnostics ${GITHUB_SHA:0:7}" --body-file diagnostics.md || true
+      - name: Fail on analyzer or test errors
+        if: always() && (steps.analyze.outcome == 'failure' || steps.tests.outcome == 'failure')
+        run: exit 1
