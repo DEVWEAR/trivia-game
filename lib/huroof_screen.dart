@@ -57,6 +57,41 @@ class _HuroofScreenState extends State<HuroofScreen> {
 
   void _reveal() { timer?.cancel(); setState(() => revealed = true); }
 
+  void _beginSteal() {
+    if (revealed || steal) return;
+    setState(() { steal = true; clockFinished = false; seconds = 15; });
+    _startTimer(15);
+  }
+
+  Future<void> _editTeams() async {
+    final first = TextEditingController(text: teamA);
+    final second = TextEditingController(text: teamB);
+    try {
+      final updated = await showDialog<bool>(
+        context: context,
+        builder: (dialogContext) => AlertDialog(
+          title: Text(widget.ar ? 'أسماء الفريقين' : 'Team names'),
+          content: Column(mainAxisSize: MainAxisSize.min, children: [
+            TextField(controller: first, maxLength: 24, decoration: InputDecoration(labelText: widget.ar ? 'الفريق الأول' : 'Team one')),
+            TextField(controller: second, maxLength: 24, decoration: InputDecoration(labelText: widget.ar ? 'الفريق الثاني' : 'Team two')),
+          ]),
+          actions: [
+            TextButton(onPressed: () => Navigator.pop(dialogContext, false), child: Text(widget.ar ? 'إلغاء' : 'Cancel')),
+            FilledButton(onPressed: () => Navigator.pop(dialogContext, true), child: Text(widget.ar ? 'حفظ' : 'Save')),
+          ],
+        ),
+      );
+      if (!mounted || updated != true) return;
+      setState(() {
+        if (first.text.trim().isNotEmpty) teamA = first.text.trim();
+        if (second.text.trim().isNotEmpty) teamB = second.text.trim();
+      });
+    } finally {
+      first.dispose();
+      second.dispose();
+    }
+  }
+
   void _confirmAward() {
     if (award == null || current == null) return;
     setState(() {
@@ -147,12 +182,22 @@ class _HuroofScreenState extends State<HuroofScreen> {
       textDirection: widget.ar ? TextDirection.rtl : TextDirection.ltr,
       child: Scaffold(
         backgroundColor: bg,
-        appBar: AppBar(title: Text(widget.ar ? 'تحدي الحروف' : 'Letter Challenge')),
+        appBar: AppBar(title: Text(widget.ar ? 'تحدي الحروف' : 'Letter Challenge'), actions: [IconButton(tooltip: widget.ar ? 'تعديل أسماء الفرق' : 'Edit team names', onPressed: _editTeams, icon: const Icon(Icons.edit_outlined))]),
         body: SafeArea(child: loading ? const Center(child: CircularProgressIndicator()) : q == null
           ? Center(child: Column(mainAxisSize: MainAxisSize.min, children: [
               Text(widget.ar ? 'انتهت أسئلة هذا المستوى' : 'No questions remaining at this level'),
               const SizedBox(height: 16),
-              FilledButton(onPressed: _resetProgress, child: Text(widget.ar ? 'إعادة جميع الأسئلة' : 'Reset questions')),
+              OutlinedButton(onPressed: () async {
+                final confirmed = await showDialog<bool>(context: context, builder: (dialogContext) => AlertDialog(
+                  title: Text(widget.ar ? 'إعادة الأسئلة؟' : 'Reset questions?'),
+                  content: Text(widget.ar ? 'ستظهر أسئلة سبق لعبها. هل تريد المتابعة؟' : 'Previously played questions may appear again. Continue?'),
+                  actions: [
+                    TextButton(onPressed: () => Navigator.pop(dialogContext, false), child: Text(widget.ar ? 'إلغاء' : 'Cancel')),
+                    FilledButton(onPressed: () => Navigator.pop(dialogContext, true), child: Text(widget.ar ? 'تأكيد' : 'Confirm')),
+                  ],
+                ));
+                if (confirmed == true && mounted) await _resetProgress();
+              }, child: Text(widget.ar ? 'إعادة جميع الأسئلة' : 'Reset questions')),
               const SizedBox(height: 12),
               _difficultyPicker(),
             ]))
@@ -182,6 +227,13 @@ class _HuroofScreenState extends State<HuroofScreen> {
                   )),
                   Center(child: Text('$seconds', style: TextStyle(fontSize: 34, fontWeight: FontWeight.w900, color: seconds <= 10 ? Colors.redAccent : Colors.white))),
                   if (clockFinished && !revealed) Center(child: Text(widget.ar ? 'انتهى وقت الفريقين' : 'Both turns ended', style: const TextStyle(color: Colors.orangeAccent))),
+                  if (!steal && !revealed) ...[
+                    const SizedBox(height: 6),
+                    Center(child: OutlinedButton(
+                      onPressed: _beginSteal,
+                      child: Text(widget.ar ? 'انتقال الدور للفريق الثاني (15 ثانية)' : 'Pass to other team (15 seconds)'),
+                    )),
+                  ],
                   const SizedBox(height: 16),
                   Container(
                     constraints: const BoxConstraints(minHeight: 155),
