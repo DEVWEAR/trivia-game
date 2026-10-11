@@ -30,6 +30,8 @@ class _HuroofScreenState extends State<HuroofScreen> {
   bool steal = false;
   int startingTeam = 0;
   int scoreA = 0, scoreB = 0;
+  bool loading = true;
+  bool clockFinished = false;
   int? award;
   String teamA = 'الفريق الأول', teamB = 'الفريق الثاني';
 
@@ -47,7 +49,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
         setState(() { steal = true; seconds = 15; });
         _startTimer(15);
       } else {
-        setState(() { seconds = 0; });
+        setState(() { seconds = 0; clockFinished = true; });
       }
     });
   }
@@ -55,7 +57,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
   void _reveal() { timer?.cancel(); setState(() => revealed = true); }
 
   void _confirmAward() {
-    if (award == null) return;
+    if (award == null || current == null) return;
     setState(() {
       if (award == 0) scoreA += current!.difficulty.points;
       if (award == 1) scoreB += current!.difficulty.points;
@@ -74,6 +76,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
   Future<void> _restoreProgress() async {
     final prefs = await SharedPreferences.getInstance();
     if (!mounted) return;
+    loading = false;
     used.addAll(prefs.getStringList('huroof_used_questions_v1') ?? const <String>[]);
     _next();
   }
@@ -129,6 +132,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
       revealed = false;
       steal = false;
       seconds = 60;
+      clockFinished = false;
       award = null;
       used.add(q.id);
     });
@@ -143,7 +147,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
       child: Scaffold(
         backgroundColor: bg,
         appBar: AppBar(title: Text(widget.ar ? 'تحدي الحروف' : 'Letter Challenge')),
-        body: SafeArea(child: q == null
+        body: SafeArea(child: loading ? const Center(child: CircularProgressIndicator()) : q == null
           ? Center(child: Column(mainAxisSize: MainAxisSize.min, children: [
               const Text('انتهت الأسئلة المتاحة'),
               const SizedBox(height: 16),
@@ -172,6 +176,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
                     style: const TextStyle(color: gold, fontWeight: FontWeight.bold),
                   )),
                   Center(child: Text('$seconds', style: TextStyle(fontSize: 34, fontWeight: FontWeight.w900, color: seconds <= 10 ? Colors.redAccent : Colors.white))),
+                  if (clockFinished && !revealed) Center(child: Text(widget.ar ? 'انتهى وقت الفريقين' : 'Both turns ended', style: const TextStyle(color: Colors.orangeAccent))),
                   const SizedBox(height: 16),
                   Container(
                     constraints: const BoxConstraints(minHeight: 155),
