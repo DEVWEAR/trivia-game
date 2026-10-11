@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'data/question_model.dart';
-import 'data/playable_category_registry.dart';
+import 'huroof_questions_150.dart';
 
 /// Ten-letter hint mode. The first written character of EVERY answer word
 /// is highlighted, including the definite article (e.g. نهر النيل => ن، ا).
@@ -26,10 +26,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
 
   @override void initState() {
     super.initState();
-    // Temporary playable pool; the uploaded 150-question spreadsheet still
-    // needs to be imported as its own reviewed question bank.
-    pool = playableCategories.expand((c) => c.questions).where((q) =>
-      q.answerAr.trim().isNotEmpty && q.questionAr.trim().isNotEmpty).toList();
+    pool = huroofQuestions;
     _next();
   }
 
