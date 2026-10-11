@@ -23,7 +23,7 @@ const triviaCategories = <TriviaCategory>[
   TriviaCategory(id: 'uae_general', emoji: '🇦🇪', ar: 'الإمارات', en: 'UAE', group: 'culture'),
   TriviaCategory(id: 'uae_heritage', emoji: '🏜️', ar: 'تراث الإمارات', en: 'UAE Heritage', group: 'culture'),
   TriviaCategory(id: 'gulf_culture', emoji: '🌴', ar: 'الثقافة الخليجية', en: 'Gulf Culture', group: 'culture'),
-  TriviaCategory(id: 'kuwait_general', emoji: '🇰🇼', ar: 'الكويت', en: 'Kuwait', group: 'culture'),
+  TriviaCategory(id: 'kuwait_general', emoji: '🇰🇼', ar: 'الكويت', en: 'Kuwait', group: 'culture', totalQuestions: 300),
   TriviaCategory(id: 'saudi_general', emoji: '🇸🇦', ar: 'السعودية', en: 'Saudi Arabia', group: 'culture'),
 
   // Football — deliberately split by audience interest
