@@ -30,6 +30,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
   bool steal = false;
   int startingTeam = 0;
   int scoreA = 0, scoreB = 0;
+  QuestionDifficulty selectedDifficulty = QuestionDifficulty.easy200;
   bool loading = true;
   bool clockFinished = false;
   int? award;
@@ -110,7 +111,7 @@ class _HuroofScreenState extends State<HuroofScreen> {
   }
 
   void _next() {
-    final remaining = pool.where((q) => !used.contains(q.id)).toList();
+    final remaining = pool.where((q) => !used.contains(q.id) && q.difficulty == selectedDifficulty).toList();
     if (remaining.isEmpty) {
       timer?.cancel();
       setState(() { current = null; letters = []; hints = {}; });
@@ -149,9 +150,11 @@ class _HuroofScreenState extends State<HuroofScreen> {
         appBar: AppBar(title: Text(widget.ar ? 'تحدي الحروف' : 'Letter Challenge')),
         body: SafeArea(child: loading ? const Center(child: CircularProgressIndicator()) : q == null
           ? Center(child: Column(mainAxisSize: MainAxisSize.min, children: [
-              const Text('انتهت الأسئلة المتاحة'),
+              Text(widget.ar ? 'انتهت أسئلة هذا المستوى' : 'No questions remaining at this level'),
               const SizedBox(height: 16),
-              FilledButton(onPressed: _resetProgress, child: const Text('العب من جديد')),
+              FilledButton(onPressed: _resetProgress, child: Text(widget.ar ? 'إعادة جميع الأسئلة' : 'Reset questions')),
+              const SizedBox(height: 12),
+              _difficultyPicker(),
             ]))
           : LayoutBuilder(builder: (context, constraints) => SingleChildScrollView(
               padding: const EdgeInsets.all(18),
@@ -162,6 +165,8 @@ class _HuroofScreenState extends State<HuroofScreen> {
                     Text(widget.ar ? 'السؤال ${used.length}' : 'Question ${used.length}', style: const TextStyle(fontWeight: FontWeight.w800)),
                     Text('${q.difficulty.points}', style: const TextStyle(color: gold, fontSize: 22, fontWeight: FontWeight.w900)),
                   ]),
+                  const SizedBox(height: 12),
+                  _difficultyPicker(),
                   const SizedBox(height: 12),
                   Row(children: [
                     Expanded(child: _scoreTile(teamA, scoreA, 0)),
@@ -237,6 +242,19 @@ class _HuroofScreenState extends State<HuroofScreen> {
       ),
     );
   }
+  Widget _difficultyPicker() => Wrap(
+    alignment: WrapAlignment.center, spacing: 8, runSpacing: 6,
+    children: QuestionDifficulty.values.map((difficulty) => ChoiceChip(
+      label: Text('${difficulty.points}'),
+      selected: selectedDifficulty == difficulty,
+      onSelected: (_) {
+        if (selectedDifficulty == difficulty) return;
+        selectedDifficulty = difficulty;
+        _next();
+      },
+    )).toList(),
+  );
+
   Widget _scoreTile(String name, int score, int team) => Container(
     padding: const EdgeInsets.all(10),
     decoration: BoxDecoration(
