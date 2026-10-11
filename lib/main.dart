@@ -4,6 +4,7 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'game_board.dart';
+import 'huroof_screen.dart';
 import 'data/playable_category_registry.dart';
 
 void main() => runApp(const TriviaGameApp());
@@ -130,6 +131,12 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                     label:Text(ar?'ابدأ التحدي':'Start the challenge'),
                   ),
                 ]),
+              ),
+              const SizedBox(height:12),
+              OutlinedButton.icon(
+                onPressed:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>HuroofScreen(ar:ar))),
+                icon:const Icon(Icons.abc_rounded),
+                label:Text(ar?'تحدي الحروف • 10 حروف':'Letter Challenge • 10 letters'),
               ),
               const SizedBox(height:28),
               Text(ar?'شرح اللعبة:':'How to play:',
